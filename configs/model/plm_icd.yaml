@@ -1,4 +1,0 @@
-name: PLMICD
-configs:
-  model_path: /path/to/RoBERTa-base-PM-M3-Voc-hf
-

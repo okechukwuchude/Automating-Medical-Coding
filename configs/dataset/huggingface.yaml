@@ -1,3 +1,0 @@
-name: HuggingfaceDataset
-configs: 
-  chunk_size: 128
