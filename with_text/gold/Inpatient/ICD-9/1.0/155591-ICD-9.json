@@ -1,0 +1,77 @@
+{
+  "hadm_id": 155591,
+  "comment": "Upper Endoscopy- Need OP note to Validate PCS",
+  "notes": [
+    {
+      "note_id": 25846,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 382,
+          "end": 391,
+          "code": "571.2",
+          "code_system": "ICD-9-CM",
+          "description": "Alcoholic cirrhosis of liver",
+          "type": "Human",
+          "covered_text": "cirrhosis"
+        },
+        {
+          "begin": 416,
+          "end": 427,
+          "code": "537.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified disorders of stomach and duodenum",
+          "type": "Human",
+          "covered_text": "gastropathy"
+        },
+        {
+          "begin": 432,
+          "end": 450,
+          "code": "456.21",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal varices in diseases classified elsewhere, without mention of bleeding",
+          "type": "Human",
+          "covered_text": "grade I esophageal"
+        },
+        {
+          "begin": 1417,
+          "end": 1419,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 1420,
+          "end": 1432,
+          "code": "729.1",
+          "code_system": "ICD-9-CM",
+          "description": "Mylagia and myositis, unspecified",
+          "type": "Human",
+          "covered_text": "Fibromyalgia"
+        },
+        {
+          "begin": 2868,
+          "end": 2874,
+          "code": "572.3",
+          "code_system": "ICD-9-CM",
+          "description": "Portal hypertension",
+          "type": "Human",
+          "covered_text": "portal"
+        },
+        {
+          "begin": 5207,
+          "end": 5221,
+          "code": "578.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hemorrhage of gastrointestinal tract, unspecified",
+          "type": "Human",
+          "covered_text": "Upper GI Bleed"
+        }
+      ],
+      "text": "Admission Date:  [**2119-1-5**]              Discharge Date:   [**2119-1-6**]\n\nDate of Birth:  [**2064-5-4**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nLipitor / Ultram\n\nAttending:[**Last Name (NamePattern4) 290**]\nChief Complaint:\nMelena\n\nMajor Surgical or Invasive Procedure:\nUpper Endoscopy\n\nHistory of Present Illness:\nMr. [**Known lastname 23189**] is a 54M with DM, cirrhosis c/b portal hypertensive\ngastropathy and grade I esophageal varices who presents with\nmelena x2-3 days. Seem by PCP, [**Name Initial (NameIs) **]+ on exam.\n\nHe initially had constipation, no diarrhea, hematochezia,\nhemoptysis or coffee-ground emesis. He has mid-abdominal\nnon-radiating \"gassy\" and \"burning\" discomfort x months which\nhas been nonprogressive. He denies any recent EtoH or NSAID use.\nHe did recently have a URI with nasal congestion and sore\nthroat. He did take 81mg ASA x2 for a headache. No prior GIB.\nFelt a little lightheaded today, slightly thirsty. No fever,\nchills, sweats. No confusion.\n\nIn the ED, 97.6 108 139/77 18 99 RA. On rectal had black stool\nguiac+. Has 16 and 18 PIVs. Received 40mg IV protonix, 50mcg\noctreotide bolus then 50mcg/hr drip. Discussed with liver, plan\nto scope tonight. In the ED, no further gross bleeding and BPs\nhave been stable. Currently 103 133/70 16 100% on RA.\n\n\nPast Medical History:\nDecompensated EtOH cirrhosis\n- c/b Esophageal varices, grade 1 on [**2118-5-25**] EGD\nDM\nFibromyalgia\n\nSocial History:\nLast drink 10months ago. Current smoker 1ppd x20+ years. Denies\nillicit drug use.\n\nFamily History:\nMultiple family members with DM. No bleeding problems or [**Name2 (NI) 499**]\nCA.\n\nPhysical Exam:\nVitals 98.3 96 119/66 18 99RA\nGeneral Pleasant middle aged man in no distress\nHEENT Sclera anicteric, MMM\nNeck No JVD\nPulm Lungs with poor air movement at bases, occasional wheeze\nCV Tachycardic regular S1 S2 no m/r/g\nAbd Soft nontender +bowel sounds +hepatomegaly\nExtrem Warm no edema full peripheral pulses\nDerm +palmar erythema and spider angiomas\nNeuro Alert and awake, no asterixis\n\nPertinent Results:\n[**2119-1-6**] 03:17AM BLOOD WBC-5.7 RBC-3.22* Hgb-10.7* Hct-29.5*\nMCV-92 MCH-33.1* MCHC-36.2* RDW-15.3 Plt Ct-211\n[**2119-1-6**] 11:12AM BLOOD Hct-33.7*\n[**2119-1-6**] 03:17AM BLOOD PT-13.6* PTT-40.5* INR(PT)-1.2*\n[**2119-1-6**] 03:17AM BLOOD Glucose-138* UreaN-7 Creat-0.7 Na-139\nK-3.5 Cl-107 HCO3-27 AnGap-9\n[**2119-1-5**] 02:12PM BLOOD ALT-44* AST-55* AlkPhos-197* TotBili-0.6\n[**2119-1-5**] 05:26PM BLOOD Calcium-9.2 Phos-3.1 Mg-2.2\n\nCXR [**2119-1-5**]:\nFINDINGS: No previous images. The cardiac silhouette is within\nnormal limits and there is no vascular congestion or pleural\neffusion. No evidence of acute pneumonia. Tracheal air column\nappears to be within normal limits.\n\nUpper Endoscopy [**2119-1-6**]:\nImpression: Grade II esophagael varices.\nErythema and petechiae in the stomach body compatible with\nportal gastropathy. Otherwise normal EGD to third part of the\nduodenum\n\nRecommendations: Start nadolol 20 mg once a day.\nPrilosec 20 mg once a day.\nBleeding likely secondary to portal gastropathy; no active\nbleeding at present.\n\n\nBrief Hospital Course:\nA 54 year old man with a history of alcohol cirrhosis & varices\npresented with hemodynamically stable melena.\n\n1. Melena:  The patient was started on Protonix IV & Octreotide\ndrip while in the emergency room. He remained hemodynamically\nstable throughout his admission to the MICU. Endoscopy per GI\nshow erosive gastropathy currently healing, likely exacerbated\nby recent aspiring ingestion.  GI was comfortable with his\ndischarge on Nadolol & Prilosec with follow up.\n\n2. Cirrhosis with ascites: Patient was started on Ceftriaxone\nfor Spontaneous Bacterial Peritonitis prophylaxis.  He remained\ncogent without signs of encephalopathy.  His aldactone was held\nwhile admitted due to bleeding concern.\n\n3. Diabetes Mellitus:  Patient was contined on home insulin.\n\n4. History of alcohol abuse:  Patient denies recent use.\n\nMedications on Admission:\nInsulin Sliding Scale\nNPH 80 units qam and qpm\nIpratropium Bromide MDI 2 PUFF IH QID PRN\nLidocaine 5% Patch 1 PTCH TD DAILY\nAlbuterol Inhaler [**12-30**] PUFF IH Q4H:PRN\nUrsodiol 300 mg PO TID\nCholestyramine 4 gm PO DAILY\nZolpidem Tartrate 5 mg PO HS:PRN\n\n\nDischarge Medications:\n1. Cholestyramine-Sucrose 4 gram Packet Sig: One (1) Packet PO\nDAILY (Daily).\n2. Combivent 18-103 mcg/Actuation Aerosol Sig: Two (2) puffs\nInhalation three times a day as needed for shortness of breath\nor wheezing.\n3. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:\nOne (1) Adhesive Patch, Medicated Topical DAILY (Daily).\n4. Ursodiol 300 mg Capsule Sig: One (1) Capsule PO TID (3 times\na day).\n5. Nadolol 20 mg Tablet Sig: One (1) Tablet PO once a day.\nDisp:*30 Tablet(s)* Refills:*2*\n6. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO once a day.\nDisp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*\n7. Ambien 5 mg Tablet Sig: One (1) Tablet PO at bedtime as\nneeded for insomnia.\n8. Aldactone 50 mg Tablet Sig: One (1) Tablet PO once a day.\n9. Insulin NPH Human Recomb 100 unit/mL Cartridge Sig: Eighty\nFive (85) Units Subcutaneous qam & qpm.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\n1. Upper GI Bleed, not hemodynamically significant\n2. Cirrhosis\n3. Portal Hypertension\n\nDischarge Condition:\nHemodynamically stable & comfortable\n\nDischarge Instructions:\nYou have been admitted to the hospital because of dark stools\nthat were caused by a small bleed in your belly.  While you were\nhere the GI doctors looked with [**Name5 (PTitle) **] endoscope and found the site\nof old bleeding that is now healed.  It is likely that the\naspirin and aleve that you recently tried for pain may have\ncontributed to this bleed.  In the future, please take only\ntylenol for headaches, and then no more than 8 pills or 2 grams\nin a day.\n\nPlease call your doctor or 911 for worsening stomach\npain/bleeding, chest pain, shortness of breath or any other\nmedical concern.\n\nNew Medicines:\nYour GI doctors would [**Name5 (PTitle) **] [**Name5 (PTitle) **] to take:\nNadolol 20mg by mouth daily to prevent bleeds.\nPrilosec 20mg by mouth daily to prevent bleeds.\n\nFollowup Instructions:\nProvider: [**Name10 (NameIs) **] [**Last Name (NamePattern4) 2424**], MD Phone:[**Telephone/Fax (1) 2422**]\nDate/Time:[**2119-1-19**] 10:15\n\n\n                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]\n\n"
+    }
+  ]
+}

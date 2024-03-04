@@ -1,0 +1,121 @@
+{
+  "hadm_id": 107734,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 553672,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 2925,
+          "end": 2936,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "BRADYCARDIA"
+        }
+      ],
+      "text": "Chief Complaint:\n   24 Hour Events:\n URINE CULTURE - At [**2200-1-15**] 01:30 AM\n   -Blood sugar stable overnight\n   -Troponin elevated but stable at 0.14\n   - Bradycardic to high 30s low 40s after Metoprolol administration\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Dextrose 50% - [**2200-1-15**] 03:30 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2200-1-15**] 07:20 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.6\nC (99.6\n   Tcurrent: 37\nC (98.6\n   HR: 44 (44 - 95) bpm\n   BP: 144/50(76) {123/50(71) - 190/74(95)} mmHg\n   RR: 14 (11 - 18) insp/min\n   SpO2: 100%\n   Heart rhythm: SB (Sinus Bradycardia)\n   Wgt (current): 48 kg (admission): 48 kg\n   Height: 72 Inch\n             Total In:\n                                                                    178 mL\n                                                                  1,147 mL\n   PO:\n             TF:\n   IVF:\n                                                                    178 mL\n                                                                  1,097 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                    575 mL\n   Urine:\n   575 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    178 mL\n                                                                    572 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 100%\n   ABG: ///31/\n   Physical Examination\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Skin:  Not assessed\n   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   220 K/uL\n   10.1 g/dL\n   48 mg/dL\n   2.8 mg/dL\n   31 mEq/L\n   4.7 mEq/L\n   58 mg/dL\n   100 mEq/L\n   134 mEq/L\n   28.6 %\n   4.7 K/uL\n        [image002.jpg]\n                             [**2200-1-15**]  03:06 AM\n   WBC\n   4.7\n   Hct\n   28.6\n   Plt\n   220\n   Cr\n   2.8\n   TropT\n   0.14\n   Glucose\n   48\n   Other labs: PT / PTT / INR:14.3/39.1/1.2, CK / CKMB /\n   Troponin-T:65//0.14, ALT / AST:13/27, Alk Phos / T Bili:160/0.6, Lactic\n   Acid:1.3 mmol/L, Albumin:3.1 g/dL, Ca++:12.5 mg/dL, Mg++:2.2 mg/dL,\n   PO4:3.9 mg/dL\n   Imaging: [**1-14**] CXR: IMPRESSION: No acute cardiopulmonary abnormality.\n   [**1-15**] Head CT: No acute intercranial Hemorrhage\n   Microbiology: BCx UCx pending\n   Assessment and Plan\n BRADYCARDIA\n .H/O RESPIRATORY FAILURE, CHRONIC\n DIABETES MELLITUS (DM), TYPE II\n HYPERTENSION, MALIGNANT (HYPERTENSIVE CRISIS, HYPERTENSIVE EMERGENCY)\n HYPOGLYCEMIA\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   20 Gauge - [**2200-1-14**] 10:36 PM\n   22 Gauge - [**2200-1-14**] 10:37 PM\n   Prophylaxis:\n   DVT: SQ UF Heparin(Systemic anticoagulation: None)\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition:ICU\n"
+    },
+    {
+      "note_id": 51487,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 275,
+          "end": 287,
+          "code": "E11.649",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with hypoglycemia without coma",
+          "type": "Human",
+          "covered_text": "hypoglycemia"
+        },
+        {
+          "begin": 289,
+          "end": 309,
+          "code": "I16.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive urgency",
+          "type": "Human",
+          "covered_text": "hypertensive urgency"
+        },
+        {
+          "begin": 417,
+          "end": 420,
+          "code": "N18.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CRI"
+        },
+        {
+          "begin": 423,
+          "end": 426,
+          "code": "I12.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 716,
+          "end": 735,
+          "code": "Z91.19",
+          "code_system": "ICD-10-CM",
+          "description": "Patient's noncompliance with other medical treatment and regimen",
+          "type": "Human",
+          "covered_text": "poor med compliance"
+        },
+        {
+          "begin": 10253,
+          "end": 10266,
+          "code": "E83.52",
+          "code_system": "ICD-10-CM",
+          "description": "Hypercalcemia",
+          "type": "Human",
+          "covered_text": "Hypercalcemia"
+        },
+        {
+          "begin": 10942,
+          "end": 10972,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute on Chronic Renal Failure"
+        },
+        {
+          "begin": 11169,
+          "end": 11197,
+          "code": "N30.00",
+          "code_system": "ICD-10-CM",
+          "description": "Acute cystitis without hematuria",
+          "type": "Human",
+          "covered_text": "Acute uncomplicated cystitis"
+        },
+        {
+          "begin": 11441,
+          "end": 11455,
+          "code": "E04.1",
+          "code_system": "ICD-10-CM",
+          "description": "Nontoxic single thyroid nodule",
+          "type": "Human",
+          "covered_text": "Thyroid nodule"
+        },
+        {
+          "begin": 14010,
+          "end": 14035,
+          "code": "D63.1",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia in chronic kidney disease",
+          "type": "Human",
+          "covered_text": "Anemia of chronic disease"
+        }
+      ],
+      "text": "Admission Date:  [**2200-1-14**]              Discharge Date:   [**2200-1-24**]\n\nDate of Birth:  [**2120-4-7**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 3283**]\nChief Complaint:\nhypoglycemia, hypertensive urgency\n\nMajor Surgical or Invasive Procedure:\nNone\n\nHistory of Present Illness:\n79 y/o F with PMHx of type II DM, CRI & HTN who presented to\nclinic today for follow up of elevated creatinine and was found\nto be profoundly hypoglycemic with BS of 20 that did not improve\nwith po trial. Per family, pt has not been taking much po for\nthe last few days and has been complaining of fatigue. She has a\nlong history of poor med compliance and has been living with her\ndaugter for the last 2 months who has been managing her\nmedications. Pt was seen in clinic on [**2200-1-2**] and was noted to\nbe increasingly hypertensive, for which Lisinopril was increased\nto 40mg daily. Follow up labs were notable for a progressive\nrise in creatinine from 1.5 to 2.9. During this time, Lisinopril\nwas stopped and Glipizide was increased to 15mg [**Hospital1 **]. Pt denies\nhaving low BS at home and reports decreased appetite and dark\nurine. Per family, there were no significant changes in MS prior\nto presenting to clinic today. Pt received some juice prior to\ntransfer to the ED.\n.\nVS on arrival to ED: T 97.8 BP 194/90 HR 56 RR 18 Sat 100% on\nRA. BS on arrival was noted to be 35, she received a total of\n2.5 amps of dextrose, Glucagon, Octreotide 50mcg, 1L of NS and\nstarted on D5 1/2 NS for BS that would transiently come up above\n100 and then fall back to 40s. EKGs were essentially unchanged\nand CXR was clear. Pt was given Hydralazine 50mg X 1 po for sbp\nin 200s, followed by Hydralazine 10mg IV. SBPs came down to 170s\nprior to transfer.\n.\nOn arrival to the ICU, pt was responding slowly but denying any\nchest pain, shortness of breath, abdominal pain, nausea,\nheadache, fevers, chills and feels generally improved since\narrival to the ED.\n.\nReview of sytems:\n+ recent wt loss of 15 lbs, decreased appetite and dark yellow\nurine\n.\nDenies fever, chills, headache, sinus tenderness, rhinorrhea or\ncongestion, shortness of breath, chest pain, nausea, vomiting,\ndiarrhea, constipation or abdominal pain. No recent change in\nbowel or bladder habits. No dysuria.\n\n\nPast Medical History:\nDM II\nHTN\nThyroid Nodule\nAnemia\nBilateral Cataracts\ns/p TAH\n\n\nSocial History:\nThe patient currently lives with her daughter [**Name (NI) **] in [**Name (NI) 2268**].\nThe patient is reported at baseline to be completely independent\nin all ADL, she currently works a 40 hour work week in the [**Hospital1 18**]\nlab cleaning glassware, etc.\nTobacco: None\nETOH: None\nIllicits: None\n\n\nFamily History:\nNC\n\nPhysical Exam:\nADMISSION PHYSICAL EXAM:\nVitals: T:99.6 BP:178/69 P:95 R:14 O2:100% on RA\nGeneral: responsive but sleepy, oriented to day and \"shakiro\"\nonly\nHEENT: Sclera anicteric, pupils enlarged bilaterally s/p\ncataract surgery, oropharynx clear, MM dry, no precervical LN\nNeck: supple, JVP not elevated\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: RRR, harsh gr 3 SEM loudest over LUSB, radiates through\nprecordium and to left carotid, S2 preserved, no rubs or gallops\n\nAbdomen: soft, non-tender, mildly distended, bowel sounds\npresent, no rebound tenderness or guarding, no HSM\nExt: Warm, well perfused, 2+ distal pulses, no edema\nNeuro: CN 2-12 grossly intact, strength 5/5 in all four\nextremities, finger to nose very slow, not following directions\neasily and mildly disoriented, gait not assessed.\n\n\nPertinent Results:\nAdmission Labs:\n[**2200-1-14**] 05:00PM BLOOD WBC-7.0 RBC-4.57 Hgb-12.8 Hct-37.8 MCV-83\nMCH-28.0 MCHC-34.0 RDW-14.2 Plt Ct-249\n[**2200-1-15**] 03:06AM BLOOD PT-14.3* PTT-39.1* INR(PT)-1.2*\n[**2200-1-14**] 05:00PM BLOOD Glucose-102 UreaN-64* Creat-3.0* Na-138\nK-4.1 Cl-96 HCO3-30 AnGap-16\n[**2200-1-15**] 03:06AM BLOOD ALT-13 AST-27 CK(CPK)-65 AlkPhos-160*\nTotBili-0.6\n[**2200-1-15**] 03:06AM BLOOD TotProt-6.4 Albumin-3.1* Globuln-3.3\nCalcium-12.5* Phos-3.9 Mg-2.2\n[**2200-1-14**] 05:03PM BLOOD Lactate-2.2*\n[**2200-1-17**] 01:00AM BLOOD WBC-4.2 RBC-3.44* Hgb-9.9* Hct-28.3*\nMCV-82 MCH-28.9 MCHC-35.1* RDW-14.1 Plt Ct-190\n[**2200-1-17**] 01:00AM BLOOD Glucose-129* UreaN-47* Creat-2.7* Na-135\nK-3.4 Cl-103 HCO3-25 AnGap-10\n[**2200-1-15**] 03:06AM BLOOD ALT-13 AST-27 CK(CPK)-65 AlkPhos-160*\nTotBili-0.6\n[**2200-1-14**] 05:00PM BLOOD CK-MB-4 cTropnT-0.13*\n[**2200-1-15**] 03:06AM BLOOD CK-MB-NotDone cTropnT-0.14*\n[**2200-1-15**] 03:06AM BLOOD TotProt-6.4 Albumin-3.1* Globuln-3.3\nCalcium-12.5* Phos-3.9 Mg-2.2\n[**2200-1-15**] 04:00PM BLOOD Calcium-12.7* Phos-4.0 Mg-2.0\n[**2200-1-17**] 08:40AM BLOOD Calcium-11.0* Phos-3.5 Mg-1.8\n[**2200-1-17**] 01:00AM BLOOD Albumin-2.8* Calcium-11.5* Phos-3.7\nMg-1.9\n[**2200-1-16**] 06:15AM BLOOD calTIBC-259* Ferritn-248* TRF-199*\n[**2200-1-16**] 03:58PM BLOOD PTH-12*\n[**2200-1-17**] 01:40AM BLOOD freeCa-1.51*\n\n[**1-15**] TTE\nThe left atrium is moderately dilated. The estimated right\natrial pressure is 10-20mmHg. There is moderate symmetric left\nventricular hypertrophy. The left ventricular cavity size is\nnormal. Regional left ventricular wall motion is normal. Overall\nleft ventricular systolic function is normal (LVEF>55%).\nTransmitral Doppler and tissue velocity imaging are consistent\nwith Grade I (mild) LV diastolic dysfunction. Right ventricular\nchamber size and free wall motion are normal. The right\nventricular free wall is hypertrophied. The aortic valve\nleaflets (3) are mildly thickened but aortic stenosis is not\npresent. No aortic regurgitation is seen. The mitral valve\nleaflets are mildly thickened. There is no mitral valve\nprolapse. Mild to moderate ([**12-20**]+) mitral regurgitation is seen.\nThere is moderate pulmonary artery systolic hypertension. There\nis no pericardial effusion.\n\nCompared with the report of the prior study (images unavailable\nfor review) of [**2193-1-18**], the left ventricle is more\nhypertrophied with increased severity of mitral regurgitation.\n\n[**1-15**] Head CT\nNo evidence of acute intracranial hemorrhage, edema or mass.\n\n[**1-15**] Renal US with dopplers\nIMPRESSION: Limited examination. Bilateral brisk systolic\nupstrokes in the\nmain renal arteries at the hilum are present and therefore no\nevidence of renal artery stenosis is present. Blunted systolic\nupstrokes of intrarenal waveforms could reflect parenchymal\nabnormality but cannot be reliably assessed due to limitations\nof the examination. If further evaluation is required then non-\ngadolinium- enhanced MRA may be attempted.\n.\n[**2200-1-18**] CHEST CT W/O CONTRAST\nIMPRESSION:\n1. No evidence of pulmonary nodule or mass.\n2. Cardiomegaly, with coronary artery calcification, as\ndescribed above.\n3. Heterogeneous, enlarged thyroid, with calcifications as\ndescribed above. The patient has not had a thyroid ultrasound at\nthis institution since [**2191**], and if there has not been a recent\nevaluation, repeat assessment is recommended.\n.\n[**2200-1-20**] THYROID U/S\nTHYROID ULTRASOUND: Evaluation is somewhat limited due to\npatient\npositioning. The right lobe measures 7.2 x 4.8 x 3.2 cm. The\nleft lobe\nmeasures 4.8 x 3.22 x 2.9 cm. Both lobes are heterogeneous with\nmultiple\nnodules. Again, nodules range from hyper to hypoechoic and some\nnodules\ncontains cystic areas. The largest nodule is again located in\nthe lower pole of the right lobe, a solid nodule measuring 4.1 x\n2.4 x 3.9 cm. On the left, the largest (spongy) nodule measures\n1.8 x 2.1 x 1 cm. In the isthmus, a mixed cystic and solid\nnodule measures 1.2 x 0.9 x 1.2 cm.\nIMPRESSION: Multinodular goiter. The gland and nodules have\nenlarged since\nthe prior study of [**2191**], although technical differences make\ndirect comparison difficult. The overall appearance is generally\nunchanged with no new dominant nodules or masses.\n.\n[**2200-1-20**] RENAL U/S\nRENAL ULTRASOUND: Both kidneys are slightly increased in\nechogenicity\ndiffusely. The right kidney measures 9.2 cm and the left kidney\nmeasures 10.5 cm. There is no hydronephrosis, stones or masses\nof either kidney. Simple cysts are again noted of both kidneys.\nThe largest is located on the left, measuring up to 1.4 cm. The\nurinary bladder is collapsed around a Foley catheter and\nballoon.\nIMPRESSION: Slightly increase in diffuse echogenicity of both\nkidneys,\notherwise no change since renal ultrasound of [**2200-1-15**]. This can\nbe seen in\nchronic renal disease.\n.\n[**2200-1-21**] BONE SCAN\nWhole body images of the skeleton were obtained in anterior and\nposterior\nprojections and demonstrate several areas of increased uptake in\nthe knees, and ankles, consistent with degenerative changes.\nThere is also intense increased uptake in the region of L5 and a\nsmaller region laterally in L4. These are most likely due to\ndegenerative changes, however plain xray or CT imaging of the\nlower lumbar spine may be of assistance for further evaluation,\nif clinically indicated. The remainder of the bony skeleton\nappears normal.  The kidneys and urinary bladder are visualized,\nthe normal route of tracer excretion.\nNo prior studies available.\nIMPRESSION: Probable degenerative changes as discussed above. If\n\nhyperparathyroid adenoma is considered as a cause of\nhypercalcemia, suggest nuclear medicine parathyroid scanning.\n.\n\nBrief Hospital Course:\n#Hypoglycemia - Thought to be due to sulfonylurea therapy in the\nsetting of acute on chronic renal insufficiency. Oral\nhypoglycemics were held. Corrected with dextrose, glucagon, and\nocteotide in the MICU. Patient tolerated the eventual\nreintroduction of basal and sliding scale insulin therapy.\n.\n#Hypertensive Urgency - Remained asymptomatic. Lisinopril had\nbeen discontinued one week prior in the setting of acute on\nchronic renal insufficiency. Initially treated with a\nbetablocker, norvasc, and hydralazine but the former was\nsubsequently held due to bradycardia. HCTZ was held in the\nsetting of hypercalcemia. The home dose of hydralazine was\nincreased to 75 mg QID and imdur was started at a dose of 30 mg\ndaily with subsequent improvement in blood pressure control.\nRenal ultrasound did not reveal evidence of renal artery\nstenosis, consistent with the results of an MRA in [**2195-4-18**].\n.\n# Hypercalcemia: [**Year (4 digits) 32883**] calcium peaked at 12.7 with a peak\nionized calcium of 1.51. The level improved modestly with\naggressive IVF. [**Name (NI) 32883**] PTH was low. Workup for an underlying\ncause was unremarkable, including [**Name (NI) **] cortisol, SPEP/UPEP,\nchest x-ray, non-contrast CT of the chest/abdomen/pelvis, and\nbone scan. [**Name (NI) 32883**] vitamin D and PTHrP are pending at the time of\ndischarge. She will continue receiving saline infusions at rehab\nto ensure adequate hydration. The importance of adequate oral\nhydration was nonetheless reinforced with the patient and her\nfamily. She will follow up with endocrinology clinic as an\noutpatient.\n.\n#Acute on Chronic Renal Failure - Creatinine improved from 3.0\nto 1.9 with volume repletion. A new baseline was attributed to\nthe progression of nephropathy as evidenced by diffuse\nechogenicity in both kidneys on ultrasound.\n.\n#Acute uncomplicated cystitis - Treated with ciprofloxacin for 7\ndays.\n.\n#DMII - Oral hypoglycemic agents were held initially in the\nsetting of hypoglycemia and were not restarted due to renal\ninsufficiency. She was started on basal and sliding scale\ninsulin, as above.\n.\n#Thyroid nodule - Chest CT incidentally discovered a\nheterogeneous enlarged thyroid with asymmetric enlargement of\nthe right lobe and coarse calcifications in both lobes. Thyroid\nultrasound revealed multinodular goiter with the largest nodule\nin the lower pole of the right lobe measuring 4.1 x 2.4 x 3.9\ncm. The patient may benefit from outpatient FNA.\n\n\nMedications on Admission:\nAMLODIPINE 10 mg daily\nGLIPIZIDE 15 mg Tablet [**Hospital1 **]\nHYDRALAZINE 50mg q6hrs\nPRAVASTATIN 40 mg daily\nTRIAMTERENE-HYDROCHLOROTHIAZIDE 37.5 mg-25 mg daily\n\n\n\nDischarge Medications:\n1. Amlodipine 10 mg Tablet Sig: One (1) Tablet PO at bedtime:\nhold for sbp<100.\n2. Pravastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.\n3. Hydralazine 50 mg Tablet Sig: 1.5 Tablets PO every six (6)\nhours: hold for sbp<100.\n4. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr\nSig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily):\nhold for sbp<100.\n5. Insulin Glargine 100 unit/mL Solution Sig: Six (6) units\nSubcutaneous at bedtime.\n6. Polyethylene Glycol 3350 17 gram (100 %) Powder in Packet\nSig: One (1) packet PO once a day as needed for constipation.\n7. Docusate Sodium 100 mg Tablet Sig: One (1) Tablet PO twice a\nday.\n8. Senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day.\n9. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n10. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H\n(every 24 hours) for 3 days: Through [**2200-1-27**].\n11. Humalog 100 unit/mL Solution Sig: ASDIR inj Subcutaneous\nQACHS: Goal blood sugar\n150-200 mg/dL;\nFor BREAKFAST:\n<76 units: give 1 amp D50\n76-100: give 0 units\n101-150: 2 units\n151-200: 4 units\n201-250: 6 units\n251-300: 8 units\n301-350: 10 units\n351-400: 12 units\n>400 Notify MD\n\nFor LUNCH AND DINNER:\n<76 units: give 1 amp D50\n76-100: give 0 units\n101-150: 1 units\n151-200: 2 units\n201-250: 4 units\n251-300: 6 units\n301-350: 8 units\n351-400: 10 units\n>400 Notify MD\n\nFor BEDTIME:\n<76 units: give 1 amp D50\n76-100: give 0 units\n101-150: 0 units\n151-200: 0 units\n201-250: 2 units\n251-300: 4 units\n301-350: 6 units\n351-400: 8 units\n>400 Notify MD.\n12. Lactulose 10 gram/15 mL Solution Sig: 15-30 ml PO twice a\nday: please give if no BM in 2 days.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 1186**] - [**Location (un) 538**]\n\nDischarge Diagnosis:\nPrimary\n1. Hypoglycemia\n2. Hypertensive urgency\n3. Hypercalcemia\n4. Acute on chronic renal insufficiency\n5. Acute uncomplicated cystitis\n6. Diabetes mellitus type II\n\nSecondary\n1. Thyroid nodule\n2. Anemia of chronic disease\n\n\nDischarge Condition:\nAsymptomatic with stable vital signs.\n\n\nDischarge Instructions:\nYou were admitted to the hospital with very low blood sugar,\npossibly because your kidneys weren't properly clearing your\ndiabetes medication from the blood. We have therefore\ndiscontinued GLIPIZIDE. In its place, we recommend that you\nbegin taking insulin shots to help control your diabetes.\n\nYou were also found to have high levels of calcium in the blood.\nThe cause of this problem remains unclear despite many tests.\nPlease stop taking TRIAMTERENE-HYDROCHLOROTHIAZIDE because it\ncan raise calcium levels. It is imperative that you stay\nwell-hydrated by drinking plenty of fluids to help keep the\ncalcium level down.\n\nYou had a urinary tract infection which was partially treated\nwith the antibiotic ciprofloxacin. Please continue taking this\nmedication through Monday [**1-27**].\n\nThe following changes to your blood pressure medications were\nrecommended:\n1) Start taking ISOSORBIDE MONONITRATE (IMDUR) 30 mg daily.\n2) Increase HYDRALAZINE to 75 every 6 hours.\n3) Discontinue TRIAMTERENE-HYDROCHLOROTHIAZIDE.\n\nPlease have repeat blood work done on Monday, [**1-27**].\n\nPlease follow up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2450**] on [**2-12**] at 8:10\nAM.\n\nPlease attend your follow up appointment with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]\nand Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] of [**Hospital 18**] [**Hospital 6091**] Clinic on [**2200-2-19**] at\n4:00 PM. The phone number is [**Telephone/Fax (1) 1803**] if you would like to\nreschedule.\n\nPlease call your physician or return to the Emergency Department\nif you experience fever, chills, sweats, dizziness,\nlightheadedness, confusion, chest pain, cough, shortness of\nbreath, abdominal pain, vomiting, diarrhea, or bloody or dark\nstools.\n\nFollowup Instructions:\nPlease have repeat blood work done on Monday, [**1-27**].\n\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 8145**], M.D. Date/Time:[**2200-2-12**] 8:10\n\nProvider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2164**], MD Phone:[**Telephone/Fax (1) 1803**]\nDate/Time:[**2200-2-19**] 4:00\n\n\n\nCompleted by:[**2200-1-24**]"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "hadm_id": 172885,
+  "comment": "ERCP- Need OP note to Validate PCS",
+  "notes": [
+    {
+      "note_id": 24805,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 540,
+          "end": 561,
+          "code": "070.44",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic hepatitis C with hepatic coma",
+          "type": "Human",
+          "covered_text": "hepatitis C cirrhosis"
+        },
+        {
+          "begin": 566,
+          "end": 576,
+          "code": "572.3",
+          "code_system": "ICD-9-CM",
+          "description": "Portal hypertension",
+          "type": "Human",
+          "covered_text": "portal HTN"
+        },
+        {
+          "begin": 578,
+          "end": 585,
+          "code": "456.21",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal varices in diseases classified elsewhere, without mention of bleeding",
+          "type": "MapType.EXACT",
+          "covered_text": "varices"
+        },
+        {
+          "begin": 596,
+          "end": 599,
+          "code": "567.23",
+          "code_system": "ICD-9-CM",
+          "description": "Spontaneous bacterial peritonitis",
+          "type": "MapType.EXACT",
+          "covered_text": "SBP"
+        },
+        {
+          "begin": 611,
+          "end": 645,
+          "code": "202.80",
+          "code_system": "ICD-9-CM",
+          "description": "Other malignant lymphomas, unspecified site, extranodal and solid organ sites",
+          "type": "Human",
+          "covered_text": "high-grade colonic\nB-cell lymphoma"
+        },
+        {
+          "begin": 4380,
+          "end": 4426,
+          "code": "574.91",
+          "code_system": "ICD-9-CM",
+          "description": "Calculus of gallbladder and bile duct without cholecystitis, with obstruction",
+          "type": "Human",
+          "covered_text": "Cholelithiasis with\nlikely choledocholithiasis"
+        },
+        {
+          "begin": 4582,
+          "end": 4595,
+          "code": "275.42",
+          "code_system": "ICD-9-CM",
+          "description": "Hypercalcemia",
+          "type": "MapType.EXACT",
+          "covered_text": "hypercalcemia"
+        },
+        {
+          "begin": 5590,
+          "end": 5608,
+          "code": "277.4",
+          "code_system": "ICD-9-CM",
+          "description": "Disorders of bilirubin excretion",
+          "type": "MapType.APPROX",
+          "covered_text": "Hyperbilirubinemia"
+        },
+        {
+          "begin": 7022,
+          "end": 7038,
+          "code": "110.8",
+          "code_system": "ICD-9-CM",
+          "description": "Dermatophytosis of other specified sites",
+          "type": "Human",
+          "covered_text": "Fungal infection"
+        }
+      ],
+      "text": "Admission Date:  [**2124-11-27**]              Discharge Date:   [**2124-12-8**]\n\nDate of Birth:  [**2087-5-16**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**Male First Name (un) 5282**]\nChief Complaint:\nMental status changes\n\nMajor Surgical or Invasive Procedure:\n-R sided effusion tapped on [**11-25**]. Approx 2L removed. Labs\nnot consistent with empyema\n-ERCP, [**2124-11-30**]\n\nHistory of Present Illness:\nMr. [**Known lastname **] is a 37 year old man with hepatitis C cirrhosis c/b\nportal HTN, varices, ascites, SBP, also with high-grade colonic\nB-cell lymphoma (in remission since [**7-/2124**]), childhood ALL who\nis admitted from [**Hospital 478**] clinic with increasing confusion and\nlethargy as well as lower extremity fungal infection.\n.\nOf note, the patient was admitted to [**Hospital1 18**] from [**Date range (1) 62482**]\nfor hepatic encephalopathy which improved with lactulose and\nrifaximin. Infectious work up, including LP, was negative during\nthat admission. Since discharge, he was noted to have some leg\nwounds which were biopsied by Derm on [**11-20**] and found to be\nfungal infections; no treatment has yet been started.\n\nPast Medical History:\n- acute lymphocytic T-cell leukemia at age 6; treated with\nchemotherapy, thymectomy, and radiation therapy to whole brain\nand testicles\n- cirrhosis from hepatitis C, genotype 1 (presumed to have\ncontracted during childhood blood trnasfusions); s/p banding of\nthree grade II-III varices in [**5-/2124**]; prior admissions for\nhepatic encephalopathy; prior acute renal failure likely from\nhepatorenal syndrome\n- high-grade B-cell lymphoma (EBV-negative) in transverse [**Year (4 digits) 499**]\ndiagnosed in [**6-/2124**] by colonoscopy for workup of anemia; has\ncompleted 3 cycles of rituximab, nitrogen mustard, prednisone,\nvincristine, and doxorubicin (last on [**2124-9-19**]) with\nconcurrent progression of his cirrhosis; PET-CT [**2124-10-18**] without\nany FDG-uptake suggesting remission\n- history of C perfringes peritonitis ([**7-/2124**]) treated with\nceftriaxone\n- GNR bacteremia with Cupriavidus metallidurans in [**8-/2124**],\npossibly due to contaminated heparin flushes\n\nSocial History:\nHe lives independently in trailer 2 blocks from father and\ndenies current tobacco, alcohol, or drug use. His father is\nclosely involved in his care and lives near him. He is not\nmarried and does not work.\n\n\nFamily History:\nNo family history of liver disease. Grandfather had [**Name2 (NI) 499**]\ncancer.\n\nPhysical Exam:\nT 96.9 BP 110/71 HR 101 (72-101) RR 20 Sat 91-100% on 2 L/min\nGeneral: mildly somnolent young man in no distress but very\nstill, laying in bed, father at bedside.\nHEENT: (+) scleral icterus, EOMI, + thrush\nNeck: supple, no lymphadenopathy\nChest: clear to auscultation bilaterally with no wheezes, rales,\nor ronchi\nCV: regular rate/rhythm, normal s1 and s2, II/VI systolic murmur\nat RUSB\nAbdomen: soft, distended with dullness to percussion at both\nflanks; nontender; unable to palpate spleen tip or liver edge;\nnormal bowel sounds\nExtremities: 2+ edema up to knees bilaterally;\nSkin: markedly jaundiced; scattered subcentimeter eschars with\nmild excoriations over both shins\nNeuro: CN 2-12 intact; very mild asterixis; AOx4. Non-focal\nneuro exam.\n.\n\nPertinent Results:\n[**2124-11-27**] 10:40AM   GLUCOSE-103 UREA N-50* CREAT-0.8 SODIUM-136\nPOTASSIUM-5.7* CHLORIDE-94* TOTAL CO2-34* ANION GAP-14\n[**2124-11-27**] 10:40AM   estGFR-Using this\n[**2124-11-27**] 10:40AM   ALT(SGPT)-47* AST(SGOT)-90* LD(LDH)-826* ALK\nPHOS-151* TOT BILI-53.1*\n[**2124-11-27**] 10:40AM   ALBUMIN-3.9 PHOSPHATE-4.8* MAGNESIUM-3.0*\n[**2124-11-27**] 10:40AM   WBC-5.4 RBC-2.99* HGB-11.1* HCT-30.6*\nMCV-102* MCH-37.3* MCHC-36.4* RDW-21.6*\n[**2124-11-27**] 10:40AM   NEUTS-84* BANDS-0 LYMPHS-5* MONOS-11 EOS-0\nBASOS-0 ATYPS-0 METAS-0 MYELOS-0\n[**2124-11-27**] 10:40AM   HYPOCHROM-NORMAL ANISOCYT-3+ POIKILOCY-3+\nMACROCYT-3+ MICROCYT-NORMAL POLYCHROM-NORMAL TARGET-OCCASIONAL\nSCHISTOCY-2+ TEARDROP-OCCASIONAL HOW-JOL-OCCASIONAL\nBITE-OCCASIONAL ACANTHOCY-2+ FRAGMENT-1+\n[**2124-11-27**] 10:40AM   PLT SMR-VERY LOW PLT COUNT-57*\n[**2124-11-27**] 10:40AM   GRAN CT-4170\n\nBrief Hospital Course:\n37 year old man with HCV cirrhosis and high-grade B-cell\nlymphoma (in remission) admitted with lethargy. Course\ncomplicated by Portal Vein Thrombosis, Cholelithiasis with\nlikely choledocholithiasis, transudative pulmonary effusion s/p\ntap, concern for DIC physiology (though thought unlikely given\nlab derrangements in context of cirrhosis), as well as\nhypercalcemia. Pt had ERCP on [**11-30**]. The stone as removed and a\nfilter was placed, but bilirubin remained high (50s). Sadly, the\npatient expired on [**2124-12-9**]. A brief review of the hospital\ncourse is presented belowd\n.\n.\n.\n#Altered mental status: Patient demonstrates marked rise in\nTBili on presentation (38.5 -->53.1-->48.0), bumping hepatic\nencephalopathy to top of differential. Other potential causes:\nMS changes [**12-25**] fungemia given reported fungal derm infection,\nbleed (but no recent trauma), mass effect or lyphomatous spread\nto the meninges, drugs (denies drug use). Low suspicion for\nmeningitis or infection with white count at 5.4, afebrile. LP on\nprevious admission for same presentation was negative and so do\nnot feel need to repeat at this time. There are case reports of\nneoplastic syndromes secondary to CNS lymphoma (including in\nthis hospital), but these are diagnosed by brain biopsy and\nexclusion. Hepatic encephalopathy worsened until patient's\nultimate demise.\n.\n.\n#Hyperbilirubinemia: Unresolving circa 50. Of note, CT Abd\nreveals 8MM stone noted in CBD and ductual dilitation, but no\nimprovement s/p ERCP with stent placement on [**11-30**]. In addition,\nCT abd reveals no evidence of flow through portal vein in\ncontrast to [**7-31**] study at which time flow was still\nvisualized. Finally, labs further described below concerning for\nDIC (though subsequent factor assays--Factro VIII at 172 and ten\nand 7 93 and 16, respectively, suggest otherwise). Hence, causes\nmay be multi-factorial. Lacutlose and Rifaximin given good\nresults with these medication on last admission with same\npresentation.\n\n.\n.\nEffusion: Patient's original R sided effusion tapped on [**11-25**]. Approx 2L removed. Labs not consistent with empyema. CT\nChest s/p tap on [**11-28**] shows moderate Right pulmoary effusion with\nunderlying consolidation/collapse of RLL (4mm nodule is unchaged\nfrom before and requires follow-up as outpatient). Pt has\noccasionally needed 02 to keep saturations above 92%. Lung exam\nslowly resolving. Fluid analysis transudative, non-infectious\nthus far. No apparent underlying organizing process on CT, but\nmoderate right pleural effusion with underlying\nconsolidation/collapse of the right lower lobe noted immediately\nafter tap. Repeat CXR with complete re-filling of right lung.\nPatient's respiratory status appeared comfortable throughout the\nhospitalization through until his death.\n.\n#Fungal infection:  Histopath showed hyphal elements in the\ninflammatory component and deeper skin structures. Cultures\npositive for \"fungus\" from end of [**Month (only) 1096**]. ID was involved from\nthe onset and antibiotics were selected and titated according to\nrecommendations, but the patient passed away before clear\nresults could be identified.\n\n.\n\n# FEN: low sodium diet. replete lytes prn\n.\n# Prophylaxis: pneumoboots, bowel regimen\n.\n# Code: DNR DNI\n\nMedications on Admission:\nAlbuterol 90 mcg, Cipro 250', Lactulose 60'''', MgOxide, Nadolol\n20',\nNystatin, Pantoprazole 40',Rifaximin 400''', Spironolactone\n200',\nTestosterone 1 % (25 mg/2.5 g) Gel 2.5 grams Transdermal daily\nVitamin D3 400 units daily, Glargine 8 units qHS, Ursodiol\n300'''\n\nDischarge Medications:\nNone\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nLiver Failure [**12-25**] Hep C\n\nDischarge Condition:\nExpired\n\nDischarge Instructions:\nNA\n\nFollowup Instructions:\nNA\n\n\nCompleted by:[**2125-3-9**]"
+    }
+  ]
+}

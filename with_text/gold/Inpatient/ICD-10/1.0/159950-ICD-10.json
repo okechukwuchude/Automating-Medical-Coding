@@ -1,0 +1,113 @@
+{
+  "hadm_id": 159950,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 43490,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 341,
+          "end": 345,
+          "code": "J44.1",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic obstructive pulmonary disease with (acute) exacerbation",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 349,
+          "end": 365,
+          "code": "Z79.51",
+          "code_system": "ICD-10-CM",
+          "description": "Long term (current) use of inhaled steroids",
+          "type": "Human",
+          "covered_text": "chronic steroids"
+        },
+        {
+          "begin": 1601,
+          "end": 1604,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 2703,
+          "end": 2716,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension."
+        },
+        {
+          "begin": 2864,
+          "end": 2871,
+          "code": "Z87.891",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of nicotine dependence",
+          "type": "Human",
+          "covered_text": "smoking"
+        },
+        {
+          "begin": 8545,
+          "end": 8565,
+          "code": "J96.90",
+          "code_system": "ICD-10-CM",
+          "description": "Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia",
+          "type": "Human",
+          "covered_text": "Respriratory failure"
+        },
+        {
+          "begin": 10053,
+          "end": 10061,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "Dementia"
+        },
+        {
+          "begin": 10631,
+          "end": 10637,
+          "code": "D50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Iron deficiency anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 12796,
+          "end": 12853,
+          "code": "J44.1",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic obstructive pulmonary disease with (acute) exacerbation",
+          "type": "Human",
+          "covered_text": "chronic obstructive pulmonary disease- acute exacerbation"
+        },
+        {
+          "begin": 12854,
+          "end": 12872,
+          "code": "L25.9",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified contact dermatitis, unspecified cause",
+          "type": "Human",
+          "covered_text": "Contact dermatitis"
+        },
+        {
+          "begin": 13014,
+          "end": 13023,
+          "code": "Z74.01",
+          "code_system": "ICD-10-CM",
+          "description": "Bed confinement status",
+          "type": "Human",
+          "covered_text": "Bedbound."
+        }
+      ],
+      "text": "Admission Date:  [**2195-4-19**]              Discharge Date:   [**2195-4-24**]\n\n\nService: MEDICINE\n\nAllergies:\nNiacin / Lovastatin\n\nAttending:[**First Name3 (LF) 2840**]\nChief Complaint:\ndyspnea\n\nMajor Surgical or Invasive Procedure:\nIntubation\nArterial line placement [**2195-4-19**]\n\nHistory of Present Illness:\n87 yo F wtih a history of COPD on chronic steroids, Dementia\n(nonverbal baseline), and recent admission for pneumonia\nrequiring intubation, influenza and UTI who was BIBA from [**Hospital 100**]\nRehab for worsening dyspnea and productive cough. Duration is\nunclear, and patient unable to provide history. Today she was\nfound to be 87% on 4L at 10 pm, and came up to 98% on NRB. She\nwas given atrovent neb, albuterol neb, and morphine 4 mg SL\nwithout much effect. Prior to transfer VS were 99.8 (rectal),\n118/76, 104, 42, 95% RA.\n.\nOn arrival to the ED, patient was intubated. Patient had a CXR\nconsistent with interstitial edema versus infection, stable\nsince prior study. She was treated with vancomycin, and ordered\nfor zosyn but this was not given prior to transfer. She received\npropafol, etomidate 30 mg IV x1 and succinylcholine 120 mg IV x1\nperi-intubation. After intubation she was started on fentanyl\nand versed drips. On transfer, VS were 98.4, 99, 99/61, with\nvent settings of TV 450 cc, RR 16, PEEP 5, 100% FiO2.  EKG\nshowed sinus tachycardia with peaked t waves, but K was normal.\nWBC was elevated at 22.  She received 1litres of fluid. Prior to\ntransfer, VS were 98.4, 101, 92/58, 14, 100%.\n.\nOf note, patient was admitted [**4-6**] to [**4-13**] with influenza, hcap\nand UTI. She required intubation in the ICU and was treated with\noseltamivir, azithro, vanco and meropenem. During this hospital\nstay family was reluctant to change code status because\ndaughter/hcp was away on vacation.\n.\nIn the MICU, patient is intubated and sedated.\n.\nReview of systems:\nlimited by patient being on ventilator. appears comfortable\n\nPast Medical History:\n1. End-stage Alzheimers Dementia, non-verbal\n2. COPD, FEV1 81% in [**2190**]\n3. Pulmonary nodules\n4. ?CAD ?MI in [**2171**]; normal dipyridamole thallium in [**2173**].\n5. Osteoarthritis\n6. Cataracts.\n7. Chronic back pain and hip pain\n8. Hearing loss\n9. Varicose veins\n10. Heart murmur\n11. Breast cancer in the left breast back in [**2183**] treated with\nradiation and tamoxifen, which was later changed to Arimidex.\n12. Osteopenia with history of atraumatic vertebral fracture.\n13. Abnormal endometrial, worked up by OB/GYN in the past.\n14. Hypercholesterolemia.\n15. Status post cholecystectomy in [**2164**].\n16. Status post umbilical hernia repair.\n17. Rib fractures.\n18. Actinic keratoses.\n19. Posterior vitreous detachment.\n20. Hypertension.\n21. History of vertigo.\n22. Headaches with negative workup in the past.\n\nSocial History:\nFormer criminal lawyer. [**Name (NI) **] 3 children. Quit smoking 30 years\nago; previously was heavy smoker. No alcohol, illicit drug use.\n\n\n\nFamily History:\nnon-contributory\n\nPhysical Exam:\nADMISSION EXAM:\nT: 98.4 BP: 115/76 P: 100\n450 cc RR 16  PEEP 5 FiO2 100%\nGeneral: Sedated, not withdrawing to sternal rub\n[**Name (NI) 4459**]: Sclera anicteric, MMM, oropharynx clear, [**Name (NI) 2994**]\n[**Last Name (un) **]: Macular [**Last Name (un) **] on back bilaterally, extending to left flank\n\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n\nDISCHARGE EXAM:\nT 97.5, BP 105/58, HR 58, RR 22, 100%2L, 2 BM yesterday and 1 BM\nthis AM\nGen: nad, comortable, confused, dementia, alert\nCardiac: RRR< no mrg\nPulm: few scattered crackled in lower lung bases bilaterally, no\nwheezing or rhonchi\nAbd: soft, non distended, non tender\nExt: no pedal edema, warm\n\nPertinent Results:\nADMISSION LABS:\n[**2195-4-19**] 01:00AM BLOOD WBC-22.2*# RBC-3.85* Hgb-10.0* Hct-30.8*\nMCV-80* MCH-25.9* MCHC-32.4 RDW-17.6* Plt Ct-367#\n[**2195-4-19**] 01:00AM BLOOD Neuts-87* Bands-1 Lymphs-4* Monos-7 Eos-1\nBaso-0 Atyps-0 Metas-0 Myelos-0\n[**2195-4-19**] 01:00AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-NORMAL\nMacrocy-NORMAL Microcy-1+ Polychr-OCCASIONAL\n[**2195-4-19**] 01:00AM BLOOD PT-12.1 PTT-20.0* INR(PT)-1.0\n[**2195-4-19**] 01:00AM BLOOD UreaN-19 Creat-0.6\n[**2195-4-19**] 03:01AM BLOOD Glucose-276* UreaN-20 Creat-0.6 Na-133\nK-4.5 Cl-99 HCO3-27 AnGap-12\n[**2195-4-19**] 01:00AM BLOOD ALT-22 AST-16 LD(LDH)-254* AlkPhos-78\n[**2195-4-19**] 03:01AM BLOOD CK(CPK)-43\n[**2195-4-19**] 01:00AM BLOOD Lipase-36\n[**2195-4-19**] 03:01AM BLOOD CK-MB-2 cTropnT-0.03*\n[**2195-4-19**] 01:00AM BLOOD Albumin-3.3* Calcium-8.7 Phos-2.8 Mg-1.8\n[**2195-4-19**] 01:09AM BLOOD pH-7.34* Comment-GREEN TOP\n[**2195-4-19**] 01:09AM BLOOD Glucose-258* Lactate-3.0* Na-137 K-4.5\nCl-99* calHCO3-28\n[**2195-4-19**] 01:09AM BLOOD Hgb-10.4* calcHCT-31 O2 Sat-96 COHgb-1.4\nMetHgb-0\n[**2195-4-19**] 01:09AM BLOOD freeCa-1.12\n[**2195-4-19**] 05:47AM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.025\n[**2195-4-19**] 05:47AM URINE Blood-NEG Nitrite-NEG Protein-TR\nGlucose-300 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG\n[**2195-4-19**] 05:47AM URINE RBC-2 WBC-6* Bacteri-FEW Yeast-NONE\nEpi-<1\n[**2195-4-19**] 05:47AM URINE CastHy-1*\n[**2195-4-19**] 05:47AM URINE Mucous-RARE\n\nMICRO:\n[**4-19**] Blood cx x2: pending\n[**4-19**] Urine cx x2: yeast\n[**4-19**] Sputum:\n SPUTUM      Source: Endotracheal.\n\n                            **FINAL REPORT [**2195-4-22**]**\n\n   GRAM STAIN (Final [**2195-4-19**]):\n      >25 PMNs and <10 epithelial cells/100X field.\n      1+    (<1 per 1000X FIELD):   YEAST(S).\n      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.\n                                    IN PAIRS.\n\n   RESPIRATORY CULTURE (Final [**2195-4-22**]):\n      RARE GROWTH Commensal Respiratory Flora.\n      Due to mixed bacterial types ( >= 3 colony types) an\nabbreviated\n      workup will be performed appropriate to the isolates\nrecovered from\n      this site.\n      YEAST.    SPARSE GROWTH.\n      STAPH AUREUS COAG +.    SPARSE GROWTH.\n         Staphylococcus species may develop resistance during\nprolonged\n         therapy with quinolones.   Therefore, isolates that are\ninitially\n         susceptible may become resistant within three to four\ndays after\n         initiation of therapy.  Testing of repeat isolates may\nbe\n         warranted.\n      GRAM NEGATIVE ROD(S).    RARE GROWTH.\n\n                              SENSITIVITIES: MIC expressed in\nMCG/ML\n\n_________________________________________________________\n                             STAPH AUREUS COAG +\n                             |\nCLINDAMYCIN-----------<=0.25 S\nERYTHROMYCIN----------<=0.25 S\nGENTAMICIN------------ <=0.5 S\nLEVOFLOXACIN----------<=0.12 S\nOXACILLIN-------------<=0.25 S\nTRIMETHOPRIM/SULFA---- <=0.5 S\n\nIMAGING:\n[**4-19**] CXR:\nIMPRESSION: Mild interstitial edema with a left lower lobe\nopacity, which\ncould represent an underlying pneumonia. Mitral annular\ncalcifications.\n\n[**4-21**] Video Swallow;\nPenetration without aspiration of thin barium. No aspiration\nwith any administered preparations.\n\n[**2195-4-23**] 09:37AM BLOOD WBC-7.0 RBC-3.19* Hgb-8.4* Hct-25.5*\nMCV-80* MCH-26.4* MCHC-33.0 RDW-18.4* Plt Ct-275\n[**2195-4-20**] 03:30AM BLOOD Neuts-86.2* Lymphs-8.6* Monos-4.7 Eos-0.2\nBaso-0.2\n[**2195-4-23**] 09:37AM BLOOD Plt Ct-275\n[**2195-4-23**] 09:37AM BLOOD Glucose-198* UreaN-6 Creat-0.3* Na-138\nK-3.5 Cl-101 HCO3-30 AnGap-11\n[**2195-4-20**] 03:30AM BLOOD AST-13 AlkPhos-63 TotBili-0.3\n[**2195-4-19**] 05:59PM BLOOD CK-MB-3 cTropnT-<0.01\n[**2195-4-23**] 09:37AM BLOOD Phos-2.4* Mg-1.7\n[**2195-4-19**] 03:01AM BLOOD calTIBC-230* Ferritn-85 TRF-177*\n[**2195-4-20**] 06:11PM BLOOD Vanco-11.4\n\nDischarge Labs:\n\n[**2195-4-24**] 05:36AM BLOOD WBC-6.1 RBC-3.24* Hgb-8.4* Hct-26.4*\nMCV-82 MCH-26.0* MCHC-31.8 RDW-17.9* Plt Ct-244\n[**2195-4-20**] 03:30AM BLOOD Neuts-86.2* Lymphs-8.6* Monos-4.7 Eos-0.2\nBaso-0.2\n[**2195-4-24**] 05:36AM BLOOD Glucose-151* UreaN-6 Creat-0.4 Na-139\nK-3.4 Cl-99 HCO3-33* AnGap-10\n[**2195-4-24**] 05:36AM BLOOD Calcium-8.3* Phos-3.1 Mg-2.2\n\nBrief Hospital Course:\n87 yo F wtih a history of COPD on chronic steroids, dementia\n(nonverbal at baseline), and recent admission for pneumonia\nrequiring intubation and influenza who was admitted from [**Hospital 100**]\nRehab for worsening dyspnea and productive cough secondary to\nnew pneumonia.\n\n# Respriratory failure: Pt with LLL opacity on CXR suggestive of\npneumonia. Given her recent influenza, she was was covered for\nMRSA with vancomycin. Pt also with history of ESBL and was\nstarted on meropenem (Day 1=[**4-19**]). Pt was initialy closely\nmonitored in the MICU where she was intubated. Her pulmonary\nstatus improved and she was extubated on [**4-20**]. Pt's fevers\nimproved and her leukocytosis resolved (WBC 22->6). For possible\nCOPD exacerbation, she was continued on prednisone 20mg daily.\nShe will taper down to 10mg daily in 3 days. CXR showed some\nsigns of pulmonary edema, esp in the setting of getting IVF\nwhile in the MICU, and she was diursed with IV lasix (10-20mg\ndaily for 2 days). Sputum culture notable for rare growth of\ncoag positive aureus, MSSA plus some rare GNR.  She had a PICC\nplaced for antibiotic course of treatment for presumed HCAP.\nVancomycin was stopped on [**2195-4-23**] (completed 5 day course) and\nshe will continue meropenem for total 7 day course (through\n[**2195-4-26**]).\n\nAspiration Concern: Pt had speech and swallow video study and\npassed. She was restarted on dysphagia diet of pureed solids and\nnectar think liquids. Explained to pt's family that she is at\nrisk for aspiration.\n\n[**Year (4 digits) **]: Patient with [**Year (4 digits) **] in dependent areas on back (flank\nregions bilaterally) and part of stomach. Crosses midline so\nunlikely Zoster. Likely to be contact dermatitis as [**Year (4 digits) **] existed\nprior to antibiotic administration.\n\nDementia: Patient non-verbal at baseline.  Passed swallow\nevaluation and was restarted on dysphagia diet.\n\nAnemia: Patient??????s recent HCT baseline around 28-31. During this\nhospitalization, her HCT stable around 23-25 and was 26 at time\nof discharge. Likely hemodilutional component in setting of IVF\nin addition to likely marrow suppresion in setting of acute\nillness.\n\nPending Labs:\n-Blood cultures from [**4-19**]\n\nTransition of care:\n-FULL code, verified by family\n-Pneumonia: will need to complete course of meropenem\n-Aspiration: family aware of pt's aspiration risk.\n-Anemia: would trend HCT while outpatient. HCT stable and\ntrending up while inpatient. Reccoment CBC check on [**2195-3-29**].\nIf HCT continues to decrease, would reccomend anemia workup.\n\n\nMedications on Admission:\n# prednisone 20 mg daily\n# morphine 4 mg Q2 H prn\n# Albuterol prn\n# vitamin d 1000 U\n# Ipratropium neb Q4H\n# Dulcolax suppository\n# Miralax 17 g daily\n# Ativan 0.25 mg Q4H prn\n# Aspirin 81 mg daily\n# Tylenol 650 mg suppository\n# albuterol neb q6H\n# ipratropium neb Q6H\n# senna 17.2 mg daily\n# zinc oxide topical\n.\nper last d/c summary\n# albuterol sulfate prn\n# aspirin 81 mg daily\n# bisacodyl 10 mg pr\n# Vitamin D 1,000 unit daily\n# ipratropium bromide 0.02 % Solution Q4H\n# polyethylene glycol 3350 17 gram daily\n# prednisone 40 mg x 3 days, 30 mg x 3 days, 20 mg x 3 days, 10\nmg ongoing\n# acetaminophen 650 mg prn\n# docusate sodium 100 mg [**Hospital1 **]\n\nDischarge Medications:\n1. prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):\nIn the next 3 days, can taper to 10mg daily and continue 10mg.\n2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n3. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nat bedtime as needed for constipation.\n4. Vitamin D 1,000 unit Tablet Sig: One (1) Tablet PO once a\nday.\n5. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation\nQ6H (every 6 hours).\n6. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)  PO\nonce a day.\n7. Tylenol 325 mg Tablet Sig: One (1) Tablet PO every six (6)\nhours as needed for pain: Do not give more then 3g/day.\n8. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n9. meropenem 500 mg Recon Soln Sig: One (1)  Intravenous every\nsix (6) hours for 3 days: Take through [**2195-4-26**] for total 7 day\ncourse.\n10. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2\ntimes a day) as needed for constipation.\n11. albuterol sulfate 1.25 mg/3 mL Solution for Nebulization\nSig: One (1)  Inhalation every six (6) hours as needed for\nshortness of breath or wheezing: prn.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 459**] for the Aged - MACU\n\nDischarge Diagnosis:\nHospital Acquired Pneumonia\nchronic obstructive pulmonary disease- acute exacerbation\nContact dermatitis [**Name2 (NI) **]\n\n\nDischarge Condition:\nMental Status: Confused - always.\nLevel of Consciousness: Lethargic but arousable.\nActivity Status: Bedbound.\n\n\nFollowup Instructions:\nPlease make sure to see your primary care doctor within the week\nafter leaving rehab.\n\n\n\n"
+    }
+  ]
+}

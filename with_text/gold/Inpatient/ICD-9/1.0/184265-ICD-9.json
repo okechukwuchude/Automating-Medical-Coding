@@ -1,0 +1,50 @@
+{
+  "hadm_id": 184265,
+  "comment": "Polypectomy- Need OP note to Validate PCS",
+  "notes": [
+    {
+      "note_id": 34428,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 278,
+          "end": 285,
+          "code": "780.2",
+          "code_system": "ICD-9-CM",
+          "description": "Syncope and collapse",
+          "type": "MapType.EXACT",
+          "covered_text": "syncope"
+        },
+        {
+          "begin": 1214,
+          "end": 1219,
+          "code": "211.3",
+          "code_system": "ICD-9-CM",
+          "description": "Benign neoplasm of colon",
+          "type": "MapType.APPROX",
+          "covered_text": "cecum"
+        },
+        {
+          "begin": 6845,
+          "end": 6862,
+          "code": "578.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hemorrhage of gastrointestinal tract, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Lower GI bleeding"
+        },
+        {
+          "begin": 6863,
+          "end": 6886,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Acute blood loss anemia"
+        }
+      ],
+      "text": "Admission Date:  [**2186-1-15**]              Discharge Date:   [**2186-1-17**]\n\nDate of Birth:  [**2141-2-28**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 905**]\nChief Complaint:\n2 episodes of syncope in the setting of BRBPR s/p colonoscopy\nwith 2 hot snare polypectomies 5 days ago\n\nMajor Surgical or Invasive Procedure:\nColonoscopy [**2185-1-16**]\n\n\nHistory of Present Illness:\n This is a 44 year old otherwise healthy male who is presenting\nfor evaluation of 2 episodes of syncope in the setting of BRBPR\n5 days after having a colonoscopy with 2 hot snare\npolypectomies. The patient does not recall his syncopal\nepisodes, but his wife was present to witness them. She said\nthat he had multiple, brief syncopal episodes that occurred\naround 12:30 AM in the setting of a large bloody bowel movement.\nHe remembers feeling lightheaded and dizzy, but does not\nacutally remember passing out. His wife says that he fell into\nher arms but did not injure himself.\nThe indication for the patient's colonoscopy on [**1-10**] was that\nhe was intermittently having blood coating his stools. He was\nfound to have a 6mm sessile polyp in his cecum and an 8mm\npedunculated polyp in his sigmoid which were both completely\nremoved with hot snare polypectomy. The patient did have 1\nepisode of nausea and vomiting immediately after his\ncolonoscopy, but otherwise did well until 5:30 PM on [**2186-1-14**] when\nhe began to have BRBPR. He had a total of [**7-21**] episodes of\nwatery, BRBPR before reporting to an OSH where his Hct was\nmeasured to be 37. He was transferred to [**Hospital1 18**] because his\noriginal GI procedure took place here and his Hct upon arrival\nhad fallen to 31.7. He has not had any further BRBPR since\narriving at [**Hospital1 18**].\n.\nIn the ED, initial vs were: T=98.2, P=76, BP=106/65, RR=16, O2\nsat=100%. In general the patient appeared well and his exam was\nbenign. He did not report any abdominal pain, fevers, or chills.\nHis Hct fell to 31.7 from 37 at the OSH but he did not have any\nfurther episodes of BRBPR. His coags were normal. Two 18 gauge\nperipheral IVs were placed for access and he was cross matched\nfor 2 units of blood but not transfused. He was given 2L of NS\nboluses and GI and surgery were contact[**Name (NI) **] regarding his\nadmission. Upon transfer to the floor, his VS were P=78,\nBP=107/66, RR=19, and POx=100% 2L\n.\nOn the floor, the patient appeared well and has not yet had any\nbowel movements since arriving to [**Hospital1 18**]. He denies any fevers,\nchills, or abdominal pain.\n.\nReview of systems:\n(+) Per HPI\n(-) Denies fever, chills, night sweats, recent weight loss or\ngain. Denies headache, sinus tenderness, rhinorrhea or\ncongestion. Denies cough, shortness of breath, or wheezing.\nDenies chest pain, chest pressure, palpitations, or weakness.\nDenies nausea, vomiting, abdominal pain. Denies dysuria,\nfrequency, or urgency. Denies arthralgias or myalgias. Denies\nrashes or skin changes.\n\n\nPast Medical History:\n-atopic eczema\n-s/p colonoscopy [**2186-1-10**] with removal of 2 adenomatous polyps\n(6mm sessile polyp at the cecum and 8mm pedunculated polyp at\nsigmoid)\n\n\nSocial History:\nThe patient lives at home with his wife and 4 kids. He is a\nnon-smoker and does not drink any EtOH. He works as a software\nengineer at [**Company **] Systems.\n\n\nFamily History:\nThe patient has a maternal uncle with liver cancer and both of\nhis parents have HTN. No family history of thalassemia that he\nis aware of.\n\n\nPhysical Exam:\nVitals: T: 98.9, BP: 126/73, P: 79, R: 13, O2: 100% 3L NC\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: A+Ox3, CN II-XII intact, motor strength and sensory\ngrossly equal and intact bilaterally\n\n\nPertinent Results:\n[**2186-1-15**] 02:45AM BLOOD WBC-9.7# RBC-4.67# Hgb-9.8*# Hct-31.7*#\nMCV-68* MCH-21.0* MCHC-31.0 RDW-14.2 Plt Ct-214\n[**2186-1-15**] 02:45AM BLOOD Neuts-83.5* Lymphs-11.6* Monos-3.4\nEos-1.2 Baso-0.2\n[**2186-1-15**] 02:45AM BLOOD Glucose-119* UreaN-22* Creat-1.2 Na-141\nK-4.7 Cl-109* HCO3-26 AnGap-11\n[**2186-1-15**] 02:45AM BLOOD calTIBC-243* Ferritn-299 TRF-187*\n\nHCT trend:\n[**2186-1-17**] 07:25AM BLOOD WBC-6.9 RBC-4.61 Hgb-9.8* Hct-31.0*\nMCV-67* MCH-21.3* MCHC-31.7 RDW-14.2 Plt Ct-212\n[**2186-1-16**] 09:25PM BLOOD Hct-32.3*\n[**2186-1-16**] 04:00AM BLOOD WBC-6.3 RBC-4.89 Hgb-10.2* Hct-32.0*\nMCV-65* MCH-20.8* MCHC-31.9 RDW-14.4 Plt Ct-230\n[**2186-1-15**] 08:15PM BLOOD Hct-31.0*\n[**2186-1-15**] 01:26PM BLOOD Hct-33.6*\n[**2186-1-15**] 05:20AM BLOOD Hct-30.6*\n\nColonoscopy [**2186-1-15**]:\nImpression: Sigmoid colon polypectomy site visualized with clean\nbase but with red spot suggestive of visible vessel. No active\nbleeding noted. (endoclip)Cecal polypectomy site clean based\nwith red spot suggestive of visible vessel. No active bleeding.\n(endoclip)\nOtherwise normal colonoscopy to cecum\nRecommendations: Likely post polypectomy bleed from cecal and\nsigmoid colon polypectomy site. S/p endoclip to each ulcerative\narea x 2. Please remain in ICU, clear fluids, trend hct. No MRI\nx 1 month.\n\n\nBrief Hospital Course:\nThis is a 44 year old otherwise healthy male who is presenting\nfor evaluation of 2 episodes of syncope in the setting of BRBPR\n5 days after having a colonoscopy with 2 hot snare polypectomies\nadmitted to the ICU for concern of post-polypectomy bleeding.\n.\n#. Post-polypectomy GI bleed. The patient is presenting with\nBRBPR 5 days following colonoscopy with removal of 2 adenomatous\npolyps. GI performed colonoscopy to evaluate for\npost-polypectomy bleed which showed sigmoid colon polypectomy\nsites visualized with clean base but with red spot suggestive of\nvisible vessels which were endoclipped. Hct was trended closely\nafter the procedure, and remained stable around 32 for 48 hours\nprior to floor transfer on [**1-16**] and for the remainder of his\nhospitalization.  He was tolerating a normal diet prior to\ndischarge.\n.\n#. Microcytic anemia. The patient's MCV has consistently been 68\neven dating back to [**2183**] when his Hct was 45.2. It is likely\nthat the patient has thalassemia.  Iron studies were sent and\nshowed ferritin 299 (normal), iron level 49 (normal), TIBC 243\n(low), and transferrin 187 (low).\n\n\nMedications on Admission:\nVitamin D 3000 units daily\n\nDischarge Medications:\n1. cholecalciferol (vitamin D3) 400 unit Tablet Sig: 7.5 Tablets\nPO DAILY (Daily).\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nLower GI bleeding\nAcute blood loss anemia\n\n\nDischarge Condition:\nHemodynamically stable, Hct 31, without pain or active bleeding,\ntolerating po diet and medications.\n\n\nDischarge Instructions:\nYou were transferred to our hospital after experiencing large\namounts of blood in your stools.  A colonoscopy was performed to\nevaluate the source of the bleeding. You were found to be\nbleeding from the sites of your recent biopsies.  Clips were\nplaced over the bleeding vessels and you had no further episodes\nof bleeding.  You were monitored closely overnight. Your vital\nsigns and blood counts remained stable and you were discharged\nhome.\n.\nNo changes were made to your home medications. Please continue\nall home medications as previously prescribed.\n\nFollowup Instructions:\nPlease call the office of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 349**] at the [**Hospital1 **] [**Last Name (Titles) 516**] at [**Telephone/Fax (1) 7703**] to schedule follow\nup in the next few weeks.\n\n\n                             [**Name6 (MD) 251**] [**Name8 (MD) **] MD [**MD Number(1) 910**]\n\nCompleted by:[**2186-1-18**]"
+    }
+  ]
+}

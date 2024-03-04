@@ -1,0 +1,199 @@
+{
+  "hadm_id": 103219,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 15250,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1824,
+          "end": 1856,
+          "code": "Z95.1",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of aortocoronary bypass graft",
+          "type": "Human",
+          "covered_text": "Coronary artery bypass graft x 1"
+        },
+        {
+          "begin": 1990,
+          "end": 2004,
+          "code": "E03.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypothyroidism, unspecified",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 2006,
+          "end": 2038,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "Gastroesophageal Reflux disease,"
+        },
+        {
+          "begin": 2222,
+          "end": 2234,
+          "code": "Z87.891",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of nicotine dependence",
+          "type": "Human",
+          "covered_text": "quit smoking"
+        },
+        {
+          "begin": 14115,
+          "end": 14150,
+          "code": "I71.2",
+          "code_system": "ICD-10-CM",
+          "description": "Thoracic aortic aneurysm, without rupture",
+          "type": "Human",
+          "covered_text": "Descending thoracic aortic aneurysm"
+        },
+        {
+          "begin": 14156,
+          "end": 14187,
+          "code": "Q27.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified congenital malformations of peripheral vascular system",
+          "type": "Human",
+          "covered_text": "aberrant left\nsubclavian artery"
+        },
+        {
+          "begin": 14446,
+          "end": 14455,
+          "code": "J95.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other postprocedural complications and disorders of respiratory system, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "Pneumonia"
+        },
+        {
+          "begin": 14456,
+          "end": 14470,
+          "code": "T81.44XA",
+          "code_system": "ICD-10-CM",
+          "description": "Sepsis following a procedure, initial encounter",
+          "type": "Human",
+          "covered_text": "Post-op Sepsis"
+        },
+        {
+          "begin": 14471,
+          "end": 14514,
+          "code": "J80",
+          "code_system": "ICD-10-CM",
+          "description": "Acute respiratory distress syndrome",
+          "type": "Human",
+          "covered_text": "Post-op Acute Respiratory Distress Syndrome"
+        },
+        {
+          "begin": 14515,
+          "end": 14542,
+          "code": "I97.190",
+          "code_system": "ICD-10-CM",
+          "description": "Other postprocedural cardiac functional disturbances following cardiac surgery",
+          "type": "Human",
+          "covered_text": "Post-op Atrial Fibrillation"
+        },
+        {
+          "begin": 14551,
+          "end": 14557,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Anemia"
+        }
+      ],
+      "text": "Admission Date:  [**2109-12-20**]              Discharge Date:   [**2110-1-5**]\n\nDate of Birth:  [**2045-2-20**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nQuinine\n\nAttending:[**First Name3 (LF) 922**]\nChief Complaint:\nShortness of breath\n\nMajor Surgical or Invasive Procedure:\n[**2109-12-20**] Right posterolateral thoracotomy, replacement of the\nproximal descending thoracic aortic aneurysm using a 26mm\nVascutek Dacron interposition tube graft\n[**2109-12-20**] Diagnostic bronchoscopy pre-aortic reconstruction and\nbronchoscopy with toilet aspiration of secretions post aortic\nreconstruction\n[**2109-12-23**] Right Bronchial Y-stent placement\n[**2109-12-23**] Flexible bronchoscopy and Therapeutic aspiration of\nsecretions\n[**2109-12-27**] Flexible bronchoscopy through endotracheal tube,\nTherapeutic aspiration of secretions, Bronchoalveolar lavage of\nthe right middle lobe\n\nHistory of Present Illness:\n64 y/o female with complex past medical history (see below) who\nhas had intermittent bouts of dyspnea on exertion and hoarseness\n(along with wheezing and dysphagia) over the past several years.\nUnderwent coronary artery bypass graft x 1 with respiratory\nfunction continuing to decline. Further work-up revealed right\nsided arch with aberrant takeoff of left subclavian and dilated\naorta. Also noted to have right mainstem bronchus compression.\nHas already underwent 2 surgical procedures with vascular\nsurgery (Dr. [**Last Name (STitle) **] and now presents for surgical\nreplacement of her descending aorta.\n\nPast Medical History:\nDescending thoracic aortic aneurysm with aberrant left\nsubclavian artery and Kumeral's diverticulum with aortic sling\ncompressing the right main stem bronchus, s/p Left Carotid to\nSubclavian bypass [**7-7**], s/p Amplatzer plugging of Aberrant left\nsubclavian [**9-6**], Coronary artery bypass graft x 1 (LIMA to LAD),\nConnective tissue disorder with features of Lupus, Sjogren's and\nraynaud syndrome, Stroke, Interstitial lung disease,\nHypothyroidism, Gastroesophageal Reflux disease, Right kidney\ncyst, s/p cholecystectomy, s/p carcinoid tumor removal during\ncolonoscopy, s/p right lung resection?wedge\n\nSocial History:\nShe is a retired administrative assistant. She quit smoking 15\nyears ago and has wine daily with dinner. She is currently\nliving with her husband.\n\nFamily History:\nShe has a noncontributory family history.\n\nPhysical Exam:\nAt Discharge:Expired\n\n\nPertinent Results:\n[**12-20**] Echo: PREBYPASS: 1. The left atrium is mildly dilated. 2.\nLeft ventricular wall thicknesses and cavity size are normal.\nOverall left ventricular systolic function is normal (LVEF>55%).\n3. Right ventricular chamber size and free wall motion are\nnormal. 4. The descending thoracic aorta is moderately dilated.\nThe patient has a known right sided arch. 5. The aortic valve\nleaflets (3) appear structurally normal with good leaflet\nexcursion. No aortic regurgitation is seen. 6. The mitral valve\nappears structurally normal with trivial mitral regurgitation.\n7. There is no pericardial effusion. 8. Dr. [**Last Name (STitle) 914**] was notified\nin person of the results during the surgical procedure.\nPOSTBYPASS: Patient is on an phenylephrine infusion and is in\nsinus rhythm 1. Biventricular function is preserved. 2.\nDescending thoracic graft not clearly appreciated. 3. Other\nfindings are unchanged.\n    [**Known lastname 44356**],[**Known firstname 3049**] [**Age over 90 44357**] F  64  [**2045-2-20**]\n\nRadiology Report CT CHEST W/O CONTRAST Study Date of [**2109-12-31**]\n8:43 AM\n\n\n[**Last Name (LF) **],[**First Name7 (NamePattern1) 177**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5204**] CSRU [**2109-12-31**] SCHED\nCT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST   Clip # [**Clip Number (Radiology) 44358**]\n\nReason: elevated lft's, not tolerating tube feeds, elevated INR\nnot\n\n\n\n[**Hospital 93**] MEDICAL CONDITION:\n   64 year old woman s/p right sided descending aorta repair\nREASON FOR THIS EXAMINATION:\n   elevated lft's, not tolerating tube feeds, elevated INR not\non coumadin. Please\n   do chest and abdominal CT WITH PO contrast\nCONTRAINDICATIONS FOR IV CONTRAST:\n   None.\n\n\n\nProvisional Findings Impression: AJy TUE [**2109-12-31**] 6:33 PM\nPFI:\n1. The feeding tube appears to be coiled within the stomach and\nis not\npost-pyloric. Remainder of the supporting and monitoring lines\nand tubes\nappear in adequate position.\n2. Bilateral lower lobe focal consolidation with air\nbronchograms consistent\nwith pneumonia. Aspiration should be considered given location.\nFurther\ninterstitial and ground-glass opacities likely reflect a\ncombination of\natelectasis and fluid overload.\n3. Ascites and diffuse anasarca suggest fluid overload.\n4. Borderline fatty infiltration of the liver, but no biliary\ndilatation or\nmass lesions to explain patient's liver function test\nabnormalities.\n5. Status post repair of descending thoracic aortic aneurysm,\nwithout\nevidence for immediate complication.\n\n\nFinal Report\nHISTORY: 64-year-old female, status post repair of descending\nthoracic aortic\naneurysm. Referred for evaluation of persistent fever, elevated\nLFTs and INR,\nand poor tolerance of tube feedings.\n\nCOMPARISON: CT of the chest dated [**2109-5-10**].\n\nTECHNIQUE: MDCT axial imaging of the chest and abdomen was\nperformed\nfollowing the administration of oral but not IV contrast.\nSagittal and\ncoronal reformatted images were reviewed.\n\nCT CHEST: An endotracheal tube terminates approximately 2.5 cm\nfrom the\ncarina. Tracheal Y-stent is seen with branches extending into\nthe right and\nleft main stem bronchi. Two right-sided central venous lines,\none subclavian\nand one internal jugular, terminate in the distal SVC. There is\nan NG tube\nterminating in the stomach. A Dobbhoff-type feeding tube is also\nseen\nextending into the stomach and is coiled extensively, not\nextending post-\npylorically. A right-sided chest tube courses along the\nposterior margin of\nthe lung and terminates adjacent to the superior mediastinum.\n\nRight-sided aortic arch is again noted. Patient is status post\nrepair of\ndescending thoracic aortic aneurysm, with graft anastomoses seen\nat the level\nof the arch and inferiorly. The graft appears to extend\napproximately 10 cm\nin the craniocaudal direction, and has a diameter of 2.9 cm at\nthe level of\nthe carina. There is no significant mediastinal hematoma. The\nheart and\npulmonary vessels appear unremarkable. Coronary vascular\ncalcifications are\nappreciated.\n\nThere are diffuse reticular and ground-glass opacities in both\nlungs, left\ngreater than right, and more pronounced at the lung bases, where\nthere are\nalso areas of focal consolidation and air bronchograms\nappreciated. The\ncrowding of vessels and bronchi suggests a component of\natelectasis, and\ngeneralized anasarca indicates that a degree of fluid overload\nis also likely\ninvolved. However, an underlying pneumonia cannot be excluded;\ndependent\nlocation would suggest aspiration as possible etiology. There is\nno\nsignificant pleural effusion on the right. Pleural effusion on\nthe left is\nsmall.\n\nThere is no mediastinal lymphadenopathy appreciated. There is no\naxillary or\nsupraclavicular lymphadenopathy.\n\nCT ABDOMEN: Oral contrast is seen in the stomach only.\nEvaluation of intra-\nabdominal organs is limited in lack of IV contrast. There is\nmoderate amount\nof ascites present. The liver is of somewhat low attenuation,\nsuggesting\nfatty infiltration. Liver is otherwise unremarkable without\nfocal lesions or\nintra-/extra-hepatic biliary dilatation. Patient is status post\ncholecystectomy. The pancreas, spleen, and adrenal glands appear\nnormal. The\nleft kidney is unremarkable. There is a large 5 x 6 cm cystic\nstructure\narising from the superior pole of the right kidney and has the\ndensity of\nsimple fluid and is likely a simple cyst. This is unchanged\ncompared to [**Month (only) 547**]\nof [**2109**]. There is no soft tissue stranding or significant\nlymphadenopathy\npresent. There is no free air. Vascular calcifications are seen\nwithout\naneurysmal dilatation.\n\nIMPRESSION:\n1. The feeding tube is coiled in the stomach. The remainder of\nthe\nsupportive and monitoring devices appear in adequate position.\n2. Status post repair of descending thoracic aortic aneurysm,\nwith no\nevidence for immediate post-surgical complication.\n3. Diffuse interstitial and ground glass opacities in the lungs,\nleft\ngreater than right, with focal consolidations at the bilateral\nbases. While\natelectasis and fluid overload are present, underlying pneumonia\ncannot be\nexcluded. The location suggests aspiration as possible etiology.\n\n4. Mild ascites and soft tissue anasarca suggests fluid\noverload.\n5. Stable large right renal cyst.\n6. Borderline fatty infiltration of the liver, without evidence\nfor focal\nliver lesions, biliary dilatation, or masses. Patient is status\npost\ncholecystectomy.\n\n\nThe study and the report were reviewed by the staff radiologist.\n\n\nDR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]\nDR. [**First Name (STitle) 8085**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8086**]\nApproved: WED [**2110-1-1**] 10:03 AM\n\n  Imaging Lab\n\n\n    [**Known lastname 44356**],[**Known firstname 3049**] [**Age over 90 44357**] F  64  [**2045-2-20**]\n\nRadiology Report LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT\nStudy Date of [**2109-12-29**] 4:57 PM\n\n\n[**Last Name (LF) **],[**First Name7 (NamePattern1) 177**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5204**] CSRU [**2109-12-29**] SCHED\nLIVER OR GALLBLADDER US (SINGL; DUPLEX DOPP ABD/PEL   Clip #\n[**Clip Number (Radiology) 44359**]\nReason: evaluate flow, increased LFT ? obstruction\n\n\n\n[**Hospital 93**] MEDICAL CONDITION:\n   64 year old woman with s/p descending aorta replacement\nREASON FOR THIS EXAMINATION:\n   evaluate flow, increased LFT ? obstruction\n\n\n\nWet Read: KYg SUN [**2109-12-29**] 7:13 PM\nlimited exam. no e/o bil dil. patent hepatic vasculature.\n\n\nFinal Report\nCLINICAL HISTORY: 64-year-old female with lupus, status post\ndescending aorta\nsurgery, with increased LFTs. Evaluate for obstruction.\n\nCOMPARISON: None.\n\nABDOMINAL ULTRASOUND: Limited exam as indwelling chest tubes\nlimits acoustic\nwindows. The liver is somewhat heterogeneous in appearance. No\nfocal hepatic\nlesion is identified. There is no intra- or extra-hepatic\nbiliary dilatation.\nThe common duct measures 5 mm. There is no ascites.\n\nDOPPLER ULTRASOUND: With the exception of the left portal vein,\nwhich could\nnot be interrogated, the main/right portal veins and hepatic\nveins are patent\nwith appropriate waveforms. The main, right and left hepatic\narteries show\nnormal flow.\n\nIMPRESSION:\n1. Limited exam as patient with indwelling chest tubes which\nlimits acoustic\nwindows. No focal hepatic lesion or evidence of biliary\ndilatation.\n2. Patent hepatic vasculature. The left portal vein was not\ninterrogated.\n\n\nThe study and the report were reviewed by the staff radiologist.\n\n\nDR. [**First Name8 (NamePattern2) **] [**Name (STitle) 7410**]\nDR. [**First Name8 (NamePattern2) 814**] [**Name (STitle) 815**]\nApproved: MON [**2109-12-30**] 10:40 AM\n\n  Imaging Lab\n\n\n\nBrief Hospital Course:\nMrs. [**Known lastname **] was a same day admit and on [**12-20**] was brought to the\noperating room where she underwent a right posterolateral\nthoracotomy, replacement of the proximal descending thoracic\naortic aneurysm using a 26-mm Vascutek Dacron interposition tube\ngraft and bronchoscopy. Please see operative report for complete\nsurgical details. Post-surgery bronchoscopy revealed right\nmainstem bronchus to still be collapsed. Following surgery she\nwas transferred to the CVICU for invasive monitoring in stable\ncondition. On post-op day one she was weaned from sedation,\nawoke neurologically intact and extubated. Pulmonary medicine\nwas consulted for stent placement on post-op day two.\nPost-operatively she required several blood transfusions d/t\nanemia. Lumbar drain was removed on post-o p day two. Also on\nthis day she had episode of atrial fibrillation and was treated\nappropriately. She continued to have bouts of atrial\nfibrillation during post-op course. On post-op day three she was\nbrought to the operating room where she underwent Y-stent\nplacement by interventional pulmonology. Later this day she\nrequired a bronchoscopy which found significant mucus retention\nand mucus plug in the lumen of the Y-stent. And had successful\ntherapeutic aspiration. Later on this day she was again weaned\nfrom sedation and extubated. Aggressive pulmonary therapy/toilet\nwere performed but she continued to require several\nbronchoscopies and increasing oxygen requirements over next\nseveral days. Overnight on post-op day six Mrs. [**Known lastname **] was\nprogressively getting more dyspneic and was in respiratory\ndistress the morning of post-op day seven, requiring intubation\nand mechanical ventilation. Respiratory distress and hypoxia\nseemed to be from developing pneumonia (Chest x-rays were\nconsistent with pneumonia and acute lung failure with ground\nglass opacities) and acute respiratory distress syndrome. Blood\ncultures taken on post-op day seven were positive for\nEnterobacter Aerogenes and COAG negative Staphylococcus.\nBronchoalveolar Lavage and Urine cultures were positive as well\nand she was started on broad-spectrum antibiotics until final\nsensitivities were performed. Also on this day she had\nincreasing metabolic acidosis and hypotension (d/t septic shock)\nand required multiple pressor support. She received similar\nmedical care over the next several days (including multiple\npressors and antibiotics) and infectious disease was consulted\non post-op day 11.\nThe patient remained intubated and her condition worsened with\nthe family asking that the patient be made comfort measures\nonly. The patient was extubated and expired shortly thereafter.\n\nMedications on Admission:\nAtenolol 12.5mg qd, Lipitor 10mg qd, Restasis, Plaquenil 400mg\nqd, Synthroid 100mcg qd, Protonix 80mg qd, Effexor 75mg qd,\nZolpidem 10mg qd, Spiriva, Advair, Albuterol\n\nDischarge Medications:\nPatient Expired\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nDescending thoracic aortic aneurysm with aberrant left\nsubclavian artery and Kumeral's diverticulum with aortic sling\ncompressing the right main stem bronchus s/p Right\nposterolateral thoracotomy, replacement of the proximal\ndescending thoracic aortic aneurysm [**12-20**] and Right Bronchial\nY-stent placement [**12-23**]\nPost-op Pneumonia\nPost-op Sepsis\nPost-op Acute Respiratory Distress Syndrome\nPost-op Atrial Fibrillation\nPost-op Anemia\nPMH: s/p Left Carotid to Subclavian bypass [**7-7**], s/p Amplatzer\nplugging of Aberrant left subclavian [**9-6**], Coronary Artery\nDisease s/p Coronary artery bypass graft x 1 (LIMA to LAD),\nConnective tissue disorder with features of Lupus, Sjogren's and\nraynaud syndrome, Stroke, Interstitial lung disease,\nHypothyroidism, Gastroesophageal Reflux disease, Right kidney\ncyst, s/p cholecystectomy, s/p carcinoid tumor removal during\ncolonoscopy, s/p right lung resection?wedge\nAcute lung injury and respiratory failure\n\nDischarge Condition:\nExpired\n\nDischarge Instructions:\nExpired\n\nFollowup Instructions:\nExpired\n\n\nCompleted by:[**2110-1-28**]"
+    },
+    {
+      "note_id": 546688,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 45,
+          "end": 67,
+          "code": "5A1955Z",
+          "code_system": "ICD-10-PCS",
+          "description": "Respiratory Ventilation, Greater than 96 Consecutive Hours",
+          "type": "Human",
+          "covered_text": "mechanical ventilation"
+        }
+      ],
+      "text": "Demographics\n   Day of intubation:\n   Day of mechanical ventilation: 7\n   Ideal body weight: 61.2 None\n   Ideal tidal volume: 244.8 / 367.2 / 489.6 mL/kg\n   Airway\n   Airway Placement Data\n   Known difficult intubation: No\n   :\n   Tube Type\n   ETT:\n                   Position: 21 cm at teeth\n                   Route: Oral\n                   Type: Standard\n                   Size: 7.5mm\n   Lung sounds\n   RLL Lung Sounds: Clear\n   RUL Lung Sounds: Crackles\n   LUL Lung Sounds: Clear\n   LLL Lung Sounds: Diminished\n   Comments:\n   Secretions\n   Sputum color / consistency: Clear / Thin\n   Sputum source/amount: Suctioned / Scant\n   Comments:\n   Ventilation Assessment\n   Level of breathing assistance: Continuous invasive ventilation\n   Visual assessment of breathing pattern: Supra-sternal retractions,\n   Accessory muscle use, Tachypneic (RR> 35 b/min); Comments: Patient has\n   moments of high RR requiring\n   sedation to make comfortable\n   Assessment of breathing comfort:\n   Non-invasive ventilation assessment:\n   Invasive ventilation assessment:\n   Trigger work assessment: Abnormal trigger efforts (efforts during\n   inspiratory)\n   Dysynchrony assessment:\n   Comments:\n   Plan\n   Next 24-48 hours: Utilize ARDSnet protocol; Comments: Mantain peep and\n   utilize\n   esophageal balloon for oxygenation\n   Reason for continuing current ventilatory support:\n   Respiratory Care Shift Procedures\n   Bedside Procedures:\n   Bronchoscopy (9:00)\n   Sputum induction\n   Comments: BAL done\n   needed to view stent\n"
+    },
+    {
+      "note_id": 545239,
+      "category": "Physician",
+      "description": "ICU Note - CVI",
+      "annotations": [
+        {
+          "begin": 279,
+          "end": 299,
+          "code": "J84.9",
+          "code_system": "ICD-10-CM",
+          "description": "Interstitial pulmonary disease, unspecified",
+          "type": "Human",
+          "covered_text": "interstitial lung dz"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   HD4\n   [**12-23**] POD 3\n   64F s/p replacement of R-sided desc. thoracic aorta (26mm gelweave\n   graft)\n   wt: 64kg Cr: 0.8 EF: 55%\n   PMH: CAD, bronchus compression, CVA ([**Doctor First Name 1463**] occlusion), CTD w features of\n   Sjogren's, SLE, raynaud's, interstitial lung dz, hypothyroidism, GERD,\n   R kidney cyst\n   PSH: CABGx1 (LIMA>LAD) [**2104**], L carotid-subclavian BP, amplatzer\n   plugging of aberrant L subclavian, R lung resection (wedge),\n   ccy/carcinoid tumor removal with colonoscopy\n   [**Last Name (un) 508**]: synthroid 100', prilosec 20', lipitor 10', atenolol 12.5', effexor\n   75', spiriva 18mcg', plaquenil 200'', asa 81', advair 250/50'',\n   albuterol 90'', zolpidem 10', restasis eye gtt, calcium, fiber\n   capsules\n   Current medications:\n   Active Medications [**Known lastname 2396**],[**Known firstname 2397**]\n   Acetaminophen  Albuterol-Ipratropium Aspirin EC Atorvastatin Calcium\n   Gluconate\n   Dextrose 50% Docusate Sodium Fluticasone-Salmeterol Diskus (250/50)\n   HYDROmorphone (Dilaudid) Hydroxychloroquine Sulfate Insulin Influenza\n   Virus Vaccine\n   Ketorolac  Levothyroxine Sodium Magnesium Sulfate Metoclopramide\n   Metoprolol Tartrate\n    Milk of Magnesia Nitroglycerin Omeprazole Potassium Chloride\n   Venlafaxine\n   24 Hour Events: weaned off neo gtt\n   Post operative day:\n   24 hrs events: Neo gtt weaned to off, episodes off intermittent Afib\n   Allergies:\n   Quinine\n   \"pass out\n   [**Doctor Last Name **]\n   Last dose of Antibiotics:\n   Cefazolin - [**2109-12-21**] 11:06 PM\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Flowsheet Data as of  [**2109-12-23**] 08:38 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**13**] a.m.\n   Tmax: 37.4\nC (99.4\n   T current: 37.2\nC (98.9\n   HR: 101 (83 - 101) bpm\n   BP: 124/57(81) {91/43(60) - 129/5,749(86)} mmHg\n   RR: 19 (13 - 25) insp/min\n   SPO2: 97%\n   Heart rhythm: ST (Sinus Tachycardia)\n   Wgt (current): 73 kg (admission): 63.4 kg\n   Height: 67 Inch\n             Total In:\n                                                                  2,040 mL\n                                                                    181 mL\n   PO:\n                                                                    960 mL\n             Tube feeding:\n   IV Fluid:\n                                                                    705 mL\n                                                                    181 mL\n   Blood products:\n                                                                    375 mL\n   Total out:\n                                                                  3,095 mL\n                                                                    840 mL\n   Urine:\n                                                                  2,855 mL\n                                                                    740 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                 -1,055 mL\n                                                                   -659 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SPO2: 97%\n   ABG: 7.41/44/99.[**Numeric Identifier 433**]/26/2\n   Physical Examination\n   General Appearance: No acute distress, Well nourished\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:\n   Rhonchorous : right, Diminished: right [**1-30**] way up), clear on left\n   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present\n   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Skin: (Incision: Clean / Dry / Intact), rt thoracotomy CDI/rt groin-CDI\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   (Responds to: Verbal stimuli)\n   Labs / Radiology\n   85 K/uL\n   9.8 g/dL\n   97 mg/dL\n   0.5 mg/dL\n   26 mEq/L\n   3.8 mEq/L\n   11 mg/dL\n   108 mEq/L\n   139 mEq/L\n   27.5 %\n   9.6 K/uL\n        [image002.jpg]\n                            [**2109-12-20**]  11:53 PM\n                            [**2109-12-21**]  01:21 AM\n                            [**2109-12-21**]  04:17 AM\n                            [**2109-12-21**]  08:10 AM\n                            [**2109-12-21**]  09:21 AM\n                            [**2109-12-22**]  03:01 AM\n                            [**2109-12-22**]  12:23 PM\n                            [**2109-12-22**]  12:38 PM\n                            [**2109-12-23**]  03:56 AM\n                            [**2109-12-23**]  04:04 AM\n   WBC\n   13.4\n   12.5\n   9.6\n   Hct\n   24.4\n   29.4\n   24.8\n   28.0\n   27.5\n   Plt\n   101\n   93\n   103\n   85\n   Creatinine\n   0.6\n   0.6\n   0.5\n   TCO2\n   22\n   26\n   26\n   27\n   29\n   Glucose\n   138\n   112\n   108\n   115\n   109\n   97\n   Other labs: PT / PTT / INR:12.6/27.9/1.1, Fibrinogen:183 mg/dL, Lactic\n   Acid:0.9 mmol/L, Ca:7.8 mg/dL, Mg:2.1 mg/dL, PO4:2.1 mg/dL\n   Assessment and Plan\n   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), .H/O AIRWAY OBSTRUCTION,\n   CENTRAL / UPPER, AORTIC ANEURYSM, THORACIC (TAA), .H/O CORONARY ARTERY\n   BYPASS GRAFT (CABG)\n   Assessment and Plan: 64yoW s/p rt thoraco-abdm anerysm repair,\n   hemodynamically stable. Chest tubes with continued air leak now on\n   water seal.\n   Neurologic: Pain controlled, with Dilaudid Toradol and percocet. After\n   IP places bronchial stent will d/c dilaudid\n   Cardiovascular: Aspirin, Beta-blocker, Statins\n   Pulmonary: IS, for bronchial stent with IP today\n   Gastrointestinal / Abdomen:\n   Nutrition: NPO, after stent placed will ADAT\n   Renal: Foley, Adequate UO\n   Hematology: stable hct, platelets 85K will continue to monitor, will\n   d/c platelets\n   Endocrine: RISS, continue synthroid\n   Infectious Disease: non new data\n   Lines / Tubes / Drains: Foley, Chest tube - pleural , Aline\n   Rt IJ cordis\n   Wounds: Dry dressings\n   Imaging:\n   Fluids: KVO\n   Consults: Vascular surgery, Pulmonology, Thoracic/IP for stent\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines: Aline, cordis, foley, CTx2\n   Cordis/Introducer - [**2109-12-20**] 02:00 PM\n   Arterial Line - [**2109-12-20**] 02:30 PM\n   20 Gauge - [**2109-12-22**] 06:00 AM\n   18 Gauge - [**2109-12-23**] 06:05 AM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: PPI\n   VAP bundle:\n   Comments: OOB today after stent\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: ICU\n"
+    },
+    {
+      "note_id": 545808,
+      "category": "Physician",
+      "description": "CVI",
+      "annotations": [
+        {
+          "begin": 204,
+          "end": 219,
+          "code": "A41.59",
+          "code_system": "ICD-10-CM",
+          "description": "Other Gram-negative sepsis",
+          "type": "Human",
+          "covered_text": "ARDS and sepsis"
+        },
+        {
+          "begin": 232,
+          "end": 235,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 326,
+          "end": 335,
+          "code": "M35.00",
+          "code_system": "ICD-10-CM",
+          "description": "Sj\u00f6gren syndrome, unspecified",
+          "type": "Human",
+          "covered_text": "Sjogren's"
+        }
+      ],
+      "text": "TITLE:\n   CVICU\n   HPI:\n   64 y.o. F POD 8 from replacement of R-sided desc. thoracic aorta (26mm\n   gelweave graft), POD # 5 from Rt bronchial Y-stent placement,\n   complicated by RLL and RML pneumonia, ARDS and sepsis\n   PMHx:\n   CAD, bronchus compression, CVA ([**Doctor First Name 1463**] occlusion), CTD w features of\n   Sjogren's, SLE, raynaud's, interstitial lung dz, hypothyroidism, GERD,\n   R kidney cyst\n   PSH: CABGx1 (LIMA>LAD) [**2104**], L carotid-subclavian BP, amplatzer\n   plugging of aberrant L subclavian, R lung resection (wedge),\n   ccy/carcinoid tumor removal with colonoscopy\n   Current medications:\n   24 Hour Events:\n UNPLANNED EXTUBATION (PATIENT-INITIATED) - At [**2109-12-27**] 09:00 AM\n INTUBATION - At [**2109-12-27**] 09:03 AM\n ARTERIAL LINE - START [**2109-12-27**] 09:07 AM\n BRONCHOSCOPY - At [**2109-12-27**] 09:10 AM\n BLOOD CULTURED - At [**2109-12-27**] 10:00 AM\n SPUTUM CULTURE - At [**2109-12-27**] 10:00 AM\n URINE CULTURE - At [**2109-12-27**] 10:00 AM\n PICC LINE - START [**2109-12-27**] 11:54 AM\n   Post operative day:\n   POD#5 - S/P Rigid and flexible bronch with Y stent placement in\n   mainstem\n   24 hour events: picc line placed, aline placed, respiratory distress\n   intubated with difficulty oxygenating, hypotension with increased\n   pressor requirement\n   Allergies:\n   Quinine\n   \"pass out\n   [**Doctor Last Name **]\n   Last dose of Antibiotics:\n   Ciprofloxacin - [**2109-12-27**] 01:01 PM\n   Vancomycin - [**2109-12-27**] 02:07 PM\n   Piperacillin/Tazobactam (Zosyn) - [**2109-12-27**] 06:00 PM\n   Fluconazole - [**2109-12-27**] 08:52 PM\n   Piperacillin - [**2109-12-28**] 04:26 AM\n   Infusions:\n   Midazolam (Versed) - 2 mg/hour\n   Norepinephrine - 0.14 mcg/Kg/min\n   Phenylephrine - 1.5 mcg/Kg/min\n   Fentanyl - 250 mcg/hour\n   Cisatracurium - 0.14 mg/Kg/hour\n   Other ICU medications:\n   Midazolam (Versed) - [**2109-12-27**] 12:30 PM\n   Fentanyl - [**2109-12-27**] 03:20 PM\n   Lorazepam (Ativan) - [**2109-12-27**] 03:28 PM\n   Other medications:\n   Flowsheet Data as of  [**2109-12-28**] 10:16 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**13**] a.m.\n   Tmax: 38\nC (100.4\n   T current: 38\nC (100.4\n   HR: 111 (84 - 124) bpm\n   BP: 117/46(64) {78/36(49) - 117/55(74)} mmHg\n   RR: 30 (21 - 39) insp/min\n   SPO2: 82%\n   Heart rhythm: ST (Sinus Tachycardia)\n   Wgt (current): 73 kg (admission): 63.4 kg\n   Height: 67 Inch\n   CVP: 13 (13 - 16) mmHg\n   Total In:\n                                                                  2,290 mL\n                                                                    873 mL\n   PO:\n   Tube feeding:\n   IV Fluid:\n                                                                  1,290 mL\n                                                                    873 mL\n   Blood products:\n                                                                  1,000 mL\n   Total out:\n                                                                    840 mL\n                                                                    129 mL\n   Urine:\n                                                                    785 mL\n                                                                    129 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  1,450 mL\n                                                                    744 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: PCV+Assist\n   Vt (Set): 330 (330 - 400) mL\n   Vt (Spontaneous): 299 (299 - 430) mL\n   PS : 18 cmH2O\n   RR (Set): 30\n   RR (Spontaneous): 0\n   PEEP: 12 cmH2O\n   FiO2: 100%\n   RSBI Deferred: PEEP > 10, FiO2 > 60%, Unstable Airway\n   PIP: 31 cmH2O\n   Plateau: 30 cmH2O\n   Compliance: 19 cmH2O/mL\n   SPO2: 82%\n   ABG: 7.33/57/107/31/2\n   Ve: 9.2 L/min\n   PaO2 / FiO2: 134\n   Physical Examination\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular), (Murmur: No(t) Systolic, No(t)\n   Diastolic), Tachycardia\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :\n   on R-base, Diminished: Throughout)\n   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present\n   Left Extremities: (Edema: Absent), (Temperature: Cool), (Pulse -\n   Dorsalis pedis: Diminished)\n   Right Extremities: (Edema: Absent), (Temperature: Cool), (Pulse -\n   Dorsalis pedis: Diminished)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: Sedated, Chemically paralyzed\n   Labs / Radiology\n   251 K/uL\n   8.9 g/dL\n   92 mg/dL\n   1.1 mg/dL\n   31 mEq/L\n   4.2 mEq/L\n   31 mg/dL\n   102 mEq/L\n   139 mEq/L\n   29\n   11.0 K/uL\n                            [**2109-12-27**]  07:51 PM\n                            [**2109-12-27**]  10:00 PM\n                            [**2109-12-27**]  10:43 PM\n                            [**2109-12-27**]  11:46 PM\n                            [**2109-12-28**]  01:04 AM\n                            [**2109-12-28**]  01:18 AM\n                            [**2109-12-28**]  03:08 AM\n                            [**2109-12-28**]  04:34 AM\n                            [**2109-12-28**]  06:39 AM\n                            [**2109-12-28**]  09:41 AM\n   WBC\n   11.0\n   Hct\n   32\n   32\n   27.1\n   29\n   Plt\n   251\n   Creatinine\n   1.1\n   TCO2\n   34\n   33\n   34\n   33\n   33\n   32\n   32\n   32\n   31\n   Glucose\n   88\n   116\n   111\n   102\n   92\n   Other labs: PT / PTT / INR:15.4/33.6/1.4, ALT / AST:[**11-18**], Alk-Phos / T\n   bili:62/1.4, Amylase / Lipase:18/, Fibrinogen:183 mg/dL, Lactic\n   Acid:2.2 mmol/L, Albumin:3.0 g/dL, Ca:7.8 mg/dL, Mg:2.3 mg/dL, PO4:1.7\n   mg/dL\n   Assessment and Plan\n   Neurologic: Neuro checks Q 2 hr, Pain controlled, Fentanyl and versed\n   drip for sedation, paralyzed due to hypoxia and difficulty oxygenating\n   Cardiovascular: Aspirin, place [**Last Name (un) **] for hemodynamic monitoring  Add\n   vasopressin and wean Levophed for SBP > 100, then attempt to wean neo\n   Pulmonary: Cont ETT, (Ventilator mode: Other), improved with PCV with\n   inverse ratio ? ARDS. Low TV ventilation. Optimal PEEP per esophageal\n   balloon is 12. wean Fio2 as tolerated\n   Gastrointestinal / Abdomen: No issues\n   Nutrition: NPO\n   Renal: Foley, Oliguria will attempt gentle diuresis with lasix drip -\n   Goal even to 500ml negative\n   Hematology: Serial Hct, Stable anemia. Monitor\n   Endocrine: RISS, Glucose well controlled. Keep < 150\n   Infectious Disease: Check cultures, RLL and RML pneumonia and (GPC GRN\n   in BAL), GPC in venopuncture and GNR in urine. On\n   Vanco/cipro/zosyn/fluconazole for coverage. Vanco level prior to 4^th\n   dose\n   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - pleural\n   Wounds: Dry dressings\n   Imaging: CXR today\n   Fluids: KVO\n   Consults: PT, IP\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   Arterial Line - [**2109-12-27**] 09:07 AM\n   20 Gauge - [**2109-12-27**] 11:53 AM\n   PICC Line - [**2109-12-27**] 11:54 AM\n   18 Gauge - [**2109-12-27**] 11:22 PM\n   Multi Lumen - [**2109-12-28**] 08:24 AM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: PPI\n   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: ICU\n"
+    },
+    {
+      "note_id": 547132,
+      "category": "General",
+      "description": "ICU Event Note",
+      "annotations": [
+        {
+          "begin": 89,
+          "end": 108,
+          "code": "Z51.5",
+          "code_system": "ICD-10-CM",
+          "description": "Encounter for palliative care",
+          "type": "Human",
+          "covered_text": "withdrawal of care,"
+        }
+      ],
+      "text": "Clinician:  Nurse\n   Family arrived @11am. Visited with patient then family requested\n   withdrawal of care, per HCP-husband [**Name (NI) **] [**Name (NI) **] after catholic priest\n   was available to pray with family. Pt made  CMO and extubated per\n   family wishes. Placed on morphine gtt for comfort. Pt expired 1555pm\n   with family at her bedside.\n"
+    }
+  ]
+}

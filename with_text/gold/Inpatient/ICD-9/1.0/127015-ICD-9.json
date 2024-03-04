@@ -1,0 +1,67 @@
+{
+  "hadm_id": 127015,
+  "comment": "CABG OP report not present- unablet to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 53255,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 279,
+          "end": 302,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "coronary artery disease"
+        },
+        {
+          "begin": 584,
+          "end": 598,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "hyperlipidemia"
+        },
+        {
+          "begin": 599,
+          "end": 611,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 3805,
+          "end": 3828,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        }
+      ],
+      "text": "Admission Date:  [**2135-6-28**]              Discharge Date:   [**2135-7-1**]\n\nDate of Birth:  [**2089-8-2**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 165**]\nChief Complaint:\ncoronary artery disease\n\nMajor Surgical or Invasive Procedure:\nminimally invasive coronary artery bypass graft [**6-28**]\n\n\nHistory of Present Illness:\n45 year old white male with LAD disease.\n\nPast Medical History:\nThis patient has known LAD disease and has opted for minimally\ninvasive bypass grafting.\nhyperlipidemia\nhypertension\n\nSocial History:\nnonsmoker\n\nFamily History:\nnon contributory.\n\nPhysical Exam:\nAdmission:\nOn physical examination, his heart rate is 60.  Respiratory rate\nwas 14.  Blood pressure taken in the right arm is 122/80.  He is\n5' 11\" inches tall.  Weighing 165 lbs.  He is well developed,\nwell nourished, and in no apparent distress.  Skin is\nunremarkable, clean, dry, and intact.  His EOMs are intact.\nPupils are equally, round, and reactive to light.  His\noropharynx is benign.  Neck is supple with full range of motion.\nNo JVD or carotid bruits are appreciated.  Lungs are clear\nbilaterally.  Heart is regular in rate and rhythm without\nmurmur.  Abdomen is soft, nontender, nondistended with positive\nbowel sounds.  Extremities are warm and well perfused without\nany peripheral edema or varicosities noted.  Neurologically, he\nis grossly intact and 2+ bilateral femoral, DP, PT, and radial\n\n\nPertinent Results:\n[**2135-6-29**] 12:19AM BLOOD WBC-11.9* RBC-3.99* Hgb-12.0* Hct-35.9*\nMCV-90 MCH-30.1 MCHC-33.4 RDW-12.6 Plt Ct-178\n[**2135-6-29**] 12:19AM BLOOD Glucose-162* UreaN-22* Creat-1.0 Na-138\nK-4.0 Cl-106 HCO3-23 AnGap-13\n[**2135-6-30**] 05:44AM BLOOD WBC-9.6 RBC-3.70* Hgb-11.5* Hct-32.9*\nMCV-89 MCH-31.0 MCHC-34.8 RDW-13.0 Plt Ct-174\n[**2135-6-30**] 05:44AM BLOOD Glucose-130* UreaN-16 Creat-1.0 Na-140\nK-3.8 Cl-107 HCO3-27 AnGap-10\n\nBrief Hospital Course:\nFollowing admission he underwent minimally invasive LAD grafting\nwith endoscopic LIMA takedown.  He tolerated the procedure well\nand was extubated in the Operating Room.\n\nHis ICU course was uneventful and he was given Toradol for\nanalgesia. Plavix was given due to the off-pump nature of the\noperation.  His CT was removed on POD 1 and he was transferred\nto the floor.  The physical therapy service was consulted for\nassistance with post-operative strength and mobilitiy.  Beta\nblocker was started and the patient was gently diuresed toward\nhis preoperative weight.  Post-operative course was uneventful\nand the patient was discharged home with VNA on POD 3.\n\n\nMedications on Admission:\ncrestor 40mg/D\nlopressor 50mg [**Hospital1 **]\nASA 325 mg/D\n\nDischarge Medications:\n1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n2. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every\n4 hours) as needed for pain.\n3. Pravastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.\n4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ4H (every 4 hours) as needed for pain.\nDisp:*60 Tablet(s)* Refills:*0*\n5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)\nas needed for off pump.\nDisp:*30 Tablet(s)* Refills:*0*\n6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\nDisp:*60 Tablet(s)* Refills:*0*\n7. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours). Tablet(s)\n8. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)\nfor 7 days.\nDisp:*7 Tablet(s)* Refills:*0*\n9. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:\nOne (1) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily) for 7\ndays.\nDisp:*7 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nCoronary artery disease\ns/p minimally invasive coronary artery bypass graft\nhypertension\nhyperlipidemia\n\n\nDischarge Condition:\ngood\n\n\nDischarge Instructions:\nshower daily, no baths or swimming\nno lotions, creams or powders to incisions\nno driving for 4 weeks and off all narcotics\nno lifting more than 10 pounds for 10 weeks\nreport any redness of, or drainage from incisions\nreport any fever greater than 100.5\nreport any weight gain greater than 2 pounds a day or 5 pounds a\nweek\ntake all medications as directed\n\nFollowup Instructions:\nDr. [**First Name (STitle) **] in 4 weeks ([**Telephone/Fax (1) 170**])\n[**Hospital Ward Name 121**] 6 wound clinic in 2 weeks\nDr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in 2 weeks ([**Telephone/Fax (1) 4775**])\nplease call for appointments\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]\n\nCompleted by:[**2135-7-1**]"
+    },
+    {
+      "note_id": 688805,
+      "category": "Physician",
+      "description": "ICU Note - CVI",
+      "annotations": [
+        {
+          "begin": 55,
+          "end": 71,
+          "code": "36.15",
+          "code_system": "ICD-9-PCS",
+          "description": "Single internal mammary-coronary artery bypass",
+          "type": "MapType.APPROX",
+          "covered_text": "CABGx1(LIMA-LAD)"
+        }
+      ],
+      "text": "CVICU\n   HPI:\n   HD2\n   [**6-29**] POD 1\n   45M s/p OP CABGx1(LIMA-LAD)[**6-28**]\n   EF:60% Cr: 1.1 Wt:77kg HgA1c:\n   PMH:hyperlipidemia,CAD\n   [**Last Name (un) **]:ASA 325mg/D,Pravastatin 80mg/D,Lopressor 50mg [**Hospital1 **]\n   [**6-29**]-BB and transfer\n   Current medications:\n   4. Acetaminophen 5. Aspirin EC 6. Calcium Gluconate 7. CefazoLIN 8.\n   Clopidogrel\n   Dextrose 50% Docusate Sodium . Insulin . Ketorolac . Magnesium Sulfate\n   . Metoclopramide Milk of Magnesia . Morphine Sulfate .\n   Oxycodone-Acetaminophen . Potassium Chloride . Ranitidine Rosuvastatin\n   Calcium .\n   24 Hour Events:\n MULTI LUMEN - START [**2135-6-28**] 02:00 PM\n ARTERIAL LINE - START [**2135-6-28**] 02:00 PM\n OR RECEIVED - At [**2135-6-28**] 02:00 PM\n EKG - At [**2135-6-28**] 02:21 PM\n MULTI LUMEN - STOP [**2135-6-29**] 06:20 AM\n ARTERIAL LINE - STOP [**2135-6-29**] 06:27 AM\n   Post operative day:\n   POD#1 - CABG x1 LIMA to LAD, off pump,\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Morphine Sulfate - [**2135-6-28**] 05:00 PM\n   Other medications:\n   Flowsheet Data as of  [**2135-6-29**] 09:22 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**37**] a.m.\n   Tmax: 37.2\nC (98.9\n   T current: 37.2\nC (98.9\n   HR: 72 (63 - 82) bpm\n   BP: 119/61(76) {116/61(74) - 123/64(79)} mmHg\n   RR: 17 (9 - 24) insp/min\n   SPO2: 95%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 71 Inch\n   CVP: 3 (0 - 9) mmHg\n   Total In:\n                                                                  4,156 mL\n                                                                    743 mL\n   PO:\n                                                                    600 mL\n   Tube feeding:\n   IV Fluid:\n                                                                  3,556 mL\n                                                                    743 mL\n   Blood products:\n   Total out:\n                                                                    955 mL\n                                                                    540 mL\n   Urine:\n                                                                    600 mL\n                                                                    530 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  3,201 mL\n                                                                    203 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SPO2: 95%\n   ABG: 7.36/47/162/23/-1\n   PaO2 / FiO2: 162\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : ), (Sternum: Stable )\n   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present\n   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   178 K/uL\n   12.0 g/dL\n   122\n   1.0 mg/dL\n   23 mEq/L\n   4.0 mEq/L\n   22 mg/dL\n   106 mEq/L\n   138 mEq/L\n   35.9 %\n   11.9 K/uL\n        [image002.jpg]\n                             [**2135-6-28**]  01:01 PM\n                             [**2135-6-28**]  02:13 PM\n                             [**2135-6-28**]  02:21 PM\n                             [**2135-6-28**]  04:27 PM\n                             [**2135-6-28**]  05:30 PM\n                             [**2135-6-28**]  06:30 PM\n                             [**2135-6-28**]  10:00 PM\n                             [**2135-6-29**]  12:19 AM\n                             [**2135-6-29**]  02:00 AM\n   WBC\n   18.6\n   11.9\n   Hct\n   39\n   35.8\n   35.9\n   Plt\n   227\n   178\n   Creatinine\n   1.1\n   1.0\n   TCO2\n   26\n   28\n   26\n   Glucose\n   131\n   138\n   114\n   128\n   121\n   131\n   162\n   122\n   Other labs: PT / PTT / INR:14.2/27.6/1.2, Lactic Acid:1.5 mmol/L\n   Imaging: CXR- clear drains out.\n   Assessment and Plan\n   CORONARY ARTERY BYPASS GRAFT (CABG)\n   Assessment and Plan: Stable, ready for floor.\n   Neurologic: Neuro checks Q: 4 hr, Pain controlled\n   Cardiovascular: Aspirin, Beta-blocker, Statins\n   Pulmonary: IS\n   Gastrointestinal / Abdomen:\n   Nutrition: Advance diet as tolerated\n   Renal: Foley, Adequate UO\n   Hematology:\n   Endocrine:\n   Infectious Disease:\n   Lines / Tubes / Drains: Foley, Chest tube - pleural\n   Wounds: Dry dressings\n   Imaging: CXR today\n   Fluids:\n   Consults: P.T.\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2135-6-29**] 06:34 AM\n   Prophylaxis:\n   DVT:\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status:\n   Disposition: Transfer to floor\n"
+    }
+  ]
+}

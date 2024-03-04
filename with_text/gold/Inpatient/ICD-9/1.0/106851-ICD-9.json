@@ -1,0 +1,103 @@
+{
+  "hadm_id": 106851,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 37925,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 426,
+          "end": 436,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 2589,
+          "end": 2599,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 5239,
+          "end": 5277,
+          "code": "965.4",
+          "code_system": "ICD-9-CM",
+          "description": "Poisoning by aromatic analgesics, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "Intentional Overdose/Tylenol Toxicity:"
+        },
+        {
+          "begin": 5332,
+          "end": 5338,
+          "code": "969.4",
+          "code_system": "ICD-9-CM",
+          "description": "Poisoning by benzodiazepine-based tranquilizers",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "ativan"
+        },
+        {
+          "begin": 5340,
+          "end": 5346,
+          "code": "E950.0",
+          "code_system": "ICD-9-CM",
+          "description": "Suicide and self-inflicted poisoning by analgesics, antipyretics, and antirheumatics",
+          "type": "MapType.MULTI",
+          "covered_text": "motrin"
+        }
+      ],
+      "text": "Admission Date:  [**2163-9-5**]              Discharge Date:   [**2163-9-7**]\n\nDate of Birth:  [**2144-9-22**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 9454**]\nChief Complaint:\nOverdose\n\nMajor Surgical or Invasive Procedure:\nNone\n\nHistory of Present Illness:\nThis is an 18 year old male with past medical history\nsignificant for depression who presents today after an\nintentional overdose in the setting of recently breaking up with\nhis girlfriend of 1.5 years and worsening depression.  He\ninitially presented to the [**Hospital6 **] on [**2163-8-25**]\nfeeling unsafe.  He was able to contract for safety and was\ndischarged with close followup.  He then presented to BU Mental\nHealth feeling unsafe and was section 12 and transferred to\n[**Hospital1 18**] but he was felt to be safe for discharge and released to\nthe care of his family.  He subsequently ingested unknown\nquantities of ativan, motrin, nyquil, and excedrin pm\napproximately 2 pm on Monday [**9-5**].   He went [**Location (un) 84770**] and wanted to jump in front of a car but couldn't bring\nhimself to do it.  He ultimately sought medical attention about\n7 yours later on Monday evening, after friends found him\nlethargic and vomiting.\n\nIn the ED,vs were: T98.3 P 98 BP 126/76 R16 O2 sat 100% on RA.\nPatient was slightly lethargic appearing but was conversant.  He\nreported taking 3 mg lorazepam, [**12-2**] ibuprofen, 1 shot [**First Name4 (NamePattern1) **]\n[**Last Name (NamePattern1) 5261**], and an unclear amount of Nyquil and excederine PM.\nInitially laboratories were notable for normal chemistries and\ntransaminases but a serum tylenol level of 167 at approximately\n7 hours after ingestion.  His toxicology screen was otherwise\nnegative. Given that this is within the window for potential\nhepatic toxicity he was started on a n-acetylcysteine drip and\ntransferred to the ICU.\n\nIn the ICU he was monitored on telemetry with no events.  His\ntransaminases were monitored and showed no elevation.  His INR\nrose slightly to 1.5 and then trended down to 1.2.  He was seen\nby psychiatry who recommended 1:1 sitter and transfer to\npsychiatry once medically stable for further management.\n\nOn transfer to the floor he has no complaints.  Specifically he\ndenies fevers, chills, confusion, lightheadedness, dizziness,\nchest pain, difficulty breathing, nausea, vomiting, abdominal\npain, diarrhea, constipation, dysuria, hematuria, leg pain or\nswelling.  All other review of systems is negative in detail.\n\nPast Medical History:\nDepression\n\nSocial History:\nBorn in [**State 760**].  Currently, he is a sophomore at BU in\nBiomed engineering. Occasional EtOH, no tobacco or illicits.\nHas used marijuana on two occassions in the past.\n\nFamily History:\nAlcohol abuse in his father\n\nPhysical Exam:\nInitial Physical Exam:\nVitals: T: 98.3 P: 98 BP: 126/76 R: 16 O2sat: 100% on RA\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCardiac: Regular rate and rhythm, normal S1 + S2, no murmurs,\nrubs, gallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nExtremities: Warm, well perfused, 2+ pulses, no clubbing,\ncyanosis or edema\n\nDischarge Exam:\nUnchanged\n\n\nPertinent Results:\nHematology:\n[**2163-9-7**] 06:15AM BLOOD WBC-5.8 RBC-4.72 Hgb-13.9* Hct-40.5\nMCV-86 MCH-29.4 MCHC-34.3 RDW-12.8 Plt Ct-224\n[**2163-9-6**] 05:30AM BLOOD WBC-7.6 RBC-4.57* Hgb-13.2* Hct-39.0*\nMCV-85 MCH-28.9 MCHC-33.9 RDW-12.8 Plt Ct-212\n[**2163-9-5**] 09:15PM BLOOD WBC-5.7 RBC-5.41 Hgb-15.3 Hct-45.1 MCV-83\nMCH-28.2 MCHC-33.9 RDW-13.3 Plt Ct-306\n\nCoagulation Profiles:\n[**2163-9-5**] 10:30PM BLOOD PT-13.9* PTT-21.4* INR(PT)-1.2*\n[**2163-9-6**] 05:30AM BLOOD PT-16.8* PTT-26.8 INR(PT)-1.5*\n[**2163-9-7**] 06:15AM BLOOD PT-14.1* PTT-28.6 INR(PT)-1.2*\n\nChemistries:\n[**2163-9-5**] 09:15PM BLOOD Glucose-116* UreaN-15 Creat-1.3* Na-143\nK-3.7 Cl-99 HCO3-28 AnGap-20\n[**2163-9-6**] 01:05PM BLOOD Glucose-91 UreaN-9 Creat-0.9 Na-140 K-3.7\nCl-106 HCO3-24 AnGap-14\n[**2163-9-7**] 06:15AM BLOOD Glucose-80 UreaN-11 Creat-0.8 Na-141\nK-4.3 Cl-104 HCO3-28 AnGap-13\n[**2163-9-7**] 06:15AM BLOOD Calcium-9.9 Phos-3.2 Mg-1.8\n\nTransaminases:\n[**2163-9-5**] 09:15PM BLOOD ALT-14 AST-21 LD(LDH)-190 AlkPhos-63\nTotBili-0.2\n[**2163-9-6**] 05:30AM BLOOD ALT-10 AST-13 LD(LDH)-134 AlkPhos-46\nTotBili-0.4\n[**2163-9-6**] 01:05PM BLOOD ALT-12 AST-18 LD(LDH)-170 AlkPhos-53\nTotBili-0.6\n[**2163-9-6**] 08:59PM BLOOD ALT-10 AST-15 AlkPhos-50 TotBili-0.3\n[**2163-9-7**] 06:15AM BLOOD ALT-12 AST-18 AlkPhos-53 TotBili-0.4\n\nToxicology:\n[**2163-9-5**] 09:15PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-167*\nBnzodzp-NEG Barbitr-NEG Tricycl-NEG\n[**2163-9-6**] 08:59PM BLOOD Acetmnp-NEG\n[**2163-9-6**] 05:30AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG\ncocaine-NEG amphetm-NEG mthdone-NEG\n\nBrief Hospital Course:\nThis is an 18 year old male with past medical history\nsignificant for depression who presented after an intentional\noverdose in the setting of recently breaking up with\nhis girlfriend of 1.5 years and worsening depression.\n\nIntentional Overdose/Tylenol Toxicity:  Patient reported\ningesting significant quantities of ativan, motrin, nyquil,and\nexcedrin pm at approximately 2 pm on Monday [**9-5**].  Seven hours\nlater his tylenol level on presentation to the emergency room\nwas 167 which is within potential range for hepatotoxicity.  He\nwas started on n-acetylcysteine for treatment of tylenol\ntoxicity and admitted to the MICU.  He was monitored on\ntelemetry with no arrhythmias.  His transaminases were monitored\nand did not increase.  His INR increased slightly from 1.2 to\n1.5 but subsequently normalized.  He showed no signs of liver\ndamage.  He completed a 21 hour course of n-acetylcysteine.  No\nfurther medical therapy is needed for treatment of his overdose\nand he is medically stable for transfer for psychiatry.\n\nSuicide Attempt/Depression: Patient was transferred on section\n12 after a serious suicide attempt.  On arrival he had a\nflattened affect.  He was seen by social work and psychiatry who\nrecommended 1:1 sitter and ultimate transfer to inpatient\npsychiatry facility for further management of his depression.\n\n\nMedications on Admission:\nNone\n\nDischarge Medications:\nNone\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPrimary:\nDepression\nOverdose\n\n\nDischarge Condition:\nStable.  Ambulating without assistance.  No evidence of hepatic\ndamage.\n\n\nDischarge Instructions:\nYou were seen and evaluated for your overdose.  You were found\nto have an elevated tylenol level and were treated with\nn-acetylcysteine for liver protection.  You were monitored\ninitially in the ICU and then on the floor for evidence of liver\ndamage which you did not develop.\n\nPlease take all your medications as prescribed.  The following\nchanges were made to your medication regimen.\n1. Please do not take any tylenol products for one month\n\nPlease keep all your follow up appointments as scheduled.\n\nPlease seek immediate medical attention if you experience any\nfevers, lightheadedness, chest pain, difficulty breathing,\nabdominal pain, yellowing of your skin or any other concerning\nsymptoms.\n\nFollowup Instructions:\nPlease follow up with your primary care physician within one\nweek of discharge from psychiatry.  If you do not have a primary\ncare physician, [**Name10 (NameIs) **] are welcome to establish primary care here\nat [**Hospital3 **].  The office phone number is [**Telephone/Fax (1) 250**].\n\n\n\n"
+    },
+    {
+      "note_id": 699476,
+      "category": "Physician",
+      "description": "Physician Admission Note - MICU",
+      "annotations": [
+        {
+          "begin": 164,
+          "end": 186,
+          "code": "965.4",
+          "code_system": "ICD-9-CM",
+          "description": "Poisoning by aromatic analgesics, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "acetaminophen overdose"
+        },
+        {
+          "begin": 5739,
+          "end": 5748,
+          "code": "969.4",
+          "code_system": "ICD-9-CM",
+          "description": "Poisoning by benzodiazepine-based tranquilizers",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "lorazepam"
+        },
+        {
+          "begin": 5753,
+          "end": 5768,
+          "code": "963.0",
+          "code_system": "ICD-9-CM",
+          "description": "Poisoning by antiallergic and antiemetic drugs",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "diphenhydramine"
+        },
+        {
+          "begin": 5770,
+          "end": 5779,
+          "code": "E950.0",
+          "code_system": "ICD-9-CM",
+          "description": "Suicide and self-inflicted poisoning by analgesics, antipyretics, and antirheumatics",
+          "type": "MapType.MULTI",
+          "covered_text": "ibuprofen"
+        }
+      ],
+      "text": "Chief Complaint:  Acetaminophen overdose\n   HPI:\n   This is an 18 year old male with past medical history significant for\n   depression who presents today after an acetaminophen overdose.  The\n   patient has been having problems recently with a break up with his\n   girlfriend and in the context of this relationship ending he has been\n   dealing with worsened depression and suicidal ideation.  Per notes he\n   intially presented to the [**Hospital6 **] Emergency Department on\n   [**2163-8-25**] due to feeling unsafe.  After eventually being able to contract\n   for safety he was discharged with follow up.  In between that emergency\n   department visit and his follow up he once again presented to the BU\n   [**Hospital 9116**] Health Center complaining of feeling unsafe and thoughts of\n   self harm including a plan.  He was transferred to [**Hospital1 5**] ED on a\n   section 12 and had been a plan to admit until family showed up and\n   offered to support and observe patient.  Therefore, he was released to\n   their supervision.  In the interim he had been somewhat stable and had\n   been seeing behavioral health at BU.  This afternoon, he spoke to his\n   ex-girlfriend on the phone and became upset with her.  Therefore, he\n   decided he wanted to die and decided the least painful way was with\n   medications.  He took a small amount of [**First Name4 (NamePattern1) 1384**] [**Last Name (NamePattern1) 3268**], 3 mg of\n   lorazepam, 15-20 ibuprofen, excedrin PM, and nyquil.  A friend called\n   911.  [**Name2 (NI) **] is unclear whether he still wants to die.  He reports his\n   ingestion was at about 2:00 PM.\n   In the ED,vs were: T098.3 P 98 BP 126/76 R16  O2 sat 100% on RA.\n   Patient was slightly altered and seemed drugged but otherwise benign\n   exam and was cooperative.  APAP level of 167.  Admitted to medicine for\n   further management.\n   Currently, he feels depressed but denies any physical complaints.\n   Patient admitted from: [**Hospital1 5**] ER\n   History obtained from Patient\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Past medical history:\n   Family history:\n   Social History:\n   -s/p ORIF R arm\n   EtOH abuse in father.\n   Occupation: [**Name2 (NI) 9117**] at BU\n   Drugs: None\n   Tobacco: None\n   Alcohol: Rare\n   Other:\n   Review of systems:\n   Constitutional: No(t) Fever\n   Eyes: No(t)  Blurry vision\n   Gastrointestinal: No(t) Abdominal pain\n   Flowsheet Data as of [**2163-9-6**] 02:40 AM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37\nC (98.6\n   Tcurrent: 37\nC (98.6\n   HR: 86 (79 - 88) bpm\n   BP: 115/65(71) {115/65(71) - 115/65(77)} mmHg\n   RR: 21 (16 - 21) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n             1,045 mL\n   PO:\n             TF:\n   IVF:\n   1,045 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                      0 mL\n   Urine:\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                  1,045 mL\n   Respiratory\n   O2 Delivery Device: Nasal cannula\n   SpO2: 100%\n   Physical Examination\n   General Appearance: Well nourished, No acute distress, Anxious\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Normocephalic\n   Lymphatic: Cervical WNL\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),\n   (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, Bowel sounds present\n   Extremities: Right lower extremity edema: Absent, Left lower extremity\n   edema: Absent\n   Skin:  Warm\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Oriented (to): Person, place, and time, Movement: Purposeful,\n   Tone: Normal\n   Labs / Radiology\n   306\n   15.3\n   116\n   1.3\n   15\n   28\n   99\n   3.7\n   143\n   45.1\n   5.7\n        [image002.jpg]\n   Other labs: PT / PTT / INR:13.9/21.4/1.2, ALT / AST:14/21, Alk Phos / T\n   Bili:63/0.2, Amylase / Lipase:/31, Differential-Neuts:63.2, Lymph:30.9,\n   Mono:4.2, Eos:1.4\n   Fluid analysis / Other labs: Serum APAP: 167\n   Serum ASA, EtOH, [**Last Name (LF) 1556**], [**First Name3 (LF) **], Tricyclic: Negative\n   ECG: Sinus rhythm at rate of 96, normal axis and intervals (QTc of\n   431).  No concerning ST or T wave changes\n   Assessment and Plan\n   This is an 18 year old male with a history of depression presenting\n   after an acetaminophen overdose.\n   1) Acetaminophen Overdose: Patient's acetaminophen level at seven hours\n   after toxic ingestion is within range of possible liver toxicity and\n   not completely reliable regarding time of ingestion.  Therefore, we\n   have initiated NAC protocol.  Currently, INR and LFT's relatively\n   normal\n   -Continue NAC\n   -Recheck labs in AM\n   -F/U tox reccs\n   2) Suicide Attempt/Depression: Patient has flattened affect and serious\n   attempts suggest depression though given clear situational precipitant\n   also possible adjustment disorder.  Very serious attempt after multiple\n   calls for help is concerning.  Likely will need inpatient psych\n   admission after medicine discharge.\n   -1:1 sitter\n   -f/u psych reccs\n   -Social work re: coping\n   3) Other ingestions: Other ingested substances (lorazepam,\n   diphenhydramine, ibuprofen) unlikely to cause end organ damage and\n   would mostly be managed supportively.\n   -Monitory\n   4) PPx: Pneumoboots and ambulate for DVT, will start H2 blocker given\n   large NSAID dose\n   5) FEN: Regular diet, replete lytes PRN\n   6) Code: Full\n   7) Access: PIV's\n   8) Contact: patient doesn't wish for anyone to be called tonight, we\n   will contact family in AM\n   9) Dispo: ICU pending stable LFT's\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2163-9-6**] 01:09 AM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: H2 blocker\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU\n   ------ Protected Section ------\n   I saw and examined the patient, and was physically present with the ICU\n   resident for the key portions of the services provided. I agree with\n   the note above, including the assessment and plan.  To that I would add\n   the following:\n   This is an 18 yo man who presented to ED today with ingestion of\n   Excedrin PM (acetaminophen, diphenhydramine), Ativan, Motrin, nyquil,\n   and whiskey in context of suicidal ideation/intent.  Has had multiple\n   ED visits over last week with suicidal ideation after breaking up with\n   his girlfriend.  Acetaminophen level 167 approx 7 hrs post-ingestion.\n   Started on iv NAC protocol in ED and transferred to MICU.\n   Plan on continuing iv NAC for acetaminophen overdose.  Supportive care\n   for other substances ingested; pt arousable and conversant with\n   housestaff team.\n   Pt is critically ill.  Time spent 33 minutes.\n   ------ Protected Section Addendum Entered By:[**Name (NI) 1776**] [**Name8 (MD) **], MD\n   on:[**2163-9-6**] 03:01 ------\n"
+    }
+  ]
+}

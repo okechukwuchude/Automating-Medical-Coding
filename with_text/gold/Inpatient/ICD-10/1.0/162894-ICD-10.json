@@ -1,0 +1,131 @@
+{
+  "hadm_id": 162894,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 41456,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 435,
+          "end": 447,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 449,
+          "end": 457,
+          "code": "E11.65",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with hyperglycemia",
+          "type": "Human",
+          "covered_text": "diabetes"
+        },
+        {
+          "begin": 459,
+          "end": 476,
+          "code": "G89.29",
+          "code_system": "ICD-10-CM",
+          "description": "Other chronic pain",
+          "type": "Human",
+          "covered_text": "chronic back pain"
+        },
+        {
+          "begin": 481,
+          "end": 491,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 2392,
+          "end": 2399,
+          "code": "R55",
+          "code_system": "ICD-10-CM",
+          "description": "Syncope and collapse",
+          "type": "Human",
+          "covered_text": "syncope"
+        },
+        {
+          "begin": 2917,
+          "end": 2925,
+          "code": "R41.0",
+          "code_system": "ICD-10-CM",
+          "description": "Disorientation, unspecified",
+          "type": "Human",
+          "covered_text": "delirium"
+        },
+        {
+          "begin": 3597,
+          "end": 3624,
+          "code": "F17.200",
+          "code_system": "ICD-10-CM",
+          "description": "Nicotine dependence, unspecified, uncomplicated",
+          "type": "Human",
+          "covered_text": "Tobacco:  1.5 packs per day"
+        },
+        {
+          "begin": 7923,
+          "end": 7935,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "hyponatremia"
+        },
+        {
+          "begin": 11795,
+          "end": 11804,
+          "code": "T44.7X1A",
+          "code_system": "ICD-10-CM",
+          "description": "Poisoning by beta-adrenoreceptor antagonists, accidental (unintentional), initial encounter",
+          "type": "Human",
+          "covered_text": "methadone"
+        },
+        {
+          "begin": 11806,
+          "end": 11816,
+          "code": "T40.3X1A",
+          "code_system": "ICD-10-CM",
+          "description": "Poisoning by methadone, accidental (unintentional), initial encounter",
+          "type": "Human",
+          "covered_text": "clonazepam"
+        },
+        {
+          "begin": 11822,
+          "end": 11832,
+          "code": "T42.6X1A",
+          "code_system": "ICD-10-CM",
+          "description": "Poisoning by other antiepileptic and sedative-hypnotic drugs, accidental (unintentional), initial encounter",
+          "type": "Human",
+          "covered_text": "gabapentin"
+        },
+        {
+          "begin": 11833,
+          "end": 11844,
+          "code": "R00.1",
+          "code_system": "ICD-10-CM",
+          "description": "Bradycardia, unspecified",
+          "type": "Human",
+          "covered_text": "Bradycardia"
+        },
+        {
+          "begin": 11891,
+          "end": 11897,
+          "code": "T42.4X1A",
+          "code_system": "ICD-10-CM",
+          "description": "Poisoning by benzodiazepines, accidental (unintentional), initial encounter",
+          "type": "Human",
+          "covered_text": "Toprol"
+        }
+      ],
+      "text": "Admission Date:  [**2152-2-29**]              Discharge Date:   [**2152-3-5**]\n\nDate of Birth:  [**2093-9-1**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 2758**]\nChief Complaint:\nFall\n\nMajor Surgical or Invasive Procedure:\nNone\n\n\nHistory of Present Illness:\nMs. [**Known lastname 2412**] is a 58 year old female with a medical history\nsignificant for hypertension, diabetes, chronic back pain and\ndepression who presented to the ED today after a mechanical fall\nat a train station. She hit her face after tripping while\ncarrying heavy bags. She did not lose consciousness. She scraped\nher face, and otherwise felt fine per report.\n\nOn arrival to the hospital, the patient was unable to provide a\ndetailed history due to confusion. However, her granddaughter\nwas with her at the station and reported the patient was quite\nconfused before and after the fall. In conversations with her\nhusband, he mentions that Ms. [**Known lastname 2412**] has bad back pain and has\nhad multiple recent injections and medication changes for this.\nNotably, she was started on methadone approximately 3 weeks\nprior to admission. Her gabapentin was also recently increased.\nIn reviewing her medications with her husband, it was also noted\nthat she had pill bottles of both metoprolol 6.25mg twice daily\nand Toprol 50mg daily at home. She had no recent illness or\ninfections.\n\nIn the ED, she was at times somnolent, and confused, lighting a\ncigarette while in the ED.  Her initial vs were: T 97.4 HR 50 BP\n119/84 RR 18 Sa O2 95%. Patient was given 500cc of saline and a\nTdap booster shot. She had a head CT that showed no acute\nhemorrhage and focal hypodensities at the right basal ganglia,\nlikely old ischemic foci. They were going to send her home, but\nshe was a little bit lethargic and somnolent. Chem 7 showed\nsodium of 120. Vitals on transfer BP: 170/99 HR 48 RR 11 Sat O2\n99%3L.\n\nIn the ICU she received 2 liters of IV fluids and her sodium\nimproved to 129. She was also noted to have a bradycardia to the\n40s. All of her sedating medications were held and her mental\nstatus slowly improved.\n\nPast Medical History:\n- Depression\n- Chronic Back Pain requiring 3 previous back surgeries\n- Hypertension\n- Type 2 Diabetes\n\nRecent Hospitalizations at Other Hospitals:\n1. [**Hospital 1474**] Hospital ([**0-0-**])\n - Admitted for syncope. Underwent head CT, echocardiogram,\ncarotid doppler ultrasounds that were all unrevealing. Her\nsymptoms were then attributed to Fentanyl patches and other\nsedating medications.\n\n2. [**Hospital 1474**] Hospital ([**0-0-**])\n - Admitted after being found down in her home with vomit in her\nmouth. Reuired Bipap for respiratory support. She had a normal\nEEG during this admission. Her presentation was attributed to\npneumonia and a COPD exacerbation.\n\n3. [**Hospital3 10377**] Hospital ([**2152-5-17**])\n - Admitted for delirium. She underwent MRI/MRA (revealed old\nlacunar infarcts), head CT, chest CT, RPR, TSH, B12, [**Doctor First Name **], RF,\nand infectious work-up that were all negative. She was thought\nto have delirium from opioids and bezodiazepines.\n\n4. [**Hospital3 10377**] Hospital ([**0-0-0**])\n - Admitted for delirium. She underwent a head CT and was\nultimately diagnosed with a UTI.\n\n5. [**Hospital 1474**] Hospital ([**145-7-18**])\n - Admitted for somnolence. Found to have an elevated ammonia\nand underwent multiple imaging studies and serology tests for\nliver dysfunction. She improved with lactulose and was diagnosed\nwith new crytogenic liver dysfunction.\n\n\nSocial History:\n- Tobacco:  1.5 packs per day\n- Alcohol:  Social (3 drinks, once a month)\n- Illicits:  None\n\nFamily History:\nNot relevant to the current admission.\n\nPhysical Exam:\nEXAM ON ADMISSION:\nVitals: T: 97 BP: 163/72 P: 49 R: 11 O2: 94%\nGeneral: Lethargic, somnolent, awakes to loud voice and sternal\nrub,\nHEENT: Sclera anicteric, dry MM, oropharynx clear, bruising on\nher nose, bilateral eyes, and chin\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation with scant soft crackkles, no\nwheezes, rales, ronchi\nCV: Bradycardic and regular rhythm, normal S1 + S2, no murmurs,\nrubs, gallops\nAbdomen: Obese, soft, non-tender, non-distended, bowel sounds\npresent, no rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: PERRL, Lethargic, oriented to place, + asterixis,\nhyporeflexive\n\nPertinent Results:\nADMISSION LABORATORY STUDIES:\n[**2152-2-29**] 07:15PM BLOOD WBC-9.0 (Neuts-71.2* Lymphs-19.4\nMonos-5.6 Eos-3.3 Baso-0.4) RBC-4.06* Hgb-12.1 Hct-36.4 MCV-90\nMCH-29.9 MCHC-33.3 RDW-14.8 Plt Ct-203 Plt Ct-203\n[**2152-2-29**] 07:15PM BLOOD Glucose-97 UreaN-8 Creat-0.6 Na-120*\nK-3.9 Cl-85* HCO3-28 AnGap-11 ALT-19 AST-25 AlkPhos-52\nTotBili-0.3 Calcium-8.4 Phos-4.0 Mg-1.6 Osmolal-246*\n - [**2152-2-29**] 07:15PM BLOOD TSH-2.6 Free T4-0.86*\n - [**2152-2-29**] 07:15PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-8*\nBnzodzp-NEG Barbitr-NEG Tricycl-NEG\n\nDISCHARGE LABORATORY STUDIES:\n[**2152-3-5**] 06:45AM BLOOD Glucose-102* UreaN-10 Creat-0.6 Na-130*\nK-3.7 Cl-94* HCO3-27 AnGap-13\n[**2152-3-3**] 01:46PM BLOOD VitB12-[**2092**]*\n[**2152-3-4**] 06:40AM BLOOD Ammonia-41\n\nImaging:\n[**2152-2-29**] CT HEAD: There is no evidence of acute hemorrhage, large\nacute territorial infarction, or large masses. There are focal\nhypodensities, one near right caudate head nucleus (2:15) and\nsecond within the anterior limb of the right internal capsule\n(2:14) compatible with old ischemic events. There is associated\nex vacuo dilatation of the right frontal [**Doctor Last Name 534**] of the lateral\nventricle. The remaining ventricles and sulci are normal in size\nand configuration. There is no shift of midline structures.\nOsseous structures appear normal. IMPRESSION: No acute\nintracranial process.\n\n[**2152-3-1**] PA AND LATERAL VIEWS OF THE CHEST: Cardiac size is top\nnormal. There are low lung volumes. There is crowding of the\nvasculature but no area of focal pneumonia. There is no\npneumothorax or pleural effusion. Mild degenerative changes are\nin the thoracic spine.\n\n[**2152-3-2**] CT HEAD: There is no evidence of intracranial\nhemorrhage, edema, shift of normally midline structures,\nhydrocephalus, or acute large vascular territorial infarction.\nAgain seen are lacunes in the right caudate head and anterior\nlimb of the right internal capsule. Ex-vacuo diliation of the\nfrontal [**Doctor Last Name 534**] of the right lateral ventricle is again noted. Mild\nprominence of the sulci is consistent with age-related\ninvolutional changes. The visualized portions of the paranasal\nsinuses and mastoid air cells are well aerated. The imaged\nosseous structures are unremarkable. IMPRESSION: 1. No evidence\nof intracranial hemorrhage or acute large vascular territorial\ninfarction. If there is continued concerned for parenchymal\nchanges, MR could be performed if not contraindicated. 2.\nUnchanged lacunes involving the right caudate head and anterior\nlimb of the right internal capsule.\n\nBrief Hospital Course:\nMs. [**Known lastname 2412**] is a 58 F with chronic low back pain on multiple\ndifferent medications, notably methadone (recently started),\ngabapentin (recently increased), and clonazepam. She was\nadmitted on [**2152-2-29**] with delirium, a mechanical fall with facial\ninjuries, bradycardia, and hyponatremia. Of note, this is her\n6th hospitalization to various hospitals since [**3-/2151**] with\nsimilar symptoms (see past medical history in this discharge\nsummary for details).\n\nShe was initially admitted to the ICU as she was somnolent and\nbradycardic on arrival. She was not intubated and her mental\nstatus slowly improved over the next 96 hours with supportive\ncare. Her bradycardia was from accidental ingestion of both\nToprol and metoprolol for hypertension and resolved with holding\nToprol. Her hyponatremia was thought to be from hypovolemic\nhyponatremia and not thought to be causing her delirium. All of\nher symptoms were attributed to drug-induced delirium. She\nimproved with holding Risperdal and methadone and decreasing her\ngabapentin and clonazepam. At discharge she was ambulatory with\nminimal back pain on reduced doses of gabapentin, ibuprofen, and\nTylenol.\n\nManagement of chronic medical problems outlined below:\n1. Chronic low back pain\n - discharged off methadone and on decreased doses of gabapentin\nand clonazepam\n - she will follow-up in her pain clinic for repeat epidural\nsteroid injections in a few weeks\n - we arranged for visiting nurses to assist with medication\nchanges and to discard unprescribed medications\n\n2. Hyponatremia\n - thought to be from hypovolemic hyponatremia but still had a\nlow sodium at discharge\n - this will be repeated on [**3-7**] and the results faxed to her\nPCP\n [**Name Initial (PRE) **] if hyponatremia persists she should have an evaluation for\nSIADH and causes of SIADH given her smoking history\n\n3. Nicotine abuse\n - likely has undiagnosed COPD with an element of chronic\nhypoxia (room air sats 95% while hospitalized)\n - received smoking cessation counseling while here\n\n4. Hypertension and Cerebrovascular disease\n - blood pressure at goal <130/80 on lisinopril 40 and\nmetoprolol 6.25 twice daily. Toprol was discontinued given\nbradycardia on arrival. The visiting nurses will discard her\nToprol to prevent accidental co-administration of these 2\nbeta-blockers.\n - of note, she had evidence of lacunar infarcts on her head CT\nand her blood pressure should be carefully monitored. She should\ncontinue her statin and start an aspirin as an outpatient if she\nhas no contraindications.\n\n5. Type 2 diabetes\n - restarted on Januvia at discharge\n\n6. Depression and Other medication changes\n - continued on fluoxetine\n - she reported being on risperidone for hospital-associated\ndelirium during one of her 6 recent admissions. She has no other\nindication for antipsychotic medications and this was\ndiscontinued given her problems with medication side effects.\n\nTo Do:\n - repeat electrolytes on [**3-7**] and possible evaluation for\nhyponatremia\n - continued smoking cessation counseling and consideration of\nevaluation of COPD\n - recheck blood pressure and titrate up to goal <130/80\n - start aspirin\n\nShe has follow-up arranged with her PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **], on [**3-13**].\nThere were no tests pending at discharge.\n\nMedications on Admission:\nClonazepam 1mg at bedtime\nMetoprolol 6.25mg twice daily and Toprol 50mg daily (has both\npill bottles at home)\nIbuprofen three times daily\nMethadone 5mg three times daily (started approximately 2 weeks\nago)\nLisinopril 40mg daily\nPantoprazole 40mg daily\nFluoxetine 80mg daily\nSimvastatin 40mg daily\nGabapentin 800mg four times daily (recently increased)\nRisperidone 0.25mg twice daily\nJanuvia 50mg daily\n\nDischarge Medications:\n1. clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO QHS (once a\nday (at bedtime)) as needed for anxiety.\n2. metoprolol tartrate 25 mg Tablet Sig: 0.25 Tablet PO BID (2\ntimes a day).\n3. ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8\nhours) as needed for back pain.\n4. lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n5. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).\n6. fluoxetine 20 mg Capsule Sig: Four (4) Capsule PO DAILY\n(Daily).\n7. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n8. gabapentin 400 mg Capsule Sig: One (1) Capsule PO TID (3\ntimes a day).\n9. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3\ntimes a day) as needed for back pain.\n10. Januvia 50 mg Tablet Sig: One (1) Tablet PO once a day.\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital3 **] VNA\n\nDischarge Diagnosis:\nDrug-induced delirium from methadone, clonazepam, and gabapentin\nBradycardia from accidental combination of metoprolol and Toprol\nHyponatremia\nFall\nChronic low back pain\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDear Ms. [**Known lastname 2412**],\n\nYou were admitted with confusion and a fall. We think this was\nall from your medications, especially your gabapentin\n(Neurontin) and methadone. Please change your medications as\nbelow:\n - decrease clonazepam to 0.5mg at night\n - stop risperidone\n - decrease gabapentin to 400mg three times daily\n - stop methadone\n - stop Toprol XL\n - restart metoprolol 6.25mg twice daily\n\nThe medications that we stopped/decreased are causing you to be\nconfused and fall. You can die from falls such as this and it is\nimportant that you find other ways to treat your back pain.\n\nYou should also stop smoking. It is the most important thing you\ncan do for your health. Please follow-up with Dr. [**Last Name (STitle) **] to\nreview all of these medication changes. Your visiting nurses\nwill also check a sodium level on [**3-7**] and send the results to\nDr. [**Last Name (STitle) **].\n\nFollowup Instructions:\nName: [**Last Name (LF) **],[**First Name7 (NamePattern1) 1955**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]\nAddress: [**Location (un) 58843**], [**Location (un) **],[**Numeric Identifier 90192**]\nPhone: [**Telephone/Fax (1) 34002**]\nAppointment: Monday [**2152-3-13**] 2:30pm\n\n\n\n"
+    }
+  ]
+}

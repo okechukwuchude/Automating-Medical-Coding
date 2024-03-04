@@ -1,0 +1,149 @@
+{
+  "hadm_id": 123984,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 2973,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1698,
+          "end": 1712,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "hypothyroidism"
+        },
+        {
+          "begin": 1804,
+          "end": 1821,
+          "code": "V12.71",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of peptic ulcer disease",
+          "type": "MapType.EXACT",
+          "covered_text": "h/o gastric ulcer"
+        },
+        {
+          "begin": 1836,
+          "end": 1844,
+          "code": "365.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified glaucoma",
+          "type": "MapType.EXACT",
+          "covered_text": "glaucoma"
+        },
+        {
+          "begin": 3786,
+          "end": 3808,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "description": "Polymyalgia rheumatica",
+          "type": "Human",
+          "covered_text": "Polymyalgia Rheumatica"
+        },
+        {
+          "begin": 3813,
+          "end": 3831,
+          "code": "446.5",
+          "code_system": "ICD-9-CM",
+          "description": "Giant cell arteritis",
+          "type": "Human",
+          "covered_text": "temporal arteritis"
+        },
+        {
+          "begin": 3833,
+          "end": 3845,
+          "code": "733.00",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoporosis, unspecified",
+          "type": "Human",
+          "covered_text": "osteoporosis"
+        },
+        {
+          "begin": 4040,
+          "end": 4056,
+          "code": "041.49",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "MapType.APPROX",
+          "covered_text": "E coli sensitive"
+        },
+        {
+          "begin": 4130,
+          "end": 4151,
+          "code": "255.41",
+          "code_system": "ICD-9-CM",
+          "description": "Glucocorticoid deficiency",
+          "type": "Human",
+          "covered_text": "adrenal insufficiency"
+        },
+        {
+          "begin": 5069,
+          "end": 5082,
+          "code": "276.0",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperosmolality and/or hypernatremia",
+          "type": "Human",
+          "covered_text": "Hypernatremia"
+        },
+        {
+          "begin": 5175,
+          "end": 5187,
+          "code": "733.00",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoporosis, unspecified",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 5249,
+          "end": 5256,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "Human",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 5341,
+          "end": 5355,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 5381,
+          "end": 5384,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 7308,
+          "end": 7331,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "Urinary Tract Infection"
+        },
+        {
+          "begin": 7354,
+          "end": 7365,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "description": "Hypotension, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypotension"
+        }
+      ],
+      "text": "Admission Date:  [**2164-7-21**]              Discharge Date:   [**2164-7-24**]\n\nDate of Birth:  [**2080-1-17**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nBactrim / Pravachol / Ciprofloxacin / Zoloft / Lipitor\n\nAttending:[**First Name3 (LF) 898**]\nChief Complaint:\nUTI\n\nMajor Surgical or Invasive Procedure:\nNone\n\nHistory of Present Illness:\nMs. [**Known lastname **] is a 84 yo F on longstanding steroids for PMR,\ntemporal arteritis, osteoporosis, spinal stenosis, anxiety,\nanemia, HTN, hyperlipidemia who presents from [**Last Name (un) **] with N/V.\n\n.\n\nOf note, the pt saw her PCP [**7-17**] with a number of complaints incl\na request to be tests for UTI b/c, per her, she \"hadn't been\ntested in a while\". Her u/a came back positive so she was\nprescribed cipro. However, the pt has a h/o being allergic to\nthis so [**7-20**], it was switched to macrobid. On the evening of [**7-20**]\nshe took her first dose of macrobid. On the am of admission, she\nwoke up nauseous and had chills. T was 103. She called her PCP\nand was referred to the ED.\n\n.\n\nIn the ED, she was noted to have a lac on her L ant shin from a\nfall at home 2 days ago which was noted to look clean w/o e/o\ninfxn. She received ceftriazone 1gm, tylenol for fever and 3L\nIVF. CXR ruled out PNA. 2 18 guage IVs were placed. Vitals on\ntransfer 98.9 86 97/34 20 96% on 2L NC.\n\n.\n\nOn arrival to the ICU, she states she has dry mouth, post nasal\ndrip.\n\n.\n\nReview of systems:\n\n(+) Per HPI\n\n(-) Denies fever, cough, shortness of breath, chest pain,\nvomiting, diarrhea, constipation, abdominal pain. Denies rashes\nor skin changes.\n\n\nPast Medical History:\n#. Temporal arteritis\n#. polymyalgia rheumatica\n#. HTN\n#. Thyroid nodule\n#. hypothyroidism\n#. Dyslipidemia\n#. Osteoporosis\n#. sciatica\n#. spinal stenosis\n#. IBS\n#. diverticulosis\n#. h/o gastric ulcer\n#. anxiety\n#. glaucoma\n#. anemia\n#. ventral hernia\n\nSocial History:\nOccupation: former 3rd grade teacher in [**Hospital1 392**]\nDrugs: denies\nTobacco: denies\nAlcohol:\nOther: lives with sister\n\nFamily History:\nNon-contributory\n\nPhysical Exam:\nVS: Tmax: 37 ??????C (98.6 ??????F), HR: 78 (77 - 89) bpm, BP: 108/36, RR:\n15 (15 - 31) insp/min, SpO2: 99%\n\nGeneral Appearance: Well nourished, No acute distress\n\nHead, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition\n\nCardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t)\nSystolic)\n\nPeripheral Vascular: (Right radial pulse: Not assessed), (Left\nradial pulse: Not assessed), (Right DP pulse: Diminished), (Left\nDP pulse: Diminished)\n\nRespiratory / Chest: (Expansion: Symmetric), (Breath Sounds:\nCrackles : [**1-14**] way up bilat, No(t) Wheezes : )\n\nAbdominal: Soft, Non-tender, Bowel sounds present, No(t)\nDistended\n\nExtremities: Right lower extremity edema: Trace, Left lower\nextremity edema: Trace, No(t) Cyanosis, e/o venous stasis. Left\nshin with lac- healing well with minimal drainage\n\nSkin:  Warm, No(t) Rash: , No(t) Jaundice\n\nNeurologic: Attentive, Follows simple commands, Responds to:\nVerbal stimuli, Oriented (to): x3, Movement: Purposeful, Tone:\nNormal\n\n\nPertinent Results:\nLabs on Admission:\n[**2164-7-21**] 03:00PM BLOOD WBC-22.4*# RBC-3.48* Hgb-10.6* Hct-32.0*\nMCV-92 MCH-30.4 MCHC-33.0 RDW-14.6 Plt Ct-225\n[**2164-7-21**] 03:00PM BLOOD Glucose-110* UreaN-30* Creat-0.9 Na-139\nK-3.8 Cl-102 HCO3-28 AnGap-13\n[**2164-7-22**] 02:38AM BLOOD Calcium-7.7* Phos-1.9* Mg-1.9\n[**2164-7-21**] 03:22PM BLOOD Lactate-2.9*\n\nLabs on Discharge:\n[**2164-7-24**] 07:35AM BLOOD WBC-8.4 RBC-3.44* Hgb-10.4* Hct-31.7*\nMCV-92 MCH-30.3 MCHC-32.9 RDW-14.7 Plt Ct-226\n[**2164-7-24**] 07:35AM BLOOD Glucose-92 UreaN-14 Creat-0.8 Na-144\nK-4.1 Cl-107 HCO3-28 AnGap-13\n[**2164-7-24**] 07:35AM BLOOD Calcium-9.7 Phos-3.0 Mg-1.9\n\nBrief Hospital Course:\nMs. [**Known lastname **] is a 84 yo F on longstanding steroids for\nPolymyalgia Rheumatica and temporal arteritis, osteoporosis,\nspinal stenosis, anxiety, anemia, HTN, hyperlipidemia who\npresents from home with N/V after antibiotic tx for a UTI and\nfound to be hypotensive.\n.\n# UTI in context of hypotension: Patient with E coli sensitive\nto ceftriaxone on culture. Of note, her hypotension is likely\n[**2-14**] adrenal insufficiency in the setting of infxn and\nlong-standing steroid use rather than sepsis.  Initially,\nstress-dose steroids were held because patient has h/o\nco-morbities with steroids.  IVF were also held, as patient with\ncrackles to mid-lung field on pulmonary exam.  Pt was started on\nCeftriaxone 1g daily.  Patient was transitioned to PO\ncefpodoxime before her discharge home. She tolerated the\nmedications well.\n.\n# Hypotension: Likely multifactorial, but given chronic steroid\nuse, pt probably not able to mount cortisol response to stressor\nof infection.  Pt received boluses of fluids in the ED to which\nshe was only partially responsive, but did not receive fluids in\nthe ICU because she was exhibiting crackles on pulm exam.  SBP\ngoal > 95; MAP goal >60.  Pt has not received any acute\ntreatment for hypotension in ICU.\n.\n# Polymyalgia Rheumatica and Temporal Arteritis: stable; pt\ncontinued on her home dose prednisone\n.\n# Hypernatremia: pt noted to have Na 146 on ICU day 2;\nencouraged PO intake and monitored electrolytes.\n.\n# Osteoporosis: Known history; cont home fosamax, calcium and\nvitamin D\n.\n# Anxiety: Pt on home benzodiazepines, but held benzos for high\nrisk of in-house delerium\n.\n# Hyperlipidemia: cont home ezetimibe\n.\n# HTN: held home valsartan given hypotension\n\n\nMedications on Admission:\nALENDRONATE 70 mg weekly\nDIAZEPAM 2.5 -5mg Q 8 prn anxiety (usu takes several/wk)\nEZETIMIBE 10 mg daily\nHYDROCODONE-ACETAMINOPHEN - 7.5 mg-325 mg 1-2 tabs Q 6 prn pain\n(recently taking about [**1-14**]/day)\nLATANOPROST 0.005 %Drops - 1 drop in each eye once daily\nLEVOTHYROXINE 25 mcg daily\nOMEPRAZOLE 20 mg [**Hospital1 **]\nPREDNISONE 4mg daily\nVALSARTAN 80 mg daily\nACETAMINOPHEN 1000mg PRN pain (pt states she rarely takes)\nBIOTIN 3mg daily\nCALCIUM CARBONATE-VITAMIN D3 1200 mg-800 unit daily\nDOCUSATE SODIUM\nCENTRUM SILVER daily\n\nDischarge Medications:\n1. Cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every\n12 hours) for 4 days.\nDisp:*16 Tablet(s)* Refills:*0*\n2. Prednisone 1 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).\n\n3. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO BID (2 times a day).\n4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n5. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H (every\n6 hours) as needed for pain.\n6. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n7. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at\nbedtime).\n8. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n9. Alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week.\n\n10. Valsartan 80 mg Tablet Sig: One (1) Tablet PO once a day.\n11. Hydrocodone-Acetaminophen 7.5-325 mg Tablet Sig: 1-2 Tablets\nPO every six (6) hours as needed for pain.\n12. Diazepam 5 mg Tablet Sig: 0.5-1 Tablet PO every eight (8)\nhours as needed for anxiety.\n13. Calcium Carbonate-Vitamin D3 600-400 mg-unit Tablet Sig: Two\n(2) Tablet PO once a day.\n14. Biotin 1 mg Tablet Sig: Three (3) Tablet PO once a day.\n15. Centrum Silver     Tablet Sig: One (1) Tablet PO once a day.\n\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPrimary Diagnosis: Urinary Tract Infection\n\nSecondary Diagnosis: Hypotension\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to the hospital with low blood pressure and a\nwrinary tract infection.  Your blood pressure stabilized and you\nwere placed on an antibiotic for your urinary tract infection.\nYou were discharged home on oral cefpodoxime.  Please take this\nmedication through [**7-28**].\n\nPlease ADD the following medication:\nCefpodoxime 100 mg, take 2 tabs by mouth twice per day for an\nadditional 3 days\n\nFollowup Instructions:\nPlease follow-up with your primary care provider as listed\nbelow:\n\nDepartment: [**State **] SQ\nWhen: TUESDAY [**2164-8-7**] at 12:30 PM\nWith: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 3747**], MD [**Telephone/Fax (1) 2205**]\nBuilding: [**State **] ([**Location (un) **], MA) [**Location (un) **]\nCampus: OFF CAMPUS     Best Parking: On Street Parking\n\n\n\n"
+    }
+  ]
+}

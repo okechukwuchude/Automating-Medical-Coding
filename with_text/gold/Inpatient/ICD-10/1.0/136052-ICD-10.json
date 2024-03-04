@@ -1,0 +1,131 @@
+{
+  "hadm_id": 136052,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 35249,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 386,
+          "end": 396,
+          "code": "Z99.81",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on supplemental oxygen",
+          "type": "Human",
+          "covered_text": "on home 2L"
+        },
+        {
+          "begin": 398,
+          "end": 401,
+          "code": "I13.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1880,
+          "end": 1908,
+          "code": "C50.919",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of unspecified site of unspecified female breast",
+          "type": "Human",
+          "covered_text": "CANCER - BREAST, INTRADUCTAL"
+        },
+        {
+          "begin": 1916,
+          "end": 1952,
+          "code": "N18.3",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, stage 3 (moderate)",
+          "type": "Human",
+          "covered_text": "CKD (chronic kidney disease) stage 3"
+        },
+        {
+          "begin": 2061,
+          "end": 2081,
+          "code": "E78.00",
+          "code_system": "ICD-10-CM",
+          "description": "Pure hypercholesterolemia, unspecified",
+          "type": "Human",
+          "covered_text": "HYPERCHOLESTEROLEMIA"
+        },
+        {
+          "begin": 2082,
+          "end": 2105,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "CORONARY ARTERY DISEASE"
+        },
+        {
+          "begin": 2106,
+          "end": 2132,
+          "code": "Z95.1",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of aortocoronary bypass graft",
+          "type": "Human",
+          "covered_text": "S/P CORONARY ARTERY BYPASS"
+        },
+        {
+          "begin": 2206,
+          "end": 2264,
+          "code": "Z87.891",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of nicotine dependence",
+          "type": "Human",
+          "covered_text": "Tobacco: 1 pack/day for 50 years, currently does not smoke"
+        },
+        {
+          "begin": 6044,
+          "end": 6050,
+          "code": "D63.1",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia in chronic kidney disease",
+          "type": "Human",
+          "covered_text": "anemia"
+        },
+        {
+          "begin": 6358,
+          "end": 6388,
+          "code": "I50.33",
+          "code_system": "ICD-10-CM",
+          "description": "Acute on chronic diastolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "acute on chronic diastolic CHF"
+        },
+        {
+          "begin": 7534,
+          "end": 7564,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute on chronic kidney injury"
+        },
+        {
+          "begin": 8266,
+          "end": 8269,
+          "code": "Z66",
+          "code_system": "ICD-10-CM",
+          "description": "Do not resuscitate",
+          "type": "Human",
+          "covered_text": "DNR"
+        },
+        {
+          "begin": 12507,
+          "end": 12524,
+          "code": "J44.1",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic obstructive pulmonary disease with (acute) exacerbation",
+          "type": "Human",
+          "covered_text": "COPD exacerbation"
+        }
+      ],
+      "text": "Admission Date:  [**2103-11-23**]              Discharge Date:   [**2103-11-30**]\n\nDate of Birth:  [**2023-9-25**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 2265**]\nChief Complaint:\ndyspnea at rest\n\nMajor Surgical or Invasive Procedure:\nnone\n\n\nHistory of Present Illness:\n80 year old female with COPD on home 2L, HTN, recurrent anemia,\ndiastolic CHF who presents with progressive dyspnea.  She was\ndischarged from [**Hospital1 112**] 7 days PTA for COPD and CHF, where she was\ntreated with blood transfusions, steroids and diuresis. Since\ndischarge her dyspnea has progressively worsened.  She states\nthat it is exacerbated by activity and laying flat.  Symptoms\naccompanied by cough with clear sputum for 1 day, palpitations,\nand chest pressure associated with some gas.  No radiation to\nextremities or jaw, diaphoresis.  Patient states that chest\npressure was present for many hours on admission,  consistent\nwith her baseline chest discomfort she has experienced for\nyears. Of note, the patient is on 2L home O2 at baseline, with\nhome O2 sat ranging from 92-95%.\n.\nIn the ED, initial VS were: 98.1, Pulse: 73, RR: 30, BP: 137/46.\n CXR revealed pulmonary edema.  Foley was placed and the patient\nwas given 40mg IV lasix, IV solumedrol, and levofloxacin.  She\nwas placed on a BIPAP.  On arrival to the MICU, patient was\nsatting 96% 40% BIPAP.\n.\nReview of systems:\n(+) Per HPI\n(-) Denies fever, chills, night sweats, recent weight loss or\ngain. Denies headache, sinus tenderness, rhinorrhea or\ncongestion.  palpitations, or weakness. Denies nausea, vomiting,\ndiarrhea, constipation, abdominal pain, or changes in bowel\nhabits. Denies dysuria, frequency, or urgency. Denies\narthralgias or myalgias. Denies rashes or skin changes.\n\nPast Medical History:\nDiastolic CHF\nCOPD, severe\nCOLONIC ADENOMA\nCANCER - BREAST, INTRADUCTAL\nAnemia\nCKD (chronic kidney disease) stage 3, GFR 30-59 ml/min\nTobacco dependence\nINTESTINAL VASC INSUFFIC\nHISTORY CAROTID ENDARTERECTOMY\nDIVERTICULOSIS\nHYPERCHOLESTEROLEMIA\nCORONARY ARTERY DISEASE S/P CORONARY ARTERY BYPASS [**Doctor First Name 147**]\nHYPERTENSION - ESSENTIAL\n\n\nSocial History:\n- Tobacco: 1 pack/day for 50 years, currently does not smoke\n- Alcohol:  denies\n- Illicits:  denies\n\n\nFamily History:\nNC\n\nPhysical Exam:\nAdmission Physical Exam:\nVitals:afebrile, 115/80, P-77, 95% face mask 40%\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL\nNeck: supple, JVP not elevated, no LAD\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nLungs: Clear to auscultation bilaterally, poor air movement, no\nwheezes, bibasilar insp. rales, ronchi.\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno organomegaly\nRectal: brown, Guiac neg stool\nGU:foley in place\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: CNII-XII intact, 5/5 strength upper/lower extremities,\ngrossly normal sensation, 2+ reflexes bilaterally, gait\ndeferred, finger-to-nose intact\n.\nDischarge Physical Exam:\nVS: 98.0  143-166/70-84 79-92  20 98%3L\nGeneral: Pleasant woman; Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL\nNeck: supple, JVP 8 mm H2O, no LAD\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nLungs: Poor air movement bilaterally, scattered expiratory\nwheezing.\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno organomegaly\nGU:foley in place draining light colored urine\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n\nPertinent Results:\nAdmission Labs:\n[**2103-11-23**] 04:00PM BLOOD WBC-16.6* RBC-2.54* Hgb-7.3* Hct-21.7*\nMCV-86 MCH-28.9 MCHC-33.7 RDW-15.0 Plt Ct-240\n[**2103-11-23**] 04:00PM BLOOD PT-13.3* PTT-25.4 INR(PT)-1.2*\n[**2103-11-23**] 04:00PM BLOOD Glucose-163* UreaN-47* Creat-2.2* Na-137\nK-3.4 Cl-99 HCO3-25 AnGap-16\n[**2103-11-23**] 11:38PM BLOOD Mg-2.1 Iron-75\n[**2103-11-24**] 03:28PM BLOOD Type-[**Last Name (un) **] pO2-83* pCO2-72* pH-6.96*\ncalTCO2-18* Base XS--17\n.\nDischarge Labs:\n[**2103-11-30**] 06:30AM BLOOD WBC-13.0* RBC-3.30* Hgb-9.8* Hct-28.0*\nMCV-85 MCH-29.9 MCHC-35.2* RDW-15.0 Plt Ct-212\n[**2103-11-30**] 06:30AM BLOOD PT-11.9 PTT-26.9 INR(PT)-1.1\n[**2103-11-30**] 06:30AM BLOOD Glucose-112* UreaN-121* Creat-2.6* Na-139\nK-4.0 Cl-90* HCO3-36* AnGap-17\n[**2103-11-30**] 06:30AM BLOOD Calcium-9.1 Phos-4.5 Mg-1.9\n.\nCXR [**2103-11-23**]:\nFINDINGS: Single AP upright portable view of the chest was\nobtained.  Diffuse alveolar opacities throughout the lungs,\nright greater than left, which could represent asymmetric edema\nand/or infection. Slight blunting of the left costophrenic angle\nmay be due to trace pleural effusion. The patient is status post\nmedian sternotomy. The cardiac silhouette is top normal. The\naorta is calcified.\n.\nIMPRESSION: Diffuse bilateral, right much greater than left\nalveolar opacities could relate to asymmetric edema and/or\ninfection. Correlate clinically and consider repeat after\ndiuresis. Comparison with prior radiographs would be helpful.\n.\nECHO [**2103-11-26**]:  The left atrium is mildly dilated. No atrial\nseptal defect is seen by 2D or color Doppler. Left ventricular\nwall thickness, cavity size and regional/global systolic\nfunction are normal (LVEF >55%). There is no ventricular septal\ndefect. The right ventricular cavity is mildly dilated with\nnormal free wall contractility. The diameters of aorta at the\nsinus, ascending and arch levels are normal. The aortic valve\nleaflets (3) are mildly thickened but aortic stenosis is not\npresent. No aortic regurgitation is seen. The mitral valve\nleaflets are mildly thickened. Moderate to severe ([**12-21**]+) mitral\nregurgitation is seen. The tricuspid valve leaflets are mildly\nthickened. There is moderate pulmonary artery systolic\nhypertension. There is no pericardial effusion.\n\nBrief Hospital Course:\n80 year old female with COPD, HTN, recurrent anemia, diastolic\nCHF who was admitted for dyspnea and anemia.\n.\n#Dyspnea- The patient was admitted to the MICU with hypoxia to\nthe 70%s on room air.  She briefly required non-invasive\nventilation. She was covered for a possible COPD exacerbation\nwith nebs, prednisone and azithromycin (antibiotic course\ncompleted).  She also was started on a lasix and nitro drip for\nacute on chronic diastolic CHF (EF 60%).  Chest X-ray revealed\nbilateral pulmonary opacities with pulmonary edema.  The patient\ndiuresed well and dyspnea improved, making acute on chronic\ndiastolic CHF the chief diagnosis.  The patient underwent a\ntransthoracic echo that showed moderate to severe MR worsened\nsince [**9-/2103**], which may be contributing to CHF exacerbation.\nCardiac enzymes were negative X3 for ischemic cause of heart\nfailure exacerbation.  Prior to transfer to the floor, lasix and\nnitro drips were discontinued.  The patient was started on\ntorsemide (in place of home lasix) and imdur.  She continued to\ndiurese well.  Her oxygenation improved.  At time of discharge,\nthe patient was saturating well on 3L O2.  She was discharged on\ntorsemide for diuresis and a prednisone taper.\n.\n#Anemia- Patient has a history of significant anemia, with acute\ndecrease in HCT on admission from 30 to 21. Stools guaiac\nnegative.  Patient was transfused 1 unit PRBCs. Hematocrit\nstabilized at 25 for the remainder of admission.  Etiology of\nanemia likely multifactorial, secondary to CKD, repeated\nphlebotomy.  Stools remained guaiac negative throughout\nadmission.\n.\n#Acute on chronic kidney injury - Baseline creatinine is 1.5-2.0\nover the past few months.  With diuresis, creatinine increased\nto 2.4-2.6 daily.  The patient should follow up regarding her\ncreatinine within a week of discharge.\n.\n#Chronic Angina/CAD- Chronic angina has been controlled on\nranolazine and isosorbide mononitrate. Stress test in [**10/2103**]\nrevealed reversible inferior defect on nuclear imaging.  Patient\nremained chest pain free throughout admission.  The patient was\ncontinued on atorvastatin, ASA, hydralazine and imdur.  Ranexa\nwas discontinued due to acute kidney injury.  The patient should\nfollow up with her cardiologist about reinitiation of ranexa\nwith improvement in renal function to baseline.\n.\n# Code:DNR/DNI\n====================================================\nTRANSITIONAL ISSUES:\n#The patient should follow up regarding her BUN/creatinine [**12-4**].\n Results to be reported to Dr. [**Last Name (STitle) **].\n#The patient should follow up with her cardiologist about\nreinitiation of ranexa with improvement in renal function to\nbaseline.\n\nMedications on Admission:\nPrednisone 10 mg Oral Tablet Take 1 tablet in morning or as\ndirected\nAtorvastatin 80 mg Oral Tablet Take one-half tablet (40mg) daily\n\nFolic Acid 1 mg Oral Tablet Take 1 tablet daily\nOmeprazole 20 mg Oral Capsule, Delayed Release(E.C.) Take 1\ncapsule 30 minutes before first meal of day\nRanolazine 500 mg Oral Tablet Extended Release 12 hr one [**Hospital1 **]\nFerrous Sulfate 325 mg (65 mg iron) Oral Tablet one qd\nDocusate Sodium (STOOL SOFTENER) 100 mg Oral Capsule one [**Hospital1 **]\nFurosemide 40 mg Oral Tablet Take 1 tablet daily\nTiotropium Bromide (SPIRIVA WITH HANDIHALER) 18 mcg Inhalation\nCapsule, w/Inhalation Device One capsule (2 puffs) inhaled daily\n\nPrednisone 20 mg Oral Tablet 2 tablets daily for 3 days, then 1\ntablet daily for 3 days, then [**11-19**] tab daily for 3 days.\nIsosorbide Mononitrate (IMDUR) 60 mg Oral Tablet Extended\nRelease 24 hr 3 tablets = 180 mg once daily\nMetoprolol Tartrate 100 mg Oral Tablet Take 1 tablet twice daily\n\nHydralazine 25 mg Oral Tablet one pill 3 x per day\nAlbuterol Sulfate (VENTOLIN HFA) 90 mcg/Actuation Inhalation HFA\nAerosol Inhaler INHALE 2 PUFFS EVERY FOUR TO SIX HOURS AS NEEDED\n\nFluticasone-Salmeterol (ADVAIR DISKUS) 500-50 mcg/dose\nInhalation Disk with Device use 1 inhalation TWICE DAILY and\nrinse thoroughly afterward\nAmlodipine 10 mg Oral Tablet Take 1 tablet daily\nMontelukast (SINGULAIR) 10 mg Oral Tablet take one tablet once\ndaily\nAspirin 325 mg Oral Tablet, Delayed Release (E.C.) 1 tablet\ndaily\nAlendronate 70 mg Oral Tablet TAKE 1 TABLET one day a week in\nthe morning 30 minutes before food. do not lie down for at least\n30 minutes\n\n\nDischarge Medications:\n1. prednisone 10 mg Tablet Sig: as directed Tablet PO daily  ():\ntake 4 tablets x 1 day, then take 3 tablets x 2 days, then take\n2 tablets x 2 days, then take 1 tablet daily (ongoing).\nTablet(s)\n2. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.\n\n3. folic acid 1 mg Tablet Sig: One (1) Tablet PO once a day.\n4. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily): take 30 min\nprior to first meal.\n5. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1)\nTablet PO once a day.\n6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n7. torsemide 20 mg Tablet Sig: Four (4) Tablet PO DAILY (Daily).\n\n8. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:\nTwo (2) puffs Inhalation once a day.\n9. Imdur 60 mg Tablet Extended Release 24 hr Sig: Three (3)\nTablet Extended Release 24 hr PO once a day.\n10. hydralazine 25 mg Tablet Sig: One (1) Tablet PO Q8H (every 8\nhours).\n11. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:\nTwo (2) puffs Inhalation every 4-6 hours as needed for shortness\nof breath or wheezing.\n12. Advair Diskus 500-50 mcg/dose Disk with Device Sig: One (1)\ninh Inhalation twice a day: rinse thoroughly afterward.\n13. montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n14. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n15. alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week:\ntake in AM 30 min prior to eating.  Do not lie down for at least\n30 min .\n16. amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.\n17. Outpatient Lab Work\nPlease check BUN/creatinine [**12-4**].  Report results to:\n[**Last Name (LF) **],[**First Name3 (LF) 488**] M.\nLocation: [**Location (un) 2274**]-[**Location **]\nAddress: 291 INDEPENDENCE DR, [**Location **],[**Numeric Identifier 1700**]\nPhone: [**Telephone/Fax (1) 80426**]\nFax: [**Telephone/Fax (1) 6808**]\n18. metoprolol tartrate 100 mg Tablet Sig: One (1) Tablet PO\ntwice a day.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**First Name4 (NamePattern1) 533**] [**Last Name (NamePattern1) **] for Extended Care - [**Location 1268**]\n\nDischarge Diagnosis:\nPrimary diagnosis:  Acute on chronic systolic CHF\nSecondary diagnosis:  COPD exacerbation, acute on chronic kidney\ndisease, coronary artery disease\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nYou were admitted to the intensive care unit with shortness of\nbreath and found to have an acute worsening of your heart\nfailure and a possible exacerbation of your COPD.  In the ICU,\nyou received medications IV to help remove the excess fluid from\nyour body.  You were also treated for worsening COPD with\nantibiotics and steroids.  You will complete a steroid taper as\nan outpatient.  You will also be discharged on torsemide to\ncontinue to remove the excess fluid form your body.\n.\nWeigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more\nthan 3 lbs.\n.\nMEDICATIONS CHANGED THIS ADMISSION:\nSTOP lasix\nSTOP ranexa.  Please discuss reinitiation of this medication\nwith your cardiologist\nSTART torsemide 80 mg by mouth daily\n\nFollowup Instructions:\nName: [**Last Name (LF) **], [**Name8 (MD) **] NP\nLocation: [**Hospital1 641**]/CARDIOLOGY\nAddress: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 718**]\nPhone: [**Telephone/Fax (1) 2258**]\nWhen: [**Last Name (LF) 2974**], [**12-7**], 9:10 AM\n.\nDEPARTMENT: INTERNAL MEDICINE\nWITH: [**Last Name (LF) **],[**First Name3 (LF) 488**] M.\nWhen: [**2103-12-25**] 1:00PM\nLocation: [**Location (un) 2274**]-[**Location **]\nAddress: 291 INDEPENDENCE DR, [**Location **],[**Numeric Identifier 1700**]\nPhone: [**Telephone/Fax (1) 80426**]\n.\nDepartment: VASCULAR SURGERY\nWhen: TUESDAY [**2104-1-15**] at 10:00 AM\nWith: VASCULAR LAB [**Telephone/Fax (1) 1237**]\nBuilding: LM [**Hospital Unit Name **] [**Location (un) **]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n.\nDepartment: VASCULAR SURGERY\nWhen: TUESDAY [**2104-1-15**] at 10:30 AM\nWith: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1244**], MD [**Telephone/Fax (1) 1237**]\nBuilding: LM [**Hospital Unit Name **] [**Location (un) **]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n.\nName: [**Last Name (LF) **], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]\nLocation: [**Hospital1 641**]/ CARDIOLOGY\nAddress: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 718**]\nPhone: [**Telephone/Fax (1) 2258**]\n*Dr. [**Last Name (STitle) 80427**] office staff will contact you to schedule a\nfollow up appointment.\n\n\n                             [**First Name8 (NamePattern2) **] [**Name8 (MD) 162**] MD [**MD Number(2) 2273**]\n\n"
+    }
+  ]
+}

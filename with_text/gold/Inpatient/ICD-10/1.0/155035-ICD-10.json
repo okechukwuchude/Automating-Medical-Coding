@@ -1,0 +1,68 @@
+{
+  "hadm_id": 155035,
+  "comment": "Flexible Sigmoidoscopy - Missing OP Note to validate PCS",
+  "notes": [
+    {
+      "note_id": 54862,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 436,
+          "end": 455,
+          "code": "G30.9",
+          "code_system": "ICD-10-CM",
+          "description": "Alzheimer's disease, unspecified",
+          "type": "Human",
+          "covered_text": "alzheimers dementia"
+        },
+        {
+          "begin": 447,
+          "end": 455,
+          "code": "F02.80",
+          "code_system": "ICD-10-CM",
+          "description": "Dementia in other diseases classified elsewhere without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 457,
+          "end": 469,
+          "code": "Z85.21",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of malignant neoplasm of larynx",
+          "type": "Human",
+          "covered_text": "laryngeal ca"
+        },
+        {
+          "begin": 1203,
+          "end": 1207,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "gerd"
+        },
+        {
+          "begin": 2857,
+          "end": 2881,
+          "code": "T17.808A",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified foreign body in other parts of respiratory tract causing other injury, initial encounter",
+          "type": "Human",
+          "covered_text": "Aspirated duckbill voice"
+        },
+        {
+          "begin": 3432,
+          "end": 3436,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "GERD"
+        }
+      ],
+      "text": "Admission Date:  [**2190-7-11**]              Discharge Date:   [**2190-7-12**]\n\nDate of Birth:  [**2108-10-6**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 3984**]\nChief Complaint:\nAspiration of foreign body\n\nMajor Surgical or Invasive Procedure:\nFlexible bronchoscopy for retrieval of duckbill prosthesis\ndevice.\n\nHistory of Present Illness:\n81M with alzheimers dementia, laryngeal ca, trach many years\nago. Was in his usual state of health, but today was putting in\nhis pacimmune valve, and accidentally aspirated his duckbill\nvoice piece into his left main.\n\nIn the ED:\nPt's vitals unimpressive with 97.9, hr 126, 15, 124/92, 96% RA\nNa= 143, K=4.3, Cl = 107, CO2 = 23\nBUN = 16, Cr = 1.3\nLipase = 37\n7.0>14.3/43.9<161\nINR = 1.0\nfibrinogen 319\nPt was given 0.5mg ativan. IP was able to remove the voice piece\nwith a flexible bronchoscope. However, afterwards, pt was\ntachycardic to 130s with sbps to 150/83 and rr 21. On arrival to\nthe MICU, pt is on room air. He cannot talk because he does not\nhave the proper material for his trach mask.\n\nPast Medical History:\ntracheostomy 20 years a go for throat cancer\ndementia\ngerd\nMedications:\nnamenda 20 mg qday\nnexium 40mg PO once day\nmultivitamin\ntylenol\naspercreme\nthera tears\n\n\nSocial History:\nlives with wife, demented\n\nFamily History:\nnoncontributory\n\n\nPhysical Exam:\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL\nNeck: supple, JVP not elevated, no LAD\nCV: tachycardic, normal S1 + S2, no murmurs, rubs, gallops\nLungs: bronchial breath sounds in upper airway, but otherwise\nclear\nAbdomen: soft, non-distended, bowel sounds present, no\norganomegaly, no tenderness to palpation, no rebound or guarding\nGU: no foley\nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: CNII-XII intact, 5/5 strength upper/lower extremities,\ngrossly normal sensation, 2+ reflexes bilaterally, gait\ndeferred.\n\nPertinent Results:\n[**2190-7-11**] 02:25PM   WBC-7.0 RBC-4.52* HGB-14.3 HCT-43.9 MCV-97\nMCH-31.7 MCHC-32.7 RDW-14.0\n[**2190-7-11**] 02:25PM   PLT COUNT-161\n[**2190-7-11**] 02:25PM   PT-10.7 PTT-26.1 INR(PT)-1.0\n[**2190-7-11**] 02:33PM   GLUCOSE-105 NA+-143 K+-4.3 CL--107 TCO2-23\n[**2190-7-11**] 02:25PM   UREA N-16 CREAT-1.3*\n\n[**7-11**] CXRay:\nPortable semi-upright radiograph of the chest was obtained.\nTracheostomy tube is noted.  The patient is rotated.  Left basal\nopacity is seen, which could reflect an early aspiration event.\nNo priors are available for comparison.  There is no pleural\neffusion or pneumothorax.  Heart is moderately enlarged.\n\nIMPRESSION:  Left basilar opacity could reflect atelectasis or\naspiration.\n\nBrief Hospital Course:\n81M with laryngeal cancer, alzheimer's dementia, s/p aspiration\nof duckbill voice piece to L main.\n\n# Aspirated duckbill voice piece/airway obstruction: The\nduckbill transesophageal prosthesis was removed without\ncomplication by Interventioal Pulmonology service.  The patient\nwas subsequently seen by speech and language pathology who was\nable to refit the patient with his 16 french, 16mm TEP\nprosthesis.  Speech and language recommended that the patient be\nfit with an indwelling devide to avoid this complication in the\nfuture.  At time of discharge, they agreed to do this at [**Hospital1 **] where he has been followed at for years.\n\n#alzheimers: continue with namenda\n\n#GERD: nexiuim\n\n# Code: Full\n\nTransitional: Placement of indwelling TEP prosthesis.\n\nMedications on Admission:\nnamenda 20 mg qday\nnexium 40mg PO once day\nmultivitamin\ntylenol\naspercreme\nthera tears\n\nDischarge Medications:\n1. memantine 10 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n2. Exelon 4.6 mg/24 hour Patch 24 hr Sig: One (1)  Transdermal\nonce a day.\n3. Nexium 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO once a day.\n4. Tylenol 325 mg Tablet Sig: One (1) Tablet PO once a day.\n5. Thera Tears 0.25 % Dropperette Sig: One (1)  Ophthalmic once\na day.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nForeign body aspiration\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDear Mr. [**Known lastname 112092**]\n\nYou were admitted to the ICU because your duckbill lanryngeal\npiece was dislodged.  We had interventional Pulmonology remove\nthe piece from your lungs and had our speech pathologist replace\na new piece.\n\nYou are now safe to go home.\n\nWe have not made any changes to your home medications\n\nFollowup Instructions:\nplease follow up with your primary care doctor and Speech\npathologist to help manage your new device.\n\nName: [**Last Name (LF) 112093**], [**Name8 (MD) **], NP\nAddress: [**Location (un) 112094**], [**Location (un) **],[**Numeric Identifier 10768**]\nPhone: [**Telephone/Fax (1) 81522**]\nWhen: Tuesday, [**7-20**], 3:30 PM\n\n\n                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2437**] MD [**MD Number(1) 2438**]\n\nCompleted by:[**2190-7-20**]"
+    }
+  ]
+}

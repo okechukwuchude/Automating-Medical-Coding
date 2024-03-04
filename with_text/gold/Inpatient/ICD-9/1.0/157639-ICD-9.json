@@ -1,0 +1,77 @@
+{
+  "hadm_id": 157639,
+  "comment": "Right Craniotomy for Resection tumor",
+  "notes": [
+    {
+      "note_id": 54552,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1090,
+          "end": 1093,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1101,
+          "end": 1104,
+          "code": "414.00",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of vessel, native or graft",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 1191,
+          "end": 1194,
+          "code": "600.00",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptoms (LUTS)",
+          "type": "Human",
+          "covered_text": "BPH"
+        },
+        {
+          "begin": 1212,
+          "end": 1240,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "MapType.APPROX",
+          "covered_text": "quit smoking several yrs ago"
+        },
+        {
+          "begin": 3533,
+          "end": 3546,
+          "code": "V45.81",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical aortocoronary bypass status",
+          "type": "Human",
+          "covered_text": "triple bypass"
+        },
+        {
+          "begin": 3666,
+          "end": 3679,
+          "code": "213.0",
+          "code_system": "ICD-9-CM",
+          "description": "Benign neoplasm of bones of skull and face",
+          "type": "MapType.EXACT",
+          "covered_text": "parietal mass"
+        },
+        {
+          "begin": 4469,
+          "end": 4481,
+          "code": "368.46",
+          "code_system": "ICD-9-CM",
+          "description": "Homonymous bilateral field defects",
+          "type": "MapType.APPROX",
+          "covered_text": "hemi-anopsia"
+        }
+      ],
+      "text": "Admission Date:  [**2193-1-18**]              Discharge Date:   [**2193-1-21**]\n\nDate of Birth:  [**2127-3-29**]             Sex:   M\n\nService: NEUROSURGERY\n\nAllergies:\nPenicillins\n\nAttending:[**First Name3 (LF) 3227**]\nChief Complaint:\nelective admit for craniotomy\n\nMajor Surgical or Invasive Procedure:\n\n[**2193-1-18**]: right craniotomy for resection of tumor\n\n\nHistory of Present Illness:\n65M who is on Plavix and ASA with a hx of a triple bypass 21\nyears ago who reports a sudden onset of headache accompanied by\nnausea on [**2192-12-9**]. Work up revealed a right parietal mass\nmeasuring 4 x 6 x 4 cm with rim contrast enhancement. Cardiology\neval reveals a poor surgical candidate and requested an cardiac\ncath prior ro surgical consideration. The patient was cleared\nfor\nneurosurgical intervention. The patient had initially opted to\nundergo a stereotactic biopsy of the lesion. He now wishes to\nhave a discussion with regards to the relative merits of\ncraniotomy versus stereotactic biopsy.\n\nSince last seen in clinic, the patient has no new complaints.\n\n\nPast Medical History:\n- HTN\n- HL\n- CAD s/p CABG, currently a plan for elective cardiac\ncatheterization for unstable angina\n- BPH\n\nSocial History:\nquit smoking several yrs ago, Rx heavy smoker\n Ex alcoholic, No drugs, Lives with family, owns a restaurant.\n\n\nFamily History:\nNC\n\nPhysical Exam:\nOn the day of admission: On examination, the patient is awake,\nalert, and approriate. VFF.EOMI. FS. T/U midline. Hearing + SS\nsymmetric. MA4E with good\nstrength. No drift. Normal gait\n\nOn the day of discharge:\nnon-focal except left hemi-anopsia which is improving compared\nto immediate post op\n\n\nPertinent Results:\n[**2193-1-18**] 02:36PM   GLUCOSE-406*\n[**2193-1-18**] 12:33PM   GLUCOSE-360* UREA N-28* CREAT-1.1 SODIUM-137\nPOTASSIUM-4.1 CHLORIDE-100 TOTAL CO2-24 ANION GAP-17\n[**2193-1-18**] 12:33PM   estGFR-Using this\n[**2193-1-18**] 12:33PM   CALCIUM-8.4 PHOSPHATE-3.7 MAGNESIUM-2.0\n[**2193-1-18**] 12:33PM   WBC-5.5 RBC-3.82* HGB-11.6* HCT-33.4* MCV-87\nMCH-30.5 MCHC-34.9 RDW-13.6\n[**2193-1-18**] 12:33PM   PLT COUNT-160\n[**2193-1-18**] 12:33PM   PT-12.1 PTT-18.4* INR(PT)-1.0\n[**2193-1-18**] 10:46AM   TYPE-ART TIDAL VOL-830 O2-25 PO2-127*\nPCO2-30* PH-7.49* TOTAL CO2-23 BASE XS-1 INTUBATED-INTUBATED\nVENT-CONTROLLED\n[**2193-1-18**] 10:46AM   GLUCOSE-270* LACTATE-3.9* NA+-133* K+-4.3\nCL--97*\n[**2193-1-18**] 10:46AM   HGB-12.1* calcHCT-36 O2 SAT-97\n[**2193-1-18**] 10:46AM   freeCa-1.11*\n[**2193-1-18**] 09:17AM   TYPE-ART RATES-10/ TIDAL VOL-700 O2-30\nPO2-121* PCO2-37 PH-7.43 TOTAL CO2-25 BASE XS-1\nINTUBATED-INTUBATED VENT-CONTROLLED\n[**2193-1-18**] 09:17AM   GLUCOSE-255* LACTATE-2.3* NA+-130* K+-3.7\nCL--96*\n[**2193-1-18**] 09:17AM   HGB-11.2* calcHCT-34 O2 SAT-97\n[**2193-1-18**] 09:17AM   freeCa-1.08*\n\nTissue: RIGHT PARIETAL MASS, Study Date of [**2193-1-18**]\n\nMR HEAD W/ CONTRAST Study Date of [**2193-1-18**] 5:50 AM ******\n\nCT HEAD W/O CONTRAST of [**2193-1-18**]\nIMPRESSION: Expected postoperative appearance of the brain\nstatus post recent resection of right parietal hemorrhagic\nlesion.\n\nMRI Brain [**2193-1-19**]\nIMPRESSION:\n1. Postoperative changes in the right parietooccipital region\nwith blood\nproducts and pneumocephalus. Small areas of residual enhancement\nseen\nposterior to the surgical cavity.\n2. New right posterior cerebral artery infarct.\n3. Findings were communicated to neurosurgery at the time of\ninterpretation of this study on [**2193-1-19**].\n\n\nBrief Hospital Course:\nThis is a 65year old male who is on Plavix and ASA with a hx of\na triple bypass 21\nyears ago who reports a sudden onset of headache accompanied by\nnausea on [**2192-12-9**]. Work up revealed a right parietal mass\nmeasuring 4 x 6 x 4 cm with rim contrast enhancement. Cardiology\neval reveals a poor surgical candidate and requested an cardiac\ncath prior to surgical consideration. This was worked up\noutpatient and then the patient was cleared for neurosurgical\nintervention.\n\nThe patient was electively admitted on [**2193-1-18**] for a right sided\ncraniotomy for resection of tumor.  The patient was transfused\nwith platelets intraop as he was on aspirin at home.  The\npatient was extubated post operatively and recovered in the\nsurgical intensive unit. He was placed on decardon 4mg every 6\nhours.  A physical therapy consult was ordered for the patient.\nA post operative head CT was consistent with stable post\noperative changes.\n\nOn [**1-19**] the patient was neurologically well except for a left\nhemi-anopsia. He was out of bed to the chair and tolerating a PO\ndiet. A post operative MRI was consistent with small residual\nenhancement. He remained on an insulin drip with difficult to\ncontrol blood sugars.\n\nOn [**1-20**] the patient was again stable and was able to be weaned\noff of the insulin gtt. decadron was tapered.\n\nOn [**1-21**] the patient was seen by physical therapy and cleared for\ndischarge home with services. He was restarted on aspirin and a\n[**Last Name (un) **] Diabetes consult was requested for assistance with blood\nsugar management and discharge planning. Insulin and PO\nmedication adjustments were made and the patient was cleared for\ndischarge to home with services.\n\n\nMedications on Admission:\n.\n\nDischarge Medications:\n.\n1. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\n2. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) Tablet,\nSublingual Sublingual PRN (as needed) as needed for chest pain.\n\n3. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n4. rosuvastatin 5 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n5. terazosin 1 mg Capsule Sig: One (1) Capsule PO HS (at\nbedtime).\n6. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n8. butalbital-acetaminophen-caff 50-325-40 mg Tablet Sig: [**12-16**]\nTablets PO Q4H (every 4 hours) as needed for pain.\nDisp:*60 Tablet(s)* Refills:*0*\n9. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours)\nas needed for pain.\nDisp:*60 Tablet(s)* Refills:*0*\n10. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n11. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\nDisp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*\n12. levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2\ntimes a day).\nDisp:*120 Tablet(s)* Refills:*2*\n13. aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.\n14. isosorbide mononitrate 30 mg Tablet Sustained Release 24 hr\nSig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).\n15. dexamethasone 1 mg Tablet Sig: One (1) Tablet PO taper for 2\ndays: 2mg Q6hrs on [**1-21**].\n1mg Q6hrs on [**1-22**] then discontinue.\nDisp:*7 Tablet(s)* Refills:*0*\n16. glipizide 10 mg Tablet Extended Rel 24 hr Sig: One (1)\nTablet Extended Rel 24 hr PO once a day.\nDisp:*30 Tablet Extended Rel 24 hr(s)* Refills:*2*\n17. insulin lispro 100 unit/mL Solution Sig: One (1) as directed\nSubcutaneous QAC.\nDisp:*1 as directed* Refills:*2*\n18. insulin safety needles (disp) 29 x [**12-16**]   Needle Sig: One (1)\nsyringe Miscellaneous QAC.\nDisp:*90 syringes* Refills:*2*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital 119**] Homecare\n\nDischarge Diagnosis:\nright parietal mass\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nGeneral Instructions\n\n??????\tHave a friend/family member check your incision daily for\nsigns of infection.\n??????\tTake your pain medicine as prescribed.\n??????\tExercise should be limited to walking; no lifting, straining,\nor excessive bending.\n??????\tYour wound closure uses dissolvable sutures, you must keep\nthat area dry for 10 days.\n??????\tYou may shower before this time using a shower cap to cover\nyour head.\n??????\tIncrease your intake of fluids and fiber, as narcotic pain\nmedicine can cause constipation. We generally recommend taking\nan over the counter stool softener, such as Docusate (Colace)\nwhile taking narcotic pain medication.\n??????\tUnless directed by your doctor, do not take any\nanti-inflammatory medicines such as Motrin, Aspirin, Advil, and\nIbuprofen etc.\n??????\tYou were on Aspirin, prior to your injury, and this was\nrestarted on [**2193-1-21**]. You were also on plavix prior to your\nsurgery. This should NOT be restarted until after it is\ndiscussed at your follow up appointment.\n??????\tYou have been discharged on Keppra (Levetiracetam), you will\nnot require blood work monitoring.\n??????\tClearance to drive and return to work will be addressed at\nyour post-operative office visit. DO NOT drive until you are\ncleared.\n??????\tMake sure to continue to use your incentive spirometer while\nat home, unless you have been instructed not to.\n\nCALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE\nFOLLOWING\n\n??????\tNew onset of tremors or seizures.\n??????\tAny confusion or change in mental status.\n??????\tAny numbness, tingling, weakness in your extremities.\n??????\tPain or headache that is continually increasing, or not\nrelieved by pain medication.\n??????\tAny signs of infection at the wound site: redness, swelling,\ntenderness, or drainage.\n??????\tFever greater than or equal to 101?????? F.\n\n\nFollowup Instructions:\nFollow-Up Appointment Instructions\n\n??????Your sutures are dissolvable and do not need to be removed.\n??????You have an appointment in the Brain [**Hospital 341**] Clinic on [**2193-1-28**]\n@ 9:30 AM.  The Brain [**Hospital 341**] Clinic is located on the [**Hospital Ward Name 516**]\nof [**Hospital1 18**], in the [**Hospital Ward Name 23**] Building, [**Location (un) **]. Their phone number\nis [**Telephone/Fax (1) 1844**]. Please call if you need to change your\nappointment, or require additional directions.\n??????      Please call for a follow up appointment at [**Last Name (un) **] in 2\nweeks with Dr. [**Last Name (STitle) 15279**] or first available attending. You should\nalso make an appointment with the diabetes educator at [**Last Name (un) **]\nfor the same date\nfor insulin teaching. These appointments can be made by calling\n[**Telephone/Fax (1) 2378**].\n??????  You should follow up with your PCP [**Name Initial (PRE) 176**] 7 days of\ndischarge.\n\n\n\nCompleted by:[**2193-1-22**]"
+    }
+  ]
+}

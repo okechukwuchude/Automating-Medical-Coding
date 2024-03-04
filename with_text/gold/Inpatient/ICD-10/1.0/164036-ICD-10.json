@@ -1,0 +1,68 @@
+{
+  "hadm_id": 164036,
+  "comment": "EGD- Need OP note to Validate PCS",
+  "notes": [
+    {
+      "note_id": 30855,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1881,
+          "end": 1891,
+          "code": "M06.9",
+          "code_system": "ICD-10-CM",
+          "description": "Rheumatoid arthritis, unspecified",
+          "type": "Human",
+          "covered_text": "Rheumatoid"
+        },
+        {
+          "begin": 1905,
+          "end": 1908,
+          "code": "B18.2",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic viral hepatitis C",
+          "type": "Human",
+          "covered_text": "Hep"
+        },
+        {
+          "begin": 4989,
+          "end": 5007,
+          "code": "I85.00",
+          "code_system": "ICD-10-CM",
+          "description": "Esophageal varices without bleeding",
+          "type": "Human",
+          "covered_text": "non-bleeding grade"
+        },
+        {
+          "begin": 5368,
+          "end": 5377,
+          "code": "K74.60",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified cirrhosis of liver",
+          "type": "Human",
+          "covered_text": "cirrhosis"
+        },
+        {
+          "begin": 5389,
+          "end": 5396,
+          "code": "R18.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other ascites",
+          "type": "Human",
+          "covered_text": "ascites"
+        },
+        {
+          "begin": 5767,
+          "end": 5784,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "Uncomplicated UTI"
+        }
+      ],
+      "text": "Admission Date:  [**2180-6-12**]              Discharge Date:   [**2180-6-14**]\n\nDate of Birth:  [**2148-11-12**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nNafcillin\n\nAttending:[**First Name3 (LF) 8388**]\nChief Complaint:\nhematemesis\n\nMajor Surgical or Invasive Procedure:\nesophagogastroduodenoscopy\n\n\nHistory of Present Illness:\n31 y.o. female with history of autoimmune hepatitis complicated\nby cirrhosis and recurrent ascites presenting with hematemesis\nfor one day.  The patient reports on the morning of presentation\nshe woke up without significant abdominal pain or nausea but did\nnotice her abdomen was very distended.  She then began to vomit\nand had a paroxysm of vomiting where she had five episodes of\nemesis each with about a half cup of dark blood per her report.\nShe called EMS and was brought to an OSH where she had an NG\npassed that expelled a large amount of dark blood.  Reports vary\nand some sources (i.e. ED dash) said this was bright red blood\nbut after reviewing with patient it seems this was all maroon\nwith only flecks of dark red blood.  Unfortunately, she vomited\nout the NG tube.  She was started on octreotide drip and\ntransferred to [**Hospital1 18**].  OSH Hct was 36.7.\n\n\n\nIn the ED VS: T 99.4, P 62, BP 122/75, RR 16, O2 97% 3L.  On\narrival to [**Hospital1 18**] Hct was 36.4 and she remained HD stable without\ntachycardia or hypotension.  She was started on pantoprazole\ndrip.  Liver was called and plan to scope patient tomorrow.  She\nwas also started on ceftriaxone for PCP [**Name Initial (PRE) 31424**].  She was\nsent to the MICU.\n\nCurrently, she denies any symptoms.  Denies CP, SOB,\nlight-headedness.  She reports abdominal distension leading to\nSOB was worst symptom and this has resolved after having NG.\n\nPast Medical History:\n# Autoimmune hepatitis: [**Doctor First Name **]+, AMA-, [**Last Name (un) 15412**]+\n# Cirrhosis:\n# Rheumatoid Arthritis:\n# Hep C: Genotype 3. most recent viral load undetectable.\n# mulitple liver biopsies\n# compartment syndrome in R arm s/p surgical decompression [**11-24**]\n# herpes zoster\n# C section in [**2175**]\n# osteomyelitis [**2177**]\n# Nephrolithiasis\n\n\nSocial History:\nLives with mother in [**Name (NI) 14663**].\nSmokes 5 cig/day (down from before) x 15 yrs. Has h/o ETOH and\ndrug abuse (heroin and cocaine) but clean since 9/[**2178**].\nHas a 11 year old son [**Doctor First Name **] and a 3 year old daughter ([**Name (NI) **]\n[**Name (NI) **]).\nMom is point person.\n\n\nFamily History:\nAunt w/ breast Ca.\nNo h/o autoimmune hepatitis, early colon CA, or Crohn/UC.\n\nPhysical Exam:\nPhysical Exam on Admission:\n\nVitals:\nTcurrent: 36.2 ??????C HR: 64 BP: 108/54(66) RR: 14 SpO2: 95%\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n\nDischarge Physical Exam:\nVSS, abdomen is distended, nontender, no fluid wave, no masses.\nguiac positive stools. IV's present at time of elopement.\n\nPertinent Results:\nLabs on admission:\n===============================================================\nWBC-6.9# RBC-3.24* Hgb-12.1 Hct-36.4  Plt Ct-51*\nNeuts-76.7* Lymphs-14.6* Monos-5.8 Eos-2.1 Baso-0.7\n      PT-20.5* PTT-37.3* INR(PT)-1.9*\nGlucose-97 UreaN-18 Creat-0.5 Na-137 K-4.7 Cl-112* HCO3-21*\nAnGap-9\nAlbumin-2.4* Mg-1.9\n\nPertinent Labs and Studies:\nHct 36.4-->32.8\n\nLiver U/S [**6-12**]: 1. Nodular cirrhotic liver with splenomegaly and\nascites suggesting the\npresence of portal hypertension. Patent main portal vein with\nhepatopedal\nflow.\n2. New echogenic focus in the left lobe of the liver, measuring\n1.3 cm in\ngreatest dimension. Further characterization with non-emergent\nMRI is\nrecommended.\n\nEGD [**6-12**]: Grade I Varices at the lower third of the esophagus\nand gastroesophageal junction\nDuodenal varices\nOtherwise normal EGD to third part of the duodenum\n\nDischarge Labs:\n\n[**2180-6-14**] 01:15PM BLOOD WBC-8.4# RBC-2.97* Hgb-11.2* Hct-32.8*\nMCV-111* MCH-37.9* MCHC-34.2 RDW-16.1* Plt Ct-70*\n[**2180-6-14**] 04:50AM BLOOD Glucose-160* UreaN-17 Creat-0.7 Na-133\nK-4.4 Cl-103 HCO3-25 AnGap-9\n[**2180-6-14**] 04:50AM BLOOD ALT-62* AST-67* AlkPhos-131* TotBili-1.8*\n[**2180-6-14**] 04:50AM BLOOD PT-18.8* PTT-37.4* INR(PT)-1.7*\n\nBrief Hospital Course:\n31yo female with autoimmune liver disease presenting with UGIB\nwith bloody emesis x1 day, she is now s/p EGD which did not\nreveal bleeding varices but did reveal small grade I varices in\nthe esophagus and the duodenum. She missed 4 days of Lasix doses\nso we will re-initiate her diuretic regimen as well as her other\nhome medications.\n\nACUTE ISSUES:\n#.  GIB: the patient had dark emesis and a lavage done at OSH\nrevealed blood. On EGD, non-bleeding grade I varices are\nappreciated so unclear if this is source of bleed. We treated as\nfor GIB but we did not continue octreotide and PPI. Treatment\nwith ceftriaxone and converted to po Cipro 500mg [**Hospital1 **] for 7 days,\nNadolol 20mg daily. Patient's hematocrit remained stable around\n33-35 and she remained hemodynamically stable\n.\n#.  Autoimmune Hepatitis c/b cirrhosis, recurrent ascites.\nAbdominal pain may be [**1-19**] ascites. Continued on home dose of\nLasix (of which she had missed 4 days of doses), Aldactone, home\ndose of Imuran, Budesonide. Started on weekly vitamin D 50,000\non Wednesdays. The patient achieved relief of abdominal pain\nwith carafate and was also advised to use Tums for her pain. As\nwell, she was given tramadol for this pain.\n.\n#.Uncomplicated UTI: patient had asymptomic pyuria, urine\ncultures show staph aureus coag positive. Sensitivities revealed\nresistance to levofloxacin and so ciprofloxacin will not cover\nher. She was given a 3 day course of Bactrim for UTI.\n.\n#Patient eloped with 2 IV's in arms. She left without receiving\ndischarge paperwork but Rx were delivered.\n.\nCHRONIC ISSUES:\n#. Cirrhosis. MELD was 15 on day of discharge. Patient will\ncontinue to follow in transplant hepatology.\n.\nTRANSITIONAL CARE ISSUES:\nCODE: Full\nCONTACT: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 73008**], [**Telephone/Fax (1) 72764**]\nPENDING STUDIES: none\nPATIENT ELOPED WITH IV'S INTACT.\n\nMedications on Admission:\nImuran 50 mg once a day,\nbudesonide 3 mg one p.o. t.i.d.,\nvitamin D 50,000 units once a  week,\nfurosemide 20 mg once a day,\nspironolactone 100 mg once a  day,\ncalcium with vitamin D is on hold due to kidney stones,\niron 325 one three times a day\n\n\nDischarge Medications:\n1. ergocalciferol (vitamin D2) 50,000 unit Capsule Sig: One (1)\nCapsule PO 1X/WEEK (WE).\nDisp:*30 Capsule(s)* Refills:*2*\n2. azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n3. budesonide 3 mg Capsule, Ext Release 24 hr Sig: One (1)\nCapsule, Ext Release 24 hr PO TID (3 times a day).\n4. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n5. spironolactone 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n6. ferrous sulfate 300  mg (60 mg iron) Tablet Sig: One (1)\nTablet PO TID (3 times a day).\n7. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H\n(every 12 hours) for 4 days.\nDisp:*8 Tablet(s)* Refills:*0*\n8. nadolol 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*0*\n9. sucralfate 1 gram Tablet Sig: One (1) Tablet PO four times a\nday as needed for abdominal pain for 7 days.\nDisp:*28 Tablet(s)* Refills:*0*\n10. tramadol 50 mg Tablet Sig: One (1) Tablet PO every six (6)\nhours as needed for pain for 1 weeks.\nDisp:*15 Tablet(s)* Refills:*0*\n11. Bactrim DS 800-160 mg Tablet Sig: One (1) Tablet PO twice a\nday for 3 days.\nDisp:*6 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPRIMARY DIAGNOSIS:\ngastrointestinal bleed\nurinary tract infection\nautoimmune liver disease\nCirrhosis\nSECONDARY DIAGNOSIS:\nhepatitis C\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\n***patient eloped prior to delivery of paperwork***\n\nDear Ms. [**Known lastname 3321**],\nIt was a pleasure taking care of you. You were admitted to the\nhospital for a gastrointestinal bleed. You did not receive a\ntransfusion and your blood levels are stable. You were also\nfound to have a urinary tract infection while you were in the\nhospital. You received an esophagogastroduodenoscopy while you\nwere in the hospital which did not reveal a source of your\nbleeding.\n\nPlease note the following changes to your medications:\n\nPlease keep all of your follow up appointments.\n\nFollowup Instructions:\nDepartment: Primary Care\nName: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]\nWhen: Wednesday [**2180-6-21**] at 10:45 AM\nLocation: [**Hospital3 **] PRIMARY CARE\nAddress: [**State **], 4TH FL, [**Location (un) **],[**Numeric Identifier 73009**]\nPhone: [**Telephone/Fax (1) 4688**]\n\nDepartment: TRANSPLANT\nWhen: WEDNESDAY [**2180-6-21**] at 3:20 PM\nWith: TRANSPLANT [**Hospital 1389**] CLINIC [**Telephone/Fax (1) 673**]\nBuilding: LM [**Hospital Unit Name **] [**Location (un) **]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\nDepartment: RADIOLOGY\nWhen: MONDAY [**2180-7-3**] at 1:40 PM\nWith: XMR [**Telephone/Fax (1) 327**]\nBuilding: CC [**Location (un) 591**] [**Hospital 1422**]\nCampus: WEST     Best Parking: [**Street Address(1) 592**] Garage\n\nDepartment: TRANSPLANT\nWhen: WEDNESDAY [**2180-8-30**] at 1:20 PM\nWith: TRANSPLANT [**Hospital 1389**] CLINIC [**Telephone/Fax (1) 673**]\nBuilding: LM [**Hospital Unit Name **] [**Location (un) **]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\n\n\n"
+    }
+  ]
+}

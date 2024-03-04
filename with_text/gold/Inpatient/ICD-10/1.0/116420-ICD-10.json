@@ -1,0 +1,149 @@
+{
+  "hadm_id": 116420,
+  "comment": "CABF OP report not present",
+  "notes": [
+    {
+      "note_id": 38497,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 383,
+          "end": 495,
+          "code": "02100Z9",
+          "code_system": "ICD-10-PCS",
+          "description": "Bypass Coronary Artery, One Artery from Left Internal Mammary, Open Approach",
+          "type": "Human",
+          "covered_text": "Coronary artery bypass grafting x4, with the left\ninternal mammary artery to the left anterior descending artery"
+        },
+        {
+          "begin": 500,
+          "end": 604,
+          "code": "021209W",
+          "code_system": "ICD-10-PCS",
+          "description": "Bypass Coronary Artery, Three Arteries from Aorta with Autologous Venous Tissue, Open Approach",
+          "type": "Human",
+          "covered_text": "reversed saphenous vein grafts to the posterior descending\nartery and first and second diagonal arteries"
+        },
+        {
+          "begin": 1260,
+          "end": 1268,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "Diabetes"
+        },
+        {
+          "begin": 1269,
+          "end": 1281,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 1282,
+          "end": 1294,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1295,
+          "end": 1303,
+          "code": "Z95.5",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of coronary angioplasty implant and graft",
+          "type": "Human",
+          "covered_text": "2 stents"
+        },
+        {
+          "begin": 1373,
+          "end": 1392,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 1424,
+          "end": 1434,
+          "code": "Z86.73",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "MCA stroke"
+        },
+        {
+          "begin": 1522,
+          "end": 1525,
+          "code": "N40.0",
+          "code_system": "ICD-10-CM",
+          "description": "Benign prostatic hyperplasia without lower urinary tract symptoms",
+          "type": "Human",
+          "covered_text": "BPH"
+        },
+        {
+          "begin": 1819,
+          "end": 1839,
+          "code": "Z87.891",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of nicotine dependence",
+          "type": "Human",
+          "covered_text": "Hx:quit 20 years ago"
+        },
+        {
+          "begin": 5386,
+          "end": 5407,
+          "code": "I35.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic aortic (valve) stenosis",
+          "type": "Human",
+          "covered_text": "aortic valve stenosis"
+        },
+        {
+          "begin": 7618,
+          "end": 7653,
+          "code": "I21.09",
+          "code_system": "ICD-10-CM",
+          "description": "ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall",
+          "type": "Human",
+          "covered_text": "ST-elevation myocardial infarction."
+        },
+        {
+          "begin": 7730,
+          "end": 7753,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "coronary artery disease"
+        },
+        {
+          "begin": 9358,
+          "end": 9376,
+          "code": "Z79.82",
+          "code_system": "ICD-10-CM",
+          "description": "Long term (current) use of aspirin",
+          "type": "Human",
+          "covered_text": "aspirin 81mg daily"
+        },
+        {
+          "begin": 11273,
+          "end": 11296,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        }
+      ],
+      "text": "Admission Date:  [**2141-12-31**]              Discharge Date:   [**2142-1-9**]\n\nDate of Birth:  [**2065-5-1**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 1406**]\nChief Complaint:\nChest pain, transfer for STEMI\n\nMajor Surgical or Invasive Procedure:\n[**2142-1-1**] Cardiac Cath\n[**2142-1-4**] Coronary artery bypass grafting x4, with the left\ninternal mammary artery to the left anterior descending artery\nand reversed saphenous vein grafts to the posterior descending\nartery and first and second diagonal arteries.\n\nHistory of Present Illness:\n76 year old male who presented to OSH for ED with sudden onset\nof [**9-19**] chest pressure, similar to prior chest pain. Attempted\nto fall asleep however could not and so called EMS who brought\nhim to [**Hospital3 **]. At OSH, EKG revealed ST elevations in\nanterior leads. Pt was started heparin gtt and transferred to\n[**Hospital1 18**] emergently for further evaluation. Code STEMI was called\nafter EKG showed ~2mm ST elevations in V3-V4. Labs were\nsignificant for mild troponin of 0.09. He was found to have two\nvessel disease and he is now being referred to cardiac surgery\nfor revascularization.\n\nPast Medical History:\nDiabetes\nDyslipidemia\nHypertension\n2 stents at [**Hospital1 3278**] in [**2129**] (not on plavix because of CVA)\nAtrial fibrillation not on Coumadin because of CVA\nMCA stroke with hemorrhagic conversion s/p craniectomy in [**2132**]\nat Southshore\nB12 deficiency\nBPH\ns/p craniectomy in [**2132**]\n\nSocial History:\nRace:Caucasian\nLast Dental Exam:>1 year ago\nLives with:wife, Wheelchair bound. Wife is primary caretaker\nContact: [**Name (NI) 18380**] (wife)  Phone #[**Telephone/Fax (1) 85652**]\nOccupation:retired business man\nCigarettes: Smoked no [] yes [x] Hx:quit 20 years ago, has a\ngreater than 20 pack year history of smoking\nOther Tobacco use:denies\nETOH: < 1 drink/week [x]  [**1-16**] drinks/week [] >8 drinks/week []\nIllicit drug use:denies\n\nFamily History:\nNo premature coronary artery disease- Father had an MI at age 70\n\n\nPhysical Exam:\nPulse:97 Resp:26  O2 sat:96/2L\nB/P  109/66\nHeight:65\"     Weight:83kgs\n\nGeneral:\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur [] grade ______\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]\nExtremities: Warm [x], well-perfused [x]  Edema [] _____\nVaricosities: None [x] Contracted left knee\nNeuro: Grossly intact []\nPulses:\nFemoral      Right: palp   Left: palp\nDP           Right: palp   Left: palp\nPT           [**Name (NI) 167**]: palp   Left: palp\nRadial       Right: palp   Left: palp\n\nCarotid Bruit        Right: none   Left: none\n\nDischarge Exam:\nVS: T: 97.6  HR: 65-100 SR  BP: 105-125/60-70 Sats: 96% RA\nGeneral: 76 year-old male in no apparent distress\nHEENT: normocephalic, mucus membranes moist\nNeck: supple no lymphadenopathy\nCard: RRR normal S1,.S2 no murmur\nResp: diminished breath sounds bilateral with fine crackles\nright 1/4 up, no wheezes\nGI: obese, bowel sounds positive, abdomen soft\nExtr: warm no edema\nIncision: sternal and left lower extremity clean, dry margins\nwell approximated with no erythema\nSkin: ecchymosis right hip, Left papula rash left upper, lower\nand groin region.\nNeuro: awake, alert, oriented to person, place and time. Mild\nleft facial droop\nStrengths R 3-3/4, Left 0-/4 (old CVA)\n\nPertinent Results:\n[**2142-1-1**] Cardiac Cath: 1. Selective coronary angiography in this\nright dominant system demonstrated two vessel CAD. The LMCA was\npatent. The LAD had diffuse plaquing throughout and tapers to\n90% beyond the patent proximal to mid LAD stent and the D2\ntakeoff. The D2 is diffusely diseased with 40% at ostium and 50%\nproximally. The D1 is a substantive bifricating vessel with 70%\nostial stenosis (partially jailed by the LAD stent). The LCx had\nmild plaquing throughout. The proximal OM1 and mid OM2 (both\nsmall vessels) have focal 70% stenosis with normal flow. The RCA\nwas subselectively engaged due to ostial stent and\ncalcifications. The ostial stent was patent with instent\nrestenosis (mild, nonflow-limiting). Serial focal stenosis (1st\n65-70%) just beyond the acute marginal takeoff and second (90%)\nabout 2 cm downstream. The PL has 70-80% ostially but overall\nthis is a small diffusely diseased vessel. The R-PDA is patent.\n2. Limited resting hemodynamics revealed moderately elevated\nsystemic arterial systolic pressures with an SBP of 150 mmHg. 3.\nAbdominal aortography was performed using a pigtail catheter via\npower injection and showed diffuse plaquing in the infra-renal\naorta, possible moderate L renal artery stenosis, calcific right\ncommon iliac artery stenosis (difficulty passing the wire\nthrough the common iliac into the aorta).\n.\n[**2142-1-3**] Carotid U/S: Right ICA <40% stenosis. Left ICA no\nstenosis.\n.\n[**2142-1-4**] Echo: Pre-CPB: The patient is in A.Fib. No spontaneous\necho contrast is seen in the left atrial appendage. Overall left\nventricular systolic function is low normal (LVEF 50-55%). The\nright ventricular cavity is mildly dilated with mild global free\nwall hypokinesis. The ascending aorta is mildly dilated. There\nare complex (>4mm) atheroma in the descending thoracic aorta.\nThe aortic valve leaflets are severely thickened/deformed. There\nis moderate aortic valve stenosis (valve area 1.0-1.2cm2). In\nthe face of more modest peak and mean gradients across the\nvalve, a discussion led to the decision to not replace it. Dr.\n[**Last Name (STitle) 4901**] offered his opinion also. Trace aortic regurgitation is\nseen. The mitral valve leaflets are moderately thickened. Mild\n(1+) mitral regurgitation is seen. There is no pericardial\neffusion. Post-CPB: The patient is on an AV-Pacer, though there\nis no atrial response. No inotropes. Preserved biventricular\nsystolic fxn. 1+MR, trace AI. Aorta intact.\n.\n[**2142-1-9**] WBC-10.4 RBC-3.14* Hgb-9.3* Hct-27.7* MCV-89 MCH-29.6\nMCHC-33.5 RDW-13.9 Plt Ct-308\n[**2141-12-31**] WBC-11.5* RBC-4.95 Hgb-14.6 Hct-43.0 MCV-87 MCH-29.6\nMCHC-34.0 RDW-13.0 Plt Ct-205\n[**2142-1-9**] Glucose-136* UreaN-23* Creat-1.0 Na-140 K-4.5 Cl-103\nHCO3-32\n[**2141-12-31**] Glucose-172* UreaN-21* Creat-0.9 Na-141 K-4.4 Cl-106\nHCO3-22\n[**2142-1-3**] ALT-27 AST-29 LD(LDH)-260* AlkPhos-61 TotBili-0.4\n\nMicro:\n[**2142-1-3**] URINE CULTURE (Final [**2142-1-4**]):    <10,000\norganisms/ml.\nMRSA SCREEN NASAL SWAB. MRSA SCREEN (Final [**2142-1-6**]):    No MRSA\nisolated\n\nPICC line [**2141-1-7**]:\nRight jugular line has been removed. Tip of the new right PIC\nline is in the right atrium. It should be withdrawn 3.5 cm to\nposition it low in the SVC.\nMild pulmonary edema has developed, most readily appreciated in\nthe right\nlower lung. Severe cardiomegaly is longstanding, but mediastinal\nand hilar\nvascular engorgements have worsened. There is greater\nconsolidation at the\nleft lung base, presumably atelectasis though pneumonia is not\nexcluded, and an increase in small-to-moderate left pleural\neffusion. There is no\npneumothorax.\n\nCXR: [**2142-1-6**] There is a questionable tiny left pneumothorax.\nThe pulmonary edema has almost resolved. There are persistent\nlow lung volumes with bibasilar atelectasis. Cardiomediastinal\nsilhouette is unchanged. Right IJ catheter remains low in the\nright atrium and can be withdrawn 3-4 cm for more standard\nposition. If any there are small bilateral pleural effusions.\nThe sternal wires are aligned.\n\n\nBrief Hospital Course:\nAs mentioned in the HPI, Mr. [**Known lastname 47059**] was transferred from\noutside hospital with an ST-elevation myocardial infarction. He\nunderwent a cardiac cath on [**1-1**] which revealed severe three\nvessel coronary artery disease. He then underwent appropriate\nsurgical work-up while awaiting Plavix to wash-out. On [**1-4**] he\nwas brought to the operating room where he underwent a coronary\nartery bypass graft x 4. Please see operative note for surgical\ndetails. Following surgery he was transferred to the CIVCU for\ninvasive monitoring in stable condition. Within 24 hours he was\nweaned from sedation, awoke neurologically intact and extubated.\nOn post-op day one he was started on beta-blockers and diuretics\nand diuresed towards his pre-op weight. On post-op day two he\nwas transferred to the telemetry floor for further care. Chest\ntubes and epicardial pacing wires were removed per protocol. On\npost-op day three he had episode of rapid atrial fibrillation\nIV/PO amiodarone was started. He converted to sinus rhythm\n(pre-op history of AF but not on Coumadin d/t hemorrhagic\nstroke). A Non-heparin PICC line was placed for IV access.  His\nFoley was removed and a condom cath was placed for incontinence.\nHe was bladder scanned for 300.  He continued to make good\nprogress while working with physical therapy. On post-op day 5\nhe was discharged to rehab with the appropriate medications and\nfollow-up appointments.\n\nMedications on Admission:\nMedications at home:\nmetoprolol tartarte 50mg [**Hospital1 **]\nlisinopril 10mg daily\nsimvastatin 20mg daily\ntamsulosin 0.4mg daily\nescitalopram 20mg daily\nfinasteride 4mg\nsenna-docunsate 1 tab TID\nNPH/Novolin 10 units SC daily\nNPH 15 units SC at dinner\nascorbic acid 500mg daily\nfolic acid-vit b2-vit b6-vit b 1 tab [**Hospital1 **]\nergocalciferol 1000 units daily\ntrazodone 50mg daily\naspirin 81mg daily\n\nDischarge Medications:\n1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n3. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n4. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)\nCapsule, Ext Release 24 hr PO HS (at bedtime).\n5. escitalopram 10 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n6. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO HS (at bedtime) as needed for constipation.\n7. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nDAILY (Daily) as needed for constipation.\n8. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n9. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n10. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: Three (3) mL Inhalation Q6H (every 6 hours).\n11. ipratropium bromide 17 mcg/Actuation HFA Aerosol Inhaler\nSig: Two (2) Puff Inhalation Q6H (every 6 hours).\n12. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\n13. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for pain.\nDisp:*50 Tablet(s)* Refills:*0*\n14. amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times\na day): 400mg [**Hospital1 **] x 7 days\nthen 400 mg daily x 7 days then 200 mg daily.\n15. potassium chloride 10 mEq Tablet Extended Release Sig: Two\n(2) Tablet Extended Release PO DAILY (Daily).\n16. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical QID\n(4 times a day) as needed for rash: apply to rash.\n17. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H\n(every 6 hours) as needed for PAIN/TEMP.\n18. PICC Line\nNon-Heparin: FLUSH with 10 mL of Normal Saline\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 700**] - [**Location (un) 701**]\n\nDischarge Diagnosis:\nCoronary artery disease s/p Coronary artery bypass graft x 4\nPast medical history:\nDiabetes\nDyslipidemia\nHypertension\n2 stents at [**Hospital1 3278**] in [**2129**] (not on plavix because of CVA)\natrial fibrillation not on Coumadin because of CVA\nMCA stroke with hemorrhagic conversion s/p craniectomy in [**2132**]\nat\nSouthshore\nB12 deficiency\nBPH\ns/p craniectomy in [**2132**]\n\nDischarge Condition:\nAlert and oriented with Left Hemi-paresis\nAmbulating with Max assist\nIncisional pain managed with Tramadol\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Right/Left - healing well, no erythema or drainage.\nEdema\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**Last Name (STitle) **] on [**2142-2-8**] at 1:15PM in the [**Last Name (un) 2577**] Building [**Last Name (NamePattern1) 10357**] [**Hospital Unit Name **]\n\nCardiologist/PCP: [**Last Name (NamePattern4) **]. [**Last Name (STitle) 10165**] [**Name (STitle) 31187**] [**2142-1-22**] 12:00\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\nCompleted by:[**2142-1-9**]"
+    }
+  ]
+}

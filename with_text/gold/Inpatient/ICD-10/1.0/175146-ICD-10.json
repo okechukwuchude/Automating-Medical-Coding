@@ -1,0 +1,104 @@
+{
+  "hadm_id": 175146,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 37354,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 421,
+          "end": 439,
+          "code": "J84.112",
+          "code_system": "ICD-10-CM",
+          "description": "Idiopathic pulmonary fibrosis",
+          "type": "Human",
+          "covered_text": "pulmonary\nfibrosis"
+        },
+        {
+          "begin": 2952,
+          "end": 2962,
+          "code": "Z99.81",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on supplemental oxygen",
+          "type": "Human",
+          "covered_text": "2L Home O2"
+        },
+        {
+          "begin": 2963,
+          "end": 2967,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "CAD,"
+        },
+        {
+          "begin": 3021,
+          "end": 3024,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 3025,
+          "end": 3028,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 3135,
+          "end": 3166,
+          "code": "Z87.891",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of nicotine dependence",
+          "type": "Human",
+          "covered_text": "History of smoking, but quit in"
+        },
+        {
+          "begin": 6403,
+          "end": 6410,
+          "code": "R09.02",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoxemia",
+          "type": "Human",
+          "covered_text": "Hypoxia"
+        },
+        {
+          "begin": 6497,
+          "end": 6515,
+          "code": "J84.112",
+          "code_system": "ICD-10-CM",
+          "description": "Idiopathic pulmonary fibrosis",
+          "type": "Human",
+          "covered_text": "pulmonary fibrosis"
+        },
+        {
+          "begin": 7146,
+          "end": 7163,
+          "code": "Z66",
+          "code_system": "ICD-10-CM",
+          "description": "Do not resuscitate",
+          "type": "Human",
+          "covered_text": "DNR/DNI confirmed"
+        },
+        {
+          "begin": 8347,
+          "end": 8376,
+          "code": "J84.112",
+          "code_system": "ICD-10-CM",
+          "description": "Idiopathic pulmonary fibrosis",
+          "type": "Human",
+          "covered_text": "Idiopathic Pulmonary Fibrosis"
+        }
+      ],
+      "text": "Admission Date:  [**2128-11-29**]              Discharge Date:   [**2128-12-1**]\n\nDate of Birth:  [**2054-10-7**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 330**]\nChief Complaint:\nShortness of Breath\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\nThe patient is a 74 year old male with a history of pulmonary\nfibrosis with home O2 requirement of 2-3L, former smoker with\nCOPD, who presented on [**2128-11-28**] to [**Hospital6 33**] with\ncomplaints of dyspnea.\n\nThe patinet has been followed for the last three years by Dr.\n[**Last Name (NamePattern1) 84016**]at [**Hospital1 3278**], carying a diagnosis of IPF. He reports\nto have been treated for many years for COPD, but describes a\nchange in his dyspnea in [**2125**]. Of note, in [**2124**] patient had an\noil spill in his basement with significant concrete dust in the\nconstruction requiring hospitalization due to pulmonary\nsymptoms. He also describes a remote asbesstos exposure when in\nthe arm. He has been managed by Dr. [**First Name (STitle) **], but has never been on\nany immunologic therapy. We have no recent CT scan or PFTs\navailable to us at this time. Over the last year, he has also\nbeen on home O2, and has noted a progessive worsening of\nsymptoms over the last 6 months. He has noted increasing dyspnea\nand a slow escalation of O2 requirment. He was started on a\nprednisone taper in [**4-3**], but has not been able to taper off\n10mg daily. He is on a series of inhaler regimens given below,\nbut not currently anticoagulated. It does not seem the patient\nhas had a lung biopsy.\n\nThe patient had an admission to [**Hospital1 34**] in [**10-4**], for which he was\ntreated with a steroid burst and antibiotics for brochroncitis,\nwhich improved but again gradualy worsended. It appears he was\non an extended course of azythromycin.\n\nThe patient noted that his respiratory symptoms worsened since\naround the [**Holiday 944**] holiday, with incrasing dyspnea on\nexcersion, a productive cough with mildly blood tinged sputum.\nHis symptoms continued to worsen, and he began to notice audible\nwheese and a marked decline in his dyspnea. On [**2128-11-28**] the\npatients son found him to be hypoxic to the 70s on RA and\nactivated EMS. The patinet was treated intermittent BIPAP 10/5,\nbut was never able to maintain adequate oxygen saturations on\nless than 50% venti-mask oxygen supplementation. CXR showed now\nright middle and lower chest opacities which were felt to most\nlikely be consisent with airspace disease with possible\nsuperimposed pneumonia. BNP was 517, urine leginlla was\nnegative, strep pneumoniae antigen were both negative. BCx were\nno growth to date. He was treated with solumedrol and\nlevofloxacin with a pulmonology consultation. The patient was\ntransfered to [**Hospital1 18**] for further manegment.\n\n\nPast Medical History:\nPulmonary Fibrosis with 2L Home O2\nCAD, w/ stent in [**2125**] at [**Hospital1 336**] for UA\nHTN\nHLD\nAAA s/p endograft repair in [**2124**]\nVasovagal syncope\nCOPD\n\n\nSocial History:\nThe patient is a widower. History of smoking, but quit in [**2108**]\nafter a bad pneumonia. He worked as both a professor as was\nactive in the US army Medicore. No history of significant\nalcohol use. Live alone, but has invovled supportive family. He\nhad multiple dogs, but never had pet birds or other animals.\n\nFamily History:\nNo family history of malignancy, autoimmune idease, or lung\ndisease save for emphysema in his father.\n\nPhysical Exam:\nGeneral Appearance: Well nourished, No acute distress, On NRB\nLymphatic: No(t) Cervical WNL, No(t) Supraclavicular WNL, No(t)\nCervical adenopathy\nCardiovascular: (PMI Normal), (S1: Normal), (S2: Normal),\n(Murmur: No(t) Systolic, No(t) Diastolic)\nPeripheral Vascular: (Right radial pulse: Present), (Left radial\npulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:\nPresent)\nRespiratory / Chest: (Expansion: Symmetric), (Percussion:\nResonant : ), (Breath Sounds: Rhonchorous: diffuse dry rales\nworse  )\nAbdominal: Soft, Non-tender, Bowel sounds present\nExtremities: Right lower extremity edema: Absent, Left lower\nextremity edema: Absent\nSkin:  Not assessed\nNeurologic: Attentive, Follows simple commands, Responds to: Not\nassessed, Movement: Not assessed, Tone: Not assessed\n\nPertinent Results:\n[**2128-12-1**] 03:06AM BLOOD WBC-25.0* RBC-3.55* Hgb-10.2* Hct-30.5*\nMCV-86 MCH-28.9 MCHC-33.6 RDW-14.5 Plt Ct-408\n[**2128-11-29**] 08:29PM BLOOD Neuts-95.7* Lymphs-2.3* Monos-1.9* Eos-0\nBaso-0.1\n[**2128-12-1**] 03:06AM BLOOD Plt Ct-408\n[**2128-12-1**] 03:06AM BLOOD Glucose-115* UreaN-22* Creat-1.1 Na-135\nK-3.9 Cl-99 HCO3-25 AnGap-15\n[**2128-11-29**] 08:29PM BLOOD Glucose-130* UreaN-25* Creat-1.1 Na-139\nK-4.2 Cl-104 HCO3-23 AnGap-16\n[**2128-11-29**] 08:29PM BLOOD LD(LDH)-552*\n[**2128-12-1**] 03:06AM BLOOD Calcium-8.7 Phos-3.6 Mg-2.2\n[**2128-11-30**] 04:54AM BLOOD Iron-22*\n[**2128-11-30**] 04:54AM BLOOD calTIBC-255* Ferritn-821* TRF-196*\n[**2128-11-30**] 11:40AM BLOOD Type-[**Last Name (un) **] pO2-62* pCO2-45 pH-7.35\ncalTCO2-26 Base XS-0\n[**2128-11-30**] 11:40AM BLOOD Lactate-1.4\n[**2128-11-30**] 11:40AM BLOOD freeCa-1.08*\n\n[**2128-11-30**] 1:00 am Rapid Respiratory Viral Screen & Culture\n      Source: Nasopharyngeal swab.\n\n   Respiratory Viral Culture (Preliminary):\n\n   Respiratory Viral Antigen Screen (Final [**2128-11-30**]):\n      Negative for Respiratory Viral Antigen.\n      Specimen screened for: Adeno, Parainfluenza 1, 2, 3,\nInfluenza A, B,\n      and RSV by immunofluorescence.\n      Refer to respiratory viral culture for further\ninformation.\n\nIMPRESSION:\n1. No pulmonary embolism.\n2. Moderate progression of diffuse interstitial abnormality,\npredominantly\nsubpleural reticulation and fibrosis. Honeycombing is new from\nprevious exam.\n3. Diffuse ground-glass opacity superimposed on background\ninterstitial\nchanges. Findings are concerning for acute pulmonary edema, and\ncould be due to cardiogenic, or non-cardiogenic causes.\nDifferential includes acute drug reaction, and ARDS. Pneumonitis\nsecondary to infectious causes, such as PCP, [**Name10 (NameIs) **] also possible.\n4. Mediastinal lymphadenopathy is consistent with reported\nhistory of IPF.\n\n\nBrief Hospital Course:\nThe patient is a 74 year old male with a history of IPF, COPD,\ntobacco use who presents with hypoxia, tranfered for further.\nmangement.\n\n# Hypoxia: Most likely etiology of patient's hypoxia and dyspnea\nis worsening of his underlying pulmonary fibrosis.  He was\ninitially treated with antibiotics and steroids without any\nimprovement.  He had a CT chest which showed worsening of his\nunderlying disease.  His micro data did not show any new\nmicroorganism.  His viral respiratory panel was also negative.\n\nHe was maintained on a non-rebreather mask at 15L/min and nasal\ncannula at 10L/min.  He was evaluated by palliative care, and\nafter much discussion with the patient and family, he was made\nDNR/DNI and CMO with palliative care/hospice set up at home.  He\nwill be discharged with morphine solution and oxygen for home\ntherapy. His other medications will be discontinued.\n\n# CODE: DNR/DNI confirmed with patient- comfort measures only\n\n# CONTACT: [**Known firstname **] [**Name (NI) 84017**] [**Name (NI) **] (Son and HCP)\n\n\nMedications on Admission:\nAdvair 500/50 1 puff [**Hospital1 **]\nAsprin 81mg daily\nAtenolol 50mg daily\nBoniva 150mg qmonth\nPlavix 75mg daily\nSpiriva 18mcg daily\nPrednisone 5mg daily (has not been able to taper off steroids;\non for last 6 months)\nAlbuterol neb PRN\nVB12\nFish Oil 300\nFolic Acid\nGlucosamine\nMVI\nLovastatin 80mg qHS\n\n\nDischarge Medications:\n1. Morphine Concentrate 20 mg/mL Solution Sig: 5-20 mg PO Q1H as\nneeded for shortness of breath or wheezing.\nDisp:*60 mL* Refills:*0*\n2. Scopolamine Base 1.5 mg Patch 72 hr Sig: [**11-27**] patches\nTransdermal every seventy-two (72) hours.\nDisp:*20 patch* Refills:*2*\n3. Ativan 1 mg Tablet Sig: 0.5-2 Tablets PO every four (4) hours\nas needed: sublingual.\nDisp:*40 Tablet(s)* Refills:*0*\n4. Compazine 10 mg Tablet Sig: One (1) Tablet PO every six (6)\nhours as needed for nausea.\nDisp:*60 Tablet(s)* Refills:*2*\n5. oxygen\nhigh flow oxygen, 10-20L/min with non-rebreather mask\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Location (un) **] VNA services\n\nDischarge Diagnosis:\nPrimary Diagnosis: Idiopathic Pulmonary Fibrosis\nHypoxia\n\n\nDischarge Condition:\nhypoxia to 78-85% on high flow oxygen.  unable to ambulate\nwithout further hypoxia.  Mental status normal and at baseline\n\n\nDischarge Instructions:\nYou were admitted to [**Hospital1 18**] for worsening of your breathing and\nlow oxygen saturations. This is likely worsening of your\nunderlying pulmonary fibrosis.  You were initially treated with\nsteroids and antibiotics, but there was no significant\nimprovement.  A repeat CT scan showed evidence of worsening of\nyour disease.  This is an end stage process.  You were seen by\nthe palliative care team, and after further discussions with you\nand your family, you decided to go home with hospice services.\nYou will be sent home with medications for your comfort.\n\nFollowup Instructions:\nnone\n\n\n\n"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "hadm_id": 109302,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 44580,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 337,
+          "end": 354,
+          "code": "J44.1",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic obstructive pulmonary disease with (acute) exacerbation",
+          "type": "Human",
+          "covered_text": "COPD exacerbation"
+        },
+        {
+          "begin": 1526,
+          "end": 1538,
+          "code": "M81.0",
+          "code_system": "ICD-10-CM",
+          "description": "Age-related osteoporosis without current pathological fracture",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 1572,
+          "end": 1574,
+          "code": "M06.9",
+          "code_system": "ICD-10-CM",
+          "description": "Rheumatoid arthritis, unspecified",
+          "type": "Human",
+          "covered_text": "RA"
+        },
+        {
+          "begin": 1601,
+          "end": 1604,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 2405,
+          "end": 2413,
+          "code": "M40.209",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified kyphosis, site unspecified",
+          "type": "Human",
+          "covered_text": "kyphotic"
+        },
+        {
+          "begin": 3917,
+          "end": 3926,
+          "code": "0BH17EZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening",
+          "type": "Human",
+          "covered_text": "intubated"
+        },
+        {
+          "begin": 5136,
+          "end": 5161,
+          "code": "R78.81",
+          "code_system": "ICD-10-CM",
+          "description": "Bacteremia",
+          "type": "Human",
+          "covered_text": "Strep viridans bacteremia"
+        },
+        {
+          "begin": 5352,
+          "end": 5366,
+          "code": "B95.4",
+          "code_system": "ICD-10-CM",
+          "description": "Other streptococcus as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "Strep Viridans"
+        },
+        {
+          "begin": 6619,
+          "end": 6627,
+          "code": "J90",
+          "code_system": "ICD-10-CM",
+          "description": "Pleural effusion, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "effusion"
+        },
+        {
+          "begin": 6632,
+          "end": 6643,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "atelectasis"
+        },
+        {
+          "begin": 6645,
+          "end": 6677,
+          "code": "5A1935Z",
+          "code_system": "ICD-10-PCS",
+          "description": "Respiratory Ventilation, Less than 24 Consecutive Hours",
+          "type": "Human",
+          "covered_text": "Extubated on MICU day #1 without"
+        },
+        {
+          "begin": 6840,
+          "end": 6845,
+          "code": "5A09357",
+          "code_system": "ICD-10-PCS",
+          "description": "Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure",
+          "type": "Human",
+          "covered_text": "BiPAP"
+        },
+        {
+          "begin": 11887,
+          "end": 11897,
+          "code": "L03.116",
+          "code_system": "ICD-10-CM",
+          "description": "Cellulitis of left lower limb",
+          "type": "Human",
+          "covered_text": "Cellulitis"
+        },
+        {
+          "begin": 11899,
+          "end": 11918,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial Fibrillation"
+        },
+        {
+          "begin": 11920,
+          "end": 11939,
+          "code": "J96.90",
+          "code_system": "ICD-10-CM",
+          "description": "Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia",
+          "type": "Human",
+          "covered_text": "respiratory failure"
+        },
+        {
+          "begin": 11974,
+          "end": 11986,
+          "code": "I33.0",
+          "code_system": "ICD-10-CM",
+          "description": "Acute and subacute infective endocarditis",
+          "type": "Human",
+          "covered_text": "Endocarditis"
+        }
+      ],
+      "text": "Admission Date:  [**2134-11-26**]              Discharge Date:   [**2134-12-10**]\n\nDate of Birth:  [**2051-9-1**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPeanut / Chocolate Flavor / Codeine\n\nAttending:[**First Name3 (LF) 9965**]\nChief Complaint:\nCC:[**CC Contact Info 95464**].\nReason for MICU transfer: respiratory distress/COPD exacerbation\n\n\nMajor Surgical or Invasive Procedure:\nNone\n\n\nHistory of Present Illness:\nMs. [**Known lastname 2564**] is an 83 y/o F with HTN, COPD and RA who presented\nto the ED with developing LLE erythema over 3 days duration.\nPresented to PCP who suggested she go to the ED for further\neval.  Denied any associated Sx including fever/chills or pain.\nDoes describe weeping from the lesion.  In the ED she developed\nafib with RVR and was treated with IV and oral metoprolol and\nadmitted to medicine for further work-up of new afib.\n.\nOn the floor, she was continued on metoprolol for afib.  She was\ntreated with ceftriaxone for cellulitis but blood cultures\nturned positive for strep viridans.  Thus, a TTE was ordered\nwhich showed possible aortic valve vegetation.  A TEE was\nperformed today to better characterize the vegetation but during\nthe procedure she became stridorous.\n.\nShe was treated with nebulizers and IV steroids for presumed\nCOPD exacerbation.  She also had magnesium, furosemide x1, and\nmetoprolol IV x 2.  She was placed on a NRB with saturations in\nthe 90% and transfered to the MICU for further management of her\nrespiratory distress.\n\n\nPast Medical History:\n- Osteoporosis with T8-9 compression fracture\n- RA\n- COPD (no PFTs in OMR)\n- HTN\n\n\nSocial History:\nNot presently employed. Lives independently. Has a niece who is\n[**Name8 (MD) **] RN. No EtOH, tobacco or other drug use.\n\n\nFamily History:\nFather with [**Name2 (NI) **]\n\nPhysical Exam:\nOn Admission:\nVS: afebrile, BP 114/70, HR 150s, RR 30s, O2sats 93-99% NRB\nGA: AOx3, severe increased work of breathing with use of\nabdominal muscles for respiration, no sentence dyspnea\nHEENT: JVP elevated to 10-12 cm\nCards: irregularly irregular, S1 and S2, +[**1-31**] murmur best heard\nover apex\nPulm: intermittent inspiratory stridor, expiratory wheezes\nbilaterally, no crackles\nAbd: soft, NT, +BS. no g/rt. neg HSM.\nExtremities: erythema and flaking on skin over left tibia\nextending down to foot. RLE with e/o venous statis changes.\n\nOn Discharge:\nVS: 97.0 121/77 86 22 94%2L\nGen: Severely kyphotic, elderly female in NAD. Oriented x3.\nMood, affect appropriate.\nCV: RRR with normal S1, S2. No M/R/G. No S3 or S4.\nChest: Respiration unlabored, no accessory muscle use. CTAB\nwithout crackles, wheezes or rhonchi. Does have rhoncorous upper\nairway sounds.\nAbd: Normal bowel sounds. Soft, NT, ND. No organomegaly or\nmasses.\nExt: WWP. Digital cap refill <2 sec. No C/C/E. Distal pulses\nintact radial 2+, DP 2+, PT 2+.\nSkin: venous stasis changes in lower extremity; cellulitis is\nsignificantly improved\n\n\nPertinent Results:\nOn Admission:\n[**2134-11-26**] 04:15PM BLOOD WBC-6.9 RBC-4.03* Hgb-12.6 Hct-38.9\nMCV-97 MCH-31.3 MCHC-32.4 RDW-12.5 Plt Ct-428\n[**2134-11-28**] 08:10AM BLOOD PT-12.2 PTT-22.6* INR(PT)-1.1\n[**2134-11-26**] 03:30PM BLOOD Glucose-97 UreaN-13 Creat-0.6 Na-145\nK-3.5 Cl-105 HCO3-32 AnGap-12\n[**2134-12-4**] 08:32AM BLOOD ALT-28 AST-24 LD(LDH)-158 AlkPhos-80\nTotBili-0.3\n[**2134-11-27**] 06:00AM BLOOD Calcium-8.9 Phos-3.7 Mg-2.0\n\nOn Discharge:\n[**2134-12-10**] 05:45AM BLOOD WBC-10.4 RBC-3.35* Hgb-10.6* Hct-32.4*\nMCV-97 MCH-31.5 MCHC-32.6 RDW-13.6 Plt Ct-236\n[**2134-12-9**] 05:50AM BLOOD PT-14.5* PTT-30.7 INR(PT)-1.4*\n[**2134-12-10**] 05:45AM BLOOD Glucose-102* UreaN-16 Creat-0.4 Na-139\nK-4.0 Cl-100 HCO3-36* AnGap-7*\n[**2134-12-10**] 05:45AM BLOOD Calcium-8.4 Phos-2.4* Mg-2.1\nStudies:\n.\n[**11-30**] TTE: IMPRESSION: Aortic valve mass, probably a vegetation.\nNo associated aortic regurgitation. Moderate mitral and\ntricuspid regurgitation\n.\n[**12-1**] TEE Esophagus was successfully intubated with TEE probe.\nPrior to the acquisition of any pictures the patient developed\nstridorous breathing which resolved fully following removal of\nthe TEE probe. The procedure was aborted at that time. The\npatient was closely monitored in the TEE room until sedation\nwore off and she fully recovered back to baseline. There was no\nfurther stridor noted.\n.\n[**12-4**] CT Head: IMPRESSION: No acute intracranial process; exam\nlimited by exclusion of the superior-most aspect of the brain.\n.\n[**12-5**] CT Chest: IMPRESSION: 1. No pneumonia. 2. Mild pulmonary\nedema. Moderate right and small left pleural effusions,\nmoderately severe bibasilar atelectasis. New moderate\ncardiomegaly. 3. New severe multilevel thoracic vertebral\ncompression fractures.\n.\n[**12-9**] CXR: PFI: Improved appearance of right lung with residual\nright cardiophrenic consolidation with trace right pleural\neffusion; unchanged retrocardiac consolidation with small left\npleural effusion.\n\n\nBrief Hospital Course:\nAssessment and Plan: Ms. [**Known lastname 2564**] is an 83 y/o F with HTN, COPD\nand RA who presented with cellulitis and afib with RVR in the\nED. Found to be bacteremic on the floor and found to have aortic\nvalve vegitation.\n.\n# Strep viridans bacteremia - The patient initially presented\nwith cellulitis of her left leg and was treated with oral\nantibiotics. On Day #3 of therapy, [**12-29**] blood cultures drawn at\nadmission returned (+) for Strep Viridans. She was started on IV\nceftriaxone on [**2134-11-29**]. The patient underwent TTE which\nrevealed an aoritc valve vegitation. Plan was for TEE however,\nduring the procedure, the patient became stridorous (as\ndescribed in detail below) and required intubation and MICU\ntransfer. In the MICU, the patient underwent TEE which again\ndemonstrated the aortic valve vegitation. On [**2134-12-8**], the\npatient was HD stable and was able to return to the medicine\nfloor from the MICU. A midline was placed for long term\nantibiotic therapy. The patient will be discharged to a rehab\ncenter where she will continue antibiotic therapy for 1 month\nand follow-up with ID as an outpatient.\n.\n# Respiratory distress:  On [**2134-12-1**] a TEE was attempted\nhowever had to be abandoned as the patient became stridorous\nduring the procedure. Following this event, the patient was\nstable on the floor until ~6pm when she began to develop\nrespiratory distress. Despite agressive measures including IV\nsteroids, nebs, O2, lasix, and racemic epi the patient required\nintubation and was transferred to the MICU. In the MICU the\npatient was diuresed further and continued on\nalbuterol/ipratropium for COPD. Was also started on methylpred\n60 mg q8h. Imaging showed a mild left effusion and atelectasis.\nExtubated on MICU day #1 without event. During her ICU course,\nthe patient would intermittently develop respiratory distress\nand stridor, with saturations dipping into the low 80s. She\nunderwent BiPAP intermittently overnight, then was changed to\nnasal BiPAP after her respiratory status improved. On the floor,\nthe patient self-discontinued BiPAP due to discomfort. Seen by\nENT who scoped to the level of the vocal cords but found no\nabnormality. Etiology of respiratory decompensation is unclear\nalthough is believed to be related to possible upper airway\nedema exacerbated by TEE/intubation. Also has poor reserve with\nunderlying COPD and severe kyphosis.\n.\n# Afib with RVR - The patient was noted to be in afib with RVR\nwhile in the ED. No known h/o afib. In the hospital she was\ninitially controlled with IV metoprolol and loaded with orals.\nOral metoprolol titrated to 200mg daily and converted to long\nacting. Given CHADS2 score of 2, anti-coagulation was\nrecommended and the patient was agreeable. Started on warfarin\nwithout bridge and will continue warfarin on an outpatient\nbasis. Goal INR [**1-28**].\n.\n# Osteoporosis - In house, the patient was incidentally found to\nhave a number of new compression fractures on imaging. Is\nwritted for alendronate, vitamin D, and calcium at home although\nreports not reliably taking the alendronate. She was maintained\non calcium and vitamin D in house. Received Alendronate on\nMondays per home schedule. She never complained of pain related\nto compression fractures.\n.\n# COPD - The patient carries a history of COPD. This may have\ncontributed to respiratory decompensation described above. In\nhouse she was continued on standing nebulizer therapy. Prior to\ndischarge, the patient continued to have a dry, hacking cough\nand an increased oxygen requirement (2L NC to maintain sats\n~94%). Given relatively clear imaging, a COPD exacerbation was\nsuspected and the patient was discharged with plans to complete\na steroid taper and a 5 day course of azithromycin.\n.\n# HTN - The patient has a h/o HTN and was on atenolol at home.\nThis was changed to metoprolol in house and she will be\ndischarged with plans to continue metoprolol.\n.\n# RA - Has a history of what is apparently rather severe RA. Not\non any medications to control disease at home. Attempted to\ncontact the patient's rheumatologist although he has apparently\nrecently retired.\n.\n# Transitional Issues:\n1) Continue Ceftriaxone to complete a 1 month course and\nfollow-up with infectious disease clinic as scheduled.\n2) Recommend referral to see a new rheumatologist (former\nrheumatologist retired) and a pulmonologist.\n3) Continue Metoprolol 200mg daily for atrial fibrillation\n4) Continue coumadin daily and follow-up with [**State 95465**] [**Hospital 2786**] clinic\n5) Complete steroid taper and course of azithromycin\n\nMedications on Admission:\nMEDICATIONS:  (at home)\nALENDRONATE - 70 mg Tablet Weekly\nATENOLOL - 25 mg Daily\nFLUTICASONE [FLOVENT DISKUS]\nmeloxicam 15 mg Tablet Daily\nOXYCODONE-ACETAMINOPHEN [ROXICET] - 1 tab Q6H;PRN for pain\nMULTIVITAMIN\n.\nMEDICATIONS: (on transfer)\nIpratropium Neb 1 NEB IH Q6H:PRN SOB/Wheezing\nAcetaminophen 325-650 mg PO/NG Q4H:PRN pain or fever\nAlbuterol Inhaler [**12-27**] PUFF IH Q4H:PRN wheezing/shortness of\nbreath  MethylPREDNISolone Sodium Succ 125 mg x1\nAspirin 81 mg PO/NG DAILY\nMetoprolol Succinate XL 200 mg PO DAILY\nAlendronate Sodium 70 mg PO QMON\nMetoprolol Tartrate 5 mg IV x2\nMetoprolol Tartrate 25 mg PO/NG ONCE\nBenzonatate 100 mg PO TID\nMagnesium Sulfate 2 gm IV ONCE\nCeftriaXONE 1 gm IV Q24H day 1 [**11-26**]\nMethylPREDNISolone Sodium Succ 125 mg IV Q6H start [**12-2**]\nDocusate Sodium 100 mg PO BID\nPredniSONE 40 mg PO/NG DAILY\nFluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **]\nRacepinephrine 0.5 mL IH ONCE x2\nFurosemide 20 mg IV ONCE\nSenna 2 TAB PO/NG HS\nGuaifenesin [**5-4**] mL PO/NG Q4H:PRN cough\n\nDischarge Medications:\n1. alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week:\nMonday.\n2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\nDisp:*30 Tablet, Chewable(s)* Refills:*2*\n3. warfarin 2.5 mg Tablet Sig: Two (2) Tablet PO at bedtime:\nPlease follow up with your [**Hospital 2786**] clinic for further\nmanagement of your dosing.\nDisp:*30 Tablet(s)* Refills:*1*\n4. multivitamin     Tablet Sig: One (1) Tablet PO once a day.\n5. ceftriaxone 1 gram Recon Soln Sig: One (1)  Intravenous once\na day: Please continue on Ceftriaxone until instructed otherwise\nat your infectious disease clinic follow-up.\n6. prednisone 10 mg Tablet Sig: Four (4) Tablet PO once a day:\nContinue 4 pills daily for 3 days. Then 3 pills daily for 3 days\nthen 2 pills daily for 3 days then STOP.\nDisp:*28 Tablet(s)* Refills:*0*\n7. metoprolol succinate 200 mg Tablet Extended Release 24 hr\nSig: One (1) Tablet Extended Release 24 hr PO once a day.\nDisp:*30 Tablet Extended Release 24 hr(s)* Refills:*2*\n8. meloxicam 15 mg Tablet Sig: One (1) Tablet PO once a day.\n9. azithromycin 250 mg Tablet Sig: One (1) Tablet PO once a day\nfor 3 days.\n10. Flovent Diskus 100 mcg/Actuation Disk with Device Sig: Two\n(2)  Inhalation twice a day.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 700**] - [**Location (un) 701**]\n\nDischarge Diagnosis:\nCellulitis, Atrial Fibrillation, respiratory failure\n\nCellulitis, Atrial Fibrillation, Endocarditis\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nIt was a pleasure taking care of you at [**Hospital1 18**]!\n\nYou were admitted with a skin infection of your leg. In the\nemergency room you were also found to have an abnormal heart\nrhythym called atrial fibrillation. You were treated with\nantibiotics for the skin infection with improvement. You were\nalso treated with a medication to slow your heart rate and were\nstarted on a blood thinning medication to prevent stroke.\nAdditionally, you were found to have an infection of your\nbloodstream and of your heart valve.  For this you will be\ndischarged on a 4 week course of intravenous antibiotics.\n\nSee below for changes to your home medication regimen:\n1) Please START Metoprolol 200mg once daily\n2) Please START Warfarin 0.5mg in the evening. You will\nfollow-up with the [**State **] Square-[**Hospital1 18**] office\n[**Hospital 2786**] clinic for further changes to your dosing\n3) Please CONTINUE Ceftriaxone until otherwise instructed by the\ninfectious disease clinic\n4) Please START Aspirin 81mg DAilY\n5) Please STOP Atenolol\n6) Please CONTINUE Prednisone 4 pills daily for 3 days. Then 3\npills daily for 3 days then 2 pills daily for 3 days then STOP.\n7) Please CONTINUE Azithromycin 250mg daily for 3 additional\ndays to complete a 5 day course\n8) Please STOP Roxicet\n\nSee below for instructions regarding follow-up care:\n\nFollowup Instructions:\nDepartment: INFECTIOUS DISEASE\nWhen: WEDNESDAY [**2134-12-22**] at 10:00 AM\nWith: [**First Name11 (Name Pattern1) 1037**] [**Last Name (NamePattern4) 2335**], MD [**Telephone/Fax (1) 457**]\nBuilding: LM [**Hospital Unit Name **] [**Hospital 1422**]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\nPlease follow-up with your primary care phsyician  ([**Doctor Last Name 2204**],\n[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **], [**Telephone/Fax (1) 2205**]) within 7 days of discharge from your\nrehabilitation facility.\n\n\n\nCompleted by:[**2134-12-13**]"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "hadm_id": 130846,
+  "comment": "OP report for AAA repair missing- Unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 14318,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 291,
+          "end": 363,
+          "code": "04V03DZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Restriction of Abdominal Aorta with Intraluminal Device, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "Endovascular stent graft exclusion of ruptured abdominal aortic\naneurysm"
+        },
+        {
+          "begin": 761,
+          "end": 764,
+          "code": "I25.110",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery with unstable angina pectoris",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 769,
+          "end": 788,
+          "code": "Z95.0",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of cardiac pacemaker",
+          "type": "Human",
+          "covered_text": "pacemaker placement"
+        },
+        {
+          "begin": 790,
+          "end": 809,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial fibrillation"
+        },
+        {
+          "begin": 1082,
+          "end": 1085,
+          "code": "I11.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive heart disease with heart failure",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1086,
+          "end": 1100,
+          "code": "E03.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypothyroidism, unspecified",
+          "type": "Human",
+          "covered_text": "hypothyroidism"
+        },
+        {
+          "begin": 1101,
+          "end": 1114,
+          "code": "Z95.0",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of cardiac pacemaker",
+          "type": "Human",
+          "covered_text": "s/p pacemaker"
+        },
+        {
+          "begin": 1115,
+          "end": 1134,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 1135,
+          "end": 1138,
+          "code": "I50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 1139,
+          "end": 1166,
+          "code": "Z86.14",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of Methicillin resistant Staphylococcus aureus infection",
+          "type": "Human",
+          "covered_text": "h/o MRSA cellulitis in legs"
+        },
+        {
+          "begin": 6827,
+          "end": 6835,
+          "code": "I46.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiac arrest, cause unspecified",
+          "type": "Human",
+          "covered_text": "asystole"
+        },
+        {
+          "begin": 6867,
+          "end": 6892,
+          "code": "5A12012",
+          "code_system": "ICD-10-PCS",
+          "description": "Performance of Cardiac Output, Single, Manual",
+          "type": "Human",
+          "covered_text": "Compression were started,"
+        },
+        {
+          "begin": 7080,
+          "end": 7103,
+          "code": "4B02XSZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Measurement of Cardiac Pacemaker, External Approach",
+          "type": "Human",
+          "covered_text": "interrogated the device"
+        },
+        {
+          "begin": 8053,
+          "end": 8062,
+          "code": "R09.02",
+          "code_system": "ICD-10-CM",
+          "description": "Hypoxemia",
+          "type": "Human",
+          "covered_text": "hypoxemic"
+        },
+        {
+          "begin": 8409,
+          "end": 8418,
+          "code": "J18.9",
+          "code_system": "ICD-10-CM",
+          "description": "Pneumonia, unspecified organism",
+          "type": "Human",
+          "covered_text": "pneumonia"
+        },
+        {
+          "begin": 9506,
+          "end": 9509,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 9594,
+          "end": 9605,
+          "code": "B96.5",
+          "code_system": "ICD-10-CM",
+          "description": "Pseudomonas (aeruginosa) (mallei) (pseudomallei) as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "pseudomonas"
+        },
+        {
+          "begin": 10707,
+          "end": 10722,
+          "code": "Z79.82",
+          "code_system": "ICD-10-CM",
+          "description": "Long term (current) use of aspirin",
+          "type": "Human",
+          "covered_text": "ASA 81 mg po qd"
+        },
+        {
+          "begin": 12106,
+          "end": 12118,
+          "code": "I71.3",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal aortic aneurysm, ruptured",
+          "type": "Human",
+          "covered_text": "ruptured AAA"
+        }
+      ],
+      "text": "Admission Date:  [**2122-6-13**]              Discharge Date:   [**2122-6-23**]\n\n\nService: SURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 2777**]\nChief Complaint:\nruptured AAA\n\nMajor Surgical or Invasive Procedure:\n[**2122-6-13**]:\nEndovascular stent graft exclusion of ruptured abdominal aortic\naneurysm with a [**Doctor Last Name 4726**] 31 x 14-1/2 x 130 main body endo prosthesis\nand right [**Doctor Last Name 4726**] 20 x 9.5 iliac limb and [**Doctor Last Name 4726**] 14-1/2 x 7 left\niliac extension limb\n\n[**2122-6-22**]:\n[**Company 1543**] Permanent Pacemaker generator exchange [**2122-6-22**]\n\n\nHistory of Present Illness:\nThe patient is a [**Age over 90 **] year old woman with a history of CAD s/p\npacemaker placement, atrial fibrillation, and known AAA who\npresented to an OSH today with abdominal and back pain, and was\nscanned demonstrating an 8.4 X 7.5 cm AAA with evidence of leak.\n She was therefore transferred to [**Hospital1 18**]\nurgently for vascular surgery evaluation.\n\n\nPast Medical History:\nPMH:\nHTN\nhypothyroidism\ns/p pacemaker\nAtrial fibrillation\nCHF\nh/o MRSA cellulitis in legs\nhistory of falls\n\nPSH:\ns/p cholecystectomy\ns/p L CEA\n\n\nSocial History:\nlives alone with daughter nearby\n\n\nFamily History:\nNC\n\nPhysical Exam:\nOn Admission:\nPE:\nHR 61  BP 170/75  94% RA\nNAD, awake/alert, responsive; poor historian\nRRR\nlungs clear\nabdomen soft, moderately distended, pulsatile mass with deep\npalpation\nbilateral lower extremities warm, no ulceration\nPulses:\nR femoral palpable, R DP palpable\nL femoral palpable, L DP palpable\n\\\nOn Discharge:\nVSS Afebrile\nWDWN in NAD\nLungs - cta bilat\nCard - RRR, paced at 60, strong PMI felt in the distal,external\nthoracic cavity, due to pts habitus can feel PMI in the extreme\nLUQ of the abd\nAbd- soft +bs, no m/t/o\nExt- warm and dry, Fem/DP/PT pulses all palpable bilat\n\nPertinent Results:\n[**2122-6-13**] 11:31 pm MRSA SCREEN      Source: Nasal swab.\n\n                            **FINAL REPORT [**2122-6-16**]**\n\n   MRSA SCREEN (Final [**2122-6-16**]):\n      POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS.\n\n[**2122-6-16**] 12:17 am BLOOD CULTURE      Source: Line-arterial.\n\n                            **FINAL REPORT [**2122-6-22**]**\n\n   Blood Culture, Routine (Final [**2122-6-22**]):    NO GROWTH.\n[**2122-6-16**] 12:17 am BLOOD CULTURE      2ND.\n\n                            **FINAL REPORT [**2122-6-22**]**\n\n   Blood Culture, Routine (Final [**2122-6-22**]):    NO GROWTH.\n\n[**2122-6-16**] 12:17 am URINE      Source: Catheter.\n\n                            **FINAL REPORT [**2122-6-18**]**\n\n   URINE CULTURE (Final [**2122-6-18**]):\n      PSEUDOMONAS AERUGINOSA.    10,000-100,000 ORGANISMS/ML..\n\n                              SENSITIVITIES: MIC expressed in\nMCG/ML\n\n_________________________________________________________\n                             PSEUDOMONAS AERUGINOSA\n                             |\nCEFEPIME--------------     8 S\nCEFTAZIDIME-----------     2 S\nCIPROFLOXACIN---------<=0.25 S\nGENTAMICIN------------     4 S\nMEROPENEM-------------<=0.25 S\nPIPERACILLIN/TAZO-----     8 S\nTOBRAMYCIN------------   <=1 S\n\nRadiology Report CT CHEST W/O CONTRAST Study Date of [**2122-6-14**]\n1:12 PM\nIMPRESSION:\nExtremely limited examination due to lack of intravenous\ncontrast.\n\n1. Cardiomegaly. Small bibasal effusions and pulmonary\nground-glass\nopacities. The lung findings may represent infection, fluid\noverload or ARDS.\n\n2. AAA with an aortofemoral bypass graft in situ. The\nappearances are\nsuggestive of an endoleak as described above.\n\n3. Extensive atherosclerosis in the vasculature of the abdomen\nand pelvis\nincluding the coronary arteries.\n\n4. Striated appearance of both kidneys, most marked on the\nright. The\nappearances may represent acute tubular necrosis from prior\ncontrast\nadministration.\n\nRadiology Report CTA CHEST W&W/O C&RECONS, NON-CORONARY Study\nDate of [**2122-6-16**] 10:34 AM\nReason: PE PROTOCOL. Please eval for PE.\n IMPRESSION:\n1. Unchanged multifocal bilateral ground-glass opacities\nconsistent with\nmultifocal pneumonia.\n2. Compared to [**2122-6-14**] increase of now large bilateral\nsimple pleural\neffusion and partial atelectasis of the superior segments of the\nlower lobes\nbilaterally.\n3. Unchanged ascending aorta and aortic arch dilatation with\nfocal aortic\narch aneurysm.\n4. Unchanged cardiomegaly without significant pulmonary edema.\n5. A central line ends in the distal left brachiocephalic vein.\n\n\nUNILAT UP EXT VEINS US RIGHT Study Date of [**2122-6-18**] 1:36 PM\nReason: r/o dvt in rue\nOcclusive thrombus involving the right cephalic vein. No DVT in\nthe right upper extremity.\n\n[**2122-6-19**] 4:13 PM\nUNILAT LOWER EXT VEINS RIGHT\nReason: CALF PAIN, PLEASE EVAL FOR DVT\nIMPRESSION: No evidence of DVT in right lower extremity.\n\n[**2122-6-23**] 03:56AM BLOOD WBC-8.8 RBC-3.09* Hgb-10.6* Hct-31.9*\nMCV-103* MCH-34.3* MCHC-33.2 RDW-18.6* Plt Ct-249\n[**2122-6-23**] 03:56AM BLOOD Glucose-81 UreaN-31* Creat-1.3* Na-137\nK-3.2* Cl-95* HCO3-33* AnGap-12\n[**2122-6-23**] 03:56AM BLOOD Calcium-8.4 Phos-3.4 Mg-1.9\n[**2122-6-16**] 12:17AM URINE RBC-[**3-13**]* WBC-21-50* Bacteri-MOD\nYeast-NONE Epi-0-2\n[**2122-6-22**] 05:46AM URINE RBC-0-2 WBC-0-2 Bacteri-NONE Yeast-FEW\nEpi-0-2\n[**2122-6-16**] 12:17AM URINE Blood-LG Nitrite-NEG Protein-150\nGlucose-NEG Ketone-15 Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-SM\n[**2122-6-22**] 05:46AM URINE Blood-MOD Nitrite-NEG Protein-25\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG\n[**2122-6-16**] 12:17AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.022\n[**2122-6-22**] 05:46AM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.016\n\nBrief Hospital Course:\nPatient was admitted from an OSH with leaking AAA seen on OSH\nimaging.  She was emergently taken to the angio suite and her\nimages were uploaded and reviewed.  She underwent:\n1. Ultrasound-guided puncture of bilateral common femoral\n    arteries.\n2. Bilateral introduction of catheter into aorta.\n3. Abdominal aortogram and selective iliac arteriogram.\n4. Endovascular stent graft exclusion of ruptured abdominal\n    aortic aneurysm with a [**Doctor Last Name 4726**] 31 x 14-1/2 x 130 main body\n    endo prosthesis and right [**Doctor Last Name 4726**] 20 x 9.5 iliac limb and\n    [**Doctor Last Name 4726**] 14-1/2 x 7 left iliac extension limb.\n5. Perclose closure of bilateral common femoral\n    arteriotomies.\n6. Left common femoral endarterectomy with vein patch\n    angioplasty.\n\nThe patient tolerated the procedure well.  Of note, she was not\nintubated for the procedure given her age and co-morbidities.\n\nNeuro: no active issues, patient is alert and interactive\n\nCardiopulmonary: Post-operatively she was closely monitored in\nthe CVICU. Initally her PPM was pacing her appropriately,\nhowever, overnight she had an episode of asystole, lasting less\nthan 30 seconds. Compression were started, and the pt almost\nimmediately began pacing appropriately again. These episodes\nrecurred a few more times the evening of POD 0 and\nelectrophysiology was urgently consulted.  The EP fellow\ninterrogated the device and found the RV lead to be dislodged.\nHe adjusted the settings, and the pacer functioned properly.  He\nrecommended repleting electrolytes and discontinuing digoxin as\nwell.  These interventions resolved her arrythmias.  On [**6-16**]\nthe patient went into atrial fibrillation with rapid ventricular\nresponse and required IV lopressor and then a diltiazem drip for\nrate control.  EP and cardiology were asked to advise on\ntreatment.  Soltalol 80mg [**Hospital1 **] and diltiazem 30mg qid were\nstarted and the diltiazem gtt weaned off. The pt returned to a\npaced sinus rhythm within 24hrs of the atrial fibrillation and\nhad no further episodes throughout her stay.  Anticoagulation\nwas initally recommended, however given the pts age and\ncomorbidities it was decided that heparin/coumadin benefit would\nnot outway the risk, and thus asprin 325mg was initiated. On the\nmorning of [**6-16**] the patient began to c/o SOB, required increased\nO2 and was hypoxemic on her ABG. There was concern for CHF\nexacerbation as well as PE.  She urgently underwent CTA which\nruled out pulmonary embolism.  The CT did reveal pulmonary edema\nand bilateral pleural effusions.  Interventional pulmonology was\nconsulted and felt these effusions were not large enough to\ndrain. There was some concern the pt may have developed\npneumonia as well given her previous emesis and immobility.  The\npatient was put on broad spectrum antibiotic coverage and put on\na fluid restriction and aggressively diuresed with lasix over\nthe next several days with close monitoring and repletion of her\nelectrolytes.  The diureses significantly improved her symptoms\nand her O2 requirements were subsequently minimal. On [**6-22**] she\nwas thought to be quite stable from a medical and surgical\nstandpoint and EP took her to the procedure lab where they\nexchanged her PPM for a new device.  She tolerated the procedure\nwell and her.\n\nGI/Nutrition:  The patient vomitted twice on POD 0 during chest\ncompressions, after which an  NG tube placed.  The tube was\nremoved a few days later when her bowel function returned.\nSpeech and swallow was consulted to evaluate for aspiration risk\nprior to advancing the patients diet.  On preliminary\nexamination she passed her swallow evaluation and she was\nstarted on a ground puree diet which was later advanced to\nregular diet with thin liquids which she tolerated well.\n\nGU: patient was found to have a UTI on Urinalysis and she was\nstarted on antibiotics.  The culture grew moderate amt of\npseudomonas and she was started on cirpo. Her foley was\nexchanged.  It was not removed as she was being aggressively\ndiuresed and her I/O's required close monitoring. A second UA/Cx\nwas sent on [**6-22**] and was negative with no bacterial growth. At\nthe time of discharge her foley was removed and she was voiding\nwithout difficulty.\n\nID: Post-operatively patient received 3 days of kefzol for\nperioperative coverage.  Given her UTI, she was started on\nciprofloxacin on [**2122-6-16**], but this was switched to ceftriaxone\nand doxyclycline given concern for PNA after episodes of\nvomitting and consolidation seen on CXR and CT.\n\nHeme: patient received SQH throughout her stay for dvt\nprophylaxis. There was concern for a DVT in her RUE and RLE\nduring her stay, however both were ruled out. She did work with\nphysical therapy but given her deconditioned state only\nambulated minimally. She is discharged on SQH to continue at\nrehabilitation facility until she is ambulating at her baseline\nstate.\n\nMedications on Admission:\npotassium 20 meq daily\nlasix 40 mg po qd\ndigoxin .125 mg daily\ncardizem ER 240 mg po qd\nASA 81 mg po qd\nmiralax\nclonidine 0.1 mg po bid\n\n\nDischarge Medications:\n1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)\ninjection Injection TID (3 times a day): until pt fully\nambulatory and low risk for dvt.\n2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.\n3. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for pain.\n4. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1) neb INH Inhalation Q6H (every 6 hours)\nas needed for wheezing.\n5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n6. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3\ntimes a day).\n7. Sotalol 80 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n8. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n9. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb inh\nInhalation Q6H (every 6 hours) as needed for SOB.\n10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID\n(2 times a day).\n11. Keflex 500 mg Capsule Sig: One (1) Capsule PO four times a\nday for 7 days.\n12. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal\nSig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day: when\non lasix.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 756**] Manor Nursing & Rehab Center - [**Location (un) 5028**]\n\nDischarge Diagnosis:\n8.4 X 7.5cm ruptured AAA\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nMedications:\n??????\tTake Aspirin 325mg (enteric coated) once daily\n??????\tDo not stop Aspirin unless your Vascular Surgeon instructs you\nto do so.\n??????\tContinue all other medications you were taking before surgery,\nexcept for the following changes: we have stopped your digoxin\nand diltiazem and you are now on sotalol. You should take\naspirin [**Street Address(2) 42488**] of your previous 81mg.\n??????\tYou make take Tylenol or prescribed pain medications for any\npost procedure pain or discomfort\n\nWhat to expect when you go to rehab:\nIt is normal to have slight swelling of the legs:\n??????\tElevate your leg above the level of your heart (use [**2-11**]\npillows or a recliner) every 2-3 hours throughout the day and at\nnight\n??????\tAvoid prolonged periods of standing or sitting without your\nlegs elevated\nIt is normal to feel tired and have a decreased appetite, your\nappetite will return with time\n??????\tDrink plenty of fluids and eat small frequent meals\n??????\tIt is important to eat nutritious food options (high fiber,\nlean meats, vegetables/fruits, low fat, low cholesterol) to\nmaintain your strength and assist in wound healing\n??????\tTo avoid constipation: eat a high fiber diet and use stool\nsoftener while taking pain medication\n\nWhat activities you can and cannot do:\n??????\tWhen you go home, you may walk and go up and down stairs\n??????\tDo not shower x 1 week, you may have sponge baths. After 1\nweek you may shoewer, but no soaking tubs\n??????\tYour right chest/shoulder dressing covering the incision from\nthe pacemaker exchange should stay on for three days, it may be\nremoved on thursday [**6-25**]. The groin and leg incisions may be\nleft uncovered, unless you have small amounts of drainage from\nthe wound, then place a dry dressing or band aid over the area\nthat is draining, as needed\n??????\tNo heavy lifting, pushing or pulling (greater than 5 lbs) for\n1 week (to allow groin puncture to heal)\n??????\tAfter 1 week, you may resume sexual activity\n??????\tAfter 1 week, gradually increase your activities and distance\nwalked as you can tolerate\n??????\tNo driving until you are no longer taking pain medications\n??????\tKeep your f/u appointment to be seen for post procedure check\nand CTA\n\nWhat to report to office:\n??????\tNumbness, coldness or pain in lower extremities\n??????\tTemperature greater than 101.5F for 24 hours\n??????\tNew or increased drainage from incision or white, yellow or\ngreen drainage from incisions\n??????\tBleeding from groin puncture site\n\nSUDDEN, SEVERE BLEEDING OR SWELLING (Groin puncture site or\nincision)\n??????\tLie down, keep leg straight and have someone apply firm\npressure to area for 10 minutes. If bleeding stops, call\nvascular office. If bleeding does not stop, call 911 for\ntransfer to closest Emergency Room.\n\nFollowup Instructions:\nProvider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2122-6-30**]\n1:00\n(pacemaker follow up and wound check)\n\nProvider: [**Name10 (NameIs) **] SCAN Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2122-7-16**] 11:30\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3469**], MD Phone:[**Telephone/Fax (1) 2625**]\nDate/Time:[**2122-7-16**] 12:00\n(vascular surgery f/u, imaging of aorta and see surgeon)\n\n\n\nCompleted by:[**2122-6-23**]"
+    }
+  ]
+}

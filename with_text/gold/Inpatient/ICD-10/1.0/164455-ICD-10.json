@@ -1,0 +1,129 @@
+{
+  "hadm_id": 164455,
+  "comment": "ORIF, IM Nailing - Missing OP Note to validate PCS",
+  "notes": [
+    {
+      "note_id": 43600,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 273,
+          "end": 280,
+          "code": "K65.1",
+          "code_system": "ICD-10-CM",
+          "description": "Peritoneal abscess",
+          "type": "Human",
+          "covered_text": "ABSCESS"
+        },
+        {
+          "begin": 1565,
+          "end": 1580,
+          "code": "K50.90",
+          "code_system": "ICD-10-CM",
+          "description": "Crohn's disease, unspecified, without complications",
+          "type": "Human",
+          "covered_text": "Crohn's Disease"
+        },
+        {
+          "begin": 1581,
+          "end": 1600,
+          "code": "G43.909",
+          "code_system": "ICD-10-CM",
+          "description": "Migraine, unspecified, not intractable, without status migrainosus",
+          "type": "Human",
+          "covered_text": "migraine headaches."
+        },
+        {
+          "begin": 3263,
+          "end": 3277,
+          "code": "R65.20",
+          "code_system": "ICD-10-CM",
+          "description": "Severe sepsis without septic shock",
+          "type": "Human",
+          "covered_text": ".Severe Sepsis"
+        },
+        {
+          "begin": 3271,
+          "end": 3277,
+          "code": "A41.9",
+          "code_system": "ICD-10-CM",
+          "description": "Sepsis, unspecified organism",
+          "type": "Human",
+          "covered_text": "Sepsis"
+        },
+        {
+          "begin": 3572,
+          "end": 3591,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute Renal Failure"
+        },
+        {
+          "begin": 3977,
+          "end": 3983,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 4199,
+          "end": 4214,
+          "code": "D75.839",
+          "code_system": "ICD-10-CM",
+          "description": "Thrombocytosis, unspecified",
+          "type": "Human",
+          "covered_text": "Thrombocytosis:"
+        },
+        {
+          "begin": 4293,
+          "end": 4307,
+          "code": "R74.01",
+          "code_system": "ICD-10-CM",
+          "description": "Elevation of levels of liver transaminase levels",
+          "type": "Human",
+          "covered_text": "Transaminitis:"
+        }
+      ],
+      "text": "Admission Date:  [**2130-2-7**]              Discharge Date:   [**2130-2-14**]\n\nDate of Birth:  [**2096-2-1**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 3376**]\nChief Complaint:\nABSCESS\n\nMajor Surgical or Invasive Procedure:\nIR drainage of peri-J-pouch abscess\n\n\nHistory of Present Illness:\n34 yo man with h/o UC s/p lap total colectomy with end\nileostomy [**11-21**] with ileoanal J pouch and diverting colostomy\n[**2130-1-18**] presents with 1 week nausea/vomiting and 3 days with\nminimal UOP. Pt was recovering well post-op until 1 week ago\nwhen\nhe began to feel nauseated and complained of rectal pain.\nPresented to clinic on [**2130-2-2**], rectum assessed w/o evidence of\nabscess. Pt went home but still felt nauseated and had decreased\nPO intake. Over the next 3 days, he only urinated once and noted\ndecrease in his ileostomy output by about 25%. Nausea continued\nthrough day of presentation when the patient vomited brownish\nfluid and felt \"he could no longer go on like this.\" He\npresented\ninitially to [**Hospital3 3583**], where labs where drawn and a KUB\nwas done. Labs suggested acute renal failure per patient, and\nKUB\nshowed \"air in stomach.\" Pt then transferred to [**Hospital1 18**] for\nfurther\nworkup.\n\nPt denies fevers, but has had temperature drops (94.7 F at OSH).\nReports periods of shaking chills of [**4-23**] minute duration since\nhis surgery that may coincide with narcotic troughs. Denies\nloose\noutput from ileostomy.\n\n\nPast Medical History:\nCrohn's Disease\nmigraine headaches.\ndisc operation.\n\n\nSocial History:\nHe does not smoke cigarettes. He drinks alcohol socially. He is\nmarried and works as a lawyer for the department of labor.\n\n\nFamily History:\nnoncontributory\n\nPhysical Exam:\nAt discharge:\nGen: A and O x 3, NAD\nV.S: 98.6, 80, 118/62, 18, 96% RA\nCV: RRR, no m/r/g\nResp: LSCTA, NARD\nAbd: soft, nt, nd, +BS, ostomy beefy red\nExt: c/c/e\n\nPertinent Results:\n[**2130-2-13**] 04:10AM BLOOD WBC-14.1* RBC-3.57* Hgb-10.9* Hct-33.1*\nMCV-93 MCH-30.6 MCHC-33.0 RDW-13.8 Plt Ct-633*\n[**2130-2-7**] 03:00AM BLOOD Neuts-82* Bands-2 Lymphs-8* Monos-4 Eos-1\nBaso-0 Atyps-1* Metas-1* Myelos-1*\n[**2130-2-13**] 04:10AM BLOOD Plt Ct-633*\n[**2130-2-13**] 04:10AM BLOOD Glucose-81 UreaN-9 Creat-1.6* Na-139\nK-4.4 Cl-101 HCO3-29 AnGap-13\n[**2130-2-8**] 04:10AM BLOOD ALT-52* AST-36 LD(LDH)-121 AlkPhos-399*\nTotBili-1.0\n[**2130-2-13**] 04:10AM BLOOD Calcium-9.5 Phos-3.4 Mg-2.1\n[**2130-2-7**] 10:33AM BLOOD calTIBC-217* VitB12-1669* Folate-11.5\nHapto-473* Ferritn-420* TRF-167*\n.\nMicro:\n[**2-7**] blood: no growth final\n[**2-7**] abscess: Multiple micro on Gram stain. MSSA Pan sensitive\nand BETA STREPTOCOCCI, NOT GROUP A MODERATE GROWTH.\n[**2-13**]: JP drain 4+ poly, 2+ GPC pairs/clusters\n.\nCT abd: 4x6cm abscess near J pouch\n\nBrief Hospital Course:\nThe patient was admitted to the ICU for close assessment.  A CT\nscan of his abd/pelvis were ordered and indicated 4x6cm abscess\nnear J pouch, new gallstone without any secondary findings of\nacute cholecystitis and no findings of bowel obstruction. The\npatient was made NPO with IV hydration and IV medications/abx. A\nfoley and NGT were placed. Labs indicated  acute renal failure\nand leukocytosis.\n.\n#.Severe Sepsis: Caused by abscess at site of J pouch detected\nby CT. Patient with significant leukocytosis, thrombocytosis.\nReceived zosyn in the ED, unsure if he received vancomycin. Has\nbeen hemodynamically stable. Lactate 0.7. ABX were continued and\nsurgery requested IR guided drainage of the abcess.\n.\n#.Acute Renal Failure. Baseline Cr. 1.0. presented with Cr 9.9.\nUA without nitrites but with WBC and bacteria. Likely prerenal\nfrom poor renal perfusion in setting of sepsis. K is 5.1. Has\nput out 4000cc of urine in ED, 1225 out of ostomy. Responsive to\nfluid. ABG was obtained and renal was notifed. Naprosyn was held\nand labs were trended (K, PO4, Cr)\n.\n#Leukocytosis: likely from abscess at J pouch.\n.\n#.Anemia: Baseline hematocrit ranges between 34-39.0. MCV 94\nPossibly from GI bleeding in setting of colitis and surgeries,\nmay also be anemia of chronic disease. iron studies, B12,\nFolate, Hemolysis labs-guaiac ostomy.\n.\n#.Thrombocytosis: Likely reactive from infection and\ninflammatory disease, anemia. Monitor.\n.\n#.Transaminitis: with elevated alk phos, consistent with\ncholestasis, may be due to sepsis. Unsure of common bile dcut\ndilation. will fractionate bilirubin. Wait for acute process to\nresolve before pursuing other etiologies. CT showing stones but\nno acute cholecystitis.\n.\nPPX:\n-DVT ppx with pneumoboots, sub q heparin\n-Bowel regimen colace, senna\n-Pain management with dilaudid\n.\n[**2130-2-7**]:\n-Had IR drainage of J-pouch abscess\n-Cr steadily improved over course of the day and leukocytosis\nand thrombocytosis improving on PM labs\n-Got hydromorphone for pain with good effect\n-PICC postponed as febrile\n-APAP negative, iron studies c/w iron of chronic inflammation,\nB12 elevated and folate normal\n-Kept UOP > 100/hr.\n.\nThe pt was admited to [**Hospital Ward Name **] 5. A PICC line was placed and he\nwas started on a regular diet which he tolerated well. His foley\nwas d/c'd and voided without any issues. IV fluids were d/c'd\nand the Pt was continued on IV abx. Cultures were obtained from\nthe JP fluid and zosyn was started.\n.\nThe patient will go home with 6 more days of IV zosyn, with [**Location (un) **] home therapies. He will have a CT and drain study on [**2-20**]\nat 12:30 and follow up with Dr. [**Last Name (STitle) 1120**] on [**2-21**] at 3:00. Discharge\npaperwork was reviewed with patient and all questions were\nanswered.\n\n\nMedications on Admission:\nClonazepam 1mg TID, Naproxen 500mg q12h, Percocet 7.5/325 [**12-16**]\ntab q4-6hrs prn, OxyContin 20mg [**Hospital1 **], atenolol 75mg daily\n\n\nDischarge Medications:\n1. Atenolol 25 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily).\n\n2. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO 1800 ().\n3. Clonazepam 1 mg Tablet Sig: Two (2) Tablet PO QHS (once a day\n(at bedtime)).\n4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n5. Oxycodone 20 mg Tablet Sustained Release 12 hr Sig: One (1)\nTablet Sustained Release 12 hr PO Q12H (every 12 hours).\n6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nevery four (4) hours as needed for 2 weeks: Please do not exceed\nmore than 4000 mg of acetaminophen in 24 hrs.\nDisp:*45 Tablet(s)* Refills:*0*\n7. Loperamide 2 mg Capsule Sig: One (1) Capsule PO BID (2 times\na day).\nDisp:*60 Capsule(s)* Refills:*2*\n8. Zosyn 4.5 gram Recon Soln Sig: One (1)  Intravenous every\neight (8) hours for 6 days.\nDisp:*6 * Refills:*0*\n9. PICC Care\nPICC line care per NEHT protocol\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital3 **] VNA\n\nDischarge Diagnosis:\nPrimary:\nABSCESS\n.\nSecondary:\nPMH: \"abnormal heart rhythm\", acne, migraine, indeterminate\ncolitis\nPSH: lap total colectomy, open proctectomy with ileo-anal pull\nthrough, diverting ileostomy\n\n\nDischarge Condition:\nStable.\nTolerating regular diet.\nPain well controlled oral medications.\n\n\nDischarge Instructions:\nPlease call your doctor or return to the ER for any of the\nfollowing:\n* You experience new chest pain, pressure, squeezing or\ntightness.\n* New or worsening cough or wheezing.\n* If you are vomiting and cannot keep in fluids or your\nmedications.\n* You are getting dehydrated due to continued vomiting,\ndiarrhea or other reasons. Signs of dehydration include dry\nmouth, rapid heartbeat or feeling dizzy or faint when standing.\n* You see blood or dark/black material when you vomit or have a\nbowel movement.\n* Your pain is not improving within 8-12 hours or not gone\nwithin 24 hours. Call or return immediately if your pain is\ngetting worse or is changing location or moving to your chest or\n\nback.\n*Avoid lifting objects > 5lbs until your follow-up appointment\nwith the surgeon.\n*Avoid driving or operating heavy machinery while taking pain\nmedications.\n* You have shaking chills, or a fever greater than 101.5 (F)\ndegrees or 38(C) degrees.\n* Any serious change in your symptoms, or any new symptoms that\nconcern you.\n* Please resume all regular home medications and take any new\nmeds\nas ordered.\n* Continue to ambulate several times per day.\n.\nDrain:\n-Please continue to empty drain twice a day or as needed.\n-Please continue to record daily output from drain.\n-Please continue to assess drain site for signs and sypmtoms of\ninfection.\n-The visiting nurse [**First Name (Titles) **] [**Last Name (Titles) **] you will this.\n.\nPICC line-\n-Please continue to administer antibiotics as ordered for the\nnext six days every 8 hrs.\n-Please continue with PICC care as [**Name6 (MD) 48630**] by RN and\nVNA/infusion company.\n-Please continue to assess for signs and symptoms of infection.\n\n\nFollowup Instructions:\nScheduled Appointments :\n1. Provider: [**Name10 (NameIs) **] SCAN Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2130-2-20**] 1:30\n[**Hospital Ward Name **] [**Location (un) 470**]\n2. Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 274**]\nDate/Time:[**2130-2-21**] 3:00\n\nNEITHER DICTATED NOR READY BY ME\n\n\nCompleted by:[**2130-2-14**]"
+    },
+    {
+      "note_id": 661396,
+      "category": "Physician",
+      "description": "Physician Attending Admission Note - MICU",
+      "annotations": [
+        {
+          "begin": 4362,
+          "end": 4381,
+          "code": "Z93.2",
+          "code_system": "ICD-10-CM",
+          "description": "Ileostomy status",
+          "type": "Human",
+          "covered_text": "diverting ileostomy"
+        }
+      ],
+      "text": "Chief Complaint:\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   34y/o M w/ h/o UC s/o lap total colectomy [**11-21**], J pouch with diverting\n   ileostomy [**2130-1-18**], presenting with one week of N/V, 3 days of oliguria,\n   and decreased ostomy output.  Initially presented to [**Hospital3 902**]\n   with acute renal failure per patient.  Then transferred to [**Hospital1 5**] for\n   further workup. Here, he was found to have a creat of 10 and an\n   abscess/fluid collection at end of J pouch on pelvic CT. He was given\n   Zosyn and 6L IVF, to which he put out 4000cc urine, 1225 out of\n   ostomy.  Temperature increased to 101.3.  Transferred to [**Hospital Unit Name 4**] for\n   further managment.\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   1. Clonazepam 1mg TID\n   2. Naproxen 500mg q12h\n   3. Percocet 7.5/325 [**12-16**] tab q4-6hrs prn\n   4. OxyContin 20mg [**Hospital1 **]\n   5. atenolol 75mg daily\n   Past medical history:\n   Family history:\n   Social History:\n   Ulcerative colitis\n   S/p lap total colectomy with end ileostomy [**11-21**] ([**Doctor Last Name 132**])\n   S/p ileoanal J pouch and diverting ileostomy [**2130-1-18**] ([**Doctor Last Name 132**])\n   Migraine headaches\n   Disc operation\n   Non-contributory\n   Occupation: Lawyer for department of labor\n   Drugs: Denies\n   Tobacco: Denies\n   Alcohol: Social\n   Other: Married\n   Review of systems:\n   Constitutional: Fatigue, Fever\n   Gastrointestinal: Abdominal pain, Nausea, Emesis\n   Flowsheet Data as of [**2130-2-7**] 12:26 PM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   HR: 94 (93 - 94) bpm\n   BP: 134/42(64) {134/42(64) - 143/64(82)} mmHg\n   RR: 16 (15 - 27) insp/min\n   SpO2: 97%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 72 Inch\n             Total In:\n             177 mL\n   PO:\n             TF:\n   IVF:\n   177 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                  5,275 mL\n   Urine:\n   NG:\n   450 mL\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                 -5,098 mL\n   Respiratory\n   O2 Delivery Device: None\n   SpO2: 97%\n   ABG: ///19/\n   Physical Examination\n   General Appearance: Well nourished, No acute distress\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Normocephalic\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Breath Sounds: Clear : )\n   Abdominal: Soft, Bowel sounds present, Tender:\n   Extremities: Right: Absent, Left: Absent\n   Skin:  Not assessed\n   Neurologic: Attentive, Responds to: Not assessed, Movement: Not\n   assessed, Tone: Not assessed\n   Labs / Radiology\n   1134 K/uL\n   32.3 %\n   10.6 g/dL\n   92 mg/dL\n   5.1 mg/dL\n   45 mg/dL\n   19 mEq/L\n   100 mEq/L\n   4.9 mEq/L\n   133 mEq/L\n   19.6 K/uL\n        [image002.jpg]\n                             [**2130-2-7**]  10:33 AM\n   WBC\n                                    19.6\n   Hct\n                                    32.3\n   Plt\n                                    1134\n   Cr\n                                     5.1\n   Glucose\n                                     92\n   Other labs: PT / PTT / INR:19.8/27.2/1.8, Ca++:8.4 mg/dL, Mg++:2.0\n   mg/dL, PO4:3.2 mg/dL\n   Imaging: Pelvis CT - Extraluminal rectal contrast is located within the\n   air- and fluid-containing\n   midline pelvic collection which appears centered along the most\n   superior\n   aspect of the surgical sutures. These findings are highly suggestive of\n   an\n   enteric leak with abscess formation.\n   Microbiology: No new data.\n   ECG: Unremarkable.\n   Assessment and Plan\n   34 year old male with ulcerative colitis, s/p total colectomy [**11-21**], J\n   pouch w/ diverting ileostomy [**2130-1-18**], presenting with acute renal\n   failure, leukocytosis, and abscess at site of J pouch.\n   # Severe Sepsis: J pouch abscess as source.\n   Leukocytosis/thrombocytosis improving with IFV / abx. Received\n   vancomycin and zosyn in the ED. Hemodynamically stable.\n   - Continue vancomycin/Zosyn\n   - Drain to be placed in abscess by IR this afternoon.\n   # Acute Renal Failure.  Baseline Cr. 1.0. presented with Cr 9.9.\n   Likely prerenal from poor renal perfusion in setting of sepsis. Already\n   trending down with good UOP to IVF\n   - Follow creatinine / lytes\n   - Urine lytes / sediment\n   # Anemia: Blood loss from surgeries/colitis vs anemia of chronic\n   disease.\n   - Iiron studies, B12, Folate, Hemolysis labs.\n   - Active T&C\n   - PRBC prn\n   # Transaminitis: Likely related to sepsis.  Has gallstone, but no\n   evidence of acute cholecystitis / cholangitis.\n   - Direct bili\n   - Follow until sepsis resolves\n   Other issues per resident note.\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines / Intubation:\n   22 Gauge - [**2130-2-7**] 10:29 AM\n   Comments:\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication: ICU consent signed Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 55 minutes\n"
+    },
+    {
+      "note_id": 661400,
+      "category": "Physician",
+      "description": "Physician Attending Admission Note - MICU",
+      "annotations": [
+        {
+          "begin": 5049,
+          "end": 5055,
+          "code": "D50.0",
+          "code_system": "ICD-10-CM",
+          "description": "Iron deficiency anemia secondary to blood loss (chronic)",
+          "type": "Human",
+          "covered_text": "Anemia"
+        }
+      ],
+      "text": "Chief Complaint:\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   34y/o M w/ h/o UC s/o lap total colectomy [**11-21**], J pouch with diverting\n   ileostomy [**2130-1-18**], presenting with one week of N/V, 3 days of oliguria,\n   and decreased ostomy output.  Initially presented to [**Hospital3 902**]\n   with acute renal failure (creat 10) per patient.  Then transferred to\n   [**Hospital1 5**] for further workup. Here, he was found to have a creat of 7 and\n   an abscess/fluid collection at end of J pouch on pelvic CT. He was\n   given Zosyn and 6L IVF, to which he put out 4000cc urine, 1225 out of\n   ostomy.  Temperature increased to 101.3.  Transferred to [**Hospital Unit Name 4**] for\n   further managment.\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   1. Clonazepam 1mg TID\n   2. Naproxen 500mg q12h\n   3. Percocet 7.5/325 [**12-16**] tab q4-6hrs prn\n   4. OxyContin 20mg [**Hospital1 **]\n   5. atenolol 75mg daily\n   Past medical history:\n   Family history:\n   Social History:\n   Ulcerative colitis\n   S/p lap total colectomy with end ileostomy [**11-21**] ([**Doctor Last Name 132**])\n   S/p ileoanal J pouch and diverting ileostomy [**2130-1-18**] ([**Doctor Last Name 132**])\n   Migraine headaches\n   Disc operation\n   Non-contributory\n   Occupation: Lawyer for department of labor\n   Drugs: Denies\n   Tobacco: Denies\n   Alcohol: Social\n   Other: Married\n   Review of systems:\n   Constitutional: Fatigue, Fever\n   Gastrointestinal: Abdominal pain, Nausea, Emesis\n   Flowsheet Data as of [**2130-2-7**] 12:26 PM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   HR: 94 (93 - 94) bpm\n   BP: 134/42(64) {134/42(64) - 143/64(82)} mmHg\n   RR: 16 (15 - 27) insp/min\n   SpO2: 97%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 72 Inch\n             Total In:\n             177 mL\n   PO:\n             TF:\n   IVF:\n   177 mL\n   Blood products:\n   Total out:\n                                                                      0 mL\n                                                                  5,275 mL\n   Urine:\n   NG:\n   450 mL\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                 -5,098 mL\n   Respiratory\n   O2 Delivery Device: None\n   SpO2: 97%\n   ABG: ///19/\n   Physical Examination\n   General Appearance: Well nourished, No acute distress\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Normocephalic\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Breath Sounds: Clear : )\n   Abdominal: Soft, Bowel sounds present, Tender:\n   Extremities: Right: Absent, Left: Absent\n   Skin:  Not assessed\n   Neurologic: Attentive, Responds to: Not assessed, Movement: Not\n   assessed, Tone: Not assessed\n   Labs / Radiology\n   1134 K/uL\n   32.3 %\n   10.6 g/dL\n   92 mg/dL\n   5.1 mg/dL\n   45 mg/dL\n   19 mEq/L\n   100 mEq/L\n   4.9 mEq/L\n   133 mEq/L\n   19.6 K/uL\n        [image002.jpg]\n                             [**2130-2-7**]  10:33 AM\n   WBC\n                                    19.6\n   Hct\n                                    32.3\n   Plt\n                                    1134\n   Cr\n                                     5.1\n   Glucose\n                                     92\n   Other labs: PT / PTT / INR:19.8/27.2/1.8, Ca++:8.4 mg/dL, Mg++:2.0\n   mg/dL, PO4:3.2 mg/dL\n   Imaging: Pelvis CT - Extraluminal rectal contrast is located within the\n   air- and fluid-containing\n   midline pelvic collection which appears centered along the most\n   superior\n   aspect of the surgical sutures. These findings are highly suggestive of\n   an\n   enteric leak with abscess formation.\n   Microbiology: No new data.\n   ECG: Unremarkable.\n   Assessment and Plan\n   34 year old male with ulcerative colitis, s/p total colectomy [**11-21**], J\n   pouch w/ diverting ileostomy [**2130-1-18**], presenting with acute renal\n   failure, leukocytosis, and abscess at site of J pouch.\n   # Severe Sepsis: J pouch abscess as source.  Leukocytosis / reactive\n   thrombocytosis improving with IFV / abx. Received vancomycin and zosyn\n   in the ED. Hemodynamically stable.\n   - Continue vancomycin/Zosyn\n   - Drain to be placed in abscess by IR this afternoon.\n   # Oliguric Acute Renal Failure.  Baseline Cr. 1.0. presented with Cr\n   9.9.  Likely prerenal from poor renal perfusion in setting of sepsis.\n   Already trending down with good UOP to IVF.\n   - Follow creatinine / lytes / UOP\n   - Urine lytes / sediment\n   - Aggressive IVF\n   # Anemia: Blood loss from surgeries/colitis vs anemia of chronic\n   disease.\n   - Iiron studies, B12, Folate, Hemolysis labs.\n   - Active T&C\n   - PRBC prn\n   # Transaminitis: Likely related to sepsis.  Has gallstone, but no\n   evidence of acute cholecystitis / cholangitis.  INR elevated (liver vs\n   nutritional etiology).\n   - Direct bili\n   - Follow until sepsis resolves\n   - FFP / vitamin K for INR\n   - Check tylenol level (on percoset at home)\n   # FEN:\n   - NPO\n   - PICC line for TPN\n   Other issues per resident note.\n   ICU Care\n   Nutrition:\n   NPO\n   Glycemic Control:\n   Lines / Intubation:\n   PICC line ordered\n   22 Gauge - [**2130-2-7**] 10:29 AM\n   Comments:\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication: ICU consent signed Comments:\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 55 minutes\n"
+    }
+  ]
+}

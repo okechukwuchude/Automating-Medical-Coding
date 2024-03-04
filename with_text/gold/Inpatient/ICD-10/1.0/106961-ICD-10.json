@@ -1,0 +1,203 @@
+{
+  "hadm_id": 106961,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 18156,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 451,
+          "end": 459,
+          "code": "Z86.711",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of pulmonary embolism",
+          "type": "Human",
+          "covered_text": "hx of PE"
+        },
+        {
+          "begin": 464,
+          "end": 479,
+          "code": "Z86.718",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of other venous thrombosis and embolism",
+          "type": "Human",
+          "covered_text": "atrial thrombus"
+        },
+        {
+          "begin": 675,
+          "end": 699,
+          "code": "L97.809",
+          "code_system": "ICD-10-CM",
+          "description": "Non-pressure chronic ulcer of other part of unspecified lower leg with unspecified severity",
+          "type": "Human",
+          "covered_text": "chronic LE ulcerations ("
+        },
+        {
+          "begin": 1739,
+          "end": 1773,
+          "code": "I42.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other cardiomyopathies",
+          "type": "Human",
+          "covered_text": "nonischemic dilated cardiomyopathy"
+        },
+        {
+          "begin": 1860,
+          "end": 1863,
+          "code": "I11.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive heart disease with heart failure",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 6683,
+          "end": 6692,
+          "code": "K74.60",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified cirrhosis of liver",
+          "type": "Human",
+          "covered_text": "cirrhosis"
+        },
+        {
+          "begin": 6950,
+          "end": 6962,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "HYPONATREMIA"
+        },
+        {
+          "begin": 6984,
+          "end": 6995,
+          "code": "E86.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypovolemia",
+          "type": "Human",
+          "covered_text": "hypovolemic"
+        },
+        {
+          "begin": 7187,
+          "end": 7198,
+          "code": "I95.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other hypotension",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 7203,
+          "end": 7214,
+          "code": "R00.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tachycardia, unspecified",
+          "type": "Human",
+          "covered_text": "tachycardia"
+        },
+        {
+          "begin": 7938,
+          "end": 7959,
+          "code": "I87.2",
+          "code_system": "ICD-10-CM",
+          "description": "Venous insufficiency (chronic) (peripheral)",
+          "type": "Human",
+          "covered_text": "chronic venous stasis"
+        },
+        {
+          "begin": 9105,
+          "end": 9124,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "ATRIAL FIBRILLATION"
+        },
+        {
+          "begin": 9144,
+          "end": 9152,
+          "code": "Z79.01",
+          "code_system": "ICD-10-CM",
+          "description": "Long term (current) use of anticoagulants",
+          "type": "Human",
+          "covered_text": "coumadin"
+        },
+        {
+          "begin": 9697,
+          "end": 9717,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute kidney injury:"
+        },
+        {
+          "begin": 9952,
+          "end": 9969,
+          "code": "I87.2",
+          "code_system": "ICD-10-CM",
+          "description": "Venous insufficiency (chronic) (peripheral)",
+          "type": "Human",
+          "covered_text": "STASIS DERMATITIS"
+        },
+        {
+          "begin": 9970,
+          "end": 10009,
+          "code": "L03.119",
+          "code_system": "ICD-10-CM",
+          "description": "Cellulitis of unspecified part of limb",
+          "type": "Human",
+          "covered_text": "WITH POSSIBLE SUPER IMPOSED CELLULITIS:"
+        },
+        {
+          "begin": 10264,
+          "end": 10273,
+          "code": "K74.69",
+          "code_system": "ICD-10-CM",
+          "description": "Other cirrhosis of liver",
+          "type": "Human",
+          "covered_text": "CIRRHOSIS"
+        },
+        {
+          "begin": 12396,
+          "end": 12408,
+          "code": "E87.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypo-osmolality and hyponatremia",
+          "type": "Human",
+          "covered_text": "Hyponatremia"
+        },
+        {
+          "begin": 12410,
+          "end": 12429,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "acute kidney injury"
+        },
+        {
+          "begin": 12442,
+          "end": 12461,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 12463,
+          "end": 12504,
+          "code": "I50.22",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic systolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "chronic systolic congestive\nheart failure"
+        }
+      ],
+      "text": "Admission Date:  [**2173-8-3**]              Discharge Date:   [**2173-8-8**]\n\nDate of Birth:  [**2114-1-5**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nclindamycin HCl\n\nAttending:[**First Name3 (LF) 23497**]\nChief Complaint:\nWeakness and fatigue\n\nMajor Surgical or Invasive Procedure:\nNone\n\n\nHistory of Present Illness:\n59M w/pmhx CHF (last EF 55-60%), afib, elevated LFTs, chronic LE\nwounds (recent admission for cellulitis on [**6-14**]), hx of PE and\natrial thrombus, presented to clinic today for F/U. Pt had hx of\nmultiple missed appointments and F/U labs were drawn today.\nReported losing ~20lbs within the past month. Pt appeared\neuvolemic and had extensive chronic LE ulcerations (pt was seen\nin vascular clinic immediately prior to general medicine\nappointment and was started on Keflex).\nReferred to ED due to hyponatremia/[**Last Name (un) **] found on labs.\n\nOn presentation to the emergency Department the patient reports\nthat he has had occasional exertional shortness of breath,\nreports no symptoms at rest. He denies chest pain at any point.\nHe reports that due to neuropathy he hasn't felt any pain in his\nleg ulcers but notices that they are significantly more\nerythematous and draining more fluid. Additionally he reports\nthat he has not taken any of his A. fib medications for several\ndays.\n\nIn the ED his initial vitals were 98.4 130 90/52 18 100. An EKG\nshowed afib @ 115, NA, lateral minimal stdep likely demand\nrelated. no STE. He recieved 1L NS and was restarted on his\nmetorolol and diltiazem. His digoxin was held.\n\n\nPast Medical History:\nCARDIAC HISTORY:\n- Afib - noted first during admission [**1-/2171**]; initial TEE CV\naborted due to left atrial thrombus; s/p DCCV [**2171-4-11**].\n- Systolic CHF/nonischemic dilated cardiomyopathy - thought due\nto tachymyopathy.  Recent EF 40% ([**3-/2171**])\n- PFO (noted on TEE)\n- HTN\n\nOther Past History:\n- Pulmonary embolus (noted on CT [**1-/2171**])\n- Anxiety\n- S/p hernia repair, pt describes complicated course of what\nsounds like dehiscence and redo x2 with mesh placement, last in\n12/[**2168**].\n- Seasonal allergies\n\nSocial History:\nHe is single and lives alone. He worked as a painter at [**Hospital1 **]\n[**Location (un) 620**], still out of work. He is a lifetime nonsmoker and\ndenies illicit drug use. he does drink approximately [**12-28**] bottle\nof wine about 3 times weekly and \"a few beers\" from time to time\nwith friends.\n\nFamily History:\nFather: h/o CVA\nMother: h/o heart disease, arrythmia and had a pacer. Deceased\n82yo.\n\n\nPhysical Exam:\nADMIT EXAM:\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL\nNeck: supple, JVP not elevated, no LAD\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno organomegaly\nGU: no foley\nExt: warm, 2+ pulses, no clubbing, s/p DP amutation of left\ngreat toe, venous stasis dermatitis with possible super\ninfection bilaterally\nNeuro: CNII-XII intact, 5/5 strength upper/lower extremities,\ngrossly normal sensation, 2+ reflexes bilaterally, gait\ndeferred.\n\nDISCHARGE EXAM:\nVS: 99.7 112/62 100 18 96% RA\nGen: awake, alert, resting comfortably in chair, NAD\nHEENT: sclera anicteric, MMM\nCV: RRR\nLungs: CTAB, no wheezes/rales/rhonchi\nAbd: bowel sounds present, soft, NT, ND\nExt: bilateral pedal edema, venous stasis changes, legs wrapped\nin ACE bandages\n\nPertinent Results:\nIMAGING:\nCXR [**2173-8-3**] -\nFINDINGS AND IMPRESSION:  The lungs are clear.  No pleural\neffusion, pulmonary\nedema or pneumothorax is present.  Mild cardiomegaly is\nunchanged.\n\nMICRO/PATH:\n[**2173-8-3**] BLOOD CULTURES X 2 - no growth to date after 5 days.\n\nADMIT LABS:\n[**2173-8-2**] 04:15PM BLOOD WBC-15.1* RBC-3.29* Hgb-10.5* Hct-30.6*\nMCV-93 MCH-31.9 MCHC-34.2 RDW-15.6* Plt Ct-289\n[**2173-8-2**] 04:15PM BLOOD Neuts-93* Bands-0 Lymphs-5* Monos-1*\nEos-1 Baso-0 Atyps-0 Metas-0 Myelos-0\n[**2173-8-2**] 04:15PM BLOOD Hypochr-NORMAL Anisocy-NORMAL\nPoiklo-NORMAL Macrocy-1+ Microcy-NORMAL Polychr-NORMAL\n[**2173-8-2**] 12:30PM BLOOD PT-15.7* INR(PT)-1.5*\n[**2173-8-2**] 04:15PM BLOOD UreaN-60* Creat-3.4*# Na-120* K-4.6\nCl-80* HCO3-24 AnGap-21*\n[**2173-8-2**] 04:15PM BLOOD Glucose-102*\n[**2173-8-2**] 04:15PM BLOOD ALT-33 AST-36 CK(CPK)-46* AlkPhos-162*\nTotBili-0.9\n[**2173-8-2**] 04:15PM BLOOD Albumin-3.6 Calcium-9.1 Cholest-141\n\nRELEVANT LABS:\n[**2173-8-3**] 12:25AM BLOOD WBC-12.7* RBC-3.08* Hgb-10.0* Hct-28.8*\nMCV-94 MCH-32.5* MCHC-34.7 RDW-15.8* Plt Ct-272\n[**2173-8-3**] 05:13AM BLOOD WBC-10.7 RBC-2.99* Hgb-10.0* Hct-28.1*\nMCV-94 MCH-33.3* MCHC-35.5* RDW-15.7* Plt Ct-224\n[**2173-8-3**] 12:25AM BLOOD Neuts-82.3* Lymphs-10.2* Monos-6.3\nEos-0.9 Baso-0.3\n[**2173-8-3**] 05:13AM BLOOD Plt Ct-224\n[**2173-8-3**] 12:25AM BLOOD Glucose-104* UreaN-58* Creat-3.0* Na-118*\nK-4.6 Cl-85* HCO3-20* AnGap-18\n[**2173-8-3**] 05:13AM BLOOD Glucose-91 UreaN-55* Creat-2.5* Na-119*\nK-4.5 Cl-86* HCO3-24 AnGap-14\n[**2173-8-3**] 07:00AM BLOOD Glucose-132* UreaN-58* Creat-2.8* Na-120*\nK-4.0 Cl-85* HCO3-22 AnGap-17\n[**2173-8-3**] 02:00PM BLOOD Glucose-131* UreaN-55* Creat-2.3* Na-124*\nK-4.1 Cl-89* HCO3-23 AnGap-16\n[**2173-8-3**] 07:53PM BLOOD Glucose-136* UreaN-52* Creat-2.0* Na-123*\nK-5.6* Cl-91* HCO3-22 AnGap-16\n[**2173-8-3**] 12:25AM BLOOD ALT-33 AST-35 LD(LDH)-333* AlkPhos-163*\nTotBili-0.8\n[**2173-8-3**] 05:13AM BLOOD ALT-29 AST-32 LD(LDH)-283* AlkPhos-146*\nTotBili-0.9\n[**2173-8-3**] 02:00PM BLOOD ALT-25 AST-25 LD(LDH)-265* AlkPhos-137*\nTotBili-0.7\n[**2173-8-3**] 12:25AM BLOOD proBNP-1588*\n[**2173-8-3**] 02:00PM BLOOD proBNP-1666*\n[**2173-8-3**] 12:25AM BLOOD ALT-33 AST-35 LD(LDH)-333* AlkPhos-163*\nTotBili-0.8\n[**2173-8-3**] 05:13AM BLOOD ALT-29 AST-32 LD(LDH)-283* AlkPhos-146*\nTotBili-0.9\n[**2173-8-3**] 02:00PM BLOOD ALT-25 AST-25 LD(LDH)-265* AlkPhos-137*\nTotBili-0.7\n[**2173-8-3**] 12:25AM BLOOD proBNP-1588*\n[**2173-8-3**] 02:00PM BLOOD proBNP-1666*\n[**2173-8-3**] 07:00AM BLOOD Calcium-8.3* Phos-3.8 Mg-1.5*\n[**2173-8-3**] 02:00PM BLOOD Albumin-3.2* Calcium-8.0* Phos-3.6 Mg-2.6\n[**2173-8-3**] 07:53PM BLOOD Calcium-8.0* Phos-3.6 Mg-2.5\n\nDISCHARGE LABS:\n[**2173-8-8**] 06:10AM BLOOD WBC-10.0 RBC-2.65* Hgb-8.4* Hct-25.6*\nMCV-97 MCH-31.9 MCHC-33.0 RDW-15.2 Plt Ct-252\n[**2173-8-8**] 06:10AM BLOOD Glucose-99 UreaN-16 Creat-0.9 Na-134\nK-4.2 Cl-97 HCO3-27 AnGap-14\n[**2173-8-8**] 06:10AM BLOOD Calcium-8.5 Phos-3.6 Mg-1.6\n[**2173-8-8**] 06:10AM BLOOD PT-15.0* PTT-28.2 INR(PT)-1.4*\n\nBrief Hospital Course:\n59 year old male with a past medical history of systolic\ncongestive heart failure (last EF 55-60%), atrial fibrillation\non coumadin, transaminitis secondary to cirrhosis, chronic lower\nextremity stasis dermatitis (recent admission for cellulitis on\n[**2173-6-14**]), history of pulmonary embolus and atrial thrombus who\npresented from clinic with with a significant hyponatremia,\nelevated lactate, and acute kidney injury.\n\n#. HYPONATREMIA: Etiology was likely hypovolemic hyponatremia in\nthe setting of over-aggressive diuretic use and decreased\ndietary intake of sodium.  Patient had started dieting, eating\nless salt and drinking more water.  He presented with\nhypotension and tachycardia.  Patient also presented with acute\nkidney injury, elevated lactate, fractional excretion of sodium\nless than 1, low urine sodium, and elevated creatinine and BUN\nall suggesting hypovolemic hyponatremia as the etiology. While\nin the MICU his sodium was corrected with normal saline and his\nurine and serum sodium trended. Once his sodium was trending\nupward he was transferred to the medicine floor.  His torsemide\nwas held and then restarted on [**8-7**] on an every other day dosing\nschedule, and he should follow up with his PCP for repeat lab\ntesting.\n\n# HYPOTENSION / TACHYCARDIA - Though initially concerned for\nSIRS/sepsis because of leukocytosis on admission, and possible\nsource of infection being cellulitis from chronic venous stasis\nulcers.  CXR, UA, blood cultures were all negative for signs of\ninfection.  He did not have fever of systemic signs of\ninfection.  Initially he met systemic inflammatory response\nsyndrome criteria with a possible source. He was started on\nvancomycin and unasyn empirically. On re-evaluation he remained\nafebrile with no constitutional symptoms concerning for sepsis.\nHis vancomycin and unysin was discontinued and keflex was kept\non per his vascular physicians prescription. Hypotension was\nlikely a result of extracellular volume depletion in the setting\nof overdiuresis and salt restriction as above, with a reactive\ntachycardia.  Metoprolol, digoxin, and diltiazem were held for\nhypotension but restarted as his pressures tolerated them.  He\nwas monitored on telemetry and was not shown to have any atrial\nfibrillation with RVR.  However, he had asymptomatic sinus\ntachycardia to the 130-160s during physical therapy.  This was\nlikely because his home medications were held, and his\ntachycardia improved upon restarting digoxin, metoprolol, and\ndiltiazem at his home doses.  Torsemide was restarted on an\nevery other day dosing schedule.\n\n#. ATRIAL FIBRILLATION: Chronic issue. On coumadin, metoprolol,\ndiltizem, and digoxin at home. In the MICU, he became mildly\nhypotensive (sbp in 90s, not requiring pressors) so his\nmetoprolol and diltiazem were reduced in dose.  Upon trasnfer to\nfloor, blood pressure was stable after resuming home meidcations\nand metoprolol was uptitrates in setting of tachycardia,\nparticularly with exertion with PT. He should follow up with his\nPCP regarding titration of his rate control. His INR was\nsubtherapeutic, so his warfarin was increased to 6mg. Digoxin\nwas continued and level was not toxic.\n\n#. Acute kidney injury: Likely prerenal and related to\nhypoperfusion in the setting of hypotension. creatinine improved\nwith holding torsemide and administration of IVF. His creatine\nand BUN were trended and his creatine trended downward with IV\nfluids.\n\n#. STASIS DERMATITIS WITH POSSIBLE SUPER IMPOSED CELLULITIS:\nWhile in the MICU he did not spike a fever or appear overtly\nseptic by exam or review of systems. His leukocytosis\nnormalized. The decision was made to leave him on his outpatient\ndose of keflex however pending follow-up with his vascular\nphysician.\n\n#. CIRRHOSIS: This is a diagnosis that is currently undergoing\noutpatient workup. He did not appear hypervolemic and this was\nnot likely related to the etiology of his hyponatremia. He\ndenies alcohol abuse and is reportedly planning on undergoing a\nliver biopsy to further characterize his liver disease. His\nliver function was monitored while in the MICU and remained\nstable, and no further management of his possible cirrhosis was\nperformed.\n\n\nTRANSITIONAL ISSUES:\n-Vascular, renal, and hepatic follow-up.\n-Should f/u with PCP regarding torsemide dosing which was\ndecreased to every other day.  He should be evaluated for less\naggressive diuresis if has bump in creatinine.\n-He should follow up with his PCP and cardiology regarding\ntitration of his metoprolol and diltiazem for rate control.\n-Warfarin increased to 6mg at discharge as his INR was 1.4\n\nMedications on Admission:\nPreadmission medications listed are correct and complete.\nInformation was obtained from [**Month/Year (2) 581**].\n1. Warfarin 2 mg PO DAILY16\n2. Torsemide 50 mg PO DAILY\n3. OxycoDONE (Immediate Release)  5 mg PO BID:PRN pain\n4. Metoprolol Succinate XL 50 mg PO DAILY\n5. Latanoprost 0.005% Ophth. Soln. 1 DROP LEFT EYE HS\n6. Diltiazem Extended-Release 180 mg PO DAILY\n7. Digoxin 0.125 mg PO DAILY\n8. Cephalexin 500 mg PO Q6H\n\nDischarge Medications:\n1. Cephalexin 500 mg PO Q6H\n2. Digoxin 0.125 mg PO DAILY\n3. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS\n4. OxycoDONE (Immediate Release)  5 mg PO BID:PRN pain\n5. Oxycodone SR (OxyconTIN) 20 mg PO Q12H\n6. Torsemide 20 mg PO EVERY OTHER DAY\nplease hold for SBP <100\nRX *Demadex 20 mg 1 tablet(s) by mouth every other day Disp #*15\nTablet Refills:*0\n7. Warfarin 6 mg PO DAILY16\n8. Metoprolol Succinate XL 100 mg PO DAILY\nRX *metoprolol succinate 100 mg 1 tablet(s) by mouth daily Disp\n#*30 Tablet Refills:*0\n9. Diltiazem Extended-Release 180 mg PO DAILY\n10. Outpatient Lab Work\nPlease check INR [**2173-8-9**] and send results to [**Company 191**] [**Hospital 3052**]. Phone [**Telephone/Fax (1) 2173**].\n\nDischarge Disposition:\nHome With Service\n\nFacility:\nAllcare VNA\n\nDischarge Diagnosis:\nPrimary: Hyponatremia, acute kidney injury\n\nSecondary: Atrial fibrillation, chronic systolic congestive\nheart failure\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nDear Mr. [**Known lastname 10840**],\n\nYou were treated at [**Hospital1 18**] for low sodium and decreased kidney\nfunction.  Your low sodium and decreased kidney function were\nlikely caused by a combination of not eating and drinking as\nmuch as you used to, as well as your torsemide diuretic.  As we\ngave you fluid and discontinued your torsemide, your sodium\nlevel improved.  Please restart your torsemide, but at a lower\ndose.  Take 20 mg every other day until you see your\ncardiologist and primary care doctor.  You should take your next\ndose on Monday [**2173-8-9**].\n\nYour kidney function also improved with IV fluids, and is now\nnormal.\n\nPlease have your INR checked on Tuesday [**2173-8-10**].  You may need\nadjustment in your coumadin dose.  For now, you should take 6 mg\nper day as your INR is low.\n\nPlease keep the appointments listed below.\n\nWeigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more\nthan 3 lbs.\n\nFollowup Instructions:\nDepartment: CARDIAC SERVICES\nWhen: FRIDAY [**2173-8-13**] at 11:00 AM\nWith: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2003**], NP [**Telephone/Fax (1) 62**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\nDepartment: VASCULAR SURGERY\nWhen: MONDAY [**2173-9-13**] at 10:45 AM\nWith: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 20205**], MD [**Telephone/Fax (1) 20206**]\nBuilding: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\nDepartment: [**Hospital3 249**]\nWhen: WEDNESDAY [**2173-8-18**] at 1:30 PM\nWith: Dr. [**First Name4 (NamePattern1) 2184**] [**Last Name (NamePattern1) 2185**] in the [**Company 191**] POST [**Hospital 894**] CLINIC\nPhone: [**Telephone/Fax (1) 2010**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] South [**Hospital **]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\nNotes: This appointment is with a hospital-based doctor as part\nof your transition from the hospital back to your primary care\nprovider.  [**Name10 (NameIs) 616**] this visit, you will see your regular primary\ncare doctor in follow up.\n\n\n\nCompleted by:[**2173-8-8**]"
+    }
+  ]
+}

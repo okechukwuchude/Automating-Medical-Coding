@@ -1,0 +1,94 @@
+{
+  "hadm_id": 167733,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 673857,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 3768,
+          "end": 3791,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "acute blood loss anemia"
+        }
+      ],
+      "text": "Chief Complaint:  Epistaxis\n   HPI:\n   31yoF with hx ckd stage 4, hd-dependant [**2-14**] to childhood reflux,\n   presents with epistaxis and anemia. Pt had a spontaneous nosebleed,\n   which began yesterday, seen early at OSH yesterday ([**5-21**]), had packing\n   placed. Bleeding continued over course of day, returned to hospital 2\n   additional times for continued bleeding. Hct dropped from 22->16 at\n   OSH. Now sent from [**Hospital1 **] to [**Hospital1 5**] for further management as no ENT\n   available there.\n   .\n   In [**Hospital1 5**] ED, vital signs stable, sbp 140, hr 80s, on room air. Packing\n   in place, no active bleeding. Hct 16 on arrival here (stable from OSH).\n   Patient initially refusing blood transfusions, [**2-14**] to \"fear of blood\n   products,\" vs. \"religious issues. ED resident discussed risk and\n   benefits, pt agreed to receive pRBCs. Two pIVs (20/18) placed. Blood\n   transfusion initiated in ED. Pt then had another episode of brisk nose\n   bleed in ED, seen by ENT who placed new merocel packing in L nostril.\n   Received DDAVP, ancef, ativan, and zofran. Pt was admitted to the MICU\n   for close monitoring.\n   Patient admitted from: [**Hospital1 5**] ER\n   History obtained from Family / [**Hospital 216**] Medical records\n   Patient unable to provide history: Encephalopathy\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   (per ED record, dosages unknown):\n   Atenolol\n   Procardia XL\n   Doxazosin\n   Renagel\n   Guaifenesin\n   Past medical history:\n   Family history:\n   Social History:\n   -CKD stage4 - [**2-14**] reflux as child, HD M/W/F\n   -HTN\n   -Anxiety\n   Non-contributory\n   Occupation:\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other: Unable to obtain from patient [**2-14**] mental status.\n   Review of systems:\n   Limited [**2-14**] mental status. Denies pain.\n   Flowsheet Data as of [**2191-5-22**] 02:51 PM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.9\nC (98.4\n   Tcurrent: 36.9\nC (98.4\n   HR: 88 (83 - 88) bpm\n   BP: 159/105(119) {124/67(84) - 159/105(119)} mmHg\n   RR: 23 (14 - 24) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n                  Total In:\n                  350 mL\n   PO:\n                  TF:\n   IVF:\n   Blood products:\n   350 mL\n   Total out:\n                                                                      0 mL\n                                                                      0 mL\n   Urine:\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                    350 mL\n   Respiratory\n   O2 Delivery Device: None\n   SpO2: 100%\n   Physical Examination\n   VS: T 98.1, BP 133/73, HR 88, RR 16, SaO2 94% on RA\n   GENERAL: sleepy but arousable, NAD\n   HEENT: No scleral icterus. PERRLA/EOMI. packing in Left nostril with\n   evidence of dried blood, no active bleeding, OP clear, MMM. Neck NECK:\n   Supple, No LAD.\n   CARDIAC: RR. Normal S1, S2. No m/r/g.\n   LUNGS: CTAB, good air movement biaterally.\n   ABDOMEN: NABS. Soft, NT, ND. No HSM\n   EXTREMITIES: No c/c/e, 2+ dorsalis pedis/ posterior tibial pulses.\n   NEURO: sleepy, alert and oriented x 3, moving all extremities\n   Labs / Radiology\n   159\n   95\n   8.0\n   132\n   23\n   95\n   5.3\n   135\n   16.4\n   5.4\n        [image002.jpg]\n   Other labs: PT / PTT / INR:15/29/1.4\n   Imaging: None\n   Assessment and Plan\n   31yoF 31yoF with hx ckd stage 4, hd-dependant [**2-14**] to childhood reflux,\n   presents with epistaxis and anemia.\n   # epistaxis/acute blood loss anemia: Etiology of her epistaxis unknown,\n   no longstanding hx of nosebleeds; no hx of vonWillebrand's or\n   hemophilia. Issue currently exacerbated by uremia. Baseline hct unknown\n   but likely low given ESRD. Seen by ENT who feel most consistent with\n   arterial spasm. Anterior packing in place with no further active\n   bleeding apparent. Received DDAVP in ED.\n   - q6hr hct check\n   - 2uPRBCs now\n   - T/C 2 units\n   - appreciate ENT evaluation/input\n   - merocel in place x 5 days\n   - keflex for staph coverage\n   - afrin at bedside\n   - humidified air\n   - after the packing is removed, she should start nasal saline\n   sprays TID x10 days and apply a very small amount of bacitracin\n   to the left anterior nose [**Hospital1 **] x 7 days\n   - follow-up in [**Hospital **] clinic on day 5 (Thursday) for packing removal\n   # ESRD: [**2-14**] to childhood reflux, HD-dependant. Significant uremia,\n   stable potassium, stable clinical mental status.  Dialysis dates are\n   M/W/F. Getting blood products with volume and K. Not currently volume\n   overloaded.\n   - renal HD team is aware and will await their recs\n   - electrolyte check q12 until HD\n   - obtain further history from family when able to reach\n   # FEN: cardiac diet, keep mg>2, k >4 and <5, maintain adequate access\n   at 20 and 18.\n   # ppx: pneumoboots, ppi (renal failure and uremia)\n   # access: 2pIV's\n   # CODE STATUS: FULL\n   # DISPOSITION: MICU until bleeding and HCT stabilizes\n   # COMMUNICATION: with patient\n   - fiance [**Doctor First Name 92**] [**Telephone/Fax (1) 6258**] (attempted to call but no answer)\n   - will make further attempts to reach family to obtain ICU consent and\n   further history\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2191-5-22**] 07:15 AM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication: ICU consent signed Comments:\n   Code status: Full code\n   Disposition: ICU\n   ------ Protected Section ------\n   Chart reviewed, patient examined, case discussed in detail with Dr.\n   [**Last Name (STitle) 3482**].  I was present for delivery of all key services and agree with\n   Dr. [**Last Name (STitle) 3482**]\ns note above.  In addition, I would add/emphasize:\n   31F ESRD HD dependant 2ndry to childhood reflux, presents with\n   epistaxis and anemia.  Epistaxis started spontaneously yesterday.  No\n   h/o prior episodes.  Presented to OSH x 3 with presumed anterior\n   epistaxis.  Transferred to [**Hospital1 5**] for ENT availability for evaluation.\n   Hct 16 on presentation at [**Hospital1 5**]\n had been 22 at last measure at OSH.\n   In ED: ENT evaluation-> anterior nasal packing applied (merocel).\n   Given DDAVP, pRBC x 2.   Transferred to MICU for close monitoring given\n   falling hct and evidence of ongoing bleeding.\n   Afeb BP 130/70 R18 P90 Sat 95%RA\n   Resting comfortably in bed, NAD\n   Lungs CTAB\n   CV RRR s\n   Abd benign bs+\n   Hct 16\n   A/P\n   Anterior epistaxis\n   -murocel packing\n   -Keflex empiric coverage\n   -ENT following\n   -etiology unclear. [**Name2 (NI) **] hx.  Uremia/plt function exacerbating factor\n   -serial hct\n   Anemia secondary to blood loss\n   -baseline hct not known though last measure at OSH 22\n   -cont transfuse\n   ESRD:\n   -HD dependent\n   -renal aware pt in house\n   -follow lytes, esp with blood product transfusion\n   Remainder of plan per note above.\n   Patient is critically ill.\n   Time spent on care: 35minutes.\n   ------ Protected Section Addendum Entered By:[**Name (NI) 174**] [**Last Name (NamePattern1) 911**], MD\n   on:[**2191-5-22**] 19:36 ------\n"
+    },
+    {
+      "note_id": 36252,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 262,
+          "end": 271,
+          "code": "R04.0",
+          "code_system": "ICD-10-CM",
+          "description": "Epistaxis",
+          "type": "Human",
+          "covered_text": "epistaxis"
+        },
+        {
+          "begin": 368,
+          "end": 379,
+          "code": "N18.6",
+          "code_system": "ICD-10-CM",
+          "description": "End stage renal disease",
+          "type": "Human",
+          "covered_text": "ckd stage 4"
+        },
+        {
+          "begin": 381,
+          "end": 393,
+          "code": "Z99.2",
+          "code_system": "ICD-10-CM",
+          "description": "Dependence on renal dialysis",
+          "type": "Human",
+          "covered_text": "hd-dependent"
+        },
+        {
+          "begin": 454,
+          "end": 460,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "anemia"
+        },
+        {
+          "begin": 1495,
+          "end": 1498,
+          "code": "I12.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 1499,
+          "end": 1507,
+          "code": "F41.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anxiety disorder, unspecified",
+          "type": "Human",
+          "covered_text": "-Anxiety"
+        },
+        {
+          "begin": 2966,
+          "end": 2972,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "reflux"
+        }
+      ],
+      "text": "Admission Date:  [**2191-5-22**]              Discharge Date:   [**2191-5-24**]\n\nDate of Birth:  [**2159-12-1**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nProtamine Sulfate / Bactrim / Amoxicillin\n\nAttending:[**First Name3 (LF) 358**]\nChief Complaint:\nepistaxis\n\nMajor Surgical or Invasive Procedure:\nNasal Packing\n\nHistory of Present Illness:\n31yoF with hx ckd stage 4, hd-dependent [**2-14**] to childhood reflux,\npresents with epistaxis and anemia. Pt had a spontaneous\nnosebleed, which began yesterday, seen early at OSH yesterday\n([**5-21**]), had packing placed. Bleeding continued over course of\nday, returned to hospital 2 additional times for continued\nbleeding. Hct dropped from 22->16 at OSH. Now sent from [**Hospital1 **]\nto [**Hospital1 18**] for further management as no ENT available there.\n.\nIn [**Hospital1 18**] ED, vital signs stable, sbp 140, hr 80s, on room air.\nPacking in place, no active bleeding. Hct 16 on arrival here\n(stable from OSH). Patient initially refusing blood\ntransfusions, [**2-14**] to \"fear of blood products,\" vs. \"religious\nissues. ED resident discussed risk and benefits, pt agreed to\nreceive pRBCs. Two pIVs (20/18) placed. Blood transfusion\ninitiated in ED. Pt then had another episode of brisk nose bleed\nin ED, seen by ENT who placed new merocel packing in L nostril.\nReceived DDAVP, ancef, ativan, and zofran. Pt was admitted to\nthe MICU for close monitoring.\n\n\nPast Medical History:\n-CKD stage4 - [**2-14**] reflux as child, HD M/W/F\n-HTN\n-Anxiety\n\n\nSocial History:\nFiancee of 5 years, unclear about other social history\n\nFamily History:\nNC\n\nPhysical Exam:\nVS: T 98.1, BP 133/73, HR 88, RR 16, SaO2 94% on RA\nGENERAL: sleepy but arousable, NAD\nHEENT: No scleral icterus. PERRLA/EOMI. packing in Left nostril\nwith evidence of dried blood, no active bleeding, OP clear, MMM.\nNeck NECK: Supple, No LAD.\nCARDIAC: RR. Normal S1, S2. No m/r/g.\nLUNGS: CTAB, good air movement biaterally.\nABDOMEN: NABS. Soft, NT, ND. No HSM\nEXTREMITIES: No c/c/e, 2+ dorsalis pedis/ posterior tibial\npulses.\nNEURO: sleepy, alert and oriented x 3, moving all extremities\n\n\nPertinent Results:\n[**2191-5-22**] 02:19PM   GLUCOSE-85 UREA N-148* CREAT-8.9* SODIUM-135\nPOTASSIUM-5.2* CHLORIDE-98 TOTAL CO2-19* ANION GAP-23*\n[**2191-5-22**] 02:19PM   CALCIUM-10.0 PHOSPHATE-5.1* MAGNESIUM-2.3\n[**2191-5-22**] 02:19PM   HCT-19.6*\n[**2191-5-22**] 05:25AM   HGB-5.5* calcHCT-17\n[**2191-5-22**] 05:20AM   GLUCOSE-95 UREA N-132* CREAT-8.0* SODIUM-135\nPOTASSIUM-5.3* CHLORIDE-95* TOTAL CO2-23 ANION GAP-22\n[**2191-5-22**] 05:20AM   CALCIUM-10.2 PHOSPHATE-4.1 MAGNESIUM-2.4\n[**2191-5-22**] 05:20AM   WBC-5.4 RBC-1.66* HGB-5.4* HCT-16.4* MCV-99*\nMCH-32.8* MCHC-33.1 RDW-17.5*\n[**2191-5-22**] 05:20AM   NEUTS-44.2* LYMPHS-49.8* MONOS-2.5 EOS-3.0\nBASOS-0.5\n[**2191-5-22**] 05:20AM   PLT COUNT-159\n[**2191-5-22**] 05:20AM   PT-15.9* PTT-29.4 INR(PT)-1.4*\n\nBrief Hospital Course:\n31yoF 31yoF with hx ckd stage 4, hd-dependant [**2-14**] to childhood\nreflux, presents with epistaxis and anemia.\n.\n# epistaxis/acute blood loss anemia: Required short MICU stay\nuntil bleeding stabilized. Etiology of her epistaxis unknown, no\nlongstanding hx of nosebleeds; no hx of vonWillebrand's or\nhemophilia. Issue exacerbated by uremia. Baseline hct unknown\nbut likely low given ESRD. Seen by ENT who feel most consistent\nwith arterial spasm. Anterior packing in place with no further\nactive bleeding apparent. Received DDAVP in ED.  Given 4 units\nPRBC's, q6H hct check which was stable with transfusion and\nepistaxis did not recur. Placed pt on keflex for staph coverage\nand placed afrin at bedside.  After the packing is removed, she\nshould start nasal saline, sprays TID x10 days and apply a very\nsmall amount of bacitracin, to the left anterior nose [**Hospital1 **] x 7\ndays.\n.\n# ESRD: [**2-14**] to childhood reflux, HD-dependant. Significant\nuremia, stable potassium, stable clinical mental status.\nDialysis dates are M/W/F. Getting blood products with volume and\nK. Not currently volume overloaded.\n\n\nMedications on Admission:\nAtenolol 100mg PO BID\nProcardia XL 60mg PO daily\nDoxazosin 2mg PO BID\nRenagel 800mg TID with meals\nGuanficine 1mg PO QHS\n\n\nDischarge Medications:\n1. Oxymetazoline 0.05 % Aerosol, Spray Sig: One (1) Spray Nasal\nDAILY (Daily) as needed for epistaxis.\nDisp:*1 bottle* Refills:*0*\n2. Atenolol 50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a\nday).\n3. Doxazosin 1 mg Tablet Sig: Two (2) Tablet PO BID (2 times a\nday).\n4. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO every twelve\n(12) hours as needed for anxiety/agitation for 7 days.\nDisp:*10 Tablet(s)* Refills:*0*\n5. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q12H (every\n12 hours) for 2 days.\nDisp:*4 Capsule(s)* Refills:*0*\n6. Sevelamer HCl 400 mg Tablet Sig: Six (6) Tablet PO TID\nW/MEALS (3 TIMES A DAY WITH MEALS).\n7. Nifedipine 60 mg Tablet Sustained Release Sig: One (1) Tablet\nSustained Release PO BID (2 times a day).\n8. Guanfacine 1 mg Tablet Sig: One (1) Tablet PO at bedtime.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPrimary:\nEpistaxis\n.\nSecondary:\nHypertension\nEnd Stage Renal Disease on Hemodialysis\n\n\nDischarge Condition:\nVitals signs stable, hematocrit stable, ambulating\n\n\nDischarge Instructions:\nYou were admitted for a nose bleed that required you to have a\nblood transfusion to keep your blood levels stable.  You also\nreceived dialysis as scheduled.\n.\nNose bleed instructions: Do not manipulate the packing. No nose\nblowing.  Do not touch or manipulate the nose.  Avoid long, hot\nshowers.  Avoid drinking very hot liquids or eating spicy foods.\nIf active (bright red) bleeding is noted, spray copious amounts\nof Afrin in and around the packing (which is like a sponge) and\nhold pressure on the tip of nose for 15-20 minutes. If bleeding\ncontinues after that, please go to the emergency room.\n.\nMedications: Please continue with all your home medications as\npreviously prescribed.  The following additions were made to\nyour regimen:\nADDED Keflex 500mg my mouth twice a day\nADDED Afrin to be used in nose if bleeding develops\n.\nYou have an appointment with Dr. [**Last Name (STitle) **] with ENT on Thursday\n[**2191-5-26**] at 11:15. The office is located on [**Last Name (NamePattern1) **].\nSuite 6E.  Please arrive 15 minutes early to complete some\npaperwork.\n.\nAlso, please call to schedule an appointment with your primary\ncare doctor within the next week.\n.\nContinue with dialysis as scheduled on Monday, Wednesday,\nFriday.\n.\nIf you develop any of the following, nose bleeding, chest pain,\nshortness of breath, cough, fevers/chills, headache, dizziness,\nnausea, vomiting or diarrhea, please call your primary care\ndoctor or go to your local emergency room.\n\nFollowup Instructions:\nYou have an appointment with Dr. [**Last Name (STitle) **] with ENT on Thursday\n[**2191-5-26**] at 11:15. The office is located on [**Last Name (NamePattern1) **].\nSuite 6E.  Please arrive 15 minutes early to complete some\npaperwork.\n.\nAlso, please call to schedule an appointment with your primary\ncare doctor within the next week.\n.\nContinue with dialysis as scheduled on Monday, Wednesday,\nFriday.\n\n\n\nCompleted by:[**2191-5-29**]"
+    }
+  ]
+}

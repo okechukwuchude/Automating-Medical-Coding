@@ -1,0 +1,50 @@
+{
+  "hadm_id": 119923,
+  "comment": "Cerebral aniography report not present",
+  "notes": [
+    {
+      "note_id": 42346,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 349,
+          "end": 378,
+          "code": "B30RZZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Plain Radiography of Intracranial Arteries",
+          "type": "Human",
+          "covered_text": "DIAGNOSTIC CEREBRAL ANGIOGRAM"
+        },
+        {
+          "begin": 4050,
+          "end": 4065,
+          "code": "M54.5",
+          "code_system": "ICD-10-CM",
+          "description": "Low back pain",
+          "type": "Human",
+          "covered_text": "lower back pain"
+        },
+        {
+          "begin": 5291,
+          "end": 5315,
+          "code": "I60.9",
+          "code_system": "ICD-10-CM",
+          "description": "Nontraumatic subarachnoid hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "SUBARACHNOID HEAMORRHAGE"
+        },
+        {
+          "begin": 5325,
+          "end": 5339,
+          "code": "E07.9",
+          "code_system": "ICD-10-CM",
+          "description": "Disorder of thyroid, unspecified",
+          "type": "Human",
+          "covered_text": "THYROID LESION"
+        }
+      ],
+      "text": "Admission Date:  [**2196-10-13**]              Discharge Date:   [**2196-10-21**]\n\nDate of Birth:  [**2145-4-30**]             Sex:   F\n\nService: NEUROSURGERY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 78**]\nChief Complaint:\nworst headache of life\n\nMajor Surgical or Invasive Procedure:\n[**2196-10-14**]: DIAGNOSTIC CEREBRAL ANGIOGRAM\n[**2196-10-20**]: DIAGNOSTIC CEREBRAL ANGIOGRAM\n\n\nHistory of Present Illness:\n51 y/o female who presents a history of being at the gym today\naround 5pm doing weighted hip lifts when she developed a sudden\nonset severe headache and nausea. She was unable to rise from\nthe\nfloor, EMS was called, she was transported to [**First Name8 (NamePattern2) 745**] [**Last Name (NamePattern1) **]\nHospital and subsequently transferred here after a head CT\nrevealed SAH.\n\nShe received aprox. 9mg of Morphine and several anti-emetics\nprior to transfer and was re medicated for nausea in our ER.\n\n\nPast Medical History:\nNone\n\nSocial History:\nDenies Tobacco, ETOH socially, Married, Lives at home with\nhusband and two kids.\n\n\nFamily History:\nNC\n\nPhysical Exam:\nHunt and [**Doctor Last Name 9381**]: 1       [**Doctor Last Name **]: 2      GCS  E: 3   V:5 Motor 6\n\nO: T: 97.6 BP:126 /69       HR: 84   R15       O2Sats 100\nGen: WD/WN, comfortable, NAD.\nHEENT: NCNT\nNeck: Supple.\nLungs: CTA bilaterally.\nCardiac: RRR. S1/S2.\nAbd: Soft, NT,\nExtrem: Warm and well-perfused. No C/C/E.\n\nNeuro:\nMental status: Lethargic but alert, presents complete history,\ncooperative with exam\nOrientation: Oriented to person, place, and date.\n\nLanguage: Speech fluent with good comprehension and repetition.\nNaming intact. No dysarthria or paraphasic errors.\n\nCranial Nerves:\nI: Not tested\nII: Pupils equally round and reactive to light, 4 to 2\nmm bilaterally. Visual fields are full to confrontation.\nIII, IV, VI: Extraocular movements intact bilaterally without\nnystagmus.\nV, VII: Facial strength  intact and symmetric, decrease\nsensation\nright cheek.\nVIII: Hearing intact to finger rub bilaterally.\nIX, X: Palatal elevation symmetrical.\n[**Doctor First Name 81**]: Sternocleidomastoid and trapezius normal bilaterally.\nXII: Tongue midline without fasciculations.\n\nMotor: Normal bulk and tone bilaterally. No abnormal movements,\ntremors. Strength full power [**4-21**] throughout. No pronator drift\n\nSensation: Intact to light touch\n\nCoordination: normal on finger-nose-finger\n\n\nPertinent Results:\nCTA HEAD W&W/O C & RECONS [**2196-10-13**]\n1. Stable bilateral supratentorial subarachnoid blood as well as\nstable\nhemorrhage in the 4th ventricle, and in the prepontine,\npremedullary and right lateral medullary cisterns.\n2. No evidence of cerebral aneurysm or AVM, or vertebral or\nother cervical\narterial dissection.\n3. 1.1 cm and a 1 cm bilateral hypodense thyroid lesions. If not\npreviously done elsewhere, ultrasound is suggested if clinically\nwarranted.\n\nCerebral Angiogram [**2196-10-14**]:\nNegative for aneurysm\n\nMRI/A C-spine [**2196-10-15**]:\nNo evidence of arteriovenous fistula or malformation seen in the\n\ncervical region. No abnormal signal seen within the spinal cord.\nMild\ndegenerative changes. No abnormal enhancement.\n\n\n\nBrief Hospital Course:\n51 y/o F s/p WHOL after working out at the gym. She was taken to\nOSH where head CT revealed a perimesincephalic SAH. She was\ntransferred to [**Hospital1 18**] for further neurosurgical evaluation. Once\nat the [**Hospital1 **], patient had a CTA of the head that showed no\naneurysm. Patient remained neurologically intact. On [**10-14**],\nrepeat head CT showed stable SAH with no hydrocephalus. She was\ntaken to for a cerebral angiogram for confirmation and was\nnegative for aneurysm or other vascular anomalies.\n\nOn [**10-15**] a MRI/A of the cervical spine was performed to rule out\na vascular anomaly and was negative. Patient remained in the\nICU.\n\nOn [**10-17**] A CTA of the head was performed to r/o vasospasm which\nwas negative. She was subsequently transferred to the SD unit.\n\nShe did well on the floor, but mostly had difficulties with\nlower back pain which ultimately responded to a combination of\nNSAIDs and valium. Her headaches were controlled with fioricet-\nand similar agents.\n\nFollowing a repeat angiogram on [**10-20**] which was normal, she\nwas discharged to home the next day with instructions to follow\nup in one month with Dr. [**First Name (STitle) **]. A referral was placed for the\npatient to see Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in clinic.\n\n\nMedications on Admission:\nNone\n\nDischarge Medications:\n1. butalbital-acetaminophen-caff 50-325-40 mg Tablet Sig: One\n(1) Tablet PO every six (6) hours as needed for Headache.\nDisp:*40 Tablet(s)* Refills:*0*\n2. diazepam 2 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours) as needed for back pain/spasm.\nDisp:*40 Tablet(s)* Refills:*0*\n3. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).\nDisp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*1*\n4. levetiracetam 250 mg Tablet Sig: Three (3) Tablet PO BID (2\ntimes a day).\nDisp:*180 Tablet(s)* Refills:*1*\n5. prednisone 10 mg Tablet Sig: One (1) Tablet PO once a day for\n3 days.\nDisp:*3 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nSUBARACHNOID HEAMORRHAGE\nHEADACHE\nTHYROID LESION\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Lethargic but arousable.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDear Ms. [**Known lastname **],\n  It was a pleasure taking care of you during this\nhospitalization. You were admitted to the Neurosurgery Service\nof the [**Hospital1 69**] for an evaluation of\nyour headache which was associated with a \"subarachnoid\nhemorrhage\", which is a collection of blood just outside the\nbrain that can be very serious and dangerous. You received\nmultiple procedures to search for an \"aneurysm\", which is an\noutpouching of a blood vessel that can be prone to easy rupture.\n\n- Your restrictions are that you should not work x 4 weeks\n- do not lift > 15 lbs\n- you may exercise as tolerated\n- It is important that you take your medications as prescribed\nbelow.\n- Please do not hesitate to contact us if you experience further\nsymptoms or have questions.\n- Please follow up with your PCP as well as Dr. [**First Name (STitle) **] from the\nNeurosurgery Department.\n\nMedications:\n??????\tYou make take Tylenol or prescribed pain medications for any\npost procedure pain or discomfort.\n\nWhat activities you can and cannot do:\n??????\tWhen you go home, you may walk and go up and down stairs.\n??????\tYou may shower (let the soapy water run over groin incision,\nrinse and pat dry)\n??????\tYour incision may be left uncovered, unless you have small\namounts of drainage from the wound, then place a dry dressing or\nband aid over the area that is draining, as needed\n??????\tNo heavy lifting, pushing or pulling (greater than 5 lbs) for\n1 week (to allow groin puncture to heal).\n??????\tAfter 1 week, you may resume sexual activity.\n??????\tAfter 1 week, gradually increase your activities and distance\nwalked as you can tolerate.\n??????\tNo driving until you are no longer taking pain medications\n\nWhat to report to office:\n??????\tChanges in vision (loss of vision, blurring, double vision,\nhalf vision)\n??????\tSlurring of speech or difficulty finding correct words to use\n??????\tSevere headache or worsening headache not controlled by pain\nmedication\n??????\tA sudden change in the ability to move or use your arm or leg\nor the ability to feel your arm or leg\n??????\tTrouble swallowing, breathing, or talking\n??????\tNumbness, coldness or pain in lower extremities\n??????\tTemperature greater than 101.5F for 24 hours\n??????\tNew or increased drainage from incision or white, yellow or\ngreen drainage from incisions\n??????\tBleeding from groin puncture site\n\n*SUDDEN, SEVERE BLEEDING OR SWELLING\n(Groin puncture site)\nLie down, keep leg straight and have someone apply firm pressure\nto area for 10 minutes. If bleeding stops, call our office. If\nbleeding does not stop, call 911 for transfer to closest\nEmergency Room!\n\n\nFollowup Instructions:\nPLEASE FOLLOW-UP WITH DR [**First Name (STitle) **] IN 1 month. PLEASE CALL\n[**Telephone/Fax (1) 4296**] TO MAKE THIS APPOINTMENT.\n\nPLEASE FOLLOW-UP WITH YOUR PCP REGARDING THE THYROID LESION\nNOTED ON IMAGING. [PCP: [**Name10 (NameIs) **],[**First Name3 (LF) **] M. [**Telephone/Fax (1) 10505**]]\n\n\n\nCompleted by:[**2196-10-21**]"
+    }
+  ]
+}

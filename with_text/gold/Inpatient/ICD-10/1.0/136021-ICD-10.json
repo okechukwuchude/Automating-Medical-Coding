@@ -1,0 +1,167 @@
+{
+  "hadm_id": 136021,
+  "comment": "OP report for hematoma evacuation not available",
+  "notes": [
+    {
+      "note_id": 42815,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 351,
+          "end": 384,
+          "code": "009C0ZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Drainage of Cerebellum, Open Approach",
+          "type": "Human",
+          "covered_text": "Suboccipital crani for evacuation"
+        },
+        {
+          "begin": 436,
+          "end": 463,
+          "code": "009600Z",
+          "code_system": "ICD-10-PCS",
+          "description": "Drainage of Cerebral Ventricle with Drainage Device, Open Approach",
+          "type": "Human",
+          "covered_text": "Right frontal EVD placement"
+        },
+        {
+          "begin": 2118,
+          "end": 2130,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 2134,
+          "end": 2155,
+          "code": "I70.1",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerosis of renal artery",
+          "type": "Human",
+          "covered_text": "Renal artery stenosis"
+        },
+        {
+          "begin": 2245,
+          "end": 2272,
+          "code": "I73.9",
+          "code_system": "ICD-10-CM",
+          "description": "Peripheral vascular disease, unspecified",
+          "type": "Human",
+          "covered_text": "Peripheral vascular disease"
+        },
+        {
+          "begin": 2295,
+          "end": 2309,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 2313,
+          "end": 2317,
+          "code": "J44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic obstructive pulmonary disease, unspecified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 16405,
+          "end": 16432,
+          "code": "I61.4",
+          "code_system": "ICD-10-CM",
+          "description": "Nontraumatic intracerebral hemorrhage in cerebellum",
+          "type": "Human",
+          "covered_text": "Right cerebellar hemorrhage"
+        },
+        {
+          "begin": 16433,
+          "end": 16460,
+          "code": "I61.5",
+          "code_system": "ICD-10-CM",
+          "description": "Nontraumatic intracerebral hemorrhage, intraventricular",
+          "type": "Human",
+          "covered_text": "Intraventricular hemorrhage"
+        },
+        {
+          "begin": 16461,
+          "end": 16474,
+          "code": "G91.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hydrocephalus, unspecified",
+          "type": "Human",
+          "covered_text": "Hydrocephalus"
+        },
+        {
+          "begin": 16475,
+          "end": 16489,
+          "code": "G93.6",
+          "code_system": "ICD-10-CM",
+          "description": "Cerebral edema",
+          "type": "Human",
+          "covered_text": "Cerebral edema"
+        },
+        {
+          "begin": 16500,
+          "end": 16506,
+          "code": "A04.72",
+          "code_system": "ICD-10-CM",
+          "description": "Enterocolitis due to Clostridium difficile, not specified as recurrent",
+          "type": "Human",
+          "covered_text": "C-Diff"
+        },
+        {
+          "begin": 16507,
+          "end": 16510,
+          "code": "J95.851",
+          "code_system": "ICD-10-CM",
+          "description": "Ventilator associated pneumonia",
+          "type": "Human",
+          "covered_text": "VAP"
+        },
+        {
+          "begin": 16511,
+          "end": 16530,
+          "code": "J96.90",
+          "code_system": "ICD-10-CM",
+          "description": "Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia",
+          "type": "Human",
+          "covered_text": "Respiratory failure"
+        },
+        {
+          "begin": 16552,
+          "end": 16563,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "Hypotension"
+        },
+        {
+          "begin": 16564,
+          "end": 16581,
+          "code": "R33.9",
+          "code_system": "ICD-10-CM",
+          "description": "Retention of urine, unspecified",
+          "type": "Human",
+          "covered_text": "Urinary retention"
+        },
+        {
+          "begin": 16610,
+          "end": 16622,
+          "code": "E46",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified protein-calorie malnutrition",
+          "type": "Human",
+          "covered_text": "Malnutrition"
+        }
+      ],
+      "text": "Admission Date:  [**2197-3-20**]              Discharge Date:   [**2197-5-18**]\n\nDate of Birth:  [**2123-11-27**]             Sex:   M\n\nService: NEUROSURGERY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 78**]\nChief Complaint:\nRight cerebellar hemorrhage\n\nMajor Surgical or Invasive Procedure:\n[**2197-3-21**] Suboccipital crani for evacuation of the Right\ncerebellar hemorrhage\n[**2197-3-21**] Right frontal EVD placement\n\n\nHistory of Present Illness:\nThis is a 73 year old man with hypertension and vascular disease\ntransferred from [**Hospital3 417**] Hospital with reported\ncerebellar hemorrhage. He reportedly was brought to the OSH\nafter developing nausea, vomiting, and diaphoresis at his\napartment complex. He arrived complaining of a [**10-25**] headache;\nthe nursing notes says he was awake and speaking and denied\nCP/SOB on arrival. He was markedly hypertensive on arrival -- BP\nwas recorded initially as 232/132\n(VS otherwise unremarkable). CBC and coags were normal (INR 0.9\nand no known h/o A/C); BMP was pending. ECG remarkable for\nobvious LVH (voltage criteria) and ?RBBB (RSR' in III), with\nNSR. He was given Zofran and labetalol, and when his systolics\nremained elevated in the 200s, he was started on a nitroprusside\ndrip. He was taken for NCHCT, which showed a 3cm Right\ncerebellar hemorrhage. At some point during this initial\nevaluation, he became acutely non-responsive, so he was\nintubated (induced with etomodate and succinylcholine, also\nfentanyl) and Med-Flighted here to [**Hospital1 18**]. He was continued on\nthe Nipride gtt en route, and paralyzed for transport using\nrocuronium and propofol gtt.\n\nHe arrived here around 21:30 with BP 267/131, down to 168/96\nwith increased nitroprusside gtt rate. He was flaccid\n(paralyzed). The ED resident informed me that someone had\ncommented on \"asymmetric pupils\" at some point, but the\n[**Location (un) **] personell said that his pupils were 2mm and equal the\nentire trip (they were this size of smaller, non-reactive, on my\narrival to the ED a few minutes after his arrival).\n\n\nPast Medical History:\n1. Hypertension\n2. Renal artery stenosis\n3. AAA endovascular repair c/b R ext iliac pseudoaneurysm, also\ns/p repair [**2195**]\n4. Peripheral vascular disease\n5. Nephrolithiasis\n6. Hyperlipidemia\n7. COPD\n\n\nSocial History:\nLives alone, ex wife lives in U.S. but the rest of extended\nfamily resides in [**Country 1684**]. He is primarily arabic speaking, but\nunderstands some English. no tobacco.\n\nFamily History:\nnon-contributory\n\nPhysical Exam:\nOn admission:\nMental Status: Sedated / non-responsive. Does not blink or\ntrack.\nLater, as paralytic lifted, he grimaced inconsistently to\nnoxious\nstimulation and spontaneously moved his Right shoulder and both\nlegs.\n\n-Cranial Nerves: Pupils are equally small (1.5-2mm), round, and\nnon-reactive to light (?\"pontine\" pupils). No good view for\nfundoscopy (small pupils). No doll's eye response initially.\nEyes\nmid-position with no movement. Initially, no corneal response or\nresponse to nasal tickle. Later, bilateral weak eyelash-blink\nresponses and legs moved to bilateral nasal tickle. Face was\nsymmetrically lax; when he later furrowed his brow to noxious\nstimulation, it elevated symmetrically. Initially, no gag or\ncough; later strong cough (tracheal suction) and weak gag\n(gentle\nETT-wiggle). Initially, not over-breathing the vent and not\ninitiating full breaths on CPAP.\n\n-Motor: Initially, flaccid x all extremities and axially. Later,\nspontaneous minimal movements of RUE and bilatearl LEs.\n\nAt discharge:\nawake, alert  to self, hospital, month. following all commands.\nMAE with full strengths. incision well healed.\n\nPertinent Results:\nHead CT [**2197-3-20**]:\nFINDINGS: Centered within the right cerebellum, there is a 5.4 x\n3 cm\nhyperdense hemorrhage with surrounding edema (previously 2.8 x 3\ncm); this\nhemorrhage crosses the cerebellar vermis into the left\ncerebellar hemisphere. Hyperdense blood is seen within the\nfourth ventricle extending up into the third ventricle. The\nlateral ventricles and third ventricle are dilated measuring up\nto 4.4 cm. Hyperdense blood is seen layering within the\noccipital horns bilaterally. There is no significant shift of\nnormally midline structures. The basal cisterns inferiorly are\nobliterated. The posterior fossa is expanded with mass effect on\nthe brainstem. The cerebellar tonsils are at the level of the\nforamen magnum. No acute fracture is seen. The visualized\nportions of the paranasal sinuses and mastoid air cells are well\naerated. Retained secretions are noted in the nasopharynx.\n\nIMPRESSION: Large parenchymal hemorrhage centered in the right\ncerebellar\nhemisphere with intraventricular extension, mass effect, and\nhydrocephalus as above, increased since 2 hours prior.\n\n[**3-21**] Head CT\n1. Interval occipital craniectomy with increased but residual\nhyperdense\nblood in the cerebellum and ventricles; evaluation of mass\neffect is\nsuboptimal on this study due to portable technique.\n2. Interval placement of a right frontal approach ventricular\ncatheter with\npersistent hydrocephalus.\n\n[**3-24**] CT head\nIMPRESSION:\n1. Interval significant decrease of the hydrocephalus with\nnormal size of the lateral ventricles and with the EVD in place.\n\n2. Increase of subarachnoid hemorrhage in the both temporal and\noccipital\nlobes, likely due to redistribution of the intraventricular\nhemorrhage.\n3. Compared to the most recent prior study from [**2197-3-21**],\nunchanged\namount of hemorrhage in the fourth ventricle and the cerebellar\nhemispheres.\n\nCT head [**2197-3-25**]\nOverall stable examination without significant hydrocephalus in\nthe setting of external ventricular drain. Parenchymal\nhemorrhage centered in the right cerebellum with extension into\nthe fourth ventricle and\nbiparietal/bitemporal subarachnoid hemorrhage, similar to 20\nhours prior.\n\nCT head [**2197-3-26**]\n1. Interval removal of the right transfrontal ventriculostomy\ncatheter with hyperdensity along catheter tract, representing\nminor parenchymal hemorrhage with trace intraventricular\nextension.\n2. Otherwise, the appearance is largely unchanged with\nbiparietal and\nbitemporal subarachnoid blood, likely redistributional, related\nto the right cerebellar hemispheric hemorrhage with fourth\nventricular extension, status post occipital craniectomy.\n\nCT head [**2197-3-27**]\nUnchanged right cerebellar hemorrhage with intraventricular\nextension into the fourth ventricle. Unchanged biparietal and\nbitemporal\nsubarachnoid blood. Unchanged minor parenchymal hemorrhage along\nthe prior\nventriculostomy catheter tract. Unchanged ventricle size. No\nevidence of\nvascular territorial infarction\n\nLENIS [**2197-3-28**]  IMPRESSION: No evidence of deep venous thrombosis\nin the lower extremities.\n\nCHest Xray [**3-31**]: PA and lateral radiograph demonstrates\nunremarkable mediastinal, hilar and cardiac contours. Lungs are\nclear. Previously noted pulmonary edema has resolved. Small\nbilateral pleural effusions noted. Left subclavian line tip is\nterminating in the mid-to-distal superior vena cava. No\npneumothorax.\n\nLower Extremity Doppler Ultrasound [**2197-4-4**]:\nNo evidence of deep vein thrombosis in either right or left\nlower extremity.\n\nLENIS [**4-12**]:\nNo evidence of deep vein thrombosis in either leg.\n\nNCHCT: [**4-13**]: IMPRESSION:\n1. Increased prominence of the extra-axial CSF spaces,\nparticularly evident in the right posterior fossa and right\nfrontal region. This may be related to volume loss from surgery,\nbut the patient should be followed for intracranial hypotension\nwith clinical correlation. Indentation on the right cerebellar\nhemisphere from the right posterior fossa extra-axial fluid\ncollection.\n2. Expected evolution of intracranial hemorrhage with decreased\ndensity of\nright cerebellar hemispheric hemorrhage, and near complete\nresolution of\nsubarachnoid and ventriculostomy catheter tract hemorrhage.\n\n\nBrief Hospital Course:\nPt was taken to the OR emergently for suboccipital craniectomy\nand evacuation of ICH. Prior to this procedure a R frontal EVD\nwas placed without difficulty. He did recieve 2 units of\nplatelets for his use of Plavix.  Post operatively he remained\nintubated and was taken to the ICU for further care including\nSBP control and q1 neurochecks. His EVD was kept at 15cm above\nthe tragus. On post op exam he was not following commands but\nmoved everything to noxious. His pupils were equal and reactive.\nA head CT on the morning of [**3-21**] showed good evacuation of ICH\nand decreased hydrocephalus.\n\nOn [**3-22**] he was extubated without difficulty. He was noted to be\nawake and alert to self, following commands and moving all\nextremities with full strength.\n\nOn [**3-24**], The patient experienced respiratory issues overnight\ninto am. Bipap ventilation was started at 930 am.  Teh patient\nwas given lasix. A CXR was consistent with worseing\nconsolidation and empiric antibiotic therapy was initiated for\nfor Ventilatory Aquired Pneumonia.  The WBC level was 17.2 from\n14.8 on [**3-23**].  The External Ventricular Drain exhibited poor\noutput of 4cc from 7-9am.  The EVD was distally/proximally\nflushed and the extrenal ventricular drain decreased to 10 and\nleft open. ICPs were correlating with patient's activity and\nwere [**4-30**].  A NCHCT was performed which was consistent with good\nplacement EVD and no hydrocephalas. Emergent reintubation at\n1230pm for poor ventilatory status. A triple lumen placed. and a\n Bronchcoscopy was performed at the bedside and a BAL was sent.\n\n\nOn [**3-25**], The patient's exam improved and he was able to follow\nsome simple commands.  The External Ventricular Drain was\ndiscontinued as there was no drainage of CSF from the EVD and\nthe patient's 4th ventircle was noted to be patent on head CT.\nThere staples were placed for closure.\n\nOn [**3-26**], The patient neurological exam was improved and he was\nable to follow commands in all four extremities with full\nstrength. Eyes were open sponanteously, pupils were equal and\nreactive.  The patient was electively extubated after diuresis\nwith lasix.  He tolerated extubation well.  The steroids were\ndiscontinued as the patient has pneumonia and Cdiff\nconcurrently.\n\nHe was agitated on [**3-27**] and seroquel was increased. In the\nevening he did well on Q2 hr neuro checks. He was less agitated.\nStaining was noted on his pillowcase and there was a concern for\nCSF leak. A clean dressing was applied and scant staining only\nwas noted. He had no sign of hydrocephalus on [**3-28**]. He was more\noritented and appropriate. Orders to the SDU were done. PT and\nSW were consulted.\n\nOn [**3-28**], patient was transferred to the Step Down Unit. His EVD\nstaples were removed. His catheter was removed, but unfortnately\npatient was unable to void on his own requiring him to undergo a\nstraight catheterization.\n\nOn [**3-29**] his dressing remained clean and dry without evidence of\nleak and the patient continued to improved neurologically. He\nworked with PT and was found to be orthostatic. On [**3-30**] he\ncontinued to improve and worked with PT and began being screened\nfor rehab.\n\nAttempts were made to contact the family in [**Name (NI) 1684**] but three\nnumbners were disconnected. He had some hypotension on [**4-1**] that\nresponded to fluid bolus. He was stable on [**4-2**].\n\nOn [**4-3**] his abdomen was found to be distended and post void\nbladder scan revealed 1000cc remaining in the bladder so a foley\nwas replaced and the patient was started on Flomasx.  His\ncreatinine bumped on [**4-4**] to 2.1 (baseline elevated > 1.3)\nlikely due to mild dehydration as his oral intake was poor.  He\nwas given a fluid bolus and placed on low IV maintenence fluids.\n His labs were trended. On [**4-6**] his creatinine decreased to 1.8,\nand we again attempted to remove his foley.\n\nHis sutures were removed on [**4-4**].....He had screening LENIs on\n[**4-4**] that were again negative for DVT. He remained stable [**4-4**]-\n[**4-11**]. Disposition planning continues.\n\nA stool sample was sent on [**4-11**] which was negative for Cdiff. On\n[**4-12**] he remained stable and his creatinine was done to 1.7 from\n2.0\n\n[**4-13**] He was seen by OT and c/o dizziness - he vomited x 1 with ?\nof some small blood tinged mucus. This was discarded and not\nseen by staff.  He did vomit again while OOB to chair without\nany blood.  Labs and CT were ordered after reviewing OMR.\nHis CT was stable with no changes. quetiapine dosing was\ndecreased by half.\n\nOn [**5-8**] he continued to have nausea and poor PO intact.\nNutrition was consulted and stool was sent for c-diff. nystatin\nand second alpha blocker were discontinued.\nOn [**4-16**] the patient was orthostatic when he got up with PT. He\nwas given an IVF bolus and standing IVF due to his continued\npoor PO intake. He was started on calorie counts.\nOn [**4-17**] he was neurologically stable. He continued to have\nabdominal discomfort despite c-diff negative x3. Stool O+P were\nsent, although discomfort is likely just due to history of +\ncdiff. Laboratory values were stable.\n\nThroughout his hospital course, he coninued to have episodes of\nnausea with occasional vomiting.  This responded well to Zofran\nand fluid resuscitation.  On [**4-19**], he remained stable.\n\nHis PO intake remained poor and the psychiatry team was\nconsulted as it was felt his poor po intake could be a result of\ndepression. The psychiatry team recommended starting remeron to\nhelp with sleep/wake cycle.\nOn [**4-25**] a foley catheter d/c trial was once again initiated but\nthe pt failed to void so it was replaced. The urology team was\nconsulted since this was the 4th time he failed. They\nrecommended keeping the foley in place for an additional 6 days\nthen following up in the urology clinic.\n The patient continued to remain stable awaiting his family's\narrival from [**Country 1684**].\nOn [**4-28**] the patient's ex-wife arrived and worked with PT/OT.\nTeaching was initiated on how to care for the patient upon\nleaving the hospital.  He remained stable on [**5-5**].  He continued\nto await disposition to an extended care facility.  He had\nanother repeat LENIs on [**5-13**] which showed no evidence of DVT.  A\nCT head was obtained on [**5-14**] which showed expected evolution of\nintracranial hemorrhages.  No acute infarct or hemorrhage.  No\nevidence of hydrocephalus.\n\nOn [**5-16**] the patient failed another voiding trial and the foley\ncatheter was replaced.  On [**5-17**] Urology was re-consulted for\npersistent failure to void. They continued to recommend a\nurodynamic study as an outpatient. They also recommended\nintermittent catheterization, which is preferred over indwelling\nfoley catheter but this was not possible due to patient's lack\nof participation.\n\nOn [**5-18**] the patient and his ex-wife worked with PT and OT with\nthe help of an interpreter and he was cleared for discharge. He\nis afebrile, VSS, and neurologically stable.  Patient's pain is\nwell-controlled and the patient is tolerating a good oral diet.\nPt's incision is clean, dry and inctact without evidence of\ninfection.  Patient is ambulating safely over short distances\nand has been given a wheelchair for longer distances.\n\n\nMedications on Admission:\n1. Plavix\n2. simvastatin\n3. amlodipine\n4. labetatlol\n5. lisinopril\n6. Cardura (doxazosin)\n7. Percocet\n8. Ambien\n9. Atrovent\n10. Advair\n11. Miralax\n12. colace\n13. vitamin C\n\n\nDischarge Medications:\n1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n2. doxazosin 1 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).\n\n3. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n4. labetalol 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times a\nday).\n5. mirtazapine 15 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime).\nDisp:*15 Tablet(s)* Refills:*2*\n6. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n7. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n8. ferrous sulfate 300  mg (60 mg iron) Tablet Sig: One (1)\nTablet PO DAILY (Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n9. megestrol 400 mg/10 mL (40 mg/mL) Suspension Sig: One (1)  PO\nDAILY (Daily).\nDisp:*1 bottle* Refills:*2*\n10. Advair Diskus 250-50 mcg/dose Disk with Device Sig: One (1)\ninhalation Inhalation once a day.\n11. Atrovent HFA 17 mcg/actuation HFA Aerosol Inhaler Sig: One\n(1) Inhalation Inhalation q6hr as needed for shortness of breath\nor wheezing.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nRight cerebellar hemorrhage\nIntraventricular hemorrhage\nHydrocephalus\nCerebral edema\nConfusion\nC-Diff\nVAP\nRespiratory failure requiring intubation\nHypotension\nUrinary retention\nNausea\nVomiting\nOrthostasis\nMalnutrition\n\nDischarge Condition:\nMental Status: Confused - sometimes.\nLevel of Consciousness: Lethargic but arousable.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\nDischarge Instructions:\nGeneral Instructions\n??????\tYou may shower\n??????\tIncrease your intake of fluids and fiber, as narcotic pain\nmedicine can cause constipation. We generally recommend taking\nan over the counter stool softener, such as Docusate (Colace)\nwhile taking narcotic pain medication.\n??????\tClearance to drive and return to work will be addressed at\nyour post-operative office visit.\n??????\tMake sure to continue to use your incentive spirometer while\nat home, unless you have been instructed not to.\n\n\nFollowup Instructions:\nPlease follow-up with Dr [**First Name (STitle) **] in 4 weeks with a Head CT w/o\ncontrast. Please call [**Telephone/Fax (1) 4296**] to make this appointment.\n\n\n\nCompleted by:[**2197-5-18**]"
+    }
+  ]
+}

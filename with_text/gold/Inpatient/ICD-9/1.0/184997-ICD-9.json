@@ -1,0 +1,131 @@
+{
+  "hadm_id": 184997,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 39530,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 355,
+          "end": 361,
+          "code": "205.00",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myeloid leukemia without mention of remission",
+          "type": "Human",
+          "covered_text": "of AML"
+        },
+        {
+          "begin": 391,
+          "end": 405,
+          "code": "V10.51",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of malignant neoplasm of bladder",
+          "type": "Human",
+          "covered_text": "bladder cancer"
+        },
+        {
+          "begin": 435,
+          "end": 441,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial"
+        },
+        {
+          "begin": 485,
+          "end": 498,
+          "code": "730.16",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic osteomyelitis involving lower leg",
+          "type": "Human",
+          "covered_text": "osteomyelitis"
+        },
+        {
+          "begin": 1806,
+          "end": 1812,
+          "code": "038.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified septicemia",
+          "type": "Human",
+          "covered_text": "sepsis"
+        },
+        {
+          "begin": 3277,
+          "end": 3296,
+          "code": "530.85",
+          "code_system": "ICD-9-CM",
+          "description": "Barrett&apos;s esophagus",
+          "type": "MapType.APPROX",
+          "covered_text": "Barrett's esophagus"
+        },
+        {
+          "begin": 3299,
+          "end": 3312,
+          "code": "724.2",
+          "code_system": "ICD-9-CM",
+          "description": "Lumbago",
+          "type": "MapType.EXACT",
+          "covered_text": "Low back pain"
+        },
+        {
+          "begin": 6315,
+          "end": 6346,
+          "code": "682.6",
+          "code_system": "ICD-9-CM",
+          "description": "Cellulitis and abscess of leg, except foot",
+          "type": "MapType.MULTI",
+          "covered_text": "LEFT LOWER EXTREMITY CELLULITIS"
+        },
+        {
+          "begin": 6374,
+          "end": 6423,
+          "code": "707.19",
+          "code_system": "ICD-9-CM",
+          "description": "Ulcer of other part of lower limb",
+          "type": "Human",
+          "covered_text": "non-healing chronic ulcer in left lower extremity"
+        },
+        {
+          "begin": 8014,
+          "end": 8021,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "MapType.EXACT",
+          "covered_text": "HYPOXIA"
+        },
+        {
+          "begin": 8204,
+          "end": 8223,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "ACUTE RENAL FAILURE"
+        },
+        {
+          "begin": 12467,
+          "end": 12479,
+          "code": "785.52",
+          "code_system": "ICD-9-CM",
+          "description": "Septic shock",
+          "type": "Human",
+          "covered_text": "Septic shock"
+        },
+        {
+          "begin": 12570,
+          "end": 12576,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        }
+      ],
+      "text": "Admission Date:  [**2171-7-10**]              Discharge Date:   [**2171-7-18**]\n\n\nService: MEDICINE\n\nAllergies:\nCiprofloxacin\n\nAttending:[**First Name3 (LF) 86897**]\nChief Complaint:\nlower extremity erythema, hypotension, fevers\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\nDr. [**Known lastname **] is an 88yoM with a history of AML (s/p 10 cycles\nazacitadine), bladder cancer s/p transurethral resection, atrial\nfibrillation, chronic left lower extremity osteomyelitis from a\nshrapnel injury in WWII, and possible venous thromboembolism who\nwas referred to the ED by his rehab center for increasing\nerythema of the left lower extremity.\n.\nHe has a very longstanding history of left lower extremity osteo\nwith a chronic wound draining purulent discharge ever since he\nsustained a shrapnel injury in [**Country 6171**] in a WWII explosion.  He\ndenies any significant change in this condition recently, but\nhis wife notes increasing swelling and erythema of the extremity\nover the past few days.  He had been rehabbing from an early-[**Month (only) 116**]\nhospitalization for multifocal pneumonia for which he received a\ncourse of CTX/Azithro, and was referred to the ED this morning\nwhen he became febrile to 104.\n.\nIn the ED, initial vs were: 99.2 83 115/59 18 92% RA.  He was\nnoted to be hypotensive to the 80s-90s, and received 2 L of NS\nwith stabilization of pressures to the low 90s.  LLE tib-fib\nfilms showed chronic osteomyelitis without subcutaneous gas, and\na CXR showed stable bilateral effusions from earlier this month.\n He received 2g cefepime and 1g vancomycin.  He had an elevated\nlactate to 3.5 that corrected with fluids to 2.0. Blood cultures\ndrawn prior to antibiotics.  Given his hypotension, he was\nadmitted to the [**Hospital Unit Name 153**] for possible sepsis.\n.\nUpon transfer to the ICU, his initial vitals were T98.1  BP94/54\n P58  RR17  Sat94/4LNC.  He is comfortable and in no acute\ndistress.  He denies any increased pain or fevers recently.  He\nhas intermittent shortness of breath, and notes that he\nsometimes is on oxygen at the nursing home.  He has been a\nresident there for about 2 weeks, and is rehabbing from a recent\npneumonia. He has no coughing or sputum production, however.  Of\nnote, he is in the midst of a azacitidine cycle for his AML,\nwhich was diagnosed in [**2170**].  He saw his oncologist yesterday,\nwho's note details a pressure of 94/64.\n.\nOn review of systems, he denies confusion, weakness, fevers,\nchills, sore throat, coughing, chest pain, abdominal pain,\nnausea, vomiting, diarrhea, bloody stools, black stools,\ndysuria, hematuria, myalgias, arthralgias.\n\nPast Medical History:\n-Bladder Ca dxed [**2170-8-9**] s/p transurethral surgery (care by\nDr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 63724**] with [**Hospital1 **] in [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 669**]).\n-AML diagnosed (care by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2405**] at [**Location (un) **]) [**8-/2170**],\n[**9-/2170**] started azacytidine, now s/p 10 cycles, most recent dose\n[**2171-6-3**].\n-atrial fibrillation, rate controlled on fundaparinux\n-HTN\n-Chronic left lower ext ulcer with osteomyelitis and cellulitis\ns/p shrapnel injury in WWII\n- Barrett's esophagus\n- Low back pain\n- Venous thromboembolism?\n\nSocial History:\nLives with wife. Professor emeritus in neuroscience at [**University/College **]\nMed and [**Hospital 1191**] hospital. Denies smoking. Seven drinks per week.\nNo ilicits.\n\nFamily History:\nDenies history of malignancy.\nNon-contributory\n\nPhysical Exam:\nVitals: T98.1  BP94/54  P58  RR17  Sat94/4LNC\nGeneral: alert and oriented x3, NAD\nHEENT: Sclera anicteric, very dry MM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: crackles at the bases, R>L, otherwise clear to\nauscultation bilaterally\nCV: Regular rate and rhythm, normal S1 + S2, 3/6 SEM at the\nsecond RICS without radiation, second SEM at the apex with\nradiation to the axilla.\nAbdomen:  soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: The left lower extremity has a 3cmx1cm open wound with\npurulent necrotic discharge at the level of the tibial\ntuberosity. The entire distal extremity is warm, erythematous\nwith 2+ pitting edema that is tender to touch. No other portals\nof entry noted.  Pulses 2+.  Unaffected extremity is warm and\nwell purfused.\nNEURO: CNII-XII intact bilaterally, strength 5/5 throughout, no\nsensory limitations to soft touch.\nLabs: see below\n\nPertinent Results:\nLabs upon admission:\n[**2171-7-10**] 11:40AM BLOOD WBC-3.2* RBC-2.97* Hgb-10.0* Hct-29.5*\nMCV-100*# MCH-33.6* MCHC-33.8 RDW-26.3* Plt Ct-174#\n[**2171-7-10**] 11:40AM BLOOD Neuts-46* Bands-2 Lymphs-27 Monos-12*\nEos-2 Baso-0 Atyps-2* Metas-6* Myelos-3*\n[**2171-7-10**] 11:40AM BLOOD Hypochr-OCCASIONAL Anisocy-OCCASIONAL\nPoiklo-NORMAL Macrocy-OCCASIONAL Microcy-NORMAL Polychr-NORMAL\n[**2171-7-10**] 11:40AM BLOOD Glucose-127* UreaN-31* Creat-1.4* Na-142\nK-4.5 Cl-106 HCO3-25 AnGap-16\n[**2171-7-10**] 11:49AM BLOOD Lactate-3.5*\n[**2171-7-10**] 02:30PM BLOOD Lactate-2.0\n[**2171-7-10**] 11:40AM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.010\n[**2171-7-10**] 11:40AM URINE Blood-NEG Nitrite-NEG Protein-NEG\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG\n\nLabs upon discharge:\n***********\n\nMicrobiology\n[**2171-7-10**]: 1/2 bottles of blood culture: Staph coag negative,\nsensitivities pending\n[**2171-7-11**]: blood culture: no growth to date (preliminary)\n[**2171-7-12**]: Feces negative for C.difficile toxin A & B by EIA.\n\nImaging:\nTib/fib X-ray [**2171-7-10**]: FINDINGS: In comparison with the study of\n[**9-13**], there is little overall change. Areas of sclerosis and\nlucency with periosteal reaction is consistent with chronic\nosteomyelitis. Deformity of the adjacent fibula is seen with\nsubstantial resorption at its proximal aspect. No definite\nevidence of gas within soft tissues.\n\nCXR [**2171-7-10**]: IMPRESSION: Little change except possibly for some\nsmall increase in left effusion.\n\n\nBrief Hospital Course:\nDr. [**Known lastname **] is an 88yoM with AML, h/o bladder cancer, chronic LLE\nosteomyelitis, HTN, Afib who presented with lower extremity\ncellulitis and septic hypotension.\n\n# LEFT LOWER EXTREMITY CELLULITIS:  Likely port of entry was\nnon-healing chronic ulcer in left lower extremity.  He was\ntreated with intravenous vancomycin and cefepime starting [**2171-7-10**]\nand will continue until follow up appointment with infectious\ndisease on [**2171-8-1**].  At that point it will be determined if IV\nantibiotics can be stopped and whether oral suppressive\nantibiotics need to be started.  His erythema and edema improved\nover the course of his stay.  PICC line was placed [**2171-7-17**] and\ncan be removed once IV antibiotics are finished.  Once IV\nantibiotics are finished, he will start on oral suppressive\nantibiotics for chronic osteomyelitis.  Note 1/2 blood cultures\ngrew Staph coag negative (sensitive to oxacillin and\ntetracycline), presumed to be a contaminant rather than actual\nbacteremia.  Echocardiogram was deferred due to lack of\nsuspicion for endocarditis and MRI leg was not pursued due to\nclinical improvement on antibiotics and patient resistance to\nsurgical debridement.  His chronic non-healing ulcer/chronic\nosteomyelitis of his left lower extremity is stable in size and\nwithout exudate.  Note weekly labs should be checked including\nCBC with diff, chem 7, vanco trough and LFTs and faxed to\ninfectious disease.  Additionally, vanco trough will need to be\nchecked on [**2171-7-20**], goal trough is 15-20.\n\n# HYPOTENSION:  Initial systolic blood pressure 80-90's prompted\nICU admission, he received intravenous fluids and improved.  His\nfurosemide was restarted on [**2171-7-10**], however his\nantihypertensives were held.  Note recent blood pressures prior\nto admission have been low, so there is a question of whether\nSBP 90-100 is his baseline.\n\n# HYPOXIA:  Resolved spontaneously, suspected atelectasis and\nmild pulmonary edema.  No pneumonia was seen on CXR.  Lasix was\nresumed [**2171-7-13**] once blood pressure was deemed stable.\n\n# ACUTE RENAL FAILURE:  Pre-renal secondary to infection and\nhypotension, resolved with intravenous fluids.\n\n# AML:  Azacytidine was held during admission, but may be\nresumed as an outpatient by Dr. [**First Name (STitle) 2405**].  His hematocrit was 24\nfor several days of admission.  We gave 1 unit PRBC on [**2171-7-17**]\nand another 1 unit PRBC on [**2171-7-18**].  He was mildly neutropenic on\nthe day of discharge (ANC 961), but he was afebrile.   His CBC\nand ANC should be monitored daily for 3 days upon discharge.\n\nHis other medical problems were managed with his home\nmedications without complications.  He was FULL CODE for this\nadmission.\n\nMedications on Admission:\nfrom recent d/c summary and rehab list\n1. atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n2. fondaparinux 2.5 mg/0.5 mL Syringe Sig: 2.5 mg Subcutaneous\nDAILY (Daily).\n3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n4. oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for pain.\n5. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\n\ntimes a day).\n7. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n8. polyethylene glycol 3350 17 gram/dose Powder Sig: Seventeen\n(17) g PO DAILY (Daily).\n9. megestrol 400 mg/10 mL (40 mg/mL) Suspension Sig: Four\nHundred (400) mg PO BID (2 times a day).\n10. morphine 15 mg Tablet Extended Release Sig: One (1) Tablet\nExtended Release PO Q12H (every 12 hours).\n11. lactulose 10 gram/15 mL Syrup Sig: Fifteen (15) ML PO TID (3\n\ntimes a day) as needed for constipation.\n12. Ocuvite  Oral\n13. Multivitamin\n\nDischarge Medications:\n1. atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.\n2. fondaparinux 2.5 mg/0.5 mL Syringe Sig: 2.5 mg Subcutaneous\nDAILY (Daily).\n3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n4. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n6. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for Constipation.\n7. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)  PO\nDAILY (Daily) as needed for constipation.\n8. megestrol 400 mg/10 mL (40 mg/mL) Suspension Sig: One (1)  PO\nBID (2 times a day).\n9. morphine 15 mg Tablet Extended Release Sig: One (1) Tablet\nExtended Release PO twice a day.\n10. lactulose 10 gram/15 mL Solution Sig: Fifteen (15) mL PO\nthree times a day as needed for constipation.\n11. Ocuvite     Tablet Sig: One (1) Tablet PO once a day.\n12. multivitamin     Tablet Sig: One (1) Tablet PO once a day.\n13. Outpatient Lab Work\nPlease check vancomycin trough on Saturday [**2171-7-20**] Please fax\nresults to [**First Name8 (NamePattern2) 47034**] [**Last Name (NamePattern1) **] Infectious Disease at [**Telephone/Fax (1) 1419**].\n\nPlease check labs weekly CBC with differential, chem 7, LFTS and\nvancomycin trough, while on intravenous antibiotics.  Please fax\nresults to [**First Name8 (NamePattern2) 47034**] [**Last Name (NamePattern1) **] Infectious disease at FAX [**Telephone/Fax (1) 1419**]\n\n14. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1)\nIntravenous Q 24H (Every 24 Hours): please continue until\nappointment with ID on [**2171-8-1**].\n15. cefepime 2 gram Recon Soln Sig: One (1)  Intravenous q24H:\nplease continue until appointment with ID on [**2171-8-1**].\n16. oxycodone 10 mg Tablet Extended Release 12 hr Sig: One (1)\nTablet Extended Release 12 hr PO Q12H (every 12 hours).\n17. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every 4-6 hours\nas needed for pain.\n18. camphor-menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical\nQID (4 times a day) as needed for pruritis.\n19. Outpatient Lab Work\nPlease check daily CBC with differential for 3 days to monitor\nhis hematocrit, white blood cell count, and absolute neutrophil\ncount.  Please fax results to [**Last Name (un) **] [**Doctor Last Name 2405**] [**Telephone/Fax (1) 6808**].\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital **] LivingCenter - [**Hospital1 8218**] - [**Location (un) **]\n\nDischarge Diagnosis:\nLeft lower extremity cellulitis\nSeptic shock\nAcute renal failure\nChronic left lower extremity osteomyelitis\nAcute myelogenous leukemia\nAnemia\nAtrial fibrillation\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Out of Bed with assistance to chair or\nwheelchair.\n\n\nDischarge Instructions:\nYou came to the hospital because of swelling and redness in your\nleft lower leg which was diagnosed as cellulitis (infection of\nthe soft tissues).  You had low blood pressure which responded\nto intravenous fluids.  You were placed on intravenous\nantibiotics and improved.  You will continue to take intravenous\nantibiotics until your follow up infectious disease appointment\non [**2171-8-1**] at which time it will be determined whether you will\nneed more antibiotics.  Please elevate your leg daily to\ndecrease the swelling.\n\nWe made the following changes to your medications:\n- START vancomycin 1 gram every 24 hours until ID appointment on\n[**2171-8-1**]\n- START cefepime 2grams every 24 hours until ID appointment on\n[**2171-8-1**]\n- START oxycontin 10mg twice daily for pain\n- START sarna lotion as needed for itching\n\nIt was a pleasure caring for you.  We wish you a speedy\nrecovery.\n\nFollowup Instructions:\nDr. [**Last Name (STitle) **] [**First Name8 (NamePattern2) 2405**]\n[**7-29**] at 2:00pm\nLocation: [**Hospital1 641**]\nAddress: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 718**]\nPhone: [**Telephone/Fax (1) 3468**]\nFax: [**Telephone/Fax (1) 6808**]\n\nDepartment: INFECTIOUS DISEASE\nWhen: THURSDAY [**2171-8-1**] at 2:50 PM\nWith: [**Doctor First Name 1412**] [**Name Initial (MD) **] [**Name8 (MD) 1413**], M.D. [**Telephone/Fax (1) 457**]\nBuilding: LM [**Hospital Unit Name **] [**Hospital 1422**]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 86898**]\n\nCompleted by:[**2171-7-18**]"
+    }
+  ]
+}

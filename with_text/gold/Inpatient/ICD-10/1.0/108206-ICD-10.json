@@ -1,0 +1,274 @@
+{
+  "hadm_id": 108206,
+  "comment": "No OP Report for IABP and Cardiac catheterization",
+  "notes": [
+    {
+      "note_id": 34858,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 286,
+          "end": 321,
+          "code": "5A02210",
+          "code_system": "ICD-10-PCS",
+          "description": "Assistance with Cardiac Output using Balloon Pump, Continuous",
+          "type": "Human",
+          "covered_text": "Intra-aortic balloon pump placement"
+        },
+        {
+          "begin": 325,
+          "end": 406,
+          "code": "02713EZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Dilation of Coronary Artery, Two Arteries with Two Intraluminal Devices, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "Cardiac catheterization with left main coronary artery bare\nmetal stent placement"
+        },
+        {
+          "begin": 497,
+          "end": 509,
+          "code": "I13.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 511,
+          "end": 520,
+          "code": "K70.30",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic cirrhosis of liver without ascites",
+          "type": "Human",
+          "covered_text": "cirrhosis"
+        },
+        {
+          "begin": 1804,
+          "end": 1815,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 2000,
+          "end": 2027,
+          "code": "4A023N8",
+          "code_system": "ICD-10-PCS",
+          "description": "Measurement of Cardiac Sampling and Pressure, Bilateral, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "right heart catheterization"
+        },
+        {
+          "begin": 2411,
+          "end": 2440,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "diffuse 90% proximal stenosis"
+        },
+        {
+          "begin": 2446,
+          "end": 2470,
+          "code": "I25.82",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic total occlusion of coronary artery",
+          "type": "Human",
+          "covered_text": "RCA was totally occluded"
+        },
+        {
+          "begin": 2611,
+          "end": 2629,
+          "code": "R57.0",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiogenic shock",
+          "type": "Human",
+          "covered_text": "cardiogenic shock."
+        },
+        {
+          "begin": 2890,
+          "end": 2950,
+          "code": "02713EZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Dilation of Coronary Artery, Two Arteries with Two Intraluminal Devices, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "stent\nplaced across LAD to distal left main coronary artery."
+        },
+        {
+          "begin": 3530,
+          "end": 3536,
+          "code": "I25.2",
+          "code_system": "ICD-10-CM",
+          "description": "Old myocardial infarction",
+          "type": "Human",
+          "covered_text": "NSTEMI"
+        },
+        {
+          "begin": 3550,
+          "end": 3553,
+          "code": "Z86.73",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "CVA"
+        },
+        {
+          "begin": 3554,
+          "end": 3558,
+          "code": "M10.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gout, unspecified",
+          "type": "Human",
+          "covered_text": "Gout"
+        },
+        {
+          "begin": 3559,
+          "end": 3580,
+          "code": "K70.30",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic cirrhosis of liver without ascites",
+          "type": "Human",
+          "covered_text": "Cirrhosis - alcoholic"
+        },
+        {
+          "begin": 3655,
+          "end": 3663,
+          "code": "F03.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified dementia without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "Dementia"
+        },
+        {
+          "begin": 3668,
+          "end": 3671,
+          "code": "G47.33",
+          "code_system": "ICD-10-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "Human",
+          "covered_text": "OSA"
+        },
+        {
+          "begin": 3672,
+          "end": 3692,
+          "code": "H35.30",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified macular degeneration",
+          "type": "Human",
+          "covered_text": "macular degeneration"
+        },
+        {
+          "begin": 3717,
+          "end": 3729,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 10655,
+          "end": 10659,
+          "code": "I49.3",
+          "code_system": "ICD-10-CM",
+          "description": "Ventricular premature depolarization",
+          "type": "Human",
+          "covered_text": "PVCs"
+        },
+        {
+          "begin": 11176,
+          "end": 11197,
+          "code": "N18.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CHRONIC RENAL FAILURE"
+        },
+        {
+          "begin": 13515,
+          "end": 13542,
+          "code": "L89.301",
+          "code_system": "ICD-10-CM",
+          "description": "Pressure ulcer of unspecified buttock, stage 1",
+          "type": "Human",
+          "covered_text": "sacral stage 1 buttock sore"
+        },
+        {
+          "begin": 14702,
+          "end": 14740,
+          "code": "I21.4",
+          "code_system": "ICD-10-CM",
+          "description": "Non-ST elevation (NSTEMI) myocardial infarction",
+          "type": "Human",
+          "covered_text": "Non ST elevation Myocardial Infarction"
+        },
+        {
+          "begin": 14741,
+          "end": 14780,
+          "code": "I50.21",
+          "code_system": "ICD-10-CM",
+          "description": "Acute systolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "Acute Systolic Congestive Heart Failure"
+        },
+        {
+          "begin": 14781,
+          "end": 14804,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "Urinary Tract Infection"
+        },
+        {
+          "begin": 14805,
+          "end": 14824,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute Renal Failure"
+        },
+        {
+          "begin": 14891,
+          "end": 14911,
+          "code": "L89.151",
+          "code_system": "ICD-10-CM",
+          "description": "Pressure ulcer of sacral region, stage 1",
+          "type": "Human",
+          "covered_text": "Stage 1 sacral ulcer"
+        }
+      ],
+      "text": "Admission Date:  [**2136-11-1**]              Discharge Date:   [**2136-11-8**]\n\nDate of Birth:  [**2057-4-23**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPenicillins\n\nAttending:[**First Name3 (LF) 2736**]\nChief Complaint:\nchest pain\n\nMajor Surgical or Invasive Procedure:\n1. Intra-aortic balloon pump placement\n2. Cardiac catheterization with left main coronary artery bare\nmetal stent placement\n\nHistory of Present Illness:\nThe patient is a 79-year-old male with history of prior CVA,\nhypertension, cirrhosis and prior NSTEMI which was treated\nmedically in [**2136-10-24**] who presents now as a transfer from OSH with a new NSTEMI.\nHe has been complaining of epigastric pain and \"heart burn\" for\n5 days leading up to this admission. He had associated chest\npain radiating to his jaw and bilateral arms for several days,\nalmost continuously but waxing and [**Doctor Last Name 688**] in intensity. He\nstates that he felt better with burping, and his pain worsened\nafter eating food. He denies any shortness of breath, chills, or\nsweats. The patient presented to OSH and was found to have\nelevated Troponins to 2.0 with CK of 103. CXR showing mild\npulmonary edema. The patient was treated as an NSTEMI protocol\nwith heparin, [**Doctor Last Name **], [**Doctor Last Name 4532**] load and he was then transferred to\n[**Hospital1 18**] for further management. Aditional review of his EKG at\n[**Hospital1 18**] revealed normal sinus rhythm but prominent ST segment\ndepressions in I, II, aVL, V5-V6\nand ST segment elevations in leads aVR and V1. After admission,\nthe patient was observed on telemetry in preparation for a\ncardiac catheterization. He was given ongoing therapy with\n[**Last Name (LF) 4532**], [**First Name3 (LF) **], Statin, beta-blocker, and IV heparin. Overnight, he\ntriggered for hypotension and was given fluid bolus of 500cc x2.\nHe remained chest pain free initially but had recurrent chest\npain in the early morning hours requiring IV morphine.\n\nIn the cardiac cath lab, a right heart catheterization\ndemonstrated RA Pressure of 19 mmHg,RVEDP 21 mm Hg, PASP 51 with\na mean of 39 mm Hg and PCWP 34 mm Hg. Fluids were discontinued\nand Mr. [**Known lastname **] was given 40mg IV lasix. On left heart\ncatheterization, the LMCA had a distal 90% stenosis at the\ntrifurcation of the ramus intermedius, LAD, and LCX. The LAD had\nmild diffuse disease with a large D1. The LCX had an OM1 with\ndiffuse 90% proximal stenosis. The RCA was totally occluded\nproximally with faint left-right collaterals. Resting\nhemodynamics revealed elevated right and left-sided filling\npressures consistent with cardiogenic shock. The cardiac output\nwas 4.2 l/min with an index of 2.0 l/min/m2 and left\nventriculography was deferred with plan to stabilize patient\nwith IABP and consider stent or  CABG at later time. Ultimately,\nthe patient underwent stent placement on [**2136-11-2**] with stent\nplaced across LAD to distal left main coronary artery. Outcome\nshowed an improvement to 30% obstruction at trifurcation vs.\nprior 90% blockage, with a  TIMI 3 result.\n.\nOn arrival to CCU, patient was chest pain free and had no\nshortness of breath. He was lying flat in bed on 4L NC. He\ndenied any back, groin pain, LE pain.  On review of systems, he\ndenied any prior history of deep venous thrombosis, pulmonary\nembolism, bleeding at the time of surgery, myalgias, joint\npains, hemoptysis, black stools or red stools. He denied\nexertional buttock or calf pain. All of the other review of\nsystems were negative.\n\nPast Medical History:\nNSTEMI ([**1-31**])\nCVA\nGout\nCirrhosis - alcoholic, no biopsy, no known h/o varices or\ncomplications from his liver disease.\nDementia\nHTN\nOSA\nmacular degeneration\n.\nCardiac Risk Factors: Dyslipidemia, Hypertension\nCardiac History: NSTEMI\nPrior percutaneous coronary intervention: none\nPacemaker/ICD:None\n\nSocial History:\nThe patient lives in [**Location **] and is dependent in ADL's and IADL's and\nis cognitively very intact. He denies any history of smoking,\ncurrent etoh use or any history of drug use.\n\nFamily History:\nNo premature cardiac disease in family, noncontributory family\nhistory.\n\nPhysical Exam:\nVS - afebrile, T 98.4, IABP Augmented Diastolic BP 105/50, HR\n82, SaO2 95% 4L NC, RR 20\nGen: No acute distress, well-developed and well-appearing middle\naged male. Alert and oriented to person, place and time. Mood,\naffect appropriate. Speech mildly slurred (without dentures) .\nHEENT: Conjunctiva were pink, no pallor or cyanosis of the oral\nmucosa. No xanthalesma. PERRL, EOMI.\nNeck: Thick neck, supine, 8cm JVD.\nCV: PMI located in 5th intercostal space, midclavicular line.\nRRR, balloon pump on 1:1.\nChest: No chest wall deformities, scoliosis or kyphosis.\nRespirations were unlabored, no accessory muscle use. CTA\nanteriorly, decreased b/s at bases.\nAbd: Soft, NTND. No HSM or tenderness. Abdominal aorta not\nenlarged by palpation.\nExt: Slightly cool lower extemities with 1+ pedal pulses\nbilaterally, no edema.  No femoral bruits, R-groin w/o hematoma\nor ecchymoses, IABP in place.\nSkin: No stasis dermatitis, ulcers, scars, or xanthomas.\nPulses: dopplerable DP pulses, faintly dopplerable PT pulses\nb/l.\n\nPertinent Results:\n[**2136-11-1**] Admission EKG: sinus rhythm with nml axis, nml\nintervals, ST depressions in V4-V6, I, AVL and ST elevation in\nAVR. Borderline ST elevation in V1.\n.\n[**2136-11-2**] Cardiac Cath Report: 1. Successful PTCA and placement\nof a 3.0x15mm Vision stent in the distal LMCA and origin LAD\nwere performed.  The stent was postdilated proximally using a\n4.5x8mm Quantum Maverick balloon and distally using a 3.5x12mm\nQuantum Maverick balloon.  Final angiography showed normal flow,\nno apparent dissection, and a 30% residual stenosis at the\ntrifurcation site.  (See PTCA comments.)\n2. Left femoral arteriotomy closure was performed using an 8\nFrench\nAngioseal VIP. FINAL DIAGNOSIS:PTCA and placement of a\nbare-metal stent in the distal LMCA to origin LAD.\n.\n[**2136-11-3**] ECHO :\nThe left atrium is moderately dilated. The right atrium is\nmoderately dilated. The estimated right atrial pressure is\n10-15mmHg. There is mild symmetric left ventricular hypertrophy.\nThe left ventricular cavity is moderately dilated. There is\nmoderate global left ventricular hypokinesis (LVEF = 40 %).\nTransmitral Doppler and tissue velocity imaging are consistent\nwith Grade III/IV (severe) LV diastolic dysfunction. The right\nventricular cavity is mildly dilated with mild global free wall\nhypokinesis. The aortic root is mildly dilated at the sinus\nlevel. The aortic valve leaflets (3) are mildly thickened. There\nis mild aortic valve stenosis (area 1.2-1.9cm2). Mild (1+)\naortic regurgitation is seen. Moderate (2+) mitral regurgitation\nis seen. The left ventricular inflow pattern suggests a\nrestrictive filling abnormality, with elevated left atrial\npressure. The pulmonary artery systolic pressure could not be\ndetermined. There is no pericardial effusion.\n.\npMIBI at OSH [**1-/2136**]: left ventricular dialtion with diffuse\nhypokinesis and reduced EF to 35%. non-transmural inferior wall\nperfusion defect on post-stress images. subendocarial ishemia\n\n[**2136-11-1**] 10:42PM   PTT-58.0*\nLABS PRIOR TO DISCHARGE:\n[**2136-11-8**] 05:55AM BLOOD WBC-8.1 RBC-3.14* Hgb-9.3* Hct-28.2*\nMCV-90 MCH-29.7 MCHC-33.1 RDW-14.6 Plt Ct-252\n[**2136-11-8**] 05:55AM BLOOD Glucose-113* UreaN-45* Creat-1.7* Na-141\nK-4.2 Cl-108 HCO3-24 AnGap-13\n[**2136-11-5**] 07:00AM BLOOD ALT-26 AST-25 AlkPhos-73 TotBili-0.4\n[**2136-11-8**] 05:55AM BLOOD Calcium-8.2* Phos-3.6 Mg-2.1\n[**2136-11-2**] 01:00AM BLOOD CK-MB-48* MB Indx-11.4* cTropnT-4.06*\nproBNP-[**Numeric Identifier 79816**]*\n[**2136-11-5**] 04:14PM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.015\n[**2136-11-5**] 04:14PM URINE Blood-MOD Nitrite-NEG Protein-TR\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR\n[**2136-11-5**] 04:14PM URINE RBC-10* WBC-9* Bacteri-FEW Yeast-NONE\nEpi-0\n\nBrief Hospital Course:\nIn summary, the patient is a 79-year-old male with history of\nhypertension, s/p NSTEMI [**1-/2136**] who was transferred from OSH\nafter presenting with 5 days of unstable angina with associated\ndyspepsia and found to have NSTEMI with transient ST elevations\nin AVR and ST depressions inferolaterally concerning for\nsignificant left\nmain/proximal LAD disease with relative hypotension.\n\n:\n\nCORONARY ARTERY DISEASE/NSTEMI and CARDIOGENIC SHOCK: The\npatient presented to OSH and was found to have elevated\nTroponins to 2.0 with CK of 103. The patient was treated as an\nNSTEMI protocol with heparin, [**Year (4 digits) **], [**Year (4 digits) 4532**] load and he was then\ntransferred to [**Hospital1 18**] for further management. Aditional review of\nhis EKG at [**Hospital1 18**] revealed normal sinus rhythm but prominent ST\nsegment depressions in I, II, aVL, V5-V6 and ST segment\nelevations in leads aVR and V1. CK peaked peaked at 400. Patient\ncontinued [**Last Name (LF) 4532**], [**First Name3 (LF) **], statin and heparin therapy. Patient's\nbeta blocker held in the setting of severe cardiogenic shock on\nadmission to CCU. Admission TTE/ECHO [**2136-11-1**] showed moderate\nglobal left ventricular hypokinesis (LVEF = 40 %) and Grade\nIII/IV (severe) LV diastolic dysfunction. The right ventricle\nwas mildly dilated with mild global hypokinesis as well. The\npatient was stabilized with the assistance of a intra-aortic\nballoon pump to help augment BP. The patient was initially\nplaced on IABP 1:1 and gentle diuresis was given with lasix.\nDiagnostic coronary angiography showed 2 vessel and left main\ncoronary artery disease as patient was found to have 90% L-main\nocclusion. Due to significant comorbidities, there was\nreluctance to offer CABG as reasonable option.  After discussion\nwith family and patient he elected to undergo an attempt at PCI.\n He underwent PTCA and placement of a bare-metal stent in the\ndistal LMCA to origin of LAD and recovered well with no notable\ncomplications post-procedure.\n.\nPUMP FUNCTION: ECHO revealed LVEF of 35%. The patient had\ninitial elevation in BNP of [**Numeric Identifier 79816**] given his acute NSTEMI and CHF\nwith poor cardiac output. He received post catheterization\ndiuresis with Lasix and his CXRs showed improvement in his\npulmonary edema throughout his hospital course. The patient's\noxygen saturations were improved to 96 % on room air by time of\ndischarge and he had no clinical complaints of shortness of\nbreath and only trace lower extremity edema which had improved\nfrom his initial presentation.\n.\nRHYTHM : The patient was monitored throughout his stay and per\ntelemetry he remained predominantly in normal sinus rhythm after\nhis PCI procedure with very limited PVCs.\n.\nANTICOAGULATION: The patient's most recent ECHO revealed\nmoderate global left ventricular hypokinesis (LVEF =35-40 %)and\nthe right ventricular cavity is mildly dilated with mild global\nfree wall hypokinesis. Thus, he was started on IV heparin and\nbridged while starting coumadin therapy to reduce his risk of\nthrombus and CVAs. The end INR goal being [**2-26**]. At time of\ndischarge the patient's INR was slightly supratherapeutic at 3.5\nand his evening warfarin dose was held prior to his discharge.\n.\nACUTE ON CHRONIC RENAL FAILURE : The patient's initial CRF\nhistory was further challenged by his relative hypoperfusion in\nthe setting of his ACS/NSTEMI and during his cardiogenic shock.\nBased on limited OSH records it is unclear what the patient's\ntrue BUN/Cr baseline is. His Cr peaked at 2.4 and came down to\n1.6/1.7 by time of discharge. He was given mucomyst pre and\npost-procedure and IVFs were given sparingly due to the\npatient's CHF/cardiogenic shock.\n.\nCIRRHOSIS : The patient had a GI consult for pre-op risk\nstratification. Unclear if patient has true underlying cirrhosis\nbut ultrasound revealed a nodular liver. The patient was cleared\nfor surgery and he had LFTs within normal limits at the time of\ndischarge. Per GI records the patient had a classification of\nChild Class B w/ 30% cirrhosis secondary to alcohol history. He\nhad no appreciable RUQ tenderness, jaundice, HSM on exam and he\nwill plan to follow-up with his usual PCP after discharge\nregarding his GI management. Hepatitis B/C panels were done and\nwere all negative.\n\nRECENT PNA : The patient was noted to have had a fever at OSH\nand he had recently completed treatment for PNA. He had no\ndullness to percusssion on exam and he had no significant cough\nor productive sputum during his CCU course. At time of discharge\nhe had WBC count of 8.1 and was afebrile. Mr. [**Known lastname **] did have\nleukocytosis to 19 at OSH but only mildly elevated WBC to 12\nhere and CXR clear other than mild effusions initially which had\nimproved to near resolution by time of discharge.\n.\nDEMENTIA : For the patient's mild dementia he was continued on\nhis daily Donepezil therapy.\n.\nURINARY TRACT INFECTION: On [**2136-11-5**] the patient had a routine\nUA which revealed bacteria and WBCs and labs were consistent\nwith a UTI so he was started on Doxycycline for a 7 day regimen.\nFollow-up urine cultures were negative. He was through 4/7 days\ntherapy at time of discharge and had no complaints of dysuria or\nfrequency.\n\nFLUIDS AND ELECTROLYTES: The patients magnesium and potassium\nwere repleted on an as needed basis during his hospital stay and\ndaily electrolytes were monitored. He was started on a full\ncardiac diet once he stabilized and he did very well with his\noral input and had a good appetite. IVF were used sparingly in\nthe setting of CHF.\n.\nSACRAL DECUBITUS: The patient's sacral stage 1 buttock sore\nremained in tact and he had protective cream applied to avoid\nany breakdown. Patient stable at time of discharge and will plan\nto follow-up with his PCP regarding further monitoring.\n.\n\nPROPHYLAXIS: The patient was on anticoagulation for NSTEMI and\nthrombus coverage in the setting of his hypokinetic heart and\nwas therefore covered for DVT prophylaxis as well. PT also\nhelped the patient to do exercises during his stay to maintain a\nfair level of mobility.  He was also given 40mg PO daily\nProtonix for GI prophylaxis.\n.\nThe patient was maintained as a full code\nstatus for the entirety of his hospital stay. He was asked to\nplease return to the emergency room or call his primary\ncardiologist or PCP as soon as possible if he had any worsening\nshortness of breath, chest pain, dizziness or lightheadedness\nafter discharge.\n\n\nMedications on Admission:\nHome Medications on arrival:\nReglaid\nFlonase\nSudafed\nCelexa\nColchine\n[**Date Range **]\nLopressor\nAllopurinol\nAricept\nRecently completed levaquin for PNA\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Doctor First Name 37**] House Rehab & Nursing Center - [**Location (un) 38**]\n\nDischarge Diagnosis:\nNon ST elevation Myocardial Infarction\nAcute Systolic Congestive Heart Failure\nUrinary Tract Infection\nAcute Renal Failure\n\n\nDischarge Condition:\nStable\nCreat: 1.6\nBUN: 47\nK: 4.2\nHct: 27.9\nStage 1 sacral ulcer\n\n\nDischarge Instructions:\nYou had a heart attack and required a bare metal stent to open\none of your heart arteries. You will need to take [**Location (un) **] every\nday for the rest of your life. You had some damage to your heart\nmuscle and now your heart is weak. Because of this, you will\nneed to follow a low salt diet, weigh your self every day and\ncall the doctor if you gain more than 3 pounds in 1 day or 6\npounds in 3 days. We changed some of your medicines.\n\nContinue daily [**Location (un) **] to keep the cardiac stent open. Continue\ndoxycycline for 3 remaining days of therapy for a urinary tract\ninfection and continue daily Warfarin as prescribed to avoid\nblood clots and to decrease stroke risk.\n\nWeigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.\nAdhere to 2 gm sodium diet\nFluid Restriction:\n\nFollowup Instructions:\nCardiology: Pt will need follow-up with a cardiologist in [**2-27**]\nweeks as a new pt.\n\n\n\nCompleted by:[**2136-11-8**]"
+    },
+    {
+      "note_id": 639428,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 4267,
+          "end": 4284,
+          "code": "R57.0",
+          "code_system": "ICD-10-CM",
+          "description": "Cardiogenic shock",
+          "type": "Human",
+          "covered_text": "Cardiogenic Shock"
+        },
+        {
+          "begin": 4418,
+          "end": 4421,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "CAD"
+        }
+      ],
+      "text": "Chief Complaint: 79 M p/w STEMI from OSH, found to have 90% L-main,\n   100% RCA and w/ cardiogenic shock requiring IABP.\n   24 Hour Events:\n TRANSTHORACIC ECHO - At [**2136-11-3**] 09:30 AM\n IABP LINE - STOP [**2136-11-3**] 01:20 PM\n SHEATH - STOP [**2136-11-3**] 02:00 PM\n   Allergies:\n   Penicillins\n   Rash;\n   Last dose of Antibiotics:\n   Infusions:\n   Heparin Sodium - 1,200 units/hour\n   Other ICU medications:\n   Pantoprazole (Protonix) - [**2136-11-3**] 10:00 AM\n   Other medications:\n   Captopril 6.25 mg PO TID\n   Acetaminophen 325-650 mg PO Q8H:PRN back pain\n   Clopidogrel 75 mg PO DAILY\n   Allopurinol 100 mg PO DAILY\n   Donepezil 5 mg PO HS\n   Fexofenadine 60 mg PO BID\n   Citalopram Hydrobromide 10 mg PO\n   Fluticasone Propionate NASAL 1 SPRY NU\n   Morphine Sulfate 1-4 mg IV Q6H:PRN chest pain\n   Pantoprazole 40 mg PO Q24H\n    Aluminum-Magnesium Hydrox.-Simethicone 15-30 mL PO QID:PRN\n     Atorvastatin 80 mg PO DAILY\n    Aspirin 325 mg PO DAILY\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2136-11-4**] 06:32 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.8\nC (98.2\n   Tcurrent: 36.8\nC (98.2\n   HR: 86 (85 - 99) bpm\n   BP: 98/56(65) {91/36(54) - 110/65(75)} mmHg\n   RR: 21 (16 - 29) insp/min\n   SpO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 68 Inch\n             Total In:\n                                                                    877 mL\n                                                                    231 mL\n   PO:\n                                                                    560 mL\n                                                                    160 mL\n   TF:\n   IVF:\n                                                                    317 mL\n                                                                     71 mL\n   Blood products:\n   Total out:\n                                                                  1,260 mL\n                                                                    280 mL\n   Urine:\n                                                                  1,260 mL\n                                                                    280 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                   -383 mL\n                                                                    -49 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 98%\n   ABG: ///24/\n   Physical Examination\n   General Appearance: No acute distress\n   Cardiovascular: (S1: Normal), (S2: Normal, Distant)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Diminished), (Left DP pulse:\n   Diminished)\n   Respiratory / Chest: (Expansion: Symmetric), coarse upper airway sounds\n   Abdominal: Soft, Non-tender, Bowel sounds present\n   Extremities: no cyanosis or clubbing\n   Skin:  Not assessed\n   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   238 K/uL\n   10.1 g/dL\n   136 mg/dL\n   2.2 mg/dL\n   24 mEq/L\n   4.8 mEq/L\n   55 mg/dL\n   108 mEq/L\n   140 mEq/L\n   29.7 %\n   9.1 K/uL\n        [image002.jpg]\n                            [**2136-11-2**]  02:47 PM\n                            [**2136-11-3**]  12:00 AM\n                            [**2136-11-3**]  10:48 AM\n                            [**2136-11-4**]  01:06 AM\n   WBC\n   12.6\n   13.2\n   10.5\n   9.1\n   Hct\n   33.4\n   29.5\n   29.7\n   29.7\n   Plt\n   183\n   246\n   232\n   238\n   Cr\n   2.2\n   2.2\n   2.1\n   2.2\n   TropT\n   9.02\n   Glucose\n   127\n   168\n   161\n   136\n   Other labs: PT / PTT / INR:14.5/ 45.0/1.3, CK / CKMB /\n   Troponin-T:116/17/9.02, ALT / AST:29/58, Alk Phos / T Bili:78/0.5,\n   Albumin:2.9 g/dL, LDH:507 IU/L, Ca++:8.3 mg/dL, Mg++:2.4 mg/dL, PO4:4.4\n   mg/dL\n   Assessment and Plan\n   79 M p/w STEMI from OSH, found to have 90% L-main, 100% RCA and w/\n   cardiogenic shock requiring IABP.  Patient had stent placed to L-main.\n   Was deemed non-operable candidate.\n   #. Cardiogenic Shock: Patient weaned off IABP and tolerating well.\n   Captopril 6.25 mg PO TID for afterload reduction.\n   - hold beta-blocker\n   .\n   #. CAD: CAD peaked at 400.  Continue [**Last Name (LF) **], [**First Name3 (LF) 119**], Statin and Heparin.\n   .\n   #. Pump: EF 35% on OSH MIBI. elevated BNP now, may be in some acute CHF\n   with poor cardiac output.\n   - ECHO report pending\n   - diuresis goal\n   .\n   #. Rhythm: NSR\n   .\n   # Acute on Chronic RF: cr elevation likely [**2-25**] to poor cardiac output\n   - unclear baseline.\n   - mucomyst post-procedure\n   - hold IVF's given recent cardiogenic shock\n   .\n   # Cirrhosis: Decreased albumin, increased AST. LDH increased most\n   likely secondary to ischemia.\n   .\n   # LE PT Pulses - follow Vascular recs.\n   - Vascular eval - will likely need ABI's and peripheral procedure down\n   the road if persists.\n   - Will follow post - procedure.\n   .\n   # Fever at OSH: recently completed tx for PNA. No PNA on exam. afibrile\n   here. Did have leukocytosis to 19 at OSH but only mildly elevated WBC\n   to 12 [**Last Name (un) 1700**] and CXR clear.  Likely [**2-25**] to MI.\n   - further w/u PRN.\n   .\n   #.mild dementia\n   - cont aricept\n   .\n   #. FEN: Follow and replete electrolytes. Cardiac diet.\n   .\n   #. Sacral Decubitus Ulcer: unable to examine with IABP in place\n   - wound consult post-operative\n   .\n   #. Access: PIVx2\n   .\n   #. PPx:\n   .\n   #. Code: full\n   .\n   #. Dispo: Pending Clinical above. PT consult.\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2136-11-2**] 11:00 AM\n   20 Gauge - [**2136-11-2**] 11:00 AM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status:\n   Disposition:\n"
+    }
+  ]
+}

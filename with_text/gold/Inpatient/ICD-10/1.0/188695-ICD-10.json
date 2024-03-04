@@ -1,0 +1,121 @@
+{
+  "hadm_id": 188695,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 5200,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 338,
+          "end": 346,
+          "code": "I48.92",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial flutter",
+          "type": "Human",
+          "covered_text": "Aflutter"
+        },
+        {
+          "begin": 347,
+          "end": 349,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "AF"
+        },
+        {
+          "begin": 389,
+          "end": 398,
+          "code": "Z95.0",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of cardiac pacemaker",
+          "type": "Human",
+          "covered_text": "pacemaker"
+        },
+        {
+          "begin": 400,
+          "end": 413,
+          "code": "I11.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive heart disease with heart failure",
+          "type": "Human",
+          "covered_text": "hypertension,"
+        },
+        {
+          "begin": 414,
+          "end": 425,
+          "code": "I50.42",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic combined systolic (congestive) and diastolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "systolic HF"
+        },
+        {
+          "begin": 431,
+          "end": 439,
+          "code": "F03.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified dementia without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 1229,
+          "end": 1263,
+          "code": "I50.22",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic systolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "Diastolic / Systolic heart failure"
+        },
+        {
+          "begin": 4285,
+          "end": 4299,
+          "code": "K57.31",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of large intestine without perforation or abscess with bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        },
+        {
+          "begin": 5913,
+          "end": 5933,
+          "code": "I50.22",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic systolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "Chronic Systolic CHF"
+        },
+        {
+          "begin": 6107,
+          "end": 6116,
+          "code": "Z86.73",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "Hx of CVA"
+        }
+      ],
+      "text": "Admission Date:  [**2190-6-15**]              Discharge Date:   [**2190-6-20**]\n\n\nService: MEDICINE\n\nAllergies:\nAmiodarone\n\nAttending:[**First Name3 (LF) 1377**]\nChief Complaint:\nBRBPR\n\nMajor Surgical or Invasive Procedure:\nSigmoidoscopy\n\n\nHistory of Present Illness:\nThe patient is a [**Age over 90 **] year old female with a history of\nAflutter/AF (on coumadin) s/p AV node ablation and pacemaker,\nhypertension, systolic HF, and dementia who presents with\ncomplaints of [**2-23**] days of BRBPR. The patient has a known history\nof diverticulosis and internal hemmeroids. While their is no\ndocumentation in our OMR, she may have a history of LGIB She is\nmaintained on coumadin for reduction of thromboembolic risk in\nthe setting of AF. She denies any chest pain, shortness of\nbreath, or lightheadedness. Shes is a poor historian at\nbaseline, but reports feeling well.\n.\nIn the ED, initial vs were: T 97.5 P 71 BP 161/59 O2 sat 100% on\nRA. The patient was noted to have rectal bleeding, and had a BM\nw/ a reported 10-15cc of BRB. She was given 10mg of vit K and\nprotonix, and was admitted to the ICU for further manegment.\n\nPast Medical History:\n1. Atrial fibrillation/flutter - on anticoagulation and s/p AVJ\nablation w/ PPM\n2. Diastolic / Systolic heart failure - EF of 35% in [**2188**]\nModerate global LV hypokinesis. Relatively preserved apical LV\ncontraction.\n3. Hypertension\n\nSocial History:\nLives at [**Hospital3 **] at Scandinavian Center. Was living\nalone and caring for sister in hospice until she passed away. No\nSmoking or ETOH.\n\n\nFamily History:\nFamily History: Patient unaware.\n\nPhysical Exam:\nVitals: T 97.3 BP 135/56 P 72 R 22 18 SaO2 97%RA\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: Supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: Soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nRectal (previously documented): No no visible external\nhemorrhoids, fissues, or cracks on exam, BRB\nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: Alert, oriented x 2\n\nPertinent Results:\nLabs on Admission:\n[**2190-6-15**] 03:30PM BLOOD WBC-7.3 RBC-3.73* Hgb-11.4* Hct-34.7*\nMCV-93 MCH-30.5 MCHC-32.7 RDW-16.5* Plt Ct-272\n[**2190-6-15**] 03:30PM BLOOD Neuts-75.7* Lymphs-14.7* Monos-5.5\nEos-3.8 Baso-0.3\n[**2190-6-15**] 03:30PM BLOOD PT-26.4* PTT-30.1 INR(PT)-2.6*\n[**2190-6-15**] 03:30PM BLOOD Glucose-109* UreaN-31* Creat-1.3* Na-136\nK-4.7 Cl-100 HCO3-24 AnGap-17\n.\nHCT trend:\n[**2190-6-15**] 03:30PM BLOOD WBC-7.3 RBC-3.73* Hgb-11.4* Hct-34.7*\nMCV-93 MCH-30.5 MCHC-32.7 RDW-16.5* Plt Ct-272\n[**2190-6-15**] 11:01PM BLOOD Hct-29.8*\n[**2190-6-16**] 03:01AM BLOOD WBC-6.1 RBC-3.05* Hgb-9.4* Hct-28.7*\nMCV-94 MCH-30.9 MCHC-32.9 RDW-15.9* Plt Ct-220\n[**2190-6-16**] 09:15AM BLOOD Hct-29.7*\n[**2190-6-16**] 05:16PM BLOOD Hct-29.7*\n[**2190-6-17**] 12:45AM BLOOD Hct-28.0*\n[**2190-6-17**] 06:35AM BLOOD WBC-6.6 RBC-3.03* Hgb-9.3* Hct-28.7*\nMCV-95 MCH-30.6 MCHC-32.3 RDW-16.0* Plt Ct-229\n[**2190-6-18**] 06:25AM BLOOD WBC-7.2 RBC-3.09* Hgb-9.4* Hct-28.8*\nMCV-93 MCH-30.5 MCHC-32.8 RDW-15.7* Plt Ct-228\n[**2190-6-18**] 12:50PM BLOOD Hct-31.6*\n[**2190-6-20**] 06:50AM BLOOD WBC-7.9 RBC-3.20* Hgb-9.9* Hct-30.1*\nMCV-94 MCH-30.8 MCHC-32.8 RDW-16.1* Plt Ct-225\n.\nLabs on Discharge:\n[**2190-6-20**] 06:50AM BLOOD WBC-7.9 RBC-3.20* Hgb-9.9* Hct-30.1*\nMCV-94 MCH-30.8 MCHC-32.8 RDW-16.1* Plt Ct-225\n[**2190-6-20**] 06:50AM BLOOD Plt Ct-225\n[**2190-6-20**] 06:50AM BLOOD Glucose-102 UreaN-21* Creat-1.1 Na-142\nK-4.1 Cl-108 HCO3-27 AnGap-11\n.\nImaging:\nPermanent pacer in place, moderate cardiomegaly.\nMild-to-moderate chronic failure with interstitial edema, but no\nacute pulmonary edema or acute infiltrates.\n.\nProcedures:\nSigmoidoscopy: Significant amount of old blood. No acute bleed\nor active source. Extensive diverticular disease throughout\ncolon.\n.\nPrior studies:\nColonoscopy [**2180**]:\nDiverticulosis of the distal descending colon and proximal\nsigmoid colon\nInternal hemorrhoids\nPolyp in the sigmoid colon (biopsy)\n\n\nBrief Hospital Course:\n[**Age over 90 **] year old female with a history of AF on coumadin, systolic\nHF, diverticulosis, and internal hemorrhoids who presents with\ncomplaints of LGIB.\n.\n# BRBPR: In the ER patient received 10 mg of vitamin K for an\nINR of 2.6. Due to concern of acute bleed patient was admitted\nto ICU, but transferred to the general medicine floor when found\nto be hemodynamically stable. Sigmoidoscopy demonstrated a\nsignificant amount of old blood, but no acute bleed. Source felt\nto be extensive diverticular disease. On admission patient's HCT\ndropped 5 points (from 34.7 -> 29.8), however remained stable at\n28-30 throughout the remainder of admission and upon discharge.\nPatient required no blood transfusions and was hemodynamically\nstable throughout her hospital course. On discharge she\ncontinued to have dark, loose, guaiac positive stool which was\nfelt to be old blood (HCT and hemodynamics stable). Patient is\non coumadin for A Fib and ASA + dipyridamole for TIA - all three\nwere held throughout admission.\n- Continue to hold coumadin, ASA, dipyridamole for 1 week\nfollowing discharge. Re-start following 1 week, but patient\nneeds to follow-up with pcp, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 17143**], regarding continuation\nof all three anti-coagulents.\n- Check HCT twice a week\n.\n# Atrial fibrillation: status post AVJ ablation w/ PPM. On\ncoumadin as an outpatient. INR was reversed on admission due to\nconcern of acute bleed (see above).\n- Continue to hold coumadin 1 week following discharge. Re-start\nfollowing 1 week, but patient needs to follow-up with pcp, [**Last Name (NamePattern4) **].\n[**Last Name (STitle) 17143**], regarding continuation of all three anti-coagulents.\n.\n# Chronic Systolic CHF: Patient currently euvolemic on exam.\nB-blocker and diuretics held briefly in setting of acute bleed.\nMetoprolol 100 mg TID and diuretics re-started prior to\ndischarge.\n.\n# Hx of CVA: Dipyradiole and ASA as outpatient suggest history\nof TIA or small vessel disease.\n- Continue to hold ASA, dipyridamole for 1 week following\ndischarge. Re-start following 1 week, but patient needs to\nfollow-up with pcp, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 17143**], regarding continuation of all\nthree anti-coagulatents.\n.\n# FEN: Tolerating regular diet prior to discharge.\n# Code: DNR/DNI - confirmed with patient.\n# Communication: Patient. Only relative (nephew in law) [**Name (NI) **]\n[**Name (NI) 21244**] [**Telephone/Fax (1) 21245**], [**Telephone/Fax (1) 21246**].\nDischarge to short term rehab for physical therapy needs.\n\n\nMedications on Admission:\nper OMR\n1. Dipyridamole 25 mg Tablet TID\n2. Metoprolol Tartrate 100 mg TID\n3. Aspirin 81 mg Daily\n4. Docusate Sodium 50 mg/5 mL Liquid Sig: [**1-22**] PO BID (2 times a\nday) as needed.\n5. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for pain.\n6. Furosemide 20 mg Daily\n7. Spironolactone 12.5 mg daily\n8. Coumadin\n\nDischarge Medications:\n1. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO TID\n(3 times a day).\n2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n4. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n5. Spironolactone 25 mg Tablet Sig: 0.5 Tablet PO once a day.\n6. Outpatient Lab Work\nCheck Hematocrit twice weekly\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Last Name (un) 1687**] - [**Location (un) 745**]\n\nDischarge Diagnosis:\nLower gastrointesintal bleeding\n.\nAtrial fibrillation/flutter s/p AV ablation\nCongestive heart failure\nHypertension\n\n\nDischarge Condition:\nFair.  Patient is alert and interactive.  She has poor short\nterm memory and cannot remember why she is in the hospital.\n\n\nDischarge Instructions:\nYou were admitted for gastrointestinal bleeding. You underwent a\nsigmoidoscopy which demonstrated old blood in the\ngastrointestinal tract, but there was no active bleeding. You\nwere monitored in the hospital to ensure stable blood counts and\nblood pressure. You are being discharged to a short term rehab\nfor physical therapy.\n.\nPlease continue taking all medications as you were previously\ntaking with the following exceptions:\nHOLD Coumadin, aspirin, dypridamole for 1 week following\ndischarge. Re-start and discuss longterm coagulation plan with\nprimary care doctor.\n.\nAttend the following appointments:\nAppointment #1\nMD: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16258**]\nSpecialty: PCP\nDate and time: [**2190-7-1**] 1:00pm\nLocation: [**Apartment Address(1) 21247**] F\nPhone number: [**Telephone/Fax (1) 19196**]\n.\nPlease return to the hospital or call your primary care\nphysician if you have lightheadedness, shortness of breath,\nchest pain, or any other concerning symptoms.\n\nFollowup Instructions:\nAppointment #1\nMD: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16258**]\nSpecialty: PCP\nDate and time: [**2190-7-1**] 1:00pm\nLocation: [**Apartment Address(1) 21247**] F\nPhone number: [**Telephone/Fax (1) 19196**]\n\n\n                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(1) 1379**]\n\nCompleted by:[**2190-6-20**]"
+    },
+    {
+      "note_id": 461683,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 132,
+          "end": 151,
+          "code": "K64.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other hemorrhoids",
+          "type": "Human",
+          "covered_text": "internal hemmeroids"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: [**Age over 90 **] year old female with a history of AF on coumadin,\n   systolic HF, diverticulosis, and internal hemmeroids who presents with\n   complaints of LGIB.\n   24 Hour Events:\n   Received one unit of FFP\n   Allergies:\n   Amiodarone\n   Unknown;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems: No chest pain, shortness of breath, fevers, chills\n   Flowsheet Data as of  [**2190-6-16**] 07:45 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.4\nC (97.6\n   Tcurrent: 36.4\nC (97.6\n   HR: 70 (70 - 71) bpm\n   BP: 128/58(75) {114/48(65) - 150/64(84)} mmHg\n   RR: 17 (15 - 21) insp/min\n   SpO2: 96%\n   Heart rhythm: A Flut (Atrial Flutter)\n   Wgt (current): 61.4 kg (admission): 61.4 kg\n                  Total In:\n                  305 mL\n   PO:\n                  TF:\n   IVF:\n   Blood products:\n   305 mL\n   Total out:\n                                                                      0 mL\n                                                                    200 mL\n   Urine:\n   200 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                    105 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 96%\n   ABG: ///29/\n   Physical Examination\n   General Appearance: Well nourished, No acute distress\n   Eyes / Conjunctiva: PERRL\n   Head, Ears, Nose, Throat: Normocephalic\n   Lymphatic: Cervical WNL, No(t) Cervical adenopathy\n   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4,\n   (Murmur: No(t) Systolic, No(t) Diastolic)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Not assessed), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, Bowel sounds present\n   Extremities: Right: Absent, Left: Absent\n   Skin:  Not assessed\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Movement: Not assessed, Tone: Not assessed\n   Labs / Radiology\n   220 K/uL\n   9.4 g/dL\n   93 mg/dL\n   1.1 mg/dL\n   29 mEq/L\n   4.4 mEq/L\n   28 mg/dL\n   106 mEq/L\n   142 mEq/L\n   28.7 %\n   6.1 K/uL\n        [image002.jpg]\n                             [**2190-6-15**]  11:01 PM\n                             [**2190-6-16**]  03:01 AM\n   WBC\n   6.1\n   Hct\n   29.8\n   28.7\n   Plt\n   220\n   Cr\n   1.1\n   Glucose\n   93\n   Other labs: PT / PTT / INR:15.9/27.2/1.4, Ca++:8.0 mg/dL, Mg++:2.6\n   mg/dL, PO4:3.3 mg/dL\n   Assessment and Plan\n   [**Age over 90 **] year old female with a history of AF on coumadin, systolic HF,\n   diverticulosis, and internal hemmeroids who presents with complaints of\n   LGIB.\n   # BRBPR:  Multiple possible etiologies for this patient with history of\n   LGIB.  Has a known internal hemorrhoids and diverticulosis, and either\n   would be consistent with her presentation.  No complaints of\n   fever/chills or abdominal pain to suggest more malignant abdominal\n   pathology.  Has no visible external hemorrhoids, fissures, or cracks on\n   exam.  No evidence of hemodynamic instability and hct is down four\n   points from baseline but repeat check is stable.  Last colonoscopy in\n   [**2180**].\n   - check q12h hct unless evidence of bleeding\n   - holding warfarin\n   - GI reccs, though unlikely to undergo colonoscopy\n   #  Atrial fibrillation: Prior history of poor rate control, now status\n   post AVJ ablation w/ PPM.  On coumadin as an outpatient.\n   - hold coumadin in setting of potential bleed\n   - given high-dose vitamin K in [**Last Name (LF) 73**], [**First Name3 (LF) **] be resistant to anticoagulation\n   for some time.\n   # Systolic CHF:  Patient currently euvolemic on exam.\n   - hold metoprolol in setting of bleed\n   - will hold diuretics until acute bleed is stabilized.\n   # HTN: hypertension at presentation.  Will still hold BP meds in\n   setting of bleed.  [**Month (only) 51**] need to optimize prior to d/c\n   # Hx of CVA: no residual deficits. Hold dipyradiole, and clarify need\n   while on coumadin prior to d/c.\n   # FEN: No IVF, replete electrolytes, NPO for now, will clarify w/ GI\n   need for prep.\n   # Prophylaxis: SCDs\n   # Access: peripherals\n   # Code: FULL CODE\n   # Communication: Patient\n   # Disposition: Call out to floor\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2190-6-15**] 08:23 PM\n   Prophylaxis:\n   DVT:  pneumoboots\n   Stress ulcer:  None\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status:  Full\n   Disposition:\n"
+    }
+  ]
+}

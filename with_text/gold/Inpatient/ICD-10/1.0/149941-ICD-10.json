@@ -1,0 +1,131 @@
+{
+  "hadm_id": 149941,
+  "comment": "Catheterization of aorta, Mesentric angiography, Balloon angioplasty, EGD with sigmoidoscopy- Missing OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 41965,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1803,
+          "end": 1815,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1817,
+          "end": 1830,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hyperlipideia"
+        },
+        {
+          "begin": 1832,
+          "end": 1842,
+          "code": "D56.9",
+          "code_system": "ICD-10-CM",
+          "description": "Thalassemia, unspecified",
+          "type": "Human",
+          "covered_text": "Thalasemia"
+        },
+        {
+          "begin": 1844,
+          "end": 1848,
+          "code": "M10.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gout, unspecified",
+          "type": "Human",
+          "covered_text": "Gout"
+        },
+        {
+          "begin": 2087,
+          "end": 2103,
+          "code": "F17.200",
+          "code_system": "ICD-10-CM",
+          "description": "Nicotine dependence, unspecified, uncomplicated",
+          "type": "Human",
+          "covered_text": "Currently smokes"
+        },
+        {
+          "begin": 4421,
+          "end": 4444,
+          "code": "K26.9",
+          "code_system": "ICD-10-CM",
+          "description": "Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation",
+          "type": "Human",
+          "covered_text": "non-bleeding 5 mm ulcer"
+        },
+        {
+          "begin": 4973,
+          "end": 4978,
+          "code": "K63.5",
+          "code_system": "ICD-10-CM",
+          "description": "Polyp of colon",
+          "type": "Human",
+          "covered_text": "polyp"
+        },
+        {
+          "begin": 5316,
+          "end": 5328,
+          "code": "K55.069",
+          "code_system": "ICD-10-CM",
+          "description": "Acute infarction of intestine, part and extent unspecified",
+          "type": "Human",
+          "covered_text": "SMA thrombus"
+        },
+        {
+          "begin": 13044,
+          "end": 13052,
+          "code": "I74.2",
+          "code_system": "ICD-10-CM",
+          "description": "Embolism and thrombosis of arteries of the upper extremities",
+          "type": "Human",
+          "covered_text": "Brachial"
+        },
+        {
+          "begin": 13086,
+          "end": 13095,
+          "code": "K29.01",
+          "code_system": "ICD-10-CM",
+          "description": "Acute gastritis with bleeding",
+          "type": "Human",
+          "covered_text": "gastritis"
+        },
+        {
+          "begin": 13113,
+          "end": 13129,
+          "code": "D75.82",
+          "code_system": "ICD-10-CM",
+          "description": "Heparin induced thrombocytopenia (HIT)",
+          "type": "Human",
+          "covered_text": "Thrombocytopenia"
+        },
+        {
+          "begin": 13187,
+          "end": 13190,
+          "code": "I12.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 14215,
+          "end": 14229,
+          "code": "K57.30",
+          "code_system": "ICD-10-CM",
+          "description": "Diverticulosis of large intestine without perforation or abscess without bleeding",
+          "type": "Human",
+          "covered_text": "diverticulosis"
+        }
+      ],
+      "text": "Admission Date:  [**2192-11-20**]              Discharge Date:   [**2192-12-27**]\n\nDate of Birth:  [**2130-8-8**]             Sex:   F\n\nService: SURGERY\n\nAllergies:\nHeparin Agents\n\nAttending:[**First Name3 (LF) 1234**]\nChief Complaint:\nAbdominal Pain\n\nMajor Surgical or Invasive Procedure:\nOPERATIONS PERFORMED [**2192-11-23**]:\n1. Ultrasound-guided puncture of left brachial artery.\n2. Catheterization of aorta.\n3. Abdominal aortogram with mesenteric angiography.\n4. Selective catheterization of superior mesenteric artery.\n5. Balloon angioplasty and stent of proximal superior\n    mesenteric artery.\n6. Brachial artery cutdown with primary repair\n\n[**2192-11-23**]: Exploratory Laparoscopy\n\n[**2192-12-5**]: EGD\n[**2192-12-6**]: Colonoscopy\n[**2192-12-15**]: EGD\n[**2192-12-20**]: EGD and Sigmoidoscopy\n\n\nHistory of Present Illness:\n62 year old female with history of severe bilateral PVD, s/p\nbilateral lower extremity angio with occluded fem-PT bypasses\nbilaterally, now presenting\nto the ED w/abdominal pain of 5 days duration. We are consulted\nfor an evaluation of mesenteric ischemia. Patient reports sudden\nonset of severe abdominal 5 days ago. The pain has remained high\nin intensity and constant. Patient has been unable to tolerate\nfood. She had no episodes of frank emesis, but reports retching\nand some \"yellow secretion\". The pain is located in the\nmid-abdomen radiates to substernal region and to flanks and\nlower back. Patient denies fevers, but reports chills over the\npast few days. She denies diarrhea. Her stools are formed and\nregular. She denies any hematochezia or melena. She denies ever\nhaving this type of abdominal pain in the past. She stopped\ntaking majority of her medications a few days ago as she was\nconcerned it may contribute to her pain.\n\n\nPast Medical History:\nPAD, Hypertension, Hyperlipideia, Thalasemia, Gout\n\nPSH:\nLeft Lower Extremity Bypass [**2180**](appears to be fem-PT), revision\nin [**2187**];  Right Lower Extremity Bypass [**2185**] (appears to be\nfem-AT);  BLE angio - [**2192-10-17**];  cholecystectomy;  hysterectomy\n\n\nSocial History:\nCurrently smokes [**11-26**] ppd, former 1 ppd for last 50 years,\ndenies EtOH or illicit drugs\n\n\nFamily History:\nnon-contributory\n\nPhysical Exam:\nAdmission Physical Exam:\nVS: 97.7 100 131/78 18 100% RA\nCV: RRR, no murmur\npulm: CTA b/l\nabd: obese, + BS, tender especially in the RLQ, also reports\nsubjective pain in the mid abdomen, but not fully evident on\nexam\n\nguaiac positive\nextremities: minimal lower extremity edema\n\nPulses:\n     Fem  [**Doctor Last Name **]  AT   DP         PT\nR    palp dop  dop  faint dop  dop\nL    palp dop  dop  NS         dop\n\nDischarge Exam:\n(per progress note)\nVS: 100.1  98  88  151/76  20  99% ra\nGen: Obese female, alert and oriented x 3,\nCard: RRR\nLungs: CTA bilat\nAbd: obese, soft, no m/t/o\nExtremities: warm, mild lower extremity edema\nPulses:   Rad   Fem  DP  PT\n\n   right  p      p    d   d\n   left   p      p    d   d\n\nPertinent Results:\nAdmission:\n[**2192-11-20**] 12:35PM BLOOD WBC-8.4 RBC-2.41* Hgb-9.7* Hct-29.4*\nMCV-122* MCH-40.2* MCHC-33.0 RDW-16.9* Plt Ct-347\n[**2192-11-20**] 12:35PM BLOOD PT-31.5* PTT-43.7* INR(PT)-3.1*\n[**2192-11-20**] 12:35PM BLOOD Glucose-143* UreaN-38* Creat-1.9* Na-141\nK-3.6 Cl-103 HCO3-26 AnGap-16\n[**2192-11-20**] 12:35PM BLOOD ALT-13 AST-12 AlkPhos-65 TotBili-0.2\n[**2192-11-21**] 04:23AM BLOOD Calcium-8.2* Phos-4.2 Mg-1.9\n\nDischarge:\n[**2192-12-27**] 06:46AM BLOOD WBC-7.3 RBC-3.25* Hgb-10.2* Hct-30.0*\nMCV-92 MCH-31.4 MCHC-34.0 RDW-19.9* Plt Ct-304\n[**2192-12-27**] 06:46AM BLOOD PT-33.5* PTT-45.6* INR(PT)-3.3*\n[**2192-12-27**] 06:46AM BLOOD Calcium-8.7 Phos-3.4 Mg-1.9\n\nOther pertinent labs:\n[**2192-11-23**] 4:59 pm MRSA SCREEN      SOURCE:NASAL SWAB.\n\n                            **FINAL REPORT [**2192-11-26**]**\n\n   MRSA SCREEN (Final [**2192-11-26**]):    No MRSA isolated.\n\n[**2192-12-6**] 5:25 am SEROLOGY/BLOOD      CHEM # 60812J [**12-6**] 5:25AM.\n\n\n                            **FINAL REPORT [**2192-12-7**]**\n\n   HELICOBACTER PYLORI ANTIBODY TEST (Final [**2192-12-7**]):\n      NEGATIVE BY EIA.\n           (Reference Range-Negative).\n\n[**2192-12-9**] 11:15 am URINE      Source: CVS.\n\n                            **FINAL REPORT [**2192-12-10**]**\n\n   URINE CULTURE (Final [**2192-12-10**]):\n      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT\nWITH SKIN\n      AND/OR GENITAL CONTAMINATION.\n\n[**2192-12-20**] EGD: A single superficial non-bleeding 5 mm ulcer was\nfound in the duodenal bulb. This ulcer had a clean base and was\nnot bleeding. There were two adherent clots adjacent to the\nulcer, one proximal and one distal. The distal clot was removed\nwith aggressive washing and suctioning, and no underlying lesion\ncould be identified. The proximal clot remained adherent despite\naggressive washing. One endoclip was successfully applied to the\nproximal adherent clot for the purpose of hemostasis.\n\n[**2192-12-20**] Flexible Sigmoidoscopy: The previously seen single\npedunculated 2 cm polyp was found in the distal sigmoid colon at\n20cm. The polyp was not bleeding.\nPoor bowel prep\n\n[**2192-12-16**] 08:43AM HEPARIN DEPENDENT ANTIBODIES    POSITIVE\n-\n[**2192-11-23**] 09:42PM   HEPARIN DEPENDENT ANTIBODIES       Negative\n\n\nBrief Hospital Course:\nMs. [**Known lastname 6515**] was admitted with abdominal pain and non occlusive\nSMA thrombus. She was put on a heparin gtt, plavix and aspirin\n325mg.  SHe was transfused for a low hct. Her pain resolved and\nshe was started on sips with close monitoring.  On [**11-24**] her\npain increased and she had a stat CTA which showed an unchanged\nappearance of SMA thrombus and no direct or indirect evidence of\nmesenteric ischemia. She was then pre-op'd and consented and\ntaken to the angio suite where she had:\n1. Ultrasound-guided puncture of left brachial artery.\n2. Catheterization of aorta.\n3. Abdominal aortogram with mesenteric angiography.\n4. Selective catheterization of superior mesenteric artery.\n5. Balloon angioplasty and stent of proximal superior\n    mesenteric artery.\n\nAt completion of the procedure, upon  removal of the wire, it\nwas noted there was extensive clot seen on the wire.  The\npatient had been receiving full heparin drip and was fully\nanticoagulated as well as having a therapeutic INR on Coumadin,\nas well as being on full-dose aspirin and Plavix prior to the\npresentation in the operating room.  This led to our decision to\nnot rebolus her with more heparin.  However, due to the nature\nof the clot that was seen on the wire upon exchange to the\n5-French short sheath, and then upon attempt to flush the short\nsheath we were not able to draw back, there was significant\nconcern for a clot in the brachial\nartery.  We therefore did a: Brachial artery cutdown with\nthrombectomy and primary repair.  ACS then did an exploratory\nlaparoscopy and found no evidence of bowel ischemia. Their ports\nwere closed and the patient was monitored closely.  She had\nrespiratory distress and was re-intubated and taken to the\nCVICU. Given her hypercoaguable state, heme was involved and she\nwas started on an argatroban gtt. She was extubated on [**11-25**] and\ndid well. She was transfused again for a falling hct. She\nremained hemodynamicaly stable and was transfered to the VICU\nand [**Month/Day (4) 8337**] a clear diet on [**11-25**].  She continued to make steady\nprogress , tolerating a regular diet, ambulating and voiding\nwhen her foley was removed. Her coumadin was restarted with an\nINR goal of 3.0-3.5 .  She continued to make progress but on [**12-2**]\nreported seeing blood on her toilet paper, after a bowel\nmovement and was found to be guiac positive. Her h/h had fallen\nand she was transfused for a hct of 25 on [**12-3**]. She responded\nappropriately but on [**12-4**] her hct was down to 25.1.  She\nreceived 1 unit prbc without much of a response and got another\n1 unit. By this point she was having melena and her hct\ncontinued to fall. GI was consulted on [**12-4**]. She was prepped\nappropriately and had an EGD on [**12-5**] which showed erosive\ngastritis in the stomach body and antrum. Then on [**12-6**] she had\ncolonoscopy which showed a 20 mm polyp which was treated with an\nendoloop. Her h/h was stable for several days, and her INR was\ntherapeutic and discharge planning was initiated.  On [**12-11**], her\nhct was drifting down. She was transfused appropriately but\ndidn't respond appropriately. She was still having melena.  GI\nwas monitoring the patient.  Her surgical issues were stable and\nthe decision was made to transfer the patient to the medicine\nteam for further monitoring and treatment.\n\nOn [**12-14**], we were called to the bedside by night merit team for\npersistent hypotension to the 70s. Reviewing vitals flowsheets\nplaces her BP in the 100 systolic range, though she repeatedly\ndropped into the upper 80s throughout the day.  As of 2300, her\nBP slipped into the 70s, though she continued to mentate\nnormally without lightheadedness, chest pain or pressure. She\nhas been having daily melenotic stools for the past few days.\nHer bp meds were stopped and she received a liter of NS and her\nfourth pRBC transfusion of the day with improvement of her SBP\nto 100-105.  After consulting with GI, decision made to transfer\nto MICU6 for endoscopy in the AM.  She has undergone 18 red cell\ntransfusions this admission. Her current INR was 4.3. In the\nMICU, the patient continued to have melena, but otherwise\nhemodynamically stable. An EGD was performed that showed\nfriability and erythema of the esophagus, stomach and duodenum.\nCautery was used to stop bleeding from the duodenal bulb. After\nEGD, the patient cotninued to have melena. She was maintained on\nher coumadin, plavix, aspirin, and heparin. The patient was then\ntransfered to the VICU for further management.\n\nMs. [**Known lastname 6515**] remained hemodynamically stable following transfer to\nthe VICU. Her hematocrit was routinely monitored and she was\ntransfused as needed for Hcts in the low - mid 20s.  Given the\npersistence of her melena, however, she underwent flexible\nsigmoidoscopy and EGD on [**2192-12-20**], the results of which were\nnotable only for a nonbleeding polyp in the sigmoid colon\n(previously seen on prior [**Last Name (un) **]) as well as some friability of\nthe duodenum which was clipped and injected with epinephrine.\nFollowing this procedure, Ms. [**Known lastname 6515**] [**Last Name (Titles) 8337**] her diet well.\n\nShe was transfered to the [**Last Name (Titles) 1106**] floor where she was monitored\nfor another week. She remained on an argatroban gtt until her\ntrue INR was >3.0 . On [**2192-12-27**] she was stable from a medical and\nsurgical standpoint. Her true INR wasd 3.3 and she was not\nhaving any melena or other GI symptoms.\n\nAt the time of discharge, Ms. [**Known lastname 6515**] was hemodynamically stable,\nmentating and ambulating at baseline, and with a stable\nhematocrit. Her INR is therapeutic and she is scheduled for very\nclose monitoring of her h/h and INR with her PCP. [**Name10 (NameIs) **] will also\nhave her BP monitored, and discuss restarting meds with her PCP.\n[**Name10 (NameIs) **] will be followed by her PCP, [**Name10 (NameIs) 1106**] surgery, hematology\nand GI. She has been instructed regarding her post-discharge\nplans and verbally expressed understanding and agreement with\nthese plans.\n\n\nMedications on Admission:\nHydroxyurea 1000mg daily\nValsartan/HCTZ 320/25 daily\nCrestor 10mg daily\nKCL 10mEq daily\nMetoprolol ER 50mg po daily\nFolic Acid 1mg po daily\nNeurontin 600mg po TID\n[**Name10 (NameIs) **] 81mg po daily\nPletal 100mg po BID\nCoumadin 5mg po Daily\n\nDischarge Medications:\n1. hydroxyurea 500 mg Capsule Sig: Two (2) Capsule PO DAILY\n(Daily).\n2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n3. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n4. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*11*\n5. sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times\na day).\nDisp:*120 Tablet(s)* Refills:*2*\n6. warfarin 7.5 mg Tablet Sig: One (1) Tablet PO once a day:\ncall PCP for refills.\nDisp:*30 Tablet(s)* Refills:*0*\n7. rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO once a day.\n\n8. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).\nDisp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*\n9. gabapentin 600 mg Tablet Sig: One (1) Tablet PO three times a\nday.\n10. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n11. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours) as needed for pain.\nDisp:*30 Tablet(s)* Refills:*0*\n12. acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q8H (every 8\nhours) as needed for pain.\n13. BLOOD PRESSURE MONITORING\nWe stopped all of your BP meds (valsartan/hctz and toprol xl).\nPlease have your blood pressure checked several times per week.\nFollow up with PCP regarding restarting your blood pressure meds\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPrimary:\n-Abdominal pain/ Mesenteric ischemia\n-Left Brachial artery emboli\n-GI bleed/ Erosive gastritis\n-Heparin Induced Thrombocytopenia\n\nSecondary:\nBilateral Lower extremity ischemia with pain\nHTN\nHyperlipidemia\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDivision of [**Name10 (NameIs) **] and Endovascular Surgery\nEndovascular Discharge Instructions\n\nYou were admitted with abdominal pain and had a complicated\nhospital course.  You had mesenteric ischemia and had a stent\nplaced in your superior mesenteric artery through a brachial\n(arm) sheath. After the procedure you were found to have a blood\nclot in your brachial artery, and had to have that surgically\nremoved. You then had an exploratory laparoscopy to evaluate for\ndead bowel. You had no evidence of this.  You remained in the\nhospital and were carefully anticoagulated.  You had concern for\nGI bleeding and had an endoscopy and colonoscopy by the GI team.\nThe egd (upper scope) showed erosive esophagitis which was\nthought to be the cause of bleeding. The colonoscopy showed a\npolyp in the sigmoid colon which was removed, and diverticulosis\nin the sigmoid colon. You were started on several new\nmedications including carafate and omeprazole.\n\nYour INR will continue to be followed by the Atrius anti-coag\nteam. You will follow up with Gastroenterology, [**Name10 (NameIs) **] surgery\nand hematology.\n\nMedications:\n??????\tTake Aspirin 325mg daily\n??????\tTake Plavix 75mg once daily.\n        Take Coumadin daily as directed - your INR goal is now\n3.0 - 3.5\nDo not stop Aspirin/Plavix/or Coumadin unless your [**Name10 (NameIs) **]\nSurgeon instructs you to do so.\n??????\tContinue all other medications you were taking before surgery,\nunless otherwise directed\n??????\tYou make take Tylenol or prescribed pain medications for any\npost procedure pain or discomfort\n\nWhat to expect when you go home:\nIt is normal to have slight swelling of the legs:\n??????\tElevate your leg above the level of your heart (use [**12-28**]\npillows or a recliner) every 2-3 hours throughout the day and at\nnight\n??????\tAvoid prolonged periods of standing or sitting without your\nlegs elevated\nIt is normal to feel tired and have a decreased appetite, your\nappetite will return with time\n??????\tDrink plenty of fluids and eat small frequent meals\n??????\tIt is important to eat nutritious food options (high fiber,\nlean meats, vegetables/fruits, low fat, low cholesterol) to\nmaintain your strength and assist in wound healing\n??????\tTo avoid constipation: eat a high fiber diet and use stool\nsoftener while taking pain medication\n\nWhat activities you can and cannot do:\n??????\tWhen you go home, you may walk and go up and down stairs\n??????\tYou may shower (let the soapy water run over groin incision,\nrinse and pat dry)\n??????\tYour incision may be left uncovered, unless you have small\namounts of drainage from the wound, then place a dry dressing or\nband aid over the area that is draining, as needed\n??????\tNo heavy lifting, pushing or pulling (greater than 5 lbs) for\n1 week (to allow groin puncture to heal)\n??????\tAfter 1 week, you may resume sexual activity\n??????\tAfter 1 week, gradually increase your activities and distance\nwalked as you can tolerate\n??????\tNo driving until you are no longer taking pain medications\n??????\tCall and schedule an appointment to be seen in [**3-1**] weeks for\npost procedure check and CTA\n\nWhat to report to office:\n??????\tNumbness, coldness or pain in lower extremities\n??????\tTemperature greater than 101.5F for 24 hours\n??????\tNew or increased drainage from incision or white, yellow or\ngreen drainage from incisions\n??????\tBleeding from groin puncture site\n\nSUDDEN, SEVERE BLEEDING OR SWELLING (Groin puncture site or\nincision)\n??????\tLie down, keep leg straight and have someone apply firm\npressure to area for 10 minutes. If bleeding stops, call\n[**Date Range 1106**] office. If bleeding does not stop, call 911 for\ntransfer to closest Emergency Room.\n\n\nFollowup Instructions:\nHEMATOLOGY:\n[**2193-1-18**] 1030am\n[**Telephone/Fax (1) 91089**]\n[**First Name4 (NamePattern1) 569**] [**Last Name (NamePattern1) **], MD\n[**First Name8 (NamePattern2) **] [**Last Name (Titles) **] CLINICAL CTR, [**Location (un) **]\nHEMATOLOGY/ONCOLOGY-SC\n\nPCP/INR FOLLOW UP:\nName: [**Last Name (LF) **],[**First Name3 (LF) **] M.\nLocation: [**Hospital1 641**]\nAddress: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 2260**]\nPhone: [**Telephone/Fax (1) 2261**]\nFax: [**Telephone/Fax (1) 6808**]\nShe will follow your INR and your CBC 2 x week for your GI\nbleed. Please go to get your labs drawn tomorrow, [**2192-12-28**].\nYour goal INR is 3-3.5\n\n[**Month/Day/Year **] SURGERY:\nProvider: [**Name10 (NameIs) **] LAB Phone:[**Telephone/Fax (1) 1237**] Date/Time:[**2193-1-22**]\n8:15\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1244**], MD Phone:[**Telephone/Fax (1) 1237**]\nDate/Time:[**2193-1-22**] 9:15\n\nGASTROENTEROLOGY:\n[**1-22**] 11am\n[**Hospital Unit Name 1825**] - [**Hospital Ward Name 516**] [**Location (un) 453**]\n([**Telephone/Fax (1) 2233**]\n\n\n\nCompleted by:[**2192-12-27**]"
+    }
+  ]
+}

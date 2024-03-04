@@ -1,0 +1,158 @@
+{
+  "hadm_id": 146121,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 44071,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 267,
+          "end": 270,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 303,
+          "end": 308,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Renal"
+        },
+        {
+          "begin": 318,
+          "end": 328,
+          "code": "A41.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other specified sepsis",
+          "type": "Human",
+          "covered_text": "Septicemia"
+        },
+        {
+          "begin": 1613,
+          "end": 1656,
+          "code": "I12.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "Hypertension\n3) Chronic renal insufficiency"
+        },
+        {
+          "begin": 1629,
+          "end": 1656,
+          "code": "N18.3",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, stage 3 (moderate)",
+          "type": "Human",
+          "covered_text": "Chronic renal insufficiency"
+        },
+        {
+          "begin": 1679,
+          "end": 1693,
+          "code": "M19.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified osteoarthritis, unspecified site",
+          "type": "Human",
+          "covered_text": "Osteoarthritis"
+        },
+        {
+          "begin": 1735,
+          "end": 1754,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 1773,
+          "end": 1790,
+          "code": "R32",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified urinary incontinence",
+          "type": "Human",
+          "covered_text": "Urge incontinence"
+        },
+        {
+          "begin": 1810,
+          "end": 1829,
+          "code": "H26.9",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified cataract",
+          "type": "Human",
+          "covered_text": "Bilateral cataracts"
+        },
+        {
+          "begin": 1890,
+          "end": 1900,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 12751,
+          "end": 12760,
+          "code": "N18.3",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, stage 3 (moderate)",
+          "type": "Human",
+          "covered_text": "CKD Stage"
+        },
+        {
+          "begin": 13017,
+          "end": 13035,
+          "code": "E87.2",
+          "code_system": "ICD-10-CM",
+          "description": "Acidosis",
+          "type": "Human",
+          "covered_text": "Metabolic Acidosis"
+        },
+        {
+          "begin": 13298,
+          "end": 13314,
+          "code": "G40.909",
+          "code_system": "ICD-10-CM",
+          "description": "Epilepsy, unspecified, not intractable, without status epilepticus",
+          "type": "Human",
+          "covered_text": "Seizure disorder"
+        },
+        {
+          "begin": 14972,
+          "end": 14978,
+          "code": "B49",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified mycosis",
+          "type": "Human",
+          "covered_text": "Fungal"
+        },
+        {
+          "begin": 14983,
+          "end": 14997,
+          "code": "N10",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pyelonephritis",
+          "type": "Human",
+          "covered_text": "Pyelonephritis"
+        },
+        {
+          "begin": 15087,
+          "end": 15106,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial Fibrillation"
+        }
+      ],
+      "text": "Admission Date:  [**2153-6-11**]              Discharge Date:   [**2153-6-19**]\n\n\nService: MEDICINE\n\nAllergies:\nAzulfidine / Penicillins / Aspirin / Allopurinol / Dilantin /\nTegretol / Keppra / Trileptal\n\nAttending:[**First Name3 (LF) 1973**]\nChief Complaint:\nFungal UTI, Infected Renal Calculus, Acute Renal Failure,\nSepticemia\n\nMajor Surgical or Invasive Procedure:\nPercutaneous Nephrostomy Tube\n\nHistory of Present Illness:\n88 year old female transferred from [**Hospital3 **] with\nchief complaint of persistent acidosis in spite of more\naggressive treatment of UTI. On [**5-27**] Urine culture grew\nKlebsiella pneumonea and E.Coli. She received 10 days\nciprofloxacin PO.\n\nOn [**6-8**] they started ceftriaxone IV. On [**6-11**] ordered for\nVancomycin but did not receive (remote [**11/2152**] U/C MRSA). Also\nnoted to have CO2: 12 (had been 16-20 lately). ABG at HRC\n7.31/27/94, HCO2 13.6/total CO2 14.4. She has not had any fever\nin past week but continued to have dysuria, malaise and failure\nto thrive.\n\nShe was recently ([**Date range (1) 32334**]/09) admitted to [**Hospital1 18**] for epistaxis &\nvaginal bloody discharge on ASA; now off ASA and no more\nepistaxis/?vaginal blood. Also has had ARF at HR responding to\nIVF. Vaginal U/S that admit (patient declined vaginal u/S)\nshowed bilateral renal calculi- largest right 1.2 cm with\nprominent renal pelvis and no hydronephrosis.\n\nED Course: Labs consistent with metabolic acidosis, ARF. She got\nIVF and IV Vancomycin. Her urine cultures at that time grew out\nyeast.\n\n\nPast Medical History:\n1) Ulcerative colitis, status post colostomy in [**2132**]\n2) Hypertension\n3) Chronic renal insufficiency (baseline 1.4-2.0)\n4) Osteoarthritis\n5) History of Seizures, on topiramate\n6) Atrial fibrillation, on amiodarone\n7) Urge incontinence, on tolterodine\n8) Bilateral cataracts\n9) History of microscopic hematuria\n10) Nephrolithiasis\n11) Depression\n12) Renal cysts\n\nSocial History:\nLives at [**Hospital 100**] Rehab. Smoked 2 packs per week many years ago.\nNo smoking currently, no etoh, no IVDU.\nDaughters: [**Name2 (NI) **] [**Telephone/Fax (3) 94605**]\n[**Doctor First Name **] [**Telephone/Fax (1) 94606**], [**Telephone/Fax (1) 94607**]\n\n\nFamily History:\nnon contributory\n\nPhysical Exam:\nVSS: 98, 78, 22, 127/72, 96/RA\nGEN: appears lethargic, drowsy, although answers appropriately\nPain: 0/0\nHEENT: EOMI, MMM, - OP Lesions\nPUL: CTA B/L\nCOR: RRR, S1/S2, - MRG\nABD: diffuse tenderness, colostomy bag present draining copius\nclear fluid\nEXT: - CCE\nNephrostomy CDI\nMidline CDI\nNEURO: lethargic, open eyes to commands, able to communicate,\noriented atleast x2; able to lift all extremities\n\n\nPertinent Results:\n[**2153-6-19**] 06:25AM BLOOD WBC-10.1 RBC-3.03* Hgb-9.0* Hct-29.4*\nMCV-97 MCH-29.7 MCHC-30.6* RDW-15.9* Plt Ct-288\n[**2153-6-18**] 09:15AM BLOOD WBC-16.5* RBC-3.11* Hgb-9.5* Hct-29.7*\nMCV-95 MCH-30.7 MCHC-32.1 RDW-15.6* Plt Ct-276\n[**2153-6-17**] 07:53AM BLOOD WBC-26.3* RBC-2.97* Hgb-9.1* Hct-28.1*\nMCV-95 MCH-30.5 MCHC-32.3 RDW-15.8* Plt Ct-269\n[**2153-6-16**] 03:50AM BLOOD WBC-29.9* RBC-2.89* Hgb-8.6* Hct-27.1*\nMCV-94 MCH-29.9 MCHC-31.8 RDW-16.0* Plt Ct-273\n[**2153-6-15**] 05:35PM BLOOD WBC-39.7* RBC-3.08* Hgb-9.5* Hct-29.2*\nMCV-95 MCH-31.0 MCHC-32.7 RDW-15.4 Plt Ct-297\n[**2153-6-15**] 03:15PM BLOOD WBC-37.5* RBC-3.19* Hgb-9.9* Hct-31.0*\nMCV-97 MCH-30.9 MCHC-31.8 RDW-15.8* Plt Ct-287\n[**2153-6-15**] 01:20PM BLOOD WBC-41.0*# RBC-3.31* Hgb-10.2* Hct-31.5*\nMCV-95 MCH-30.7 MCHC-32.3 RDW-15.5 Plt Ct-279\n[**2153-6-14**] 06:20AM BLOOD WBC-9.2 RBC-3.54* Hgb-10.7* Hct-33.3*\nMCV-94 MCH-30.4 MCHC-32.3 RDW-15.8* Plt Ct-325\n[**2153-6-13**] 09:52AM BLOOD WBC-9.4 RBC-3.99* Hgb-12.1 Hct-36.8\nMCV-92 MCH-30.3 MCHC-32.9 RDW-16.1* Plt Ct-387\n[**2153-6-12**] 06:25AM BLOOD WBC-9.8 RBC-3.33* Hgb-10.4* Hct-31.4*\nMCV-95 MCH-31.3 MCHC-33.1 RDW-16.2* Plt Ct-353\n[**2153-6-11**] 07:52PM BLOOD WBC-9.9 RBC-3.71* Hgb-11.1* Hct-35.3*\nMCV-95 MCH-30.0 MCHC-31.5 RDW-15.7* Plt Ct-443*\n[**2153-6-11**] 06:50PM BLOOD WBC-10.9 RBC-3.90*# Hgb-11.8*# Hct-37.4#\nMCV-96 MCH-30.3 MCHC-31.6 RDW-15.6* Plt Ct-421\n[**2153-6-17**] 07:53AM BLOOD Neuts-90.7* Lymphs-5.7* Monos-2.9 Eos-0.6\nBaso-0.1\n[**2153-6-16**] 03:50AM BLOOD Neuts-94.1* Lymphs-2.8* Monos-2.9 Eos-0.1\nBaso-0\n[**2153-6-19**] 06:25AM BLOOD PT-17.2* PTT-41.6* INR(PT)-1.5*\n[**2153-6-18**] 09:15AM BLOOD PT-16.8* PTT-44.0* INR(PT)-1.5*\n[**2153-6-17**] 07:53AM BLOOD PT-17.9* PTT-44.5* INR(PT)-1.6*\n[**2153-6-15**] 05:35PM BLOOD PT-17.5* INR(PT)-1.6*\n[**2153-6-19**] 06:25AM BLOOD Glucose-105 UreaN-41* Creat-1.7* Na-137\nK-3.6 Cl-102 HCO3-20* AnGap-19\n[**2153-6-18**] 09:15AM BLOOD Glucose-88 UreaN-36* Creat-1.7* Na-136\nK-3.6 Cl-105 HCO3-19* AnGap-16\n[**2153-6-17**] 07:53AM BLOOD Glucose-105 UreaN-33* Creat-1.7* Na-140\nK-3.7 Cl-109* HCO3-20* AnGap-15\n[**2153-6-16**] 03:50AM BLOOD Glucose-125* UreaN-32* Creat-2.0* Na-139\nK-3.1* Cl-107 HCO3-20* AnGap-15\n[**2153-6-14**] 06:20AM BLOOD Glucose-107* UreaN-36* Creat-2.5* Na-134\nK-4.3 Cl-98 HCO3-23 AnGap-17\n[**2153-6-11**] 07:52PM BLOOD Glucose-106* UreaN-37* Creat-3.0* Na-128*\nK-4.0 Cl-100 HCO3-11* AnGap-21*\n[**2153-6-11**] 06:50PM BLOOD Glucose-112* UreaN-37* Creat-3.2*#\nNa-130* K-4.2 Cl-99 HCO3-14* AnGap-21*\n[**2153-6-18**] 09:15AM BLOOD ALT-33 AST-34 AlkPhos-116 TotBili-0.4\n[**2153-6-15**] 03:15PM BLOOD ALT-34 AST-128* LD(LDH)-454* AlkPhos-89\nTotBili-0.5\n[**2153-6-14**] 06:20AM BLOOD ALT-17 AST-28 AlkPhos-75 Amylase-91\nTotBili-0.2\n[**2153-6-14**] 06:20AM BLOOD Lipase-33\n[**2153-6-19**] 06:25AM BLOOD Calcium-9.7 Phos-2.5* Mg-2.3\n[**2153-6-18**] 09:15AM BLOOD Albumin-2.7* Calcium-9.3 Phos-2.3* Mg-2.4\n[**2153-6-12**] 08:45AM BLOOD Vanco-15.5\n[**2153-6-15**] 03:54PM BLOOD Type-[**Last Name (un) **] pH-7.52* Comment-GREEN TOP\n[**2153-6-15**] 03:54PM BLOOD Lactate-2.9*\n[**2153-6-11**] 08:10PM BLOOD Glucose-105 Lactate-2.2* Na-137 K-4.1\nCl-104 calHCO3-11*\n[**2153-6-14**] 03:13PM URINE Color-Yellow Appear-Cloudy Sp [**Last Name (un) **]-1.025\n[**2153-6-13**] 09:51AM URINE Color-Yellow Appear-Cloudy Sp [**Last Name (un) **]-1.016\n[**2153-6-11**] 08:00PM URINE Color-Yellow Appear-Cloudy Sp [**Last Name (un) **]-1.012\n[**2153-6-14**] 03:13PM URINE Blood-LG Nitrite-NEG Protein-300\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG\n[**2153-6-13**] 09:51AM URINE Blood-MOD Nitrite-NEG Protein-100\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG\n[**2153-6-11**] 08:00PM URINE Blood-LG Nitrite-NEG Protein-30\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-MOD\n[**2153-6-14**] 03:13PM URINE RBC-0 WBC->1000* Bacteri-MOD Yeast-NONE\nEpi-0\n[**2153-6-13**] 09:51AM URINE RBC-42* WBC->1000* Bacteri-NONE\nYeast-NONE Epi-0\n[**2153-6-11**] 08:00PM URINE RBC-0 WBC->50 Bacteri-MOD Yeast-NONE\nEpi-0\n\n[**2153-6-16**] 10:08 am STOOL     CONSISTENCY: WATERY      Source:\nStool.\n                            **FINAL REPORT [**2153-6-17**]**\n   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2153-6-17**]):\n      Feces negative for C.difficile toxin A & B by EIA.\n           (Reference Range-Negative).\n\n      URINE      NEPHROSTOMY TUBE (CUP).\n                            **FINAL REPORT [**2153-6-17**]**\nGRAM STAIN (Final [**2153-6-16**]):\n      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR\nLEUKOCYTES.\n      1+    (<1 per 1000X FIELD):   BUDDING YEAST.\nURINE CULTURE (Final [**2153-6-17**]):\n      YEAST.    10,000-100,000 ORGANISMS/ML..\n\n[**2153-6-15**] 5:00 pm BLOOD CULTURE ( MYCO/F LYTIC BOTTLE)\n   BLOOD/FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.\n   BLOOD/AFB CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.\n\n[**2153-6-15**] 3:15 pm BLOOD CULTURE      1 OF 2.\n   Blood Culture, Routine (Pending):\n\n[**2153-6-15**] 3:48 am STOOL     CONSISTENCY: LOOSE      Source:\nStool.\n                            **FINAL REPORT [**2153-6-16**]**\n   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2153-6-16**]):\n      Feces negative for C.difficile toxin A & B by EIA.\n           (Reference Range-Negative).\n\n[**2153-6-14**] 5:06 pm STOOL     CONSISTENCY: WATERY\n                            **FINAL REPORT [**2153-6-16**]**\n   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2153-6-15**]):\n      Feces negative for C.difficile toxin A & B by EIA.\n           (Reference Range-Negative).\n   FECAL CULTURE (Final [**2153-6-16**]):\n      NO ENTERIC GRAM NEGATIVE RODS FOUND.\n      NO SALMONELLA OR SHIGELLA FOUND.\n   CAMPYLOBACTER CULTURE (Final [**2153-6-16**]):    NO CAMPYLOBACTER\nFOUND.\n\n[**2153-6-14**] 3:13 pm URINE      Source: Catheter.\n                            **FINAL REPORT [**2153-6-15**]**\n   URINE CULTURE (Final [**2153-6-15**]):\n      YEAST.    10,000-100,000 ORGANISMS/ML..\n\n[**2153-6-11**] 7:52 pm BLOOD CULTURE\n                            **FINAL REPORT [**2153-6-17**]**\n   Blood Culture, Routine (Final [**2153-6-17**]):    NO GROWTH.\n\nRENAL U.S. Study Date of [**2153-6-12**] 2:04 PM\nIMPRESSION:\n1. Bilateral extensive nephrolithiasis, appearing greatest on\nthe left as\nabove with evidence of left renal obstruction. No right\nhydronephrosis.\n2. Suboptimal assessment of the urinary bladder.\n\n\nCHEST (PORTABLE AP) Study Date of [**2153-6-12**] 5:46 PM\nIMPRESSION: No pneumonia or evidence of CHF.\n\n\nCT PELVIS W/O CONTRAST Study Date of [**2153-6-13**] 3:05 PM\nIMPRESSION:\n1. Extensive bilateral nephrolithiasis, most severe on the left\nwith a\nstaghorn calculus and consequent obstruction, overall similar to\nan ultrasound done one day earlier.\n2. Marked atherosclerotic calcification.\n3. Prominent loops of small bowel and collapsed ileum entering\nthe ileostomy. Recommend close monitoring of ostomy output for\nsigns of possible partial small bowel obstruction.\n4. Small hepatic hypodensities likely cysts and hyperdensities,\npossibly\ncalcified granulomas.\n5. Hyperdense gallbladder material, possibly sludge.\n\nPORTABLE ABDOMEN Study Date of [**2153-6-14**] 8:04 AM\nIMPRESSION: Air in loops of small and large bowel without\nevidence for ileus or obstruction. There is no free air given\nlimitation of supine technique.\n\nRENAL SCAN Study Date of [**2153-6-15**]\nIMPRESSION: Differential renal function demonstrated with the\nleft kidney\nperforming 18% of total renal function and the right performing\n82%. There is a large renal pelvis on the right, but there is\nprompt washout from the pelvis after administration of lasix.\n\n\nINTRO CATH TO PELVIS FOR DRAINAGE AND INJ Study Date of [**2153-6-15**]\n6:23 PM\nIMPRESSION:\n1. Large stone in the left renal collecting system.\n2. Dilatation of the upper pole calices, containing pus.\n3. Uncomplicated ultrasound and fluoroscopically guided left\nnephrostomy tube placement.\n\nPORTABLE ABDOMEN Study Date of [**2153-6-16**] 5:11 AM\nABDOMEN, SUPINE AND UPRIGHT: Comparison is made to the two days\nearlier.\nA left-sided percutaneous nephrostomy tube has been placed since\nthe prior\nstudy. A nasogastric tube terminates in the stomach, but a\nleading sidehole is likely within the distal esophagus.\nAdvancement of the tube by several centimeters would lead to\nmore optimal placement. There is moderate persistent distention\nof small bowel loops, little changed since both films from the\nprior day, and non-specific as to etiology.\n\n\n\nBrief Hospital Course:\n[**Hospital Unit Name 153**] [**Date range (1) 30784**] - Pt was admitted to the [**Hospital Unit Name 153**] s/p left\npercutaneous nephrostomy due to high risk of hemodynamic\ninstability with active infection and markedly elevated WBC.  Pt\nwas recieved to the unit with stable vitals and no complaints.\nshe was placed on IV fluids and monitered.  There were no\novernight events, electrolytes were replaced and she was\ntransferred back to the floor with stable vital signs and\nimprovement in WBC.\n\n# Septicemia, Fungal UTI, Obstructing Renal Calculus,\nLeukocytosis\n- Cultures of the urine, including from the percutaneous\nnephrostomy tube have repeatedly grown yeast, and although never\nspeciated clinical there was impressive effect from diflucan,\nwith resolution of her leukocytosis. She had a brief stay in the\nICU, but rapidly improved. Initially in the [**Hospital Unit Name 153**] she was started\non cefepime, vancomycin, mtronidazole and floconazole, but\nnothing other than yeast was ever isolated, so other than\ndiflucan these were stopped.\n- Urology was consulted and a percutaneous nephrostomy tube was\ninserted. After insertion, the urology team was deciding between\na nephrectomy versus lithotripsy. Both of these would be high\nrisk in this patient. It was noted that the stone appears\nradiolucent on xray, so there is a thought this is a uric acid\nstone; the patient was started on bicitra to dissolve the stone.\nThe plan is 6 weeks of bictra then followup CT, with plan that\nif stone is dissolving then continue current therapy, but if\nnot, then patient will require intervention, likely lithotripsy.\n\n# Acute Renal Failure on CKD Stage III:\n- This is likely multifactorial given her obstructing renal\ncalculus. It improved with the nephrostomy and hydration. At\ntime of discharge she was at her baseline.\n- Given decision of what to do with the stone, a renal scan was\nperformed as above.\n\n# Metabolic Acidosis: in setting of ARF\n- IV hydration with bicarb drip with resolution in ICU\n\n# Hypoxemia: developed mild O2 requirement while on floor (was\nalso getting IVF). Reports of hypoxia at rehab, this had\nresolved by time of discharge and was likely due to septicemia.\n\n# Seizure disorder:\n- cont topiramate 50 [**Hospital1 **]\n- cont neurontin for now (Neurontin may also be contributing to\nher lethargy in the setting of ARF), however this can be\naddressed by Dr. [**Last Name (STitle) **] at [**Hospital1 1501**].\n\n# Atrial fibrillation: Continued amiodarone 200, (deemed not a\ncandidate for coumadin in past, not on ASA given vaginal\nbleed/epistaxis). Well controlled.\n\n# Access: Midline\n.\n#. Code - DNR/DNI (ok to intubate in case of status epilepticus)\n.\n#. Communication -  [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] (daughter) is [**Name (NI) 3508**] cell\n[**Telephone/Fax (1) **].\n\nMedications on Admission:\nCeftriaxone IV 1 GM daily\nTopiramate 50mg [**Hospital1 **]\ntylenol\nAmiodarone 200mg daily\nRemeron 15mg QHS\nArtificial Tears\nGabapentin 1600mg TID\nPsyllium 1 scoop tid\nCholecalciferol 1000unit daily\n\nDischarge Medications:\n1. Topiramate 25 mg Tablet Sig: Two (2) Tablet PO BID (2 times a\nday).\n2. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n3. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime).\n4. Gabapentin 400 mg Capsule Sig: Four (4) Capsule PO TID (3\ntimes a day).\n5. Fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every\n24 hours) for 4 days.\n6. Sodium Citrate-Citric Acid 500-300 mg/5 mL Solution Sig:\nThirty (30) ML PO TID (3 times a day).\n7. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: Ten (10) ML\nIntravenous once a day as needed for line flush.\n8. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)\nunits Injection TID (3 times a day).\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 459**] for the Aged - LTC\n\nDischarge Diagnosis:\nFungal UTI\nPyelonephritis\nRenal Calculi\nSepticemia - Fungal\nLeukocytosis\nStage III Chronic Kidney Disease\nEpilepsy\nAtrial Fibrillation\n\nDischarge Condition:\nGood\n\nDischarge Instructions:\nYou are being discharged with a very large kidney stone in\nplace, along with a nephrostomy tube in place to drain the urine\naround the stone. We are trying to dissolve the stone with a\nmedication. This medication can affect your electrolytes, so\nwill need to be closely monitored.\n\nYou will need a cat scan in 6 weeks to assess.\n\nYou need to eat carefully, as you have a high-risk of aspirating\nfood into your lung which can cause pneumonia.\n\nYou are going on a medication called Fluconazole which is an\nantibiotic to treat the infection you had in the kidney. You\nmust complete the course of this medication.\n\nFollowup Instructions:\nProvider: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D. Phone:[**Telephone/Fax (1) 3506**]\nDate/Time:[**2153-9-11**] 10:30\n\nCT Scan Pelvis with/without contrast in 6 weeks with results to\nurology\n\n\n"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "hadm_id": 108939,
+  "comment": "EGD/Colonoscopy report not present- unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 476597,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 5306,
+          "end": 5330,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Iron Deficiency Anemia -"
+        }
+      ],
+      "text": "Chief Complaint:  GIB\n   HPI:\n   The patient is a 54y/o F with a PMH of H. pylori and depression\n   admitted with DOE and anemia with HCT of 19. The patient noted onset of\n   DOE over the past two days, with worsening so that she was unable to\n   ambulate without significant difficultly over the past 24 hours. She\n   noted black stools yesterday. Denies previous recent history of\n   bleeding. She underwent a routine screening colonoscopy in [**2134**] which\n   demonstrated grade 1 internal hemorrhoids.\n   .\n   In the ED, initial vitals T 98.2, HR 80, BP 119/75, RR 16, O2 100% RA.\n   On exam she was found to have dark, guaiac + stools. NG lavage\n   negative. 2 18 guage PIV were placed. She was transfused 1U PRBC.\n   .\n   On arrival to the MICU, the patient is resting comfortably, in NAD.\n   Denies current CP/SOB. The GI performed an upper endoscopy on arrival\n   to the MICU which demonstrated a large polyp with no evidence of\n   current bleeding. Intervention was deferred overnight for planned\n   excision and biopsy with EUS.\n   Patient admitted from: [**Hospital1 19**] ER\n   History obtained from Patient, Family / [**Hospital 75**] Medical records\n   Allergies:\n   Iodine\n   Anaphylaxis;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Midazolam (Versed) - [**2137-8-12**] 09:20 PM\n   Fentanyl - [**2137-8-12**] 09:20 PM\n   Pantoprazole (Protonix) - [**2137-8-12**] 10:00 PM\n   Other medications:\n   Home Medications: Bupropion HCl 200 mg Tablet SR daily\n   Citalopram 20 mg Tablet daily\n   Lorazepam 0.5 mg Tablet one half to one Tablet(s) by mouth @ hs no more\n   than 3 nights per week\n   Ferrous Sulfate 325 mg (65 mg Iron) Tablet [**Hospital1 7**]\n   Multivitamin Tablet 1 Tablet(s) by mouth daily (OTC)\n   Past medical history:\n   Family history:\n   Social History:\n   Melanoma in-situ, lentigo maligna type - L cheeck [**2133**]\n   Depression\n   H. Pylori\n   Nephew with [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 9372**] deficiency\n   Occupation:\n   Drugs:\n   Tobacco:\n   Alcohol:\n   Other: The patient is married and has one teenage son. She runs the\n   Gift Shop at [**Hospital1 19**]. The patient denies tobacco, EtOH, IVDU. Denies over\n   the counter herbal supplements.\n   Review of systems:\n   Constitutional: Fatigue\n   Respiratory: Dyspnea\n   Flowsheet Data as of [**2137-8-12**] 10:31 PM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.8\nC (98.3\n   Tcurrent: 36.7\nC (98.1\n   HR: 72 (72 - 102) bpm\n   BP: 102/63(67) {93/50(62) - 117/69(80)} mmHg\n   RR: 12 (12 - 18) insp/min\n   SpO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n           Total In:\n           408 mL\n   PO:\n           TF:\n   IVF:\n   35 mL\n   Blood products:\n   373 mL\n   Total out:\n                                                                      0 mL\n                                                                    300 mL\n   Urine:\n   300 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                    108 mL\n   Respiratory\n   O2 Delivery Device: None\n   SpO2: 98%\n   Physical Examination\n   Vitals: T: 98.3  BP: 112/62  P: 86 R: 13 O2: 100% RA\n   General: Alert, oriented, no acute distress\n   HEENT: Sclera anicteric, MMM, oropharynx clear\n   Neck: supple, JVP not elevated, no LAD\n   Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi\n   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops\n   Abdomen: soft, non-tender, non-distended, bowel sounds present, no\n   rebound tenderness or guarding, no organomegaly\n   Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema\n   .\n   Labs / Radiology\n   211\n   6.8\n   87\n   0.8\n   20\n   25\n   108\n   3.7\n   141\n   20.4\n   5.5\n        [image002.jpg] AST 20 ALT 13 AP 57\n   Endoscopy [**8-12**] - A single 2.2mm non-bleeding polyp of benign appearance\n   was found in the second part of the duodenum on wall opposite ampulla.\n   The top of the polyp was ulcerated. Impression: Polyp in the second\n   part of the duodenum on wall opposite ampulla\n   Otherwise normal EGD to third part of the duodenum\n   Assessment and Plan\n   Assessment and Plan: This is a 54y/o F with a PMH of H. pylori and\n   depression presenting with DOE and found to have GIB with HCT of 18.9.\n   Urgent endoscopy demonstrated evidence of an ulcerated duodenal polyp\n   with no evidence of active bleeding\n   .\n   # Upper GI bleed secondary to ulcerated duodenal polyp - Pt found to\n   have an ulcerated polyp in the second part of the duodenum. No evidence\n   of active bleeding. Unable to perform polypectomy at the time of urgent\n   scope. Pt presenting with likely slow bleeding given time frame of\n   symptoms of dyspnea. Had colonoscopy in [**2134**] demonstrating only\n   internal hemorrhoids, source of bleed most likely secondary to\n   ulcerated polyp\n   - Plan for repeat EGD with polypectomy, possible utilizatoin of EUS\n   - Will transfuse a total of 3U PRBC tonight\n   - Trend HCT Q8\n   - Continue IV PPI [**Hospital1 7**]\n   - Clear diet, NPO in am for possible procedure\n   .\n   # Iron Deficiency Anemia - Patient has a history of menorrhagia and now\n   found to have upper GI bleed source\n   - will hold po iron supplementation\n   - transfuse PRBC\n   - can restart iron on discharge\n   .\n   # FEN: monitor electrolytes, clear liquids overnight\n   .\n   ICU Care\n   Nutrition:\n   Comments: Clear liquids\n   Glycemic Control:\n   Lines:\n   Comments: 2 18 guage PIV\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds  Comments:\n   Code status: Full code\n   Disposition: ICU\n"
+    },
+    {
+      "note_id": 4708,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1120,
+          "end": 1147,
+          "code": "30233N1",
+          "code_system": "ICD-10-PCS",
+          "description": "Transfusion of Nonautologous Red Blood Cells into Peripheral Vein, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "She was transfused\n1U PRBC."
+        },
+        {
+          "begin": 1663,
+          "end": 1680,
+          "code": "Z85.820",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of malignant melanoma of skin",
+          "type": "Human",
+          "covered_text": "Melanoma in-situ,"
+        },
+        {
+          "begin": 4317,
+          "end": 4320,
+          "code": "0DJ08ZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Inspection of Upper Intestinal Tract, Via Natural or Artificial Opening Endoscopic",
+          "type": "Human",
+          "covered_text": "EGD"
+        },
+        {
+          "begin": 4662,
+          "end": 4673,
+          "code": "0DJD8ZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Inspection of Lower Intestinal Tract, Via Natural or Artificial Opening Endoscopic",
+          "type": "Human",
+          "covered_text": "Colonoscopy"
+        },
+        {
+          "begin": 4703,
+          "end": 4731,
+          "code": "K64.8",
+          "code_system": "ICD-10-CM",
+          "description": "Other hemorrhoids",
+          "type": "Human",
+          "covered_text": "Grade 1 internal hemorrhoids"
+        },
+        {
+          "begin": 5735,
+          "end": 5762,
+          "code": "K31.811",
+          "code_system": "ICD-10-CM",
+          "description": "Angiodysplasia of stomach and duodenum with bleeding",
+          "type": "Human",
+          "covered_text": "angioectasia in the stomach"
+        },
+        {
+          "begin": 5852,
+          "end": 5863,
+          "code": "0DB98ZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Excision of Duodenum, Via Natural or Artificial Opening Endoscopic",
+          "type": "Human",
+          "covered_text": "polypectomy"
+        },
+        {
+          "begin": 7233,
+          "end": 7247,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "Upper GI bleed"
+        },
+        {
+          "begin": 7248,
+          "end": 7271,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Acute blood loss anemia"
+        },
+        {
+          "begin": 7272,
+          "end": 7286,
+          "code": "K31.7",
+          "code_system": "ICD-10-CM",
+          "description": "Polyp of stomach and duodenum",
+          "type": "Human",
+          "covered_text": "Duodenal polyp"
+        },
+        {
+          "begin": 7287,
+          "end": 7297,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 7452,
+          "end": 7478,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "anemia, due to blood loss."
+        }
+      ],
+      "text": "Admission Date:  [**2137-8-12**]              Discharge Date:   [**2137-8-16**]\n\nDate of Birth:  [**2083-1-19**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nIodine\n\nAttending:[**First Name3 (LF) 2009**]\nChief Complaint:\nGIB\n\nMajor Surgical or Invasive Procedure:\nEGD\n\nHistory of Present Illness:\nThe patient is a 54y/o woman with a PMH of H. pylori and\ndepression admitted with DOE and anemia with HCT of 19. The\npatient noted onset of DOE 2 days prior to presentation, with\nworsening so that she was unable to ambulate without significant\ndifficultly over the past 24 hours. She noted black stools 24\nhours prior to presentation. Denies previous recent history of\nbleeding. She underwent a routine screening colonoscopy in [**2134**]\nwhich demonstrated grade 1 internal hemorrhoids. She denies any\nother bleeding (urine, gums). She denies weight changes, fevers,\nchills, night sweats. She has nto had any bowel movements since\nadmission.\n\nIn the ED, initial vitals T 98.2, HR 80, BP 119/75, RR 16, O2\n100% RA. On exam she was found to have dark, guaiac + stools. NG\nlavage negative. 2 18 guage PIV were placed. She was transfused\n1U PRBC.\n\nOn arrival to the MICU, the patient is resting comfortably, in\nNAD. Denies current CP/SOB. The GI performed an upper endoscopy\non arrival to the MICU which demonstrated a large polyp with no\nevidence of current bleeding. Intervention was deferred\novernight for planned excision and biopsy with EUS. She was\ntransfused 3 units PRBC's with appropriate improvement in her\nhct and has been hemodynamically stable in the ICU.\n\n10 point review of systems otherwise negative except as noted\nabove.\n\nPast Medical History:\nMelanoma in-situ, lentigo maligna type - L cheeck [**2133**]\nDepression\nH. Pylori\n\n\nSocial History:\nThe patient is married and has one teenage son. She runs the\nGift Shop at [**Hospital1 18**]. The patient denies tobacco, EtOH, IVDU.\nDenies over the counter herbal supplements.\n\nFamily History:\nNephew with [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 19839**] deficiency\n\nPhysical Exam:\nVS: T 97.3 HR 59 BP 102/69 RR 18 Sat 99% RA\nGen: wll appearing woman in NAD\nEye: extra-occular movements intact, pupils equal round,\nreactive to light, sclera anicteric, not injected, no exudates,\nconjunctiva pink\nENT: mucus membranes moist, no ulcerations or exudates\nNeck: no thyromegally, JVD: flat\nCardiovascular: regular rate and rhythm, normal s1, s2, no\nmurmurs, rubs or gallops\nRespiratory: Clear to auscultation bilaterally, no wheezes,\nrales or rhonchi\nAbd: Soft, non tender, non distended, no heptosplenomegally,\nbowel sounds present\nExtremities: No cyanosis, clubbing, edema, joint swelling\nNeurological: Alert and oriented x3, CN II-XII intact, normal\nattention, sensation normal, asterixis absent, speech fluent,\nDTR's 2+ patellar, achilles, biceps, triceps, brachioradialis\nbilaterally, babinski down-going bilaterally\nIntegument: Warm, moist, no rash or ulceration\nPsychiatric: appropriate, pleasant, not anxious\nHematologic: no cervical or supraclavicular LAD\n\n\nPertinent Results:\n[**2137-8-12**] 05:57PM   COMMENTS-GREEN TOP\n[**2137-8-12**] 05:57PM   HGB-7.8* calcHCT-23\n[**2137-8-12**] 05:50PM   GLUCOSE-87 UREA N-20 CREAT-0.8 SODIUM-141\nPOTASSIUM-3.7 CHLORIDE-108 TOTAL CO2-25 ANION GAP-12\n[**2137-8-12**] 05:50PM   WBC-5.5 RBC-2.22* HGB-6.8* HCT-20.4* MCV-92\nMCH-30.8 MCHC-33.4 RDW-14.0\n[**2137-8-12**] 05:50PM   NEUTS-68.4 LYMPHS-24.4 MONOS-5.5 EOS-1.4\nBASOS-0.2\n[**2137-8-12**] 05:50PM   PLT COUNT-211\n[**2137-8-12**] 05:50PM   PT-11.3 PTT-21.8* INR(PT)-0.9\n[**2137-8-12**] 01:46PM   GLUCOSE-95\n[**2137-8-12**] 01:46PM   UREA N-23* CREAT-0.8 SODIUM-141 POTASSIUM-4.4\nCHLORIDE-109* TOTAL CO2-29 ANION GAP-7*\n[**2137-8-12**] 01:46PM   estGFR-Using this\n[**2137-8-12**] 01:46PM   ALT(SGPT)-13 AST(SGOT)-20 ALK PHOS-57 TOT\nBILI-0.2\n[**2137-8-12**] 01:46PM   WBC-3.9* RBC-2.13*# HGB-6.4*# HCT-18.9*#\nMCV-92 MCH-30.0 MCHC-32.8 RDW-14.1\n[**2137-8-12**] 01:46PM   NEUTS-64.6 LYMPHS-24.2 MONOS-8.8 EOS-1.9\nBASOS-0.5\n[**2137-8-12**] 01:46PM   PLT COUNT-177\n[**2137-8-12**] 01:46PM   PT-11.9 PTT-23.5 INR(PT)-1.0\n[**2137-8-12**] 01:46PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.019\n[**2137-8-12**] 01:46PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG\nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0\nLEUK-NEG\n\nEGD [**2137-8-12**]: Impression: Polyp in the second part of the\nduodenum on wall opposite ampulla Otherwise normal EGD to third\npart of the duodenum\nRecommendations: Patient will require polypectomy of this polyp.\nWe do not have the equipment to perform this as an emergency\nprocedure. Can have clear liquids. give Protonix 40 mg twice\ndaily.\n\nColonoscopy [**2137-8-12**]: Impression: Grade 1 internal hemorrhoids\nOtherwise normal colonoscopy to cecum\n\nBrief Hospital Course:\nThis is a 54y/o woman with a h/o H. pylori and depression with\nacute blood loss anemia, GIB, duodenal polyp.\n\n1. Acute blood loss anemia due to GI bleeding: She presented\nwith blood loss anemia, secondary to slow GI bleed.  She had an\nemergent EGD which showed a duodenal polyp.  She improved with\ntransfusion of 3 units of blood with stable hematocrit.  She\nwill need to restart an [**Month/Day/Year **] supplement on discharge.\n.\n2. Duodenal polyp: Underwent EUS on [**8-15**] for evaluation of polyp\nfound on initial EGD.  EUS showed 3 cm pedunculated polyp in the\nsecond part of the duodenum. The ampulla was identified and was\nseparate from the mass. The ampulla appeared normal.\nOn EUS, this lesion appeared as a pedunculated polyp. No\nextension of the lesion beyond the submucosa was noted. The\nmuscularis was clearly identified and was intact.  She went for\nremoval on [**2137-8-16**].  During that EGD, EGD on she was found to\nhave angioectasia in the stomach (treated with thermal therapy),\na polyp in the second part of the duodenum (treated with\npolypectomy, endoclip, and otherwise normal EGD to third part of\nthe duodenum.  She was discharged home after the polypectomy,\nwith advise to return in the event of pain, hematemesis, or\nworsening melena.  She will have a CBC approximately 5 days post\ndischarge, results to her PCP.\n.\n3. Depression: continuee wellbutrin and celexa.\n.\nOUTSTANDING TESTS:\nPolyp, pathology pending\n\n\nMedications on Admission:\nOn Admission:\nBupropion HCl 200 mg Tablet SR daily\nCitalopram 20 mg Tablet daily\nLorazepam 0.5 mg Tablet one half to one Tablet(s) by mouth @ hs\nno more than 3 nights per week\nFerrous Sulfate 325 mg (65 mg [**Date Range **]) Tablet [**Hospital1 **]\nMultivitamin Tablet 1 Tablet(s) by mouth daily (OTC)\n\nOn transfer:\nBuPROPion (Sustained Release) 200 mg PO QAM\nCitalopram Hydrobromide 20 mg PO DAILY\nPantoprazole 40 mg IV Q12H\n\nDischarge Medications:\n1. Bupropion HCl 100 mg Tablet Sustained Release Sig: Two (2)\nTablet Sustained Release PO QAM (once a day (in the morning)).\n2. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n3. [**Hospital1 **] (Ferrous Sulfate) 325 mg (65 mg [**Hospital1 **]) Tablet Sig: One\n(1) Tablet PO once a day.\n4. Outpatient Lab Work\nCBC, [**2137-8-21**].  Results to Dr. [**First Name8 (NamePattern2) 402**] [**Last Name (NamePattern1) 5263**] phone\n[**Telephone/Fax (1) 250**].\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nUpper GI bleed\nAcute blood loss anemia\nDuodenal polyp\nDepression\n\nDischarge Condition:\nStable, hematocrit 31.5, no active bleeding, ambulating without\nshortness of breath\n\nDischarge Instructions:\nYou were admitted with anemia, due to blood loss.  The most\nlikely cause was the polyp in your duodenum, which was slowly\noozing.  You improved with transfusions with a stable blood\ncount throughout your stay after the transfusion.  You had the\npolyp removed on the day before discharge.\n.\nNo aspirin, or NSAIDs.  You do not need to take protonix.\n.\nReturn to the ED if you get short of breath or dizzy.  Your\nstool will probably turn black from the [**Last Name (LF) **], [**First Name3 (LF) **] that is\nexpected.\n.\nStart eating solid food tonight.  Stay well hydrated in the next\nfew days.\n\n\nFollowup Instructions:\nCall the GI department to make an appointment with [**Doctor First Name 4370**] [**Doctor Last Name **] in\nthe next 2-3 weeks.  The phone number is [**Telephone/Fax (1) 9557**].  They\nwill give you the results of your polyp removal.\n.\nProvider: [**Name10 (NameIs) **] [**Name6 (MD) **] [**Name8 (MD) 19840**], MD Phone:[**Telephone/Fax (1) 250**]\nDate/Time:[**2137-9-3**] 3:00 (resident working with Dr. [**Last Name (STitle) 5263**]\n.\nBlood count check next week.\n\n\n\n"
+    }
+  ]
+}

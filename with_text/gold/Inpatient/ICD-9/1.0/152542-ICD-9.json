@@ -1,0 +1,86 @@
+{
+  "hadm_id": 152542,
+  "comment": "Drainage of Perirectal Abscess - Missing OP Note to validate PCS",
+  "notes": [
+    {
+      "note_id": 40603,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 261,
+          "end": 279,
+          "code": "566",
+          "code_system": "ICD-9-CM",
+          "description": "Abscess of anal and rectal regions",
+          "type": "Human",
+          "covered_text": "perirectal abscess"
+        },
+        {
+          "begin": 1019,
+          "end": 1023,
+          "code": "402.91",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypertensive heart disease with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN,"
+        },
+        {
+          "begin": 1024,
+          "end": 1027,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "description": "Congestive heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 1029,
+          "end": 1031,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "MapType.APPROX",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 1033,
+          "end": 1037,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 1056,
+          "end": 1083,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "Smoker of 1 1/5 packs a day"
+        },
+        {
+          "begin": 1868,
+          "end": 1880,
+          "code": "213.6",
+          "code_system": "ICD-9-CM",
+          "description": "Benign neoplasm of pelvic bones, sacrum, and coccyx",
+          "type": "MapType.EXACT",
+          "covered_text": "enchondroma."
+        },
+        {
+          "begin": 3095,
+          "end": 3108,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "paroxysmal AF"
+        }
+      ],
+      "text": "Admission Date:  [**2128-4-8**]              Discharge Date:   [**2128-4-13**]\n\nDate of Birth:  [**2061-7-1**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 598**]\nChief Complaint:\nperirectal abscess\n\nMajor Surgical or Invasive Procedure:\ndrainage of perirectal abscess on [**4-8**]\n\nHistory of Present Illness:\n66M transferred from [**Hospital1 18**] [**Location (un) 620**] with 4 weeks of\nperirectal pain and purulent drainage from his rectum. Patient\ndidnt go to the ED before with the hope that this would resolve,\nbut pain has been steady and worsening during the past 3 days.\nThe purulent drainage started 3 weeks ago, associated with\nfevers, chills and diaphoresis, and it has been increasing\nduring\nthe past week. Patient went to [**Location (un) **] ED and was found to have\na\nT 102.2, a WBC of 12 and Glucose of 490 requiring insulin\nboluses. Here on arrival with new onset of A.Fib with RVR up to\n150s.\n\n\nPast Medical History:\nHTN, CHF, DM, GERD\n\n\nSocial History:\nSmoker of 1 1/5 packs a day for 30 years. Drinks\nEtOH occasionally.\n\n\nFamily History:\nmother had [**Name2 (NI) 499**] cancer in the 60s.\n\n\nPhysical Exam:\nON DISCHARGE:\nVitals: 98.8 77 154/80 18 96% RA\nGEN: A&O, NAD\nCV: RRR, No M/G/R\nPULM: Clear to auscultation b/l\nABD: Soft, nondistended, nontender, no rebound or guarding,\nnormoactive bowel sounds\nRE: drainage coming out of the rectum around penrose drain. No\nerythema. Slightly TTP (appropriate). no fluctuant masses\nExt: No LE edema, LE warm and well perfused dependent rubor\n\n\nPertinent Results:\nCT pelvis [**4-12**]:\n1. Interval perirectal abscess drainage without residual fluid\ncollection.  The drain remains in place.\n\n2. Mild-to-moderate proctocolitis.\n\n3. Chondroid lesion in the right iliac bone which has a benign\nappearance and might represent an enchondroma. If the patient\ncomplains of regional pain this could be further evaluated with\nMRI to exclude a more aggressive lesion\n\n\nBrief Hospital Course:\nMr. [**Known lastname 17811**] was admitted to the ACS surgery service for [**Known lastname **]\nof the perirectal abscess. On [**4-8**] he underwent an I/D of the\nlarge perirectal abscess and placement of a penrose drain.\nIntraop he was in afib with RVR and was transferred to the ICU\nfor [**Month/Year (2) **]. The following day, he was hemodynamically stable\nand was in NSR with betablocker so he was transferred to the\nfloor. He was put on broad spectrum antibiotics. He was also\nhaving significant hyperglycemia requiring insulin boluses.\n[**Last Name (un) **] was consulted for glycemic control. Also, nutrition was\nconsulted for diabetic diet education. The atrial fibrillation\nrecurred postoperatively after a brief period in NSR. A CT scan\nwas obtained to rule out ongoing infection/undrained perirectal\nabscess. The CT showed that the abscess was adequately drained.\nCardiology was consulted for assistance in [**Last Name (un) **] of the\nparoxysmal atrial fibrillation. They recommended continuation of\nhome Metoprolol XL 100mg PO daily, anti-coagulation for\nparoxysmal AF, [**Doctor Last Name **] of Heart Monitor on discharge, f/u with\ncardiology in [**3-24**] weeks, continuing ASA, ACEI and statin for\nCHF.\n\nHe was discharged in good condition, tolerating a regular diet,\nafebrile, ambulating, pain well controlled.\n\nMedications on Admission:\nfurosemide 40 mg daily, omeprazole 20 mg daily, simvastatin 40\nmg daily, metoprolol succinate ER 100 mg daily, actos 45 mg Tab\ndaily, aspir-81 81 mg daily, lisinopril 40 mg daily, glipizide\n20 mg [**Hospital1 **]\n\nDischarge Medications:\n1. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4\nhours) as needed for pain.\nDisp:*35 Tablet(s)* Refills:*0*\n2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n4. metoprolol succinate 100 mg Tablet Extended Release 24 hr\nSig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).\n5. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n6. lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.\n7. insulin syringes (disposable) 1 mL   Syringe Sig: syringe\nMiscellaneous four times a day.\nDisp:*100 syringes* Refills:*12*\n8. insulin safety needles (disp) 29 x [**12-21**]   Needle Sig: needle\nMiscellaneous four times a day.\nDisp:*100 needle* Refills:*2*\n9. glucometer  Sig: glucometer   four times a day.\nDisp:*1 glucometer* Refills:*0*\n10. test strips  Sig: for glucometer   four times a day.\nDisp:*100 test strips* Refills:*2*\n11. Lantus 100 unit/mL Cartridge Sig: Twenty Six (26) units\nSubcutaneous at bedtime.\nDisp:*30 cartridge* Refills:*2*\n12. Humalog KwikPen  Subcutaneous\n13. insulin sliding scale\ncheck blood glucose 4 times a day. Take 26 units of lantus every\nnight.\nBlood glucose 100-160 take 10 units of Humalog\nBlood glucose 161-200 take 13 units of Humalog\nBlood glucose 201-240 take 16 units of Humalog\nBlood glucose 241-280 take 19 units of Humalog\nBlood glucose 281-320 take 22 units of Humalog\nBlood glucose 321-360 take 25 units of Humalog\nBlood glucose >360 seek medical attention\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Location (un) 1110**] VNA\n\nDischarge Diagnosis:\nperirectal abscess\ndiabetes\nparoxysmal atrial fibrillation\n\n\nDischarge Condition:\nMS: intact. Alert and oriented x 3\nAmbulating\n\n\nDischarge Instructions:\n-You have a perirecatal abscess. A penrose drain was placed to\nfacilitate drainage of the abscess and allow for it to heal\nproperly. The penrose drain will be removed in surgery clinic.\nIn order to ensure that this heals well, you must control your\ndiabetes and see a primary care doctor [**First Name (Titles) **] [**Last Name (Titles) **] of the\ndiabetes. You also developed atrial fibrillation or an irregular\nheart rate. Cardiology wants you to have a heart monitor and\nstart anticoagulation. You should follow up with them for\n[**Last Name (Titles) **] of the atrial fibrillation.\n\nFollowup Instructions:\n-Follow up with a primary care doctor [**First Name (Titles) **] [**Last Name (Titles) **] of diabetes\nand atrial fibrillation\n-Follow up with Cardiology for [**Last Name (Titles) **] of atrial fibrillation\nin [**3-24**] weeks. Call for an appointment [**Telephone/Fax (1) **]\n-Follow up in [**Hospital 2536**] clinic in [**12-21**] weeks. Call for an appointment.\n[**Telephone/Fax (1) 600**]\n\n\n                             [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number(2) 601**]\n\n"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "hadm_id": 150302,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 677117,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 361,
+          "end": 364,
+          "code": "5A09357",
+          "code_system": "ICD-10-PCS",
+          "description": "Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure",
+          "type": "Human",
+          "covered_text": "NIV"
+        }
+      ],
+      "text": "Lung sounds\n   RLL Lung Sounds: Rhonchi\n   RUL Lung Sounds: Ins/Exp Wheeze\n   LUL Lung Sounds: Ins/Exp Wheeze\n   LLL Lung Sounds: Rhonchi\n   Secretions\n   Sputum color / consistency: Yellow / Thick\n   Sputum source/amount: Expectorated / Small\n   Comments: sputum collected & sent.\n   Ventilation Assessment\n   Non-invasive ventilation assessment: Pt placed on NIV with small full\n   face mask for short time upon arrival in ICU d/t decreased\n   saturations.  Decision to return to cool mist (high flow) by team & us\n   NIV intermittently if pt unable to maintain SpO2 >  85%.\n   Invasive ventilation assessment:\n   Plan:\n   Bronchodilation, pulmonary toilet, encourage deep breathing & coughing,\n   NIV if indicated.\n"
+    },
+    {
+      "note_id": 677222,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 688,
+          "end": 707,
+          "code": "J96.91",
+          "code_system": "ICD-10-CM",
+          "description": "Respiratory failure, unspecified with hypoxia",
+          "type": "Human",
+          "covered_text": "Respiratory failure"
+        },
+        {
+          "begin": 5857,
+          "end": 5868,
+          "code": "J98.11",
+          "code_system": "ICD-10-CM",
+          "description": "Atelectasis",
+          "type": "Human",
+          "covered_text": "atelectasis"
+        },
+        {
+          "begin": 6456,
+          "end": 6470,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Post op anemia"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   47 yo F s/p take down of prior Nissen fundoplication, [**Doctor Last Name 6633**]\n   myotomy, and partial fundoplication on [**5-8**], returning today in\n   transfer from an OSH with complaints of abdominal pain and\n   dyspnea. She was discharged to home on [**5-10**] after an unremarkable\n   hospital course. She was transferred from an OSH after she was\n   seen there with the complaints listed above. A CT scan was\n   performed there, which noted a possible PNA, no PE, as well as\n   free air and fluid in the upper abdomen that was concerning for a\n   leak versus normal postoperative changes. She had fevers 101 at home,\n   +flatus,+Vomiting.\n   Chief complaint:\n   Respiratory failure\n   PMHx:\n   GERD, COPD, Achalasia\n   PSH:s/p Nissen, s/p re-do/release Nissen, L foot surgery, [**Doctor Last Name 6633**]\n   myotomy/takedown Nissen/Toupet fundoplication [**2103-5-8**]\n   Current medications:\n   1. 1000 mL LR 2. Albuterol 0.083% Neb Soln 3. Albuterol 0.083% Neb Soln\n   4. Calcium Gluconate 5. Docusate Sodium (Liquid)\n   6. Furosemide 7. HYDROmorphone (Dilaudid) 8. Heparin 9. Ipratropium\n   Bromide Neb 10. Lorazepam 11. Magnesium Sulfate\n   12. Piperacillin-Tazobactam Na 13. Potassium Chloride 14. Vancomycin\n   24 Hour Events:\n NASAL SWAB - At [**2103-5-12**] 12:58 PM\n NON-INVASIVE VENTILATION - START [**2103-5-12**] 01:30 PM\n SPUTUM CULTURE - At [**2103-5-12**] 03:24 PM\n BLOOD CULTURED - At [**2103-5-12**] 03:45 PM\n ARTERIAL LINE - START [**2103-5-12**] 03:45 PM\n [**5-12**]: Transfer to TICU for Low sat low 80's, improved w/ nebs and\n   chest PT to mid 80's\n   Allergies:\n   Aspirin\n   Wheezing; swell\n   Last dose of Antibiotics:\n   Vancomycin - [**2103-5-12**] 08:03 PM\n   Piperacillin/Tazobactam (Zosyn) - [**2103-5-12**] 09:44 PM\n   Infusions:\n   Other ICU medications:\n   Lorazepam (Ativan) - [**2103-5-12**] 03:45 PM\n   Heparin Sodium (Prophylaxis) - [**2103-5-12**] 04:28 PM\n   Furosemide (Lasix) - [**2103-5-12**] 09:07 PM\n   Hydromorphone (Dilaudid) - [**2103-5-12**] 10:08 PM\n   Other medications:\n   Flowsheet Data as of  [**2103-5-13**] 05:21 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**05**] a.m.\n   Tmax: 38.2\nC (100.7\n   T current: 36.8\nC (98.3\n   HR: 102 (102 - 133) bpm\n   BP: 93/60(68) {86/54(62) - 109/73(82)} mmHg\n   RR: 27 (19 - 38) insp/min\n   SPO2: 99%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 45 kg (admission): 45.6 kg\n             Total In:\n                                                                  5,673 mL\n                                                                    245 mL\n   PO:\n             Tube feeding:\n   IV Fluid:\n                                                                  1,673 mL\n                                                                    245 mL\n   Blood products:\n   Total out:\n                                                                  1,860 mL\n                                                                  1,480 mL\n   Urine:\n                                                                  1,860 mL\n                                                                  1,480 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  3,813 mL\n                                                                 -1,235 mL\n   Respiratory support\n   O2 Delivery Device: Aerosol-cool\n   Ventilator mode: CPAP\n   Vt (Spontaneous): 400 (400 - 400) mL\n   PS : 0 cmH2O\n   RR (Spontaneous): 27\n   PEEP: 5 cmH2O\n   FiO2: 95%\n   PIP: 6 cmH2O\n   SPO2: 99%\n   ABG: 7.45/41/62/27/3\n   Ve: 7.5 L/min\n   PaO2 / FiO2: 103\n   Physical Examination\n   General Appearance: No acute distress\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Breath Sounds: Wheezes : L>R, Rhonchorous :\n   Bilateral)\n   Abdominal: Tender: tender to palpation w/ rebound\n   Left Extremities: (Edema: Absent), (Temperature: Warm)\n   Right Extremities: (Edema: Absent), (Temperature: Warm)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   17\n 11.2 K/uL\n   322 K/uL\n   10.7 g/dL\n   123 mg/dL\n   0.7 mg/dL\n   27 mEq/L\n   3.7 mEq/L\n   8 mg/dL\n   100 mEq/L\n   137 mEq/L\n   31.5 %\n        [image002.jpg]\n                             [**2103-5-12**]  01:16 PM\n                             [**2103-5-12**]  04:06 PM\n                             [**2103-5-12**]  06:44 PM\n                             [**2103-5-12**]  10:21 PM\n                             [**2103-5-13**]  01:29 AM\n                             [**2103-5-13**]  01:49 AM\n   WBC\n   11.2\n   Hct\n   31.5\n   Plt\n   322\n   Creatinine\n   0.7\n   TCO2\n   24\n   23\n   25\n   28\n   29\n   Glucose\n   136\n   123\n   Other labs: PT / PTT / INR:13.3/28.4/1.1, Differential-Neuts:85.2 %,\n   Lymph:10.3 %, Mono:4.1 %, Eos:0.3 %, Ca:8.8 mg/dL, Mg:1.6 mg/dL,\n   PO4:3.5 mg/dL\n   Assessment and Plan\n   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), RESPIRATORY FAILURE, ACUTE\n   (NOT ARDS/[**Doctor Last Name 76**])\n   Assessment and Plan: 47 yo F s/p [**Doctor Last Name 6633**] myotomy, redo fundoplication\n   s/p d/c ([**5-10**]). Now back w/ SOB, ? PNA\n   Neurologic: Neuro checks Q: 4 hr, Dilaudid PRN, Intermittent episode of\n   lethargy and confusion when she is hypoxic\n   Cardiovascular: HD stable, sinus tachycardia likely secondary to\n   hypoxemia\n   Pulmonary: Hx of COPD, 32 year hx of smoking, transferred to ICU\n   hypoxic mid 70's with dyspnea, Respiratory status improved w/ Neb's,\n   chest PT. Per primary team no Cpap given her recent [**Doctor Last Name 6633**] myotomy\n   surgery, cxr right basilar consolidation which likely represents\n   combination of effusion, atelectasis and possibly infection. Minimal\n   left basilar atelectasis. Cont gentle diuresis with Albumin for\n   pulmonary edema.\n   Gastrointestinal / Abdomen: s/p [**Doctor Last Name 6633**] myotomy, redo fundoplication,\n   NPO and NO NG or OG tube per primary team, PE consistent w/ rebound and\n   tenderness. Ct scan OSH c/w Pneumoperitoneum and free fluid close the\n   left Liver [**Last Name (LF) **], [**First Name3 (LF) 77**] primary team c/w postop course changes\n   Nutrition: NPO\n   Renal: Foley, Adequate UO, Creatinine stable, Diurese as above with\n   small lasix dose.\n   Hematology: Post op anemia stable\n   Endocrine: RISS, BS<150\n   Infectious Disease: Check cultures, Afebrile, WBC trending down 11\n   today, we will monitor closely continue course of Zosyn and Vancomycin\n   for post-op Pneumonia\n   Lines / Tubes / Drains: Foley, A-line, PIV, Foley\n   Wounds: Dry dressings\n   Imaging: CXR today\n   Fluids: KVO\n   Consults: Gen Surgery\n   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op);\n   Pneumonia; Post-op complication\n   ICU Care\n   Nutrition:\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   18 Gauge - [**2103-5-12**] 01:02 PM\n   20 Gauge - [**2103-5-12**] 01:02 PM\n   Arterial Line - [**2103-5-12**] 03:45 PM\n   22 Gauge - [**2103-5-13**] 03:18 AM\n   Prophylaxis:\n   DVT: Boots, SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP bundle: HOB elevation, Mouth care\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , ICU\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 34 minutes\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 36063,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1238,
+          "end": 1242,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 1244,
+          "end": 1248,
+          "code": "J44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic obstructive pulmonary disease, unspecified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 1250,
+          "end": 1259,
+          "code": "K22.0",
+          "code_system": "ICD-10-CM",
+          "description": "Achalasia of cardia",
+          "type": "Human",
+          "covered_text": "Achalasia"
+        },
+        {
+          "begin": 1423,
+          "end": 1451,
+          "code": "F17.200",
+          "code_system": "ICD-10-CM",
+          "description": "Nicotine dependence, unspecified, uncomplicated",
+          "type": "Human",
+          "covered_text": "32 pack-year tobacco history"
+        },
+        {
+          "begin": 4832,
+          "end": 4852,
+          "code": "J69.0",
+          "code_system": "ICD-10-CM",
+          "description": "Pneumonitis due to inhalation of food and vomit",
+          "type": "Human",
+          "covered_text": "Aspiration Pneumonia"
+        }
+      ],
+      "text": "Admission Date:  [**2103-5-12**]              Discharge Date:   [**2103-5-18**]\n\nDate of Birth:  [**2055-7-1**]             Sex:   F\n\nService: SURGERY\n\nAllergies:\nAspirin\n\nAttending:[**First Name3 (LF) 1481**]\nChief Complaint:\nAbdominal pain, dyspnea\n\nMajor Surgical or Invasive Procedure:\nNone\n\n\nHistory of Present Illness:\n47 yo F s/p take down of prior Nissen fundoplication, [**Doctor Last Name **]\nmyotomy, and partial fundoplication on [**5-8**], returning today in\ntransfer from an OSH with complaints of abdominal pain and\ndyspnea. She was discharged to home on [**5-10**] after an\nunremarkable\nhospital course. She was transferred from an OSH after she was\nseen there with the complaints listed above. A CT scan was\nperformed there, which noted a possible PNA, no PE, as well as\nfree air and fluid in the upper abdomen that was concerning for\na\nleak versus normal postoperative changes. She denies any fevers,\nbut does feel chilled. She has baseline dyspnea, but this is a\nbit worse today. Her pain has been poorly controlled with oral\nelixir oxycodone. Her pain is mostly centered in her epigastrum.\nShe denies significant dysphagia at this time. She is passing\nflatus. She does feel a bit bloated.\n\n\nPast Medical History:\nPMH: GERD, COPD, Achalasia\n\nPSH: s/p Nissen, s/p re-do/release Nissen, L foot surgery,\n[**Doctor Last Name **]\nmyotomy/takedown Nissen/Toupet fundoplication [**2103-5-8**]\n\n\nSocial History:\n32 pack-year tobacco history. Social EtOH. Denies illicit\ndrug use. Works as a supervisor.\n\nFamily History:\nNC\n\nPhysical Exam:\nPE: 98.0   81   90/61   18   88% 6LO2\nGen: NAD. A&Ox3.\nHEENT: Anicteric. Tacky mucosal membranes.\nNeck: No JVD. No LAD. No TM.\nCV: RRR.\nPulm: Bibasilar rhonchi.\nAbd: Soft. Mildly distended. TTP epigastrum. +BS. Incisions\nc/d/i.\nDRE: Deferred.\nExt: Warm and well perfused. No peripheral edema.\nNeuro: Motor and sensation grossly intact.\n\n\nPertinent Results:\n      11.5\n14.6 >-----< 258\n      35.6\n\nPT: 12.6  PTT: 22.9  INR: 1.1\n\nLactate:1.0\n\n132  102  19\n-------------< 98\n5.6  19  0.7\n\nCa: 8.0 Mg: 2.1 P: 3.0\n\nALT: 24 AP: 65 Tbili: 0.4 Alb: 3.1\nAST: 42 Lip: 10\n\nCTA Torso (OSH): Reviewed with Dr. [**Last Name (STitle) **] and radiology\nresident,\nDr. [**Last Name (STitle) **]. No official read placed. Bibasilar pulmonary\nconsolidation, atelectasis versus PNA. R>L pleural effusions.\nFree air and fluid collection around L lobe of the liver, which\nlikely represents normal postoperative changes. No PE.\n\n[**5-13**] CXR: Extensive consolidation in the left lung has improved\nat the base, worsened in the suprahilar region, and on the right\npreviously collapsed right lower lobe has re-expanded and is\nseverely consolidated, findings that suggest widespread\naspiration pneumonia. Gastric and colonic distention and\npneumoperitoneum are also still present. Dr. [**Last Name (STitle) 81827**] was paged.\n\n\nBrief Hospital Course:\nThe patient was admitted [**5-12**] to the ICU due to respiratory\ndistress. She was started on Vancomycin/Zosyn for presumptive\npneumonia with poor saturations. She was given nebulizers and\n20mg IV lasix x 4 for fluid offloading. She improved\nsignificantly and was able to transfer from the ICU without\nsignificant event.\n\nShe received a KUB for increasing abdominal pain which was\nnotable for increased large bowel distension. She ultimately had\n2 large bowel movements with significant improvement of her\nabdominal pain. She was transferred from the ICU on [**5-16**] and her\npain regimen was adjusted, she was moved to a regular diet, and\nambulated around the floor. She was discharged in very stable\ncondition with her pain under control on a normal diet with\nmodifications.\n\nDischarge Medications:\n1. Hydromorphone 1 mg/mL Liquid Sig: [**1-24**] mL PO Q4H (every 4\nhours) as needed for pain.\nDisp:*80 mL* Refills:*0*\n2. Nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr\nTransdermal DAILY (Daily).\nDisp:*14 Patch 24 hr(s)* Refills:*2*\n3. Colace 50 mg/5 mL Liquid Sig: Ten (10) mL PO twice a day for\n4 weeks.\nDisp:*600 cc* Refills:*2*\n4. Acetaminophen 500 mg/5 mL Liquid Sig: Five (5) mL PO every\nsix (6) hours as needed for pain.\nDisp:*100 mL* Refills:*0*\n5. Famotidine 40 mg/5 mL Suspension Sig: 2.5 mL PO twice a day\nfor 4 weeks.\nDisp:*200 mL* Refills:*0*\n6. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nHS (at bedtime) as needed for constipation.\nDisp:*25 Suppository(s)* Refills:*0*\n7. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1)  Inhalation Q4H (every 4 hours).\n8. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation\nQ4H (every 4 hours) as needed for wheezing.\n9. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO twice a day\nfor 7 days: please crush pills .\nDisp:*14 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nRespiratory distress/ insufficiency\nAspiration Pneumonia\nAchalasia status post fundoplication x2 with revision and\ntakedown.\n\n\nDischarge Condition:\nStable, good pain control, normal oxygenation, modified diet\n\n\nDischarge Instructions:\n**DO NOT EAT BREAD, CRACKERS, OR POTATO CHIPS**\n\nYou are being discharged from the hospital in stable condition\nwith good pain control. It is essential for you to stay on top\nof your pain with the prescribed pain medications as taught in\nthe hospital. You should also make sure to limit your diet to\nthe foods discussed in the hospital, avoiding potato chips,\nbread, and other larger foods. Make sure to chew thoroughly.\n\nPlease call your doctor's office or return to the emergency room\nwith any of the following\n*severe intractable abdominal pain\n*significant vomiting / intractable nausea\n*fever > 101.2\n*Chest pain or shortness of breath\n\nDo not drive while taking narcotic pain medications.\n\nFollowup Instructions:\nPlease call Dr.[**Name (NI) 1482**] office for follow up in 2 weeks.\n[**Telephone/Fax (1) 2981**]\n\n\n\nCompleted by:[**2103-5-18**]"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "hadm_id": 142964,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 490049,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 4824,
+          "end": 4833,
+          "code": "I73.00",
+          "code_system": "ICD-10-CM",
+          "description": "Raynaud's syndrome without gangrene",
+          "type": "Human",
+          "covered_text": "Raynaud's"
+        },
+        {
+          "begin": 10656,
+          "end": 10674,
+          "code": "K31.89",
+          "code_system": "ICD-10-CM",
+          "description": "Other diseases of stomach and duodenum",
+          "type": "Human",
+          "covered_text": "portal gastropathy"
+        },
+        {
+          "begin": 10687,
+          "end": 10705,
+          "code": "I85.10",
+          "code_system": "ICD-10-CM",
+          "description": "Secondary esophageal varices without bleeding",
+          "type": "Human",
+          "covered_text": "esophageal varices"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:  Abdominal pain, continued bloody diarrhea\n   HPI:\n    Ms [**Known lastname 8339**] is a 47 yo female with pmh of Hep C with presumbed cirrhosis\n   and history of grade I esophageal varices, ETOH abuse, with a recent\n   admissions for C.diff colitis and continued abdominal pain and bloody\n   diarrhea admitted to the [**Hospital Unit Name 1**] due to concern for a GI bleed, also seen\n   to have air in her biliary tree on CT.  The patient states she has had\n   two months of constant, diffuse abdominal pain which she describes as\n   an achy, bloaty feeling.  Currently she states the pain is sharp over\n   her RUQ, but achy everywhere else.  The pain gets up to [**8-10**].  The pain\n   occasionally goes to her back.  Nothing makes it better.  Was having\n   black stools previously, but has not had a bowel movement in two days.\n   She thought over the past few days her dark stool had been improving.\n   Admits to associated nausea, subjective fevers/chills; denies vomiting\n   in the last couple of months.  Due to her pain she states she's had\n   decreased po intake.  Also has generalized weakness and DOE which has\n   been worsening slowly.  Admits to subjective fevers, chills,\n   palpitations, and night sweats for a week.  No sick contacts.  Denies\n   CP.\n   .\n   Notably she has been admitted with concern for GI bleed multiple times\n   in the past 4 months.  She was admitted in [**5-9**] with an upper GI\n   bleed.  At that time she underwent an EGD which showed 3 cords of\n   nonbleeding grade I esophageal varices.  She was transfused, her Hct\n   remained stable and she was discharged on a PPI to follow up with the\n   liver clinic.  She was seen in the liver clinic on [**6-12**] and was started\n   on nadolol.  On her follow up visit on [**7-24**] her Hct was found to be\n   decreased to 24 from 35 in [**Month (only) 807**].  At that time she also reported BRBPR\n   as well as recent melena and was admitted.  She received PRBC on\n   admission and then had a stable Hct without active bleeding.  She\n   underwent an EGD on [**7-27**] which again showed varies and additionally an\n   esophagitis as well as portal hypertensive gastropathy and Gastric\n   antral vascular ectasia.\n   .\n   She was then hospitalized from [**8-4**] to [**8-7**] with abdominal pain.  A CT\n   abd/pelvis showed pancolitis and she was found to be C. diff positive.\n   She was discharged on po flagyl.  Per OMR documentation she did not\n   finish the course of flagyl and was hospitalized at [**Hospital1 3633**] in mid [**Month (only) **]\n   for continued abdominal pain and dark stools.  She was again admitted\n   to [**Hospital1 19**] from [**8-22**] to [**8-29**] with persistent abdominal pain and bloody\n   stools.  She was transfused initially and then her Hct remained stable,\n   although she continued to have dark stools.  She was discharged on po\n   vanco.  She was scheduled to follow up with GI for a repeat endoscopy\n   on [**9-1**], but missed the appointment.\n   .\n   In the ED, initial vs were: T 98.6  HR 100  BP 101/58  RR 20 Sat 96% on\n   RA.  She was found to have a Hct of 18.1.  Patient was given 40 mg IV\n   pantoprazole.  She underwent an abd/pelvis CT which showed interval\n   improvement in her colitis, however there was concern for small amount\n   of air in her biliary tree.  She also had an NG lavage which showed a\n   few small clots, but the fluid was otherwise clear w/ bile tinge.\n   .\n   On arrival to the [**Hospital Unit Name 1**] she states her abdominal pain is currently\n   [**6-9**].  She denies recent bowel movement.\n   Patient admitted from: [**Hospital1 19**] ER\n   History obtained from [**Hospital 15**] Medical records\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   (per recent discharge summary)\n   1. Methadone 40 mg po daily\n   2. Senna 8.6 mg 1-2 Tablets PO BID:prn constipation.\n   3. Bisacodyl 5 mg tab, 2 prn constipation.\n   4. Pantoprazole 40 mg po bid\n   5. Docusate Sodium 100 mg po bid\n   6. Lactulose 10 gram/15 mL Syrup 30 ML PO Q6H prn constipation.\n   7. Sucralfate 1 gram Tablet PO four times a day.\n   8. Thiamine HCl 100 mg po daily\n   9. Folic Acid 1 mg po daily\n   10. Alum-Mag Hydroxide-Simeth 200-200-20 mg Tablet 1 PO four times a\n   day as needed for constipation.\n   11. Tramadol 50 mg Tablet 1 Tablet PO twice a day.\n   12. Vancomycin 125 mg PO Q6H for 9 days (starting from [**2186-8-29**]).\n   Patient states she has only been taking methadone, omeprazole, and\n   motrin prn.\n   Past medical history:\n   Family history:\n   Social History:\n   1. History of Cholecystitis s/p Cholecystotomy tube at [**Hospital1 3633**] - 4 years\n   ago\n   2. History of ampullary stenosis s/p sphincterotomy and ERCP in [**8-4**]\n   3. Depression\n   4. Raynaud's\n   5. Polysubstance Abuse- Past history of IV drug use with heroin and\n   cocaine (none in many years). Continues to drink alcohol, up to one\n   pint of vodka daily, less recently. Continues to smoke tobacco - [**12-2**]\n   PPD\n   6. Hepatitis C Infection\n   7. Presumed Cirrhosis c/b grade 1 esophageal varices (EGD [**7-9**])\n   8. Chronic Anemia\n   9. Chronic Abdominal Pain\n   10. Lumbar Stenosis\n   11. Lumbar Disk Herniation\n   12. History of an upper GI Bleed\n   13. History of C.diff colitis in [**10-4**]\n   14. History of facial cellulitis in [**5-6**]\n   15. History of alcoholic pancreatitis\n   16. s/p sexual assault in [**2180**] while hospitalized at a\n   psychiatric institution\n   Denies a family history of GI disease or GI bleeding.\n   Occupation: Not currently working.\n   Drugs: Had previous used IV drugs but states she hasn't done so for at\n   least 15 years.\n   Tobacco: .  Smokes [**4-6**] cig/day (has smoked for 30 years, but recent cut\n   back).\n   Alcohol: Was drinking 1 pint of vodka per day up until 4 weeks ago when\n   she cut back for her health.  Drank 4 drinks the day prior to admission\n   and a couple the day of admission.  Denies a history of withdrawal.\n   Other: She lives with a roomate in [**Location (un) 590**].\n   Review of systems:\n    (+) Admits to a frontal HA for the last week.\n   (-) Denies recent weight loss or gain. Denies sinus tenderness,\n   rhinorrhea or congestion. Denied cough. No dysuria. Denied arthralgias.\n   Flowsheet Data as of [**2186-9-6**] 08:12 PM\n   Vital Signs\n   Hemodynamic monitoring\n   Fluid Balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.9\nC (98.5\n   Tcurrent: 36.9\nC (98.5\n   HR: 84 (84 - 95) bpm\n   BP: 109/65(76) {96/60(68) - 109/71(78)} mmHg\n   RR: 13 (13 - 17) insp/min\n   SpO2: 97%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 67 Inch\n                  Total In:\n                  375 mL\n   PO:\n                  TF:\n   IVF:\n   Blood products:\n   375 mL\n   Total out:\n                                                                      0 mL\n                                                                    950 mL\n   Urine:\n   950 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                   -575 mL\n   Respiratory\n   SpO2: 97%\n   Physical Examination\n   General: Middle-aged woman, alert, appropriate, in no acute distress.\n   Smells somewhat alcholic.\n   HEENT: Sclera anicteric, MMM, oropharynx clear\n   Neck: supple, JVD to the madible, no LAD\n   Lungs: Breathing comfortably.  Inspiratory crackles at the bases\n   bilaterally, otherwise clear.\n   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops\n   Abdomen:  soft, bowel sounds present, fluid wave present.  Tenderness\n   to palpation throughout, worse in the center of her abdomen, but upon\n   percussion jumps when the RUQ is percussed.  No rebound or guarding.\n   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema.\n   No asterixis present.\n   Skin: a few spider angioma over her chest\n   Labs / Radiology\n        [image002.jpg]\n   Labs:\n   Na 133  K 3.8  Cl 100  Bicarb 24  BUN 14  Cr 0.5  Glu 84\n   ALT 16  AST 57  AP 105  T bili 0.6  Lipase 47  Albumin 3.4\n   .\n   WBC 5.7  Hct 18.1  Plt 313\n   Hct baseline in mid to high 20's\n   N 71.1%  L 21.5%  M 6.5%  E 0.4%\n   .\n   Peripheral smear: Hypochr: 3+ Anisocy: 1+ Poiklo: 1+ Macrocy:\n   OCCASIONAL Microcy: OCCASIONAL Polychr: OCCASIONAL Schisto: OCCASIONAL\n   Plt-Est: Normal\n   .\n   Micro: None\n   .\n   Images:\n   Abd/pelvis CT: Prelim\n   Interval improvement in colitis, now w/moderate fecal loading.\n   Cirrhotic liver with trace ascites. No acute abnormalities. No focal\n   collection or abscess. Additionally, was called with concern for a\n   small amount of air in her biliary tree.\n   Assessment and Plan\n   47 yo female with pmh of Hep C with presumbed cirrhosis and history of\n   grade I esophageal varices, ETOH abuse, with a recent admissions for\n   C.diff colitis and continued abdominal pain and bloody diarrhea\n   admitted to the [**Hospital Unit Name 1**] due to concern for a GI bleed, also seen to have\n   air in her biliary tree on CT.\n   # Pneumobilia:  The patient does have a history of ERCP in [**2180**],\n   however it is unclear that an ERCP 5 years ago could leave persistent\n   air in her biliary tree.  The partial focality of her abdominal pain in\n   the RUQ makes a biliary source of her pain concerning.\n   - Appreciate surgery consult.  Will f/u recs.\n   - F/u abdominal US results to look for evidence of cholelithiasis and\n   to assess the patency of the portal vein.\n   # Acute blood loss anemia/GI bleed:  Most likely due to an upper source\n   given that she has had melena.  Unlikely to be secondary to varices as\n   she would have a much brisker bleed and hemeatemesis.  She received 1\n   unit PRBC in the ED.\n   - Will transfuse another two units of PRBC and check a post-transfusion\n   Hct.\n   - Appreciate GI consult, plan for EGD in the am.\n   - Pantoprazole 40 mg IV bid.\n   - Active type and screen.\n   - Adequate access - will need a CVL as she has very difficult access.\n   # Abdominal pain:  She has had persistent abdominal pain for multiple\n   weeks and previous hospitalizations and workup has been unrevealing.\n   Differential includes SBP, gastritis, esophagitis, biliary source,\n   diverticulitis (less likely given its characteristics).\n   - Diagnostic paracentesis to rule out SBP.\n   - Workup of pneumobilia/gallbladder source of pain as above.\n   - EGD in the am.\n   - Prn morphine for pain control.\n   # Hep C Cirrhosis:  Patient is followed at the liver center.  Has known\n   portal gastropathy and grade I esophageal varices.\n   # Alcohol abuse:  Patient continued to drink alcohol and has the smell\n   of alcohol on her currently.\n   - folate, thiamine, MVI\n   - CIWA q4h with ativan prn for CIWA > 10\n   - SW consult\n   ICU Care\n   Nutrition: NPO, IVF prn\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2186-9-6**] 05:33 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: ICU\n"
+    },
+    {
+      "note_id": 51042,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 354,
+          "end": 383,
+          "code": "30233N1",
+          "code_system": "ICD-10-PCS",
+          "description": "Transfusion of Nonautologous Red Blood Cells into Peripheral Vein, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "transfusion of 1 unit of PRBC"
+        },
+        {
+          "begin": 4155,
+          "end": 4165,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 4351,
+          "end": 4377,
+          "code": "F17.200",
+          "code_system": "ICD-10-CM",
+          "description": "Nicotine dependence, unspecified, uncomplicated",
+          "type": "Human",
+          "covered_text": "Continues to smoke\ntobacco"
+        },
+        {
+          "begin": 6967,
+          "end": 6977,
+          "code": "F10.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol abuse, uncomplicated",
+          "type": "Human",
+          "covered_text": "ETOH abuse"
+        },
+        {
+          "begin": 7578,
+          "end": 7618,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Acute [**Year (4 digits) **] loss anemia"
+        },
+        {
+          "begin": 7619,
+          "end": 7627,
+          "code": "K92.2",
+          "code_system": "ICD-10-CM",
+          "description": "Gastrointestinal hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "GI bleed"
+        },
+        {
+          "begin": 10222,
+          "end": 10272,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Acute on chronic [**Month/Day/Year **] loss anemia"
+        },
+        {
+          "begin": 10288,
+          "end": 10299,
+          "code": "B18.2",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic viral hepatitis C",
+          "type": "Human",
+          "covered_text": "Hepatitis C"
+        },
+        {
+          "begin": 10300,
+          "end": 10309,
+          "code": "K70.30",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic cirrhosis of liver without ascites",
+          "type": "Human",
+          "covered_text": "cirrhosis"
+        },
+        {
+          "begin": 10322,
+          "end": 10335,
+          "code": "F10.10",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol abuse, uncomplicated",
+          "type": "Human",
+          "covered_text": "Alcohol abuse"
+        }
+      ],
+      "text": "Admission Date:  [**2186-9-6**]              Discharge Date:   [**2186-9-6**]\n\nDate of Birth:  [**2139-5-1**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 3326**]\nChief Complaint:\nAbdominal pain, continued bloody diarrhea\n\nMajor Surgical or Invasive Procedure:\ntransfusion of 1 unit of PRBC\n\nHistory of Present Illness:\nMs [**Known lastname 106028**] is a 47 yo female with pmh of Hep C with presumbed\ncirrhosis and history of grade I esophageal varices, ETOH abuse,\nwith a recent admissions for C.diff colitis and continued\nabdominal pain and bloody diarrhea admitted to the [**Hospital Unit Name 153**] due to\nconcern for a GI bleed, also seen to have air in her biliary\ntree on CT.  The patient states she has had two months of\nconstant, diffuse abdominal pain which she describes as an achy,\nbloaty feeling.  Currently she states the pain is sharp over her\nRUQ, but achy everywhere else.  The pain gets up to [**8-10**].  The\npain occasionally goes to her back.  Nothing makes it better.\nWas having black stools previously, but has not had a bowel\nmovement in two days.  She thought over the past few days her\ndark stool had been improving.  Admits to associated nausea,\nsubjective fevers/chills; denies vomiting in the last couple of\nmonths.  Due to her pain she states she's had decreased po\nintake.  Also has generalized weakness and DOE which has been\nworsening slowly.  Admits to subjective fevers, chills,\npalpitations, and night sweats for a week.  No sick contacts.\nDenies CP.\n.\nNotably she has been admitted with concern for GI bleed multiple\ntimes in the past 4 months.  She was admitted in [**5-9**] with an\nupper GI bleed.  At that time she underwent an EGD which showed\n3 cords of nonbleeding grade I esophageal varices.  She was\ntransfused, her Hct remained stable and she was discharged on a\nPPI to follow up with the liver clinic.  She was seen in the\nliver clinic on [**6-12**] and was started on nadolol.  On her follow\nup visit on [**7-24**] her Hct was found to be decreased to 24 from 35\nin [**Month (only) **].  At that time she also reported BRBPR as well as recent\nmelena and was admitted.  She received PRBC on admission and\nthen had a stable Hct without active bleeding.  She underwent an\nEGD on [**7-27**] which again showed varies and additionally an\nesophagitis as well as portal hypertensive gastropathy and\nGastric antral vascular ectasia.\n.\nShe was then hospitalized from [**8-4**] to [**8-7**] with abdominal pain.\nA CT abd/pelvis showed pancolitis and she was found to be C.\ndiff positive.  She was discharged on po flagyl.  Per OMR\ndocumentation she did not finish the course of flagyl and was\nhospitalized at [**Hospital1 336**] in mid [**Month (only) **] for continued abdominal pain\nand dark stools.  She was again admitted to [**Hospital1 18**] from [**8-22**] to\n[**8-29**] with persistent abdominal pain and bloody stools.  She was\ntransfused initially and then her Hct remained stable, although\nshe continued to have dark stools.  She was discharged on po\nvanco.  She was scheduled to follow up with GI for a repeat\nendoscopy on [**9-1**], but missed the appointment.\n.\nIn the ED, initial vs were: T 98.6  HR 100  BP 101/58  RR 20 Sat\n96% on RA.  She was found to have a Hct of 18.1.  Patient was\ngiven 40 mg IV pantoprazole.  She underwent an abd/pelvis CT\nwhich showed interval improvement in her colitis, however there\nwas concern for small amount of air in her biliary tree.  She\nalso had an NG lavage which showed a few small clots, but the\nfluid was otherwise clear w/ bile tinge.\n.\nOn arrival to the [**Hospital Unit Name 153**] she states her abdominal pain is\ncurrently [**6-9**].  She denies recent bowel movement.\n.\nReview of sytems:\n(+) Admits to a frontal HA for the last week.\n(-) Denies recent weight loss or gain. Denies sinus tenderness,\nrhinorrhea or congestion. Denied cough. No dysuria. Denied\narthralgias.\n\nPast Medical History:\n1. History of Cholecystitis s/p Cholecystotomy tube at [**Hospital1 336**] - 4\nyears ago\n2. History of ampullary stenosis s/p sphincterotomy and ERCP in\n[**8-4**]\n3. Depression\n4. Raynaud's\n5. Polysubstance Abuse- Past history of IV drug use with heroin\nand cocaine (none in many years). Continues to drink alcohol, up\nto one pint of vodka daily, less recently. Continues to smoke\ntobacco - [**12-2**] PPD\n6. Hepatitis C Infection\n7. Presumed Cirrhosis c/b grade 1 esophageal varices (EGD [**7-9**])\n\n8. Chronic Anemia\n9. Chronic Abdominal Pain\n10. Lumbar Stenosis\n11. Lumbar Disk Herniation\n12. History of an upper GI Bleed\n13. History of C.diff colitis in [**10-4**]\n14. History of facial cellulitis in [**5-6**]\n15. History of alcoholic pancreatitis\n16. s/p sexual assault in [**2180**] while hospitalized at a\npsychiatric institution\n\nSocial History:\nShe lives with a roomate in [**Location (un) **].  She is not currently\nworking.  Smokes [**4-6**] cig/day (has smoked for 30 years, but\nrecent cut back).  Was drinking 1 pint of vodka per day up until\n4 weeks ago when she cut back for her health.  Drank 4 drinks\nthe day prior to admission and a couple the day of admission.\nDenies a history of withdrawal.  Denies current drug use.  Had\nprevious used IV drugs but states she hasn't done so for at\nleast 15 years.\n\nFamily History:\nDenies a family history of GI disease or GI bleeding.\n\nPhysical Exam:\nVitals: T 98.5  P 85  BP 106/71  R 14  Sat 98% on RA\nGeneral: Middle-aged woman, alert, appropriate, in no acute\ndistress.  Smells somewhat alcholic.\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVD to the madible, no LAD\nLungs: Breathing comfortably.  Inspiratory crackles at the bases\nbilaterally, otherwise clear.\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen:  soft, bowel sounds present, fluid wave present.\nTenderness to palpation throughout, worse in the center of her\nabdomen, but upon percussion jumps when the RUQ is percussed.\nNo rebound or guarding.\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema.  No asterixis present.\nSkin: a few spider angioma over her chest\n\nPertinent Results:\nNa 133  K 3.8  Cl 100  Bicarb 24  BUN 14  Cr 0.5  Glu 84\nALT 16  AST 57  AP 105  T bili 0.6  Lipase 47  Albumin 3.4\n\nWBC 5.7  Hct 18.1  Plt 313\nHct baseline in mid to high 20's\nN 71.1%  L 21.5%  M 6.5%  E 0.4%\n\nPeripheral smear: Hypochr: 3+ Anisocy: 1+ Poiklo: 1+ Macrocy:\nOCCASIONAL Microcy: OCCASIONAL Polychr: OCCASIONAL Schisto:\nOCCASIONAL\nPlt-Est: Normal\n\nImages:\nAbd/pelvis CT: Prelim\nInterval improvement in colitis, now w/moderate fecal loading.\nCirrhotic liver with trace ascites. No acute abnormalities. No\nfocal collection or abscess. Additionally, was called with\nconcern for a small amount of air in her biliary tree.\n\nRUQ US: read was pending when the patient left AMA\n\nBrief Hospital Course:\n47 yo female with pmh of Hep C with presumbed cirrhosis and\nhistory of grade I esophageal varices, ETOH abuse, with a recent\nadmissions for C.diff colitis and continued abdominal pain and\nbloody diarrhea admitted to the [**Hospital Unit Name 153**] due to concern for a GI\nbleed, also seen to have air in her biliary tree on CT.\n\n# Pneumobilia:  The patient does have a history of ERCP in [**2180**],\nhowever it is unclear that an ERCP 5 years ago could leave\npersistent air in her biliary tree.  The partial focality of her\nabdominal pain in the RUQ makes a biliary source of her pain\nconcerning.  Surgery was consulted and recommended obtaining a\nRUQ US.  This was done and was pending when she left AMA.\n\n# Acute [**Year (4 digits) **] loss anemia/GI bleed:  Most likely due to an upper\nsource given that she has had melena.  Unlikely to be secondary\nto varices as she would have a much brisker bleed and\nhemeatemesis.  She received 1 unit PRBC in the ED.  Plan was to\ntransfuse an additional 2 units and for EGD in the am, however\nshe left AMA before this could be done.\n\nThe patient became very angry when she was told she was NPO.\nShe stated that she was extremely hungry and that she would\nleave our hospital if we didn??????t feed her.  It was explained to\nher that the reason she was NPO was due to concern for an acute,\nserious process in her stomach (due to the air seen in her\nbiliary system on CT).  She stated she understood the risk of\neating while she may be bleeding and may need a procedure to her\nabdomen, but she still wanted to eat.  Upon discussion with our\nteam including our attending, we agreed to let her eat a few\ncrackers if she would stay.  A few minutes later she declared\nshe wanted to leave AMA to go to another hospital.  Per her\nnurse, the nurse had been looking through her purse to identify\nvaluables that could be secured and found klonopin, which would\nhave to be removed from the room; the patient became agitated\nwhen she was informed of this and then decided to leave AMA.  I\ndiscussed with her the risks of leaving when her [**Year (4 digits) **] counts\nwere so low (she had only received 1 unit of PRBC so far) and\nwhen it was unclear if the air in her biliary tree was\nclinically significant.  The risks I discussed included loss of\nconsciousness, further bleeding, worsening clinical status and\ndeath.  She stated she understood the risks and that she planned\nto go to a different hospital to get care.  She signed the AMA\nform and left.\n\nMedications on Admission:\n(per recent discharge summary)\n1. Methadone 40 mg po daily\n2. Senna 8.6 mg 1-2 Tablets PO BID:prn constipation.\n3. Bisacodyl 5 mg tab, 2 prn constipation.\n4. Pantoprazole 40 mg po bid\n5. Docusate Sodium 100 mg po bid\n6. Lactulose 10 gram/15 mL Syrup 30 ML PO Q6H prn constipation.\n\n7. Sucralfate 1 gram Tablet PO four times a day.\n8. Thiamine HCl 100 mg po daily\n9. Folic Acid 1 mg po daily\n10. Alum-Mag Hydroxide-Simeth 200-200-20 mg Tablet 1 PO four\ntimes a day as needed for constipation.\n11. Tramadol 50 mg Tablet 1 Tablet PO twice a day.\n12. Vancomycin 125 mg PO Q6H for 9 days (starting from [**2186-8-29**]).\n\nPatient states she has only been taking methadone, omeprazole,\nand motrin prn.\n\nDischarge Medications:\nPatient left against medical advice before paperwork could be\ncompleted.\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nAcute on chronic [**Month/Day/Year **] loss anemia\nUpper GI bleed\nHepatitis C cirrhosis\nPneumobilia\nAlcohol abuse\n\nDischarge Condition:\nHemodyndamically stable.\n\nDischarge Instructions:\nPatient left Against Medical Advice before paperwork could be\ncompleted.\n\nFollowup Instructions:\nPatient left Against Medical advice before paperwork could be\ncompleted.\n\n\nCompleted by:[**2186-9-6**]"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "hadm_id": 163968,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 54285,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 315,
+          "end": 332,
+          "code": "415.19",
+          "code_system": "ICD-9-CM",
+          "description": "Other pulmonary embolism and infarction",
+          "type": "Human",
+          "covered_text": "pulmonary embolus"
+        },
+        {
+          "begin": 464,
+          "end": 472,
+          "code": "290.10",
+          "code_system": "ICD-9-CM",
+          "description": "Presenile dementia, uncomplicated",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 472,
+          "end": 478,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": ", GERD"
+        },
+        {
+          "begin": 2152,
+          "end": 2165,
+          "code": "295.90",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified schizophrenia, unspecified state",
+          "type": "Human",
+          "covered_text": "Schizophrenia"
+        },
+        {
+          "begin": 2166,
+          "end": 2169,
+          "code": "V12.54",
+          "code_system": "ICD-9-CM",
+          "description": "Transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "CVA"
+        },
+        {
+          "begin": 2194,
+          "end": 2199,
+          "code": "V12.51",
+          "code_system": "ICD-9-CM",
+          "description": "Personal history of venous thrombosis and embolism",
+          "type": "Human",
+          "covered_text": "DVT -"
+        },
+        {
+          "begin": 7879,
+          "end": 7902,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "Hypercarbic Respiratory"
+        },
+        {
+          "begin": 9287,
+          "end": 9300,
+          "code": "275.42",
+          "code_system": "ICD-9-CM",
+          "description": "Hypercalcemia",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypercalcemia"
+        },
+        {
+          "begin": 9690,
+          "end": 9702,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 9966,
+          "end": 9986,
+          "code": "788.30",
+          "code_system": "ICD-9-CM",
+          "description": "Urinary incontinence, unspecified",
+          "type": "Human",
+          "covered_text": "Urinary incontinence"
+        },
+        {
+          "begin": 11840,
+          "end": 11859,
+          "code": "252.00",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperparathyroidism, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "hyperparathyroidism"
+        }
+      ],
+      "text": "Admission Date:  [**2157-5-27**]              Discharge Date:   [**2157-6-3**]\n\nDate of Birth:  [**2078-10-17**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 2145**]\nChief Complaint:\nRight rib pain secondary to submassive pulmonary embolus\n\nMajor Surgical or Invasive Procedure:\nCT scan of chest, Echocardiogram\n\n\nHistory of Present Illness:\n78 year old female with PMhx dementia, GERD, remote DVT and\nremote VA who was admitted with submassive pulmonary embolus.\nPatient was in her usual state of health until the evening prior\nto admission when she first noted right rib pain. The pain was\nso severe that she woke up from her sleep. She stated that she\nsat in her chair overnight because of the pain. She was\ntransferred in from the [**Last Name (un) 1188**] house.  Patient also reported\nassociated shortness of breath which began that evening as well.\nDenied associated chest pain. The patient endorsed some mild\ncough without sputum production. Patient reported that she had a\nlow grade temperature on arrival to the ED but stated that she\nwas unaware of any fever. Patient denied any recent surgery\nother than cataract surgery in [**Month (only) 116**] of this year. Patient denied\nany new immobilization or long plane flights. Patient was noted\nto be tachycardic, got CTA in the ED which demonstrated\nsubmassive PE. Patient got a dose of Lovenox. Patient was also\nnoted to be febrile and cultures were sent. Patient got morphine\ndown in the ED. In the ED: Vitals signs: T 100.6, HR 100, BP\n120/75, 95% on RA\n.\nOn the floor, CT scan was amended to demonstrate submassive PE\nas described below.\n.\nReview of sytems:\n(+) Per HPI\n(-) Denied fever, chills, night sweats, recent weight loss or\ngain. Denies headache, sinus tenderness, rhinorrhea or\ncongestion. Denied cough, shortness of breath. Denied chest pain\nor tightness, palpitations. Denied nausea, vomiting, diarrhea,\nconstipation or abdominal pain. No recent change in bowel or\nbladder habits. No dysuria. Denied arthralgias or myalgias.\n\n\nPast Medical History:\nhiatal hernia\nGERD\n? fast heart beat\nSchizophrenia\nCVA - remote > 10 years ago\nDVT - noted [**9-13**] at time of femur and humerus fracture\nLt femur and humerus fracture in [**9-13**] after a fall\nUrinary Incontinance\n.\nPast Surgical history:\nEx lap after car accident in [**2107**]\nLt partial thyroidectomy, found to be benign\nHysterectomy\n\n\nSocial History:\nLives at [**Location 1188**] house. Walks with a walker. Has a niece who\nlives in the area. Patient with remote 25 Pack year smoking\nhistory, quit 50 years ago.  Drinks only occasionally, no\nhistory of IVDA or drug use\n\n\nFamily History:\nCAD, brother and father\nDM\nOvarian Cancer in mother\n\nPhysical Exam:\nVitals: T: 99.1 BP: 130/74 P: 108 R: 30 O2: 96% on 3L\nGeneral: Alert, oriented, tachypniec, tachycardic\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, no LAD\nLungs: + fine crackles at right base\nCV: tachycardic, hyperdynamic, nl s1/s2\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n\nPertinent Results:\n[**2157-5-27**] 11:40AM BLOOD WBC-15.4*# RBC-4.08* Hgb-12.1 Hct-36.0\nMCV-88 MCH-29.6 MCHC-33.6 RDW-13.7 Plt Ct-114*#\n[**2157-5-27**] 11:40AM BLOOD Neuts-84.7* Lymphs-9.3* Monos-5.7 Eos-0.1\nBaso-0.2\n[**2157-5-27**] 11:40AM BLOOD PT-12.2 PTT-24.7 INR(PT)-1.0\n[**2157-5-27**] 11:40AM BLOOD Glucose-113* UreaN-14 Creat-0.8 Na-138\nK-4.3 Cl-103 HCO3-28 AnGap-11\n[**2157-5-30**] 07:15AM BLOOD Glucose-105 UreaN-13 Creat-0.7 Na-140\nK-4.4 Cl-104 HCO3-29 AnGap-11\n[**2157-5-27**] 11:40AM BLOOD CK(CPK)-19*\n[**2157-5-28**] 09:45AM BLOOD CK(CPK)-22*\n[**2157-5-27**] 11:40AM BLOOD CK-MB-2 cTropnT-<0.01 proBNP-926*\n[**2157-5-28**] 09:45AM BLOOD CK-MB-NotDone cTropnT-<0.01\n[**2157-5-28**] 09:45AM BLOOD Calcium-10.0 Phos-2.0* Mg-1.9\n[**2157-5-27**] 11:40AM BLOOD D-Dimer-[**2161**]*\n[**2157-5-30**] 08:18AM BLOOD Type-ART FiO2-100 O2 Flow-2 pO2-77*\npCO2-66* pH-7.33* calTCO2-36* Base XS-5 AADO2-576 REQ O2-94\nIntubat-NOT INTUBA Comment-NASAL [**Last Name (un) 154**]\n[**2157-5-27**] 11:47AM BLOOD K-4.5\n[**2157-5-27**] 04:00PM BLOOD Lactate-0.9\n[**2157-5-30**] 08:18AM BLOOD Glucose-113* Lactate-0.6 Na-138 K-4.2\nCl-99*\n[**2157-5-30**] 08:18AM BLOOD freeCa-1.39*\n\n.\nChest PA/Lateral - IMPRESSION: Prominence of bronchovascular\nmarkings, more on the right, and at the lung bases. Prominence\nof vascular markings at the hilum bilaterally. Attenuation at\nthe right costophrenic angle, and mildly at the left\ncostophrenic angle.\nFindings could suggest congestion, bibasilar atelectasis,\npleural effusion, more on the right, and/or pneumonia especially\nat the left lung base. Findings could also be seen in\ninterstitial lung disease. Please correlate clinically. Old rib\nfractures at the left lung base.\nQuestion of a nondisplaced rib fracture at the right mid rib. If\nthere is a clinical concern, designated rib film could be done\nto evaluate this further.\n.\nCTA chest - IMPRESSION:\n1. Bilateral pulmonary emboli. Large saddle embolus in the right\nmain\npulmonary artery and segmental left lower lobe branches with\nassociated\nperipheral airspace opacification and small right pleural\neffusion. Bowing of the intraventricular septum and increased\nratio of the right to left ventricle suggestive of possible\ncomponent of right heart strain.\n2. Enlarged heterogenous appearance with multiple nodules noted\nin the left thyroid lobe compatible with multinodular goiter.\n3. Diffuse ground glass opacity and interlobular thickening\nsuggestive of\ncomponent of congestive heart failure.\n4. Moderate in size sliding hiatal hernia.\n5. Atherosclerotic disease involving the thoracic aorta.\n6. Old left healed rib fractures.\n7. 4mm right lower lobe subpleural pulmonary nodule. Recommend\nclinical\ncorrelation with risk factors, and if patient is high risk, a\ndedicated chest CT can be obtained in 6 months for further\nevaluation.\n.\nPortable chest - FINDINGS: The heart size is normal. Persistent\ntortuosity of the thoracic aorta. Interval improvement in\ninterstitial pattern. Small right pleural effusion has possibly\nincreased in the interval with adjacent atelectasis. Minimal\nlinear atelectasis at left lung base.\n.\nCT head - CONCLUSION: Chronic findings unchanged since [**Month (only) **]\n[**2154**]. No evidence of hemorrhage.\n.\nCXR-FINDINGS: In comparison with the study of [**5-28**], there is\nlittle overall change. Continued small right pleural effusion\nwith adjacent atelectasis and minimal streaks of atelectasis at\nthe left base. Mild prominence of interstitial pattern without\nevidence of acute focal pneumonia.\n.\nECHO-The left atrium and right atrium are normal in cavity size.\nThe estimated right atrial pressure is 0-5 mmHg. There is mild\nsymmetric left ventricular hypertrophy with normal cavity size\nand regional/global systolic function (LVEF>55%). The estimated\ncardiac index is normal (>=2.5L/min/m2). Tissue Doppler imaging\nsuggests a normal left ventricular filling pressure\n(PCWP<12mmHg). Right ventricular chamber size and free wall\nmotion are normal. The diameters of aorta at the sinus,\nascending and arch levels are normal. The aortic valve leaflets\n(3) are mildly thickened but aortic stenosis is not present. The\nmitral valve appears structurally normal with trivial mitral\nregurgitation. There is mild pulmonary artery systolic\nhypertension. There is no pericardial effusion.\n\nIMPRESSION: Mild symmetric left ventricular hypertrophy with\npreserved global and regional biventricular systolic function.\nMild pulmonary artery systolic hypertension.\n\n\n\n\nBrief Hospital Course:\n78 y.o. F with remote CVA, remote DVT, admitted with large\nbilateral pulmonary emboli, initially stable on floor but\nrequired ICU stay for hypercarbic respiratory failure\n\n# Hypercarbic Respiratory Failure: PCO2 on ABG with hypercarbic\nrespiratory failure. This was thought to be secondary to\ndecreased respiratory drive given oxygen supplementation,\npossibly underlying COPD. AMS resolved with decreasing O2\nsupplementation from 3 L NC to 1 L NC. Patient without\ndocumented history of COPD but has 25 pack year smoking history.\nHer goal O2 sat 88-93%. Narcotic use and psychotropic\nmedications were avoided.  Pt's mental status now appears back\nto baseline, conversant, alert.\n\n# Altered Mental Status: Occurred in the setting of hypercarbia.\nHead CT obtained on floor prior to ICU transfer which was\nnegative.\n.\n# Pulmonary emboli: large bilateral PE.  CT exhibited evidence\nof right heart strain but echo showed intact RV function.   Pt\ndid not require thrombolytic therapy. She remained\ncoumadin/heparin gtt until INR therapeutic. Pt is currently in\nthe therapeutic range.  Pt should have her INR checked in [**1-11**]\ndays.\n.\n# Right sided rib pain: Thought to be secondary to pleuritic\npain cause by pulmonary emboli. This pain made deep breathing\ndifficult. However, pain gradually resolved with standing\ntylenol. She was written for morphine prn but did not require.\nShe was advised to perform incentive spirometry.\n.\n#pulmonary edema: Pt developed transiently in the ICU in the\nsetting of IVF for hypercalcemia. She was given additional 20mg\nIV lasix with good effect.\n.\n# Hypercalcemia: Pt found to have hypercalcemia especially in\nthe setting of low albumin. PTH was high, phos tended to be on\nthe lower side. This makes primary hyperparathyroidism the most\nlikely. She was given lasix and IVF with good effect. Her\ncalcium and vit D supplementation were stopped. She should\ncontinue this workup in the outpt setting.\n.\n# GERD: Pt given omeprazole as per outpt regimen.\n.\n# Hypertension: patient with a history of hypertension\nmaintained on outpatient beta blocker and lasix. This was\ncontinued.\n.\n# Schizophrenia: Pt with remote history but did act\nappropriately during hospitalization. She was continued on her\nolanzapine as per outpt regimen.\n.\n# Urinary incontinence - patient maintained on outpatient\nOxybuynin as this is chronic medication for her\n\n\n\nMedications on Admission:\nMOM PRN\nCalcium Carbonate 2 tabs by mouth PRN heartburn\nArtifical tears drops QID OU\nMetoprolol tartrate 75 mg PO BID\nTramadol 25 mg PO BID\nVitamin D 400 Units PO BID\nTylenol 650 mg PO TID with ultram\nMirtazapine 15 mg PO qhs\nFleet enema PRN constipation\nDulcolax PRN constipation\nLasix 20 mg PO daily\nOcuvite 1 tab PO daily\nMultivitamin 1 tablet PO daily\nPrilosec 1 tablet PO daily\nZyprexa 2.5 mg PO qhs\nOxybuynin 5 mg PO BID\n\n\nDischarge Medications:\n1. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID\n(2 times a day).\n2. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO every\neight (8) hours.\n3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n4. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n5. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n6. Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime).\n7. Warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4\nPM.\n8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n10. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**12-10**]\nDrops Ophthalmic QID (4 times a day).\n11. Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO twice\na day.\n12. oxygen\nOxygen via NC. 1L prn to keep sats >90%\n13. Outpatient [**Name (NI) **] Work\nPt/PTT/INR\n\nCalcium level\n\n[**2157-6-5**]\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 1186**] - [**Location (un) 538**]\n\nDischarge Diagnosis:\nPrimary:\n1) Pulmonary embolism\n2) Altered mental status - resolved, thought due to hypercarbia\n3) Hypercalcemia with elevated PTH, possible primary\nhyperparathyroidism\n\nSecondary diagnosis:\nSchizophrenia\nhx DVT [**2153**]\n\n\nDischarge Condition:\nafebrile, vitals stable, sating low-mid 90's on 1L NC\n\n\nDischarge Instructions:\nYou were admitted to hospital with right rib pain and found to\nhave a large blood clot in your lungs.  You were given blood\nthinning medications heparin and coumadin to prevent further\nclot formation.  Shortly after hospitalization, you were found\nto be more confused, and were tranferred to Intensive care Unit\nfor observation. Your confusion resolved.  Your pain was\ncontrolled with Tylenol. You were also found to have high level\nof calcium, and it was determined that this was due to high\nlevels of Parathyroid hormone.  You were given water pill Lasix\nand IV fluids to lower the levels of blood calcium.  Over the\ncourse of your hospitalization, your pain became better\ncontrolled, your breathing and oxygenation have improved.\n\nDuring hospitalization, several of your medications were\nchanged.\n1.Your calcium was stopped\n2.Your vitamin D was stopped\n3.You were started on a blood thinning medication, coumadin for\nyour blood clot for which you should likely take for a lifetime.\n4.Your mirtazapine and tramadol were stopped secondary to\nconfusion, you should discuss with your PCP resuming these\nmedications.\n5. oxygen as needed. Currently only requiring 1 liter.\n\nUpon discharge, you will return to your residence at [**First Name4 (NamePattern1) 1188**]\n[**Last Name (NamePattern1) **].  Your are scheduled to follow up with your Primary Doctor\nto further manage your pulmonary embolism, hyperparathyroidism\nand other medical problems.  Please return to the emergency\ndepartment immediately if you experience any increased\nconfusion, agitation, fever, chills, shortness of breath, chest\npain.\n\n\nFollowup Instructions:\nPlease make sure you follow up with your primary care physician\nat [**Hospital3 4262**] group. Your former PCP was [**Name9 (PRE) 111220**] [**Name9 (PRE) **].\nPlease be sure to [**Name6 (MD) 138**] your NP[**First Name8 (NamePattern2) 111221**] [**Location (un) **] [**Telephone/Fax (1) 608**] at\n[**Hospital3 4262**] to schedule a follow up within 1-2 weeks of\ndischarge.\n.\nProvider: [**Name10 (NameIs) **] IMAGING Phone:[**Telephone/Fax (1) 253**] Date/Time:[**2157-7-6**]\n10:45\n.\nProvider: [**First Name11 (Name Pattern1) 354**] [**Last Name (NamePattern4) 3013**], M.D. Phone:[**Telephone/Fax (1) 253**]\nDate/Time:[**2157-7-6**] 11:00\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 2158**]\n\n"
+    }
+  ]
+}

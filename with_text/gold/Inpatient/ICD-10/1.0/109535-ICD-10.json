@@ -1,0 +1,167 @@
+{
+  "hadm_id": 109535,
+  "comment": "Pacemaker OP report missing- unable to validate PCS code",
+  "notes": [
+    {
+      "note_id": 38312,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1135,
+          "end": 1154,
+          "code": "Z95.5",
+          "code_system": "ICD-10-CM",
+          "description": "Presence of coronary angioplasty implant and graft",
+          "type": "Human",
+          "covered_text": "s/p stent placement"
+        },
+        {
+          "begin": 1242,
+          "end": 1256,
+          "code": "M19.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified osteoarthritis, unspecified site",
+          "type": "Human",
+          "covered_text": "osteoarthritis"
+        },
+        {
+          "begin": 1258,
+          "end": 1268,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 4152,
+          "end": 4174,
+          "code": "I25.2",
+          "code_system": "ICD-10-CM",
+          "description": "Old myocardial infarction",
+          "type": "Human",
+          "covered_text": "prior inferior wall MI"
+        },
+        {
+          "begin": 4640,
+          "end": 4642,
+          "code": "I34.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic mitral (valve) insufficiency",
+          "type": "Human",
+          "covered_text": "MR"
+        },
+        {
+          "begin": 4759,
+          "end": 4762,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 5135,
+          "end": 5152,
+          "code": "E11.22",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with diabetic chronic kidney disease",
+          "type": "Human",
+          "covered_text": "Diabetes mellitus"
+        },
+        {
+          "begin": 5416,
+          "end": 5419,
+          "code": "I12.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 5635,
+          "end": 5662,
+          "code": "N18.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "Chronic Renal Insufficiency"
+        },
+        {
+          "begin": 6328,
+          "end": 6346,
+          "code": "Z79.02",
+          "code_system": "ICD-10-CM",
+          "description": "Long term (current) use of antithrombotics/antiplatelets",
+          "type": "Human",
+          "covered_text": "plavix 75 mg daily"
+        },
+        {
+          "begin": 8216,
+          "end": 8236,
+          "code": "I44.2",
+          "code_system": "ICD-10-CM",
+          "description": "Atrioventricular block, complete",
+          "type": "Human",
+          "covered_text": "Complete Heart Block"
+        },
+        {
+          "begin": 8259,
+          "end": 8282,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "Coronary Artery Disease"
+        },
+        {
+          "begin": 8283,
+          "end": 8287,
+          "code": "M10.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gout, unspecified",
+          "type": "Human",
+          "covered_text": "Gout"
+        },
+        {
+          "begin": 8288,
+          "end": 8345,
+          "code": "I12.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",
+          "type": "Human",
+          "covered_text": "Hypertension\nHyperlipidemia\nAnemia\nChronic Kidney Disease"
+        },
+        {
+          "begin": 8301,
+          "end": 8315,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 8316,
+          "end": 8345,
+          "code": "D63.1",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia in chronic kidney disease",
+          "type": "Human",
+          "covered_text": "Anemia\nChronic Kidney Disease"
+        },
+        {
+          "begin": 8323,
+          "end": 8345,
+          "code": "N18.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "Chronic Kidney Disease"
+        }
+      ],
+      "text": "Admission Date:  [**2131-6-16**]              Discharge Date:   [**2131-6-20**]\n\nDate of Birth:  [**2056-3-20**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**Doctor First Name 6807**]\nChief Complaint:\nSyncope\n\nMajor Surgical or Invasive Procedure:\ns/p dual chamber [**Company 1543**] Adapta PM via left cephalic\n\n\nHistory of Present Illness:\nThis is a 75 year old male with a history of CAD with stents\nplaced in [**2127**] at [**Hospital6 **],\nPer family, Mr [**Known lastname **] was having chest pain while sitting in the\nchair, as well as feeling lightheaded.  He then passed out for\n10-20 seconds.  EMS was called and found him looking pale and\nlethargic.  While EMS was assessing, he became unresponsive with\neyes rolling back in head with 20 second convulsions for\napproximately 20 seconds before returning to normal\nconsciousness.  Denied chest pain.  A telemetry monitor was\nplaced and was noted to be in 3rd degree heart block with rates\n10-30 beats per minute.  A transcutaneous pacer was placed on\nroute.\n\n\nPast Medical History:\n-coronary disease s/p stent placement\n-diabetes mellitus\n-hypertension\n-hyperlipidemia\n-gout\n-type II diabetes\n-sleep apnea\n-osteoarthritis\n-depression\n\n\nSocial History:\noccasional EtOH use\n\n\nFamily History:\nn/c\n\n\nPhysical Exam:\nBP 118/71, HR 80, RR 16, SpO2 100% on assist control PEEP 5 FiO2\n50%\nGen: Sedated, intubated, in no apparent distress\nCardiac: Nl s1/s2, regular rate and rhythm, no murmurs\nappreciable, no s3/s4\nResp: lungs clear in anterior lung fields\nAbd: soft and nontender, +BS\nExt: 1+ lower extremity edema, pulses 1+ distally, warm and\nwell-perfused\n\n\nPertinent Results:\nAdmission labs:\n[**2131-6-16**] 03:55PM BLOOD WBC-7.8 RBC-4.06* Hgb-11.4* Hct-35.4*\nMCV-87 MCH-28.0 MCHC-32.1 RDW-16.2* Plt Ct-154\n[**2131-6-16**] 03:55PM BLOOD Neuts-76.5* Lymphs-17.9* Monos-4.4\nEos-0.8 Baso-0.3\n[**2131-6-16**] 03:55PM BLOOD PT-12.7 PTT-30.2 INR(PT)-1.1\n[**2131-6-16**] 03:55PM BLOOD Glucose-91 UreaN-41* Creat-1.5* Na-144\nK-6.0* Cl-112* HCO3-24 AnGap-14\n[**2131-6-16**] 03:55PM BLOOD Calcium-8.8 Phos-3.2 Mg-1.9\n[**2131-6-16**] 03:55PM BLOOD TSH-2.0\n.\nCardiac Enzymes:\n[**2131-6-16**] 03:55PM BLOOD CK-MB-3 cTropnT-<0.01\n[**2131-6-17**] 04:00AM BLOOD CK-MB-3 cTropnT-LESS THAN\n.\nDischarge labs:\n[**2131-6-20**] 01:20PM BLOOD WBC-9.4 RBC-3.79* Hgb-10.8* Hct-33.2*\nMCV-88 MCH-28.5 MCHC-32.6 RDW-16.1* Plt Ct-165\n[**2131-6-20**] 06:55AM BLOOD Glucose-128* UreaN-53* Creat-1.8* Na-137\nK-4.7 Cl-103 HCO3-25 AnGap-14\n[**2131-6-20**] 06:55AM BLOOD Mg-2.3\n.\n[**2131-6-16**] Echo:\nThe left atrium is mildly dilated. The right atrium is\nmoderately dilated. There is mild symmetric left ventricular\nhypertrophy with normal cavity size. There is mild regional left\nventricular systolic dysfunction with inferolateral hypokinesis.\nThe remaining segments contract normally (LVEF = 45%). The\naortic valve leaflets (3) are mildly thickened but aortic\nstenosis is not present. No aortic regurgitation is seen. The\nmitral valve leaflets are mildly thickened. There is no mitral\nvalve prolapse. Mild (1+) mitral regurgitation is seen. The\npulmonary artery systolic pressure could not be determined.\nThere is no pericardial effusion.\nIMPRESSION: Mild symmetric left ventricular hypertrophy with\nmild regional systolic dysfunction, c/w CAD. Mild mitral\nregurgitation.\n.\n[**2131-6-16**] CT head:\nNo acute intracranial hemorrhage or mass effect.\n.\n[**2131-6-16**] CXR:\nThere is moderate cardiomegaly. ET tube tip is 4.3 cm above the\ncarina.\nPacer tip is in the right ventricle. There is no evident\npneumothorax or\npleural effusions. Aside from minimal atelectasis in the left\nbase, the lungs are clear. There is marked distention of the\nstomach.\n.\n[**2131-6-18**] CXR:\nThe external pacer terminates in the right ventricle.\nCardiomediastinal\nsilhouette is stable. There is overall improvement of the basal\naeration.\nThe upper lungs are also unremarkable. No appreciable pleural\neffusion is\ndemonstrated as well as no definitive evidence of pneumothorax\nis present.\n\n\nBrief Hospital Course:\nThis is a 75 year old male with a known history of CAD with\nprior inferior wall MI who now presents with syncope likely\nsecondary to complete heart block\n.\n# Syncope/Symptomatic Bradycardia: Episode secondary to complete\nheart block noted on telemetry at time of event.  Patient was\nintubated for airway protection and a temporary transcutaneous\npacer was placed.  Cardiac enzymes were negative and TSH normal.\n A head CT was done to rule out CNS bleed. An echocardiogram was\nalso done that showed mild regional systolic dysfunction, c/w\nCAD, mild MR, EF 45%.  [**6-16**] patient was extubated.  A permanent\n[**Company **] pacemaker was placed on this admission.\n.\n# CAD: Cardiac markers were negative on admission.  Echo showed,\nmild regional systolic dysfunction c/w CAD.  Once head bleed was\nruled out he was continued on aspirin, plavix.  His\nace-inhibitor was continued.  Nodal agents were initially held,\ngiven the heart block.  Post-pacemaker placement, he was\nrestarted on amlodipine.  He was switched from atenolol to\ncarvedilol.\n.\n# Diabetes mellitus: Patient continued on ISS. He currently\ntakes no medicines at home for glucose control.\n.\n# Hyperlipidemia: Continuec statin\n.\n# Gout: Patient complained on knee pain consistent w/ his prior\nhistory of gout.  He was treated with a short course of\nprednisone.\n.\n# HTN: PCP confirmed that patient was supposed to switched from\nHCTZ to chlorthalidone.  This was held given his suspected gout\nflare.  He was treated with ace-i, ccb, and atenolol switched to\ncarvedilol (see above).\n.\n# Chronic Renal Insufficiency: Based on atrius records, patient\nnoted to have renal complications of diabetes with a Creatine of\n1.7 for the past several years.  His Cr at [**Hospital1 18**] ranged from\n1.5-1.8.\n.\n# Anemia: No obvious signs of bleeding. Pt has not had a BM here\nand rectal exam negative for impaction with negative guiaic.\nIron studies show mild Fe deficiency. Ferrous sulfate started at\ndischarge with instructions for repeat CBC on [**6-23**]. His PCP\nwas made aware of plan.\n\nMedications on Admission:\n-chlorthalidone 12.5 mg daily\n-simvastatin 40 mg qhs\n-flomax 0.4 mg PO daily\n-allopurinol 100 mg PO BID\n-hydrochlorothiazide 25 mg daily\n-isosorbide dinitrate 10 mg PO BID\n-plavix 75 mg daily\n-atenolol 50 mg po daily\n-atenolol 25 mg po qpm\n-amlodipine/benzapril 10 / 20 mg daily\n-lorazepam 0.5 mg [**Hospital1 **] PRN anxiety\n\nDischarge Medications:\n1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n3. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily)\nfor 3 days.\nDisp:*6 Tablet(s)* Refills:*0*\n5. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)\nCapsule, Sust. Release 24 hr PO HS (at bedtime).\n6. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO every eight\n(8) hours for 2 days.\nDisp:*6 Capsule(s)* Refills:*0*\n7. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO at bedtime.\n8. Isosorbide Dinitrate 10 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\n9. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO BID (2 times\na day).\n10. Amlodipine-Benazepril 10-20 mg Capsule Sig: One (1) Capsule\nPO once a day.\n11. Plavix 75 mg Tablet Sig: One (1) Tablet PO once a day.\n12. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO twice a day\nas needed for anxiety.\n13. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for pain.\n14. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for pain.\nDisp:*25 Tablet(s)* Refills:*0*\n15. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\nDisp:*60 Tablet(s)* Refills:*2*\n16. Outpatient Lab Work\nPlease check Chem-7 and CBC on Friday [**6-23**] with results to\nDr. [**Last Name (STitle) **]\n17. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)\nTablet PO DAILY (Daily). Tablet(s)\n18. Polyethylene Glycol 3350 17 gram Powder in Packet Sig: One\n(1) packet PO DAILY (Daily).\n19. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nComplete Heart Block status post Pacemaker\nCoronary Artery Disease\nGout\nHypertension\nHyperlipidemia\nAnemia\nChronic Kidney Disease\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\n\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nYou had complete heart block which is due to a deterioration of\nthe electrical system of your heart. This caused a very slow\nheart rate and you received a pacemaker to keep your heart rate\nat a normal level. You will need to avoid showers for 3 days and\nkeep the pacer site dry. On Saturday you can take the dressing\noff and take a shower, pat the area dry. You will be seen in the\n[**Hospital1 **] Device clinic in 1 week to check the pacer. No\nlifting your left arm over your head or lifting more than 5\npounds for 6 weeks. No driving until after your device clinic\nappt. Please see the pacemaker booklet for further instructions.\n\nYou were found to have some anemia but your blood counts are\nstable today. Please get labs checked on Friday [**6-23**] and\ntake iron to help your blood counts improve.\n.\nMedication changes:\n1.Start Prednisone to treat a gout flare for a total of 5 days.\n2. Start Keflex, an antibiotic to prevent an infection at the\npacer site.\n3. Start Oxycodone for your knee pain and Tylenol if you have\npain at the pacer site.\n4. Stop chlorthalidone\n5. Stop Atenolol, start Carvedilol at 12.5 mg twice daily for\nyour blood pressure.\n6. Start Ferrous sulfate to help your anemia. You will need to\ntake colace, a stool softener, and Miralax if you get\nconstipated. These all are over the counter medicines.\n\nFollowup Instructions:\nDEVICE CLINIC: [**Hospital1 **] office will call you with an\nappt for next week.\n.\nCardiology: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Phone: [**Telephone/Fax (1) 2258**] Date/Time:\n[**Hospital1 **] office will call you with an appt.\nPrimary Care:\n[**Last Name (LF) 41941**],[**First Name3 (LF) **] J. Phone: [**Telephone/Fax (1) 31019**] Please call Dr [**Last Name (STitle) **] when you\nget home to schedule an appt in 2 weeks.\n\n\n\nCompleted by:[**2131-6-20**]"
+    }
+  ]
+}

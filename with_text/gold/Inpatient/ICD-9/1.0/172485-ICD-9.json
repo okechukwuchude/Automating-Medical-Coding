@@ -1,0 +1,113 @@
+{
+  "hadm_id": 172485,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 36727,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 483,
+          "end": 490,
+          "code": "571.2",
+          "code_system": "ICD-9-CM",
+          "description": "Alcoholic cirrhosis of liver",
+          "type": "MapType.APPROX",
+          "covered_text": "alcohol"
+        },
+        {
+          "begin": 1946,
+          "end": 1961,
+          "code": "348.30",
+          "code_system": "ICD-9-CM",
+          "description": "Encephalopathy, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "encephalopathic"
+        },
+        {
+          "begin": 2246,
+          "end": 2255,
+          "code": "571.2",
+          "code_system": "ICD-9-CM",
+          "description": "Alcoholic cirrhosis of liver",
+          "type": "MapType.APPROX",
+          "covered_text": "Cirrhosis"
+        },
+        {
+          "begin": 2670,
+          "end": 2691,
+          "code": "338.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pain",
+          "type": "MapType.EXACT",
+          "covered_text": "Chronic low back pain"
+        },
+        {
+          "begin": 2695,
+          "end": 2705,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 2709,
+          "end": 2716,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "Human",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 2766,
+          "end": 2773,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "tobacco"
+        },
+        {
+          "begin": 6219,
+          "end": 6231,
+          "code": "785.52",
+          "code_system": "ICD-9-CM",
+          "description": "Septic shock",
+          "type": "Human",
+          "covered_text": "Septic shock"
+        },
+        {
+          "begin": 7000,
+          "end": 7014,
+          "code": "572.2",
+          "code_system": "ICD-9-CM",
+          "description": "Hepatic coma",
+          "type": "Human",
+          "covered_text": "encephalopathy"
+        },
+        {
+          "begin": 7425,
+          "end": 7444,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute kidney injury"
+        },
+        {
+          "begin": 7725,
+          "end": 7737,
+          "code": "286.9",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified coagulation defects",
+          "type": "Human",
+          "covered_text": "Coagulopathy"
+        }
+      ],
+      "text": "Admission Date:  [**2191-12-23**]              Discharge Date:   [**2191-12-23**]\n\nDate of Birth:  [**2140-1-6**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nCodeine / Morphine / Hydrocodone / Oxycodone / Ativan\n\nAttending:[**First Name3 (LF) 594**]\nChief Complaint:\ngeneralized weakness, diffuse abdominal pain, abnormal labs\n\nMajor Surgical or Invasive Procedure:\nIntubation\n\nHistory of Present Illness:\nPatient is a 51 year old male with cirrhosis reportedly\nsecondary to alcohol and hemochromatosis complicated by\nencephalopathy who presents to ED with concern for hyperkalemia\nnoted on labs with outside provider.\n.\nIn the ED, his potassium was noted to be normal though he\nappeared altered and reported generalized weakness and new\ndiffuse abdominal pain without fever, chills, dysuria and\nheadache.  His physical exam was notable for SIRS criteria with\nheart rate of 110 and MAP of 50.\nBedside TTE showed normal ejection fraction though showed\ncollapsed IVC whose diameter improved with 2 liters of NS\nresuscitation and 150 g of albumin resuscitation though no\nresponse to his MAP with CVP 8 - 12 and SvCO2 of 97%. RIJ line\nwas placed and levophed was started with concern for septic\nshock.  He was given Vancomycin 1 gm IV x 1, ceftazidime 2 gm IV\nx 1 and flagyl 500 mg IV x 1 as empiric coverage and admitted to\nMICU for management of septic shock with likely nidus of\ninfection being SBP.\n.\nOf note, FAST in the ED showed trace free fluid without any\nascites though abomdinal ultrasound later confirmed moderate\nascites.  Labs notable for elevated creatinine to 3.9, lactate\nof 4.4, WBC of 3.8, elevated liver enzymes, INR of 2.09 and\nT.bili of 4.7.\n.\nCXR showed no acute cardiopulmonary process with satisfactory\npositioning of RIJ line.  UA was WNL except for high specific\ngravity. EKG showed diffusely low voltage.  He also has\ncellulitis.\n.\nVitals prior to tranfer were 133/92 on levo gtt.\n.\nOn arrival to the MICU, he was encephalopathic with somnolence\nbut did arouse to voice and sternal rub.  He answered questions\nwith simple yes and no.  He denied bloody bowel movements and\nvomiting blood although he had copious amounts of dried blood in\nhis mouth.  He was not making urine in the foley.\n\n\nPast Medical History:\n1. Cirrhosis [**2-16**] alcohol, question of hemochromatosis given\nelevated iron levels (ferritin ~1500, TIBC ~200).  Saw\ncardiology here in [**2191-4-15**], who performed an MRI and saw iron\ndeposits in liver concerning for hemochromatosis. Mild CHF on\nlast echo (LVEF 50-55%) may be due to EtOH vs. hemachromatosis.\n2. Recurrent cellulitis of left leg\n3. DVT following trauma to left leg (MVA) Was on warfarin for 1\nyear.\n4. Chronic low back pain\n5. Depression\n6. Anxiety\n\n\nSocial History:\nNo current tobacco use, former tobacco ~ 10 pack years (quit 3\nyears ago). Former alcohol and Klonopin abuse. Patient lives\nin [**Hospital 169**] Center, he does not work. He is separated from\n\nhis wife. The patient's weekly exercise regimen consists of\nwalking daily around the building. Patient usually tries to\nadhere to a sensible diet and manages ADLs well with assistance.\n\nHe is separated from his wife. [**Name (NI) **] has 3 grown children ages 31,\n\n27 and 23 who live in [**Location (un) 17927**]. He quit smoking 3 years ago.\n\n\nFamily History:\nHis father died of lung cancer and his mother has diabetes. He\nhas 3 sisters and 1 brother who are healthy.  His 3 children who\n\nare healthy.\n\n\nPhysical Exam:\nVitals:  temperature 91.1, BP 80s/40s, HR 130s, RR 8-10, O2 sats\n100% 5LNC\nGeneral: somnolent, arouses to voice and sternal rub, answers\n\"yes\" to some questions but not clearly appropriately\nHEENT: Very mild scleral icterus, dried blood in the mouth\nNeck: supple, difficult to assess JVP\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate, normal rhythm, soft heart sounds\nAbdomen: firm, obese,  diffusely tender with guarding, worse in\nthe RUQ\nExt: cold, left radial pulse 2+, right trace pulse, b/l DP trace\n\n\n\nPertinent Results:\n[**2191-12-23**] 09:59AM BLOOD WBC-4.2 RBC-1.71* Hgb-6.4* Hct-21.0*\nMCV-123*# MCH-37.5* MCHC-30.5* RDW-16.9* Plt Ct-28*\n[**2191-12-23**] 09:29AM BLOOD WBC-4.4 RBC-1.95* Hgb-7.2* Hct-22.5*\nMCV-116* MCH-36.8* MCHC-31.8 RDW-17.1* Plt Ct-46*\n[**2191-12-23**] 05:01AM BLOOD WBC-4.2 RBC-2.26* Hgb-8.4* Hct-25.5*\nMCV-113* MCH-37.3* MCHC-33.1 RDW-17.0* Plt Ct-33*\n[**2191-12-22**] 09:40PM BLOOD WBC-3.8* RBC-2.52* Hgb-9.5* Hct-28.6*\nMCV-114*# MCH-37.7* MCHC-33.2 RDW-17.0* Plt Ct-24*\n[**2191-12-23**] 09:59AM BLOOD Plt Smr-VERY LOW Plt Ct-28*\n[**2191-12-23**] 09:59AM BLOOD PT-24.1* PTT-88.5* INR(PT)-2.3*\n[**2191-12-23**] 09:29AM BLOOD Plt Ct-46*\n[**2191-12-23**] 09:29AM BLOOD PT-21.9* PTT-53.7* INR(PT)-2.1*\n[**2191-12-23**] 05:01AM BLOOD Plt Ct-33*\n[**2191-12-23**] 05:01AM BLOOD PT-22.0* PTT-65.2* INR(PT)-2.1*\n[**2191-12-22**] 11:05PM BLOOD PT-22.0* PTT-150* INR(PT)-2.09*\n[**2191-12-23**] 09:59AM BLOOD Glucose-513* UreaN-48* Creat-3.3* Na-135\nK-4.1 Cl-101 HCO3-17* AnGap-21*\n[**2191-12-23**] 09:29AM BLOOD Glucose-336* UreaN-48* Creat-3.3* Na-136\nK-4.4 Cl-100 HCO3-17* AnGap-23*\n[**2191-12-23**] 05:01AM BLOOD Glucose-304* UreaN-54* Creat-3.5* Na-134\nK-4.3 Cl-97 HCO3-23 AnGap-18\n[**2191-12-22**] 09:40PM BLOOD Glucose-340* UreaN-57* Creat-3.9*# Na-134\nK-5.0 Cl-98 HCO3-22 AnGap-19\n[**2191-12-23**] 09:59AM BLOOD CK(CPK)-76\n[**2191-12-23**] 05:01AM BLOOD ALT-73* AST-112* LD(LDH)-277* CK(CPK)-65\nAlkPhos-241* TotBili-5.3*\n[**2191-12-22**] 09:40PM BLOOD ALT-83* AST-138* AlkPhos-282*\nTotBili-4.7*\n[**2191-12-23**] 09:59AM BLOOD Calcium-9.6 Phos-7.0* Mg-3.5*\n[**2191-12-23**] 09:29AM BLOOD Calcium-8.3* Phos-6.9* Mg-2.4\n[**2191-12-23**] 05:01AM BLOOD Calcium-9.0 Phos-7.0*# Mg-2.7*\n[**2191-12-23**] 10:43AM BLOOD Lactate-8.1*\n[**2191-12-23**] 10:17AM BLOOD Lactate-7.9*\n[**2191-12-23**] 09:43AM BLOOD Lactate-5.4*\n[**2191-12-23**] 07:27AM BLOOD Lactate-4.1*\n[**2191-12-23**] 03:17AM BLOOD Lactate-3.5*\n[**2191-12-23**] 01:08AM BLOOD Lactate-3.7*\n[**2191-12-22**] 11:07PM BLOOD Lactate-4.4*\n\nBrief Hospital Course:\nMr. [**Known lastname **] is a 51 year old male with a history of alcoholic\ncirrhosis and hepatic encephalopathy presented with new\nabdominal pain, altered mental status, and hypotension.\n.\n# Septic shock: Admitted to MICU with MAP 58 after 2L IVF.\nEtiology seemed to be SBP vs pneumonia, CXR was not c/w\npneumonia. Cardiac causes less likely given normal bedside echo\nin ED w/ FAST negative for pericardial effusion. RUQ showed some\nascites but did not characertize hepatic vasculature well. He\nwas continued on pressors to maintain his MAP >65, and treated\nper standard MUST protocol. He was also started on vancomycin\nand zosyn in the ED. Despite aggressive goal-directed\nresuscitation and prompt antibiotic treatment, his septic\nphysiology rapidly worsened and his lactate continued to rise\nand his blood pressure progressively fell. He subsequently went\ninto PEA arrest as described below.\n.\n# Altered mental status:  Most likely a combination of his\nbaseline hepatic encephalopathy with infection and superimposed\ndelirium.  There is also concern that his MAP is not high enough\nto maintain cerebral perfusion pressure at this point since he\nhas had low MAP for >3 hours and is also not making urine. We\ncontinued aggressive fluid resucication and pressors to maintain\nMAP. He was also continued on lactulose and rifaximin, but\nultimately had to be intubated for declining mental status.\n.\n# Acute kidney injury:  His creatinine is acutely elevated from\nbaseline < 1.  The possible etiologies include HRS versus ATN.\nWe had planned to obtain renal consult in the morning. Patient\nhad little to no urine output overnight, renal ultrasound in ED\nnegative for obstruction or hydronephrosis.\n.\n# Coagulopathy: Patient with baseline coagulopathy and\nthrombocytopenia and presented with dried blood in his mouth.\nAnesthesia also found blood in the oropharynx.  He was not known\nto have varicies. Given septic shock there was a concern for DIC\nas his condition worsened.\n.\n# Cirrhosis: Known to be alcoholic and suspected also\nhemochromatosis.  His synthetic function is poor now with\nincreasing INR and decreasing albumin.  His known\ndecompensations include hepatic encephalopathy and SBP.\n.\n# Cardiac arrest: Despite continued aggressive intervention with\npressors, antibiotics, and fluid resuscitation, the patient's\ncondition continued to decline with decreasing blood pressure,\nincreasing lactate, and no clinical improvement. Bedside echo\nshowed poor cardiac systolic function. He subsequently went into\nPEA cardiac arrest for which standard ACLS protocol was\ninitiated. He briefly return of spontaneous circulation, and\nshowed mildly improved systolic cardiac function on repeat\nbedside echo. Within one hour of ROSC his blood pressure started\nto trend downward, and family meeting was initiated at the\nbedside. During this meeting the family decided not to continue\nresuscitation of the patient given poor prognosis on maximal\nsupport (he was on four pressors at that time). His family and\nthe medical team were all in agreement with this decision.\nChaplain was called to the bedside, and supportive care was\nwithdrawn. Patient subsequently expired.\n\nMedications on Admission:\n- rifaximin 550 mg Tablet PO BID\n- lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated topical\nto back and hip\n- tramadol 50 mg Tablet PO Q6H prn pain\n- testosterone 5 mg/24 hr Patch 24 hr Q24H\n- Calcium Citrate + D 315-200 mg-unit [**Hospital1 **]\n- folic acid 1 mg Tablet daily\n- thiamine HCl 100 mg Tablet daily\n- multivitamin daily\n- pyridoxine 25 mg Tablet daily\n- heparin (porcine) 5,000 unit/mL Solution TID\n- omeprazole 20 mg [**Hospital1 **]\n- nystatin 100,000 unit/g twice a day as needed for rash\n-lactulose 10 gram/15 mL 30 ML PO QID\n-acetaminophen 325 mg Q6H prn pain: limit to 2g/24hrs\n-polyethylene glycol 17 gram/dose PO DAILY\n-insulin lispro 100 unit/mL sliding scale.\n-midodrine 10 mg PO tid\n\n\nDischarge Medications:\nNot applicable\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nSeptic shock\n\nDischarge Condition:\nExpired\n\nDischarge Instructions:\nN/A\n\nFollowup Instructions:\nN/A\n\n\nCompleted by:[**2191-12-24**]"
+    }
+  ]
+}

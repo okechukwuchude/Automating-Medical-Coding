@@ -1,0 +1,94 @@
+{
+  "hadm_id": 184156,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 573943,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 3358,
+          "end": 3365,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypoxia"
+        }
+      ],
+      "text": "Chief Complaint:\n   24 Hour Events:\n   Maintained on BiPAP with intermittent breaks\n   Ativan 0.5, then 0.25 for anxiety\n NON-INVASIVE VENTILATION - START [**2167-5-17**] 02:00 PM\n   Allergies:\n   Sulfa (Sulfonamides)\n   Unknown;\n   Levaquin (Oral) (Levofloxacin)\n   Abdominal pain;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2167-5-17**] 05:20 PM\n   Lorazepam (Ativan) - [**2167-5-18**] 04:17 AM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2167-5-18**] 06:00 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.7\nC (98.1\n   Tcurrent: 36.4\nC (97.5\n   HR: 95 (68 - 107) bpm\n   BP: 151/65(83) {94/38(56) - 163/79(91)} mmHg\n   RR: 33 (14 - 35) insp/min\n   SpO2: 88%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 62 Inch\n             Total In:\n                                                                    583 mL\n                                                                    417 mL\n   PO:\n             TF:\n   IVF:\n                                                                    583 mL\n                                                                    417 mL\n   Blood products:\n   Total out:\n                                                                    300 mL\n                                                                    150 mL\n   Urine:\n                                                                    300 mL\n                                                                    150 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    283 mL\n                                                                    267 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   Ventilator mode: Standby\n   Vt (Spontaneous): 222 (222 - 310) mL\n   PS : 10 cmH2O\n   RR (Spontaneous): 22\n   PEEP: 8 cmH2O\n   FiO2: 35%\n   PIP: 19 cmH2O\n   SpO2: 88%\n   ABG: 7.35/81.[**Numeric Identifier **]/77.[**Numeric Identifier **]/40/14\n   Ve: 4.7 L/min\n   PaO2 / FiO2: 223\n   Physical Examination\n   Gen: Alert, interactive\n   HEENT:  Mucous membranes markedly dry\n   Chest: distant breath sounds, low volumes, scattered wheezing\n   Abd: soft, NT, ND\n   Ext:  trace peripheral edema bl LE\n   Labs / Radiology:\n   364 K/uL\n   9.6 g/dL\n   193 mg/dL\n   0.7 mg/dL\n   40 mEq/L\n   4.5 mEq/L\n   24 mg/dL\n   93 mEq/L\n   141 mEq/L\n   32.0 %\n   5.2 K/uL\n        [image002.jpg]\n                             [**2167-5-17**]  03:15 PM\n                             [**2167-5-17**]  07:15 PM\n                             [**2167-5-17**]  08:15 PM\n                             [**2167-5-17**]  10:50 PM\n                             [**2167-5-18**]  04:10 AM\n   WBC\n   5.2\n   Hct\n   32.0\n   Plt\n   364\n   Cr\n   0.7\n   TCO2\n   49\n   49\n   47\n   47\n   Glucose\n   193\n   Other labs: PT / PTT / INR:13.8/25.3/1.2, Ca++:10.0 mg/dL, Mg++:2.1\n   mg/dL, PO4:4.1 mg/dL\n   Assessment and Plan\n   Assessment and Plan: This is a 80 yo female with severe COPD, diastolic\n   HF, DM II who presented with hypoxia and hypercarbia.\n   .\n   # Hypoxia/Hypercarbia: likely in the setting of COPD.  Other\n   possibilities for hypoxia include HF, but clinically does not appear to\n   be in over HF.  PE also possible, but unlikely based on clinical exam.\n   Possible causes of worsening COPD include PNA, URI.\n   - treat CAP with CTX, Azithro ([**5-17**] day 1)\n   - solumedrol 125 mg Q8H for now; consider transitioning to PO\n   prednisone in AM\n   - atrovent nebs q6H and albuterol nebs q2hours PRN\n   - repeat ABG to assess oxygenation and ventilation off BiPAP\n   - Continue O2 NC, using BIPAP at 8/8 only as needed and based on ABG\n   resultes\n   - f/u sputum cx, f/u blood culture\n   - goal PaO2 in 70-80s range; attempt to maintain PCO2 <80\n   - no intubation- discussed with patient and son, both are in agreement\n   with patient's wishes\n   .\n   # Diastolic HF: doesn't seem to be in overt heart failure at this time\n   - holding home lasix, consider starting 1 day after taking good PO\n   intake\n   .\n   # DM2: not on home medications; fingersticks here markedly elevated in\n   the setting of steroids\n   - insulin SS and QID FS\n   .\n   # Depression/Anxiety: cont home antidepressant, hold trazadone and\n   zolpidem\n   .\n   # FEN:\n   - hold IVF\n   - replete electrolytes prn\n   - nutrition c/s to maximize nutrition status\n   .\n   # Prophylaxis: Subcutaneous heparin\n   .\n   # Access: peripheral IV\n   .\n   # Code: DNR/DNI confirmed with patient and son [**Name (NI) **]\n   .\n   # Communication: Patient.  Son [**Name (NI) **] [**Name (NI) 1362**] [**Telephone/Fax (1) 6008**]\n   .\n   # Disposition: case management to screen today for rehab\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   18 Gauge - [**2167-5-17**] 02:00 PM\n   Prophylaxis:\n   DVT: pneumoboots, SQH\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: DNR/DNI confirmed with son and patient\n   Disposition:\n"
+    },
+    {
+      "note_id": 54606,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 357,
+          "end": 361,
+          "code": "491.21",
+          "code_system": "ICD-9-CM",
+          "description": "Obstructive chronic bronchitis with (acute) exacerbation",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 363,
+          "end": 373,
+          "code": "V46.2",
+          "code_system": "ICD-9-CM",
+          "description": "Dependence on supplemental oxygen",
+          "type": "MapType.EXACT",
+          "covered_text": "on home O2"
+        },
+        {
+          "begin": 1658,
+          "end": 1663,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DM-no"
+        },
+        {
+          "begin": 1801,
+          "end": 1811,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 1812,
+          "end": 1819,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "MapType.EXACT",
+          "covered_text": "Anxiety"
+        },
+        {
+          "begin": 1820,
+          "end": 1846,
+          "code": "715.15",
+          "code_system": "ICD-9-CM",
+          "description": "Osteoarthrosis, localized, primary, involving pelvic region and thigh",
+          "type": "MapType.APPROX",
+          "covered_text": "Severe Right hip arthritis"
+        },
+        {
+          "begin": 6012,
+          "end": 6014,
+          "code": "428.32",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, chronic",
+          "type": "Human",
+          "covered_text": "HF"
+        }
+      ],
+      "text": "Admission Date:  [**2167-5-17**]              Discharge Date:   [**2167-5-18**]\n\nDate of Birth:  [**2087-3-31**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nSulfa (Sulfonamides) / Levaquin\n\nAttending:[**First Name3 (LF) 2297**]\nChief Complaint:\nsob\n\nMajor Surgical or Invasive Procedure:\nna\n\nHistory of Present Illness:\n80 yo female with h/o severe COPD (on home O2), diastolic CHF\nwho presented to ED this AM with severe dyspnea and hypoxia.\nShe is currently on BiPap therefore history is somewhat limited.\nShe reports having cough, maybe a fever but didn't check her\ntemp at home.  She states her breathing has gotten worse over\nthe last few days to about a week or so.  She also reports\nhaving some mild lower extremity edema.  She has been having\nsome chest tightness as well.  She denies any other symptoms.\nShe has been taking her nebs, but otherwise feels she was\ngetting worse.\n.\nIn the ED, initial vs were: T 98.4 P 113 BP 138/46 R O2 sat.\nPatient was given CTX and azithromycin in the ER for ? PNA on\nCXR.  Her initial O2 sat was unable to be read in triage, then\nin the room, was in the low 80s, and improved to 92% on NRB.\nGiven that she had barely any air movement, she was started on\nBiPAP.  After about 25 mins of BiPAP, her ABG was 7.27/102/72.\nHer FiO2 was decreased to 35% because she was having apneic\nepisodes, and with that, her repeat ABG was 7.34/79/57. She was\nalso given steroids and nebs in the ER, then admitted to the\nMICU for further management.\n.\nOn the floor, she reports feeling dyspneic, but slightly better.\n\n\nPast Medical History:\nsevere COPD - on 2L home O2   FEV1: 0.56 (36%) FEV1/FVC: 48\n(71%), refuses steroids\nDM-no meds\nRecurrent choledocholithiasis, s/p cholecystectomy, s/p ERCP  X8\nfor stone retrieval/stent placement (Dr. [**Last Name (STitle) **]\nDepression/Anxiety\nSevere Right hip arthritis\nAneurysm with cranial clips x2\nPVD: [**1-7**] doppler right significant superficial  femoral and\ntibial artery occlusive disease. On the left, there\nis moderate popliteal/tibial arterial occlusive disease.\nDiastolic heart failure with acute CHF during previous admission\nRhinitis\n\n\nSocial History:\nThe patient currently lives at [**Location 10138**] [**Hospital3 **]\nfacilily. At baseline she is able to walk with a walker, feed\nher self, bath and dress herself but has meals prepared for her.\nShe has two sons involved in her life and care, [**Doctor First Name **] and [**Doctor Last Name **]\nbut is unable to recall if 1 has been designated HCP, she would\nprefer both help with decisions for now.\nTobacco: 2 PPD x 40 years, quit many years ago\nETOH: None\nIllicits: None\n\n\nFamily History:\nSons are healthy. No pulmonary disease, no h/o recurrent GB\nstones per pt.\n\nPhysical Exam:\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n.\n\n\nPertinent Results:\n[**2167-5-18**] 04:10AM BLOOD WBC-5.2 RBC-3.82* Hgb-9.6* Hct-32.0*\nMCV-84 MCH-25.1* MCHC-29.9* RDW-15.0 Plt Ct-364\n[**2167-5-17**] 11:00AM BLOOD WBC-7.3 RBC-3.91* Hgb-9.9* Hct-31.7*\nMCV-81* MCH-25.3* MCHC-31.1 RDW-15.7* Plt Ct-336\n[**2167-5-17**] 11:00AM BLOOD Neuts-73* Bands-16* Lymphs-7* Monos-4\nEos-0 Baso-0 Atyps-0 Metas-0 Myelos-0\n[**2167-5-18**] 04:10AM BLOOD Plt Ct-364\n[**2167-5-18**] 04:10AM BLOOD PT-13.8* PTT-25.3 INR(PT)-1.2*\n[**2167-5-17**] 11:00AM BLOOD Plt Smr-NORMAL Plt Ct-336\n[**2167-5-18**] 04:10AM BLOOD Glucose-193* UreaN-24* Creat-0.7 Na-141\nK-4.5 Cl-93* HCO3-40* AnGap-13\n[**2167-5-17**] 11:00AM BLOOD Glucose-302* UreaN-21* Creat-0.8 Na-136\nK-4.4 Cl-88* HCO3-39* AnGap-13\n[**2167-5-18**] 11:52AM BLOOD Type-ART pO2-83* pCO2-91* pH-7.30*\ncalTCO2-47* Base XS-14 Intubat-NOT INTUBA\n[**2167-5-17**] 10:50PM BLOOD Type-ART pO2-78* pCO2-81* pH-7.35\ncalTCO2-47* Base XS-14\n[**2167-5-17**] 08:15PM BLOOD Type-ART pO2-69* pCO2-84* pH-7.34*\ncalTCO2-47* Base XS-15\n[**2167-5-17**] 07:15PM BLOOD Type-ART Temp-37.7 O2 Flow-3 pO2-62*\npCO2-93* pH-7.31* calTCO2-49* Base XS-15 Intubat-NOT INTUBA\nComment-NASAL [**Last Name (un) 154**]\n[**2167-5-17**] 03:15PM BLOOD Type-ART Temp-37.8 FiO2-35 pO2-60*\npCO2-88* pH-7.33* calTCO2-49* Base XS-15 Intubat-NOT INTUBA\nComment-BIPAP 5/5\n[**2167-5-17**] 12:18PM BLOOD Rates-/35 Tidal V-400 PEEP-5 FiO2-35\npO2-57* pCO2-79* pH-7.34* calTCO2-44* Base XS-12 Intubat-NOT\nINTUBA\n[**2167-5-17**] 11:34AM BLOOD Type-ART Rates-/39 Tidal V-350 FiO2-35\npO2-72* pCO2-102* pH-7.27* calTCO2-49* Base XS-15 Intubat-NOT\nINTUBA\n[**2167-5-17**] 11:15AM BLOOD Lactate-1.6\n[**2167-5-18**] 11:52AM BLOOD Lactate-0.7\n\nCXR\n[**2167-5-18**]\nIn comparison with the study of [**5-17**], there is some increasing\nopacification at the left base consistent with atelectasis or\nsupervening\npneumonia. Hyperexpansion of the lungs is again suggestive of\nchronic\npulmonary disease. Small bilateral pleural effusions are again\nseen.\n\n[**2167-5-17**]\nWithin that limitation, there is suggestion of a left basilar\nopacity. Small\nbilateral pleural effusions are new compared to [**2167-4-15**].\nCalcified granulomas\nin bilateral lungs are unchanged. The lungs are hyperinflated,\nas before. The\ncardiomediastinal silhouette, hilar contours, and pulmonary\nvasculature are\nnot significantly changed. Osseous structures are grossly\nunchanged including\nthe old right clavicular fracture and loss of height in mid\nthoracic vertebral\nbody.\n\nIMPRESSION: Limited study as above. Left basilar opacity\nsuggested\nwhich may represent atelectasis versus pneumonia. There are\nsmall bilateral\npleural effusions, new since [**2167-4-15**]. If feasible, consider PA\nand lateral\nviews in the radiology suite for more sensitive evaluation.\n\n\nBrief Hospital Course:\nThis is a 80 yo female with severe COPD, diastolic HF, who\npresents with hypoxia and hypercarbia\n\n# Hypoxia/Hypercarbia: COPD exacurbation. Possible causes of\nworsening COPD include PNA, URI. Also anxiety plays a big role\nin her exacurbations. We treated her with nebs, CTX and\nAzithromycin. Also she was given stress dose solumedrol and\ntransition to prednisone po with 15 day [**Doctor Last Name 2949**]. Ativan was given\nevery 8 hrs as needed.  Initially she was placed on BiPAP but\nwas able to be weaned from this device. She is a baseline CO2\nretainer and her oxygenation goal should be Sat 88-92%. Sputum\nand blood cultures were sent and were ngtd on discharge. The\npatient is DNR/DNI.\n\n# Diastolic HF: No evidence of CHF exacurbation on this\nadmissin. We continued home dose lasix.\n\n# DM2: not on home medications; fingersticks here markedly\nelevated in the setting of steroid use. We placed her on insulin\nsliding scale which should be continued until steroid [**Last Name (un) 10128**] is\ncompleted.\n\n# Depression/Anxiety: continued home meds\n\n\nMedications on Admission:\nAvair diskus 2 pufs daily\nCOlace 100 mg daily\nCombivent 2 puffs QID\nCymbalta 60 mg daily\nDuoneb PRN\nFluticasone [**1-2**] sprays 50 mcg\nLasix 20 mg daily\nMVI\n\nDischarge Medications:\n1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n3. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation\nQ6H (every 6 hours).\n4. Insulin Regular Human 100 unit/mL Solution Sig: One (1)\nInjection ASDIR (AS DIRECTED).\n5. Azithromycin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every\n24 hours) for 4 days.\n6. Ursodiol 300 mg Capsule Sig: One (1) Capsule PO BID (2 times\na day).\n7. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n8. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).\n10. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H\n(every 6 hours) as needed for pain.\n11. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: [**1-2**]  Inhalation Q3H (every 3 hours).\n12. Ceftriaxone in Dextrose,Iso-os 1 gram/50 mL Piggyback Sig:\nOne (1)  Intravenous Q24H (every 24 hours) for 6 days.\n13. Prednisone 10 mg Tablet Sig: ASDIR Tablet PO once a day for\n15 days: 60 mg for 3 days, 40 mg for 3 days, 20 mg for 3 days,\n10 mg for 3 days,\n5 mg for 3 days, then off.\n14. Lorazepam 0.5 mg Tablet Sig: 0.5 Tablet PO three times a day\nas needed for anxiety.\n15. Advair Diskus 250-50 mcg/Dose Disk with Device Sig: One (1)\nInhalation twice a day.\n16. Fluticasone 50 mcg/Actuation Disk with Device Sig: One (1)\nInhalation twice a day.\n17. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.\n18. Multivitamin     Capsule Sig: One (1) Capsule PO once a day.\n\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 105**] - [**Location (un) 86**]\n\nDischarge Diagnosis:\nCOPD exacurbation\n\n\nDischarge Condition:\nGood, Sa O2 92% 2 lt, comfortable\ngoal SaO2 88-92%\n\n\nDischarge Instructions:\nYou were admited with worsening of your COPD. We treated you\nwith antibiotics, nebulizer treatments and steroids.\n\nPlease call your regular doctor or return to the ED if you have\nshortness of breath, chest pain, palpitations, wheezing worsened\nedema or any other concerns\n\nFollowup Instructions:\nPlease follow up with your regular doctor within 10 days.\n[**Last Name (LF) **],[**First Name3 (LF) **] E. [**Telephone/Fax (1) 2205**]\n\n\n\nCompleted by:[**2167-5-18**]"
+    }
+  ]
+}

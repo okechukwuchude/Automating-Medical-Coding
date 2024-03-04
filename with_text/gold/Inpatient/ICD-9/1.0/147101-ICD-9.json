@@ -1,0 +1,176 @@
+{
+  "hadm_id": 147101,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 2599,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 385,
+          "end": 402,
+          "code": "724.5",
+          "code_system": "ICD-9-CM",
+          "description": "Backache, unspecified",
+          "type": "Human",
+          "covered_text": "chronic back pain"
+        },
+        {
+          "begin": 1604,
+          "end": 1609,
+          "code": "93.90",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous positive airway pressure [CPAP]",
+          "type": "MapType.APPROX",
+          "covered_text": "BiPAP"
+        },
+        {
+          "begin": 3008,
+          "end": 3033,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "tobacco: 2 cigarettes/day"
+        },
+        {
+          "begin": 7806,
+          "end": 7819,
+          "code": "291.81",
+          "code_system": "ICD-9-CM",
+          "description": "Alcohol withdrawal",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "alcohol abuse"
+        },
+        {
+          "begin": 8409,
+          "end": 8419,
+          "code": "780.09",
+          "code_system": "ICD-9-CM",
+          "description": "Other alteration of consciousness",
+          "type": "Human",
+          "covered_text": "somnolence"
+        },
+        {
+          "begin": 9347,
+          "end": 9356,
+          "code": "724.5",
+          "code_system": "ICD-9-CM",
+          "description": "Backache, unspecified",
+          "type": "Human",
+          "covered_text": "Back pain"
+        },
+        {
+          "begin": 9430,
+          "end": 9439,
+          "code": "304.01",
+          "code_system": "ICD-9-CM",
+          "description": "Opioid type dependence, continuous use",
+          "type": "Human",
+          "covered_text": "methadone"
+        },
+        {
+          "begin": 9761,
+          "end": 9774,
+          "code": "291.81",
+          "code_system": "ICD-9-CM",
+          "description": "Alcohol withdrawal",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Alcohol abuse"
+        },
+        {
+          "begin": 10104,
+          "end": 10116,
+          "code": "289.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified diseases of blood and blood-forming organs",
+          "type": "MapType.APPROX",
+          "covered_text": "macrocytosis"
+        },
+        {
+          "begin": 10480,
+          "end": 10500,
+          "code": "276.7",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperpotassemia",
+          "type": "Human",
+          "covered_text": "hyperkalemia-unclear"
+        },
+        {
+          "begin": 10546,
+          "end": 10566,
+          "code": "790.4",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]",
+          "type": "MapType.EXACT",
+          "covered_text": "transaminitis-likely"
+        },
+        {
+          "begin": 10627,
+          "end": 10648,
+          "code": "238.71",
+          "code_system": "ICD-9-CM",
+          "description": "Essential thrombocythemia",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "thrombocytosis-likely"
+        },
+        {
+          "begin": 11339,
+          "end": 11348,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "pneumonia"
+        },
+        {
+          "begin": 11349,
+          "end": 11364,
+          "code": "291.81",
+          "code_system": "ICD-9-CM",
+          "description": "Alcohol withdrawal",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "ETOH withdrawal"
+        },
+        {
+          "begin": 11365,
+          "end": 11377,
+          "code": "338.29",
+          "code_system": "ICD-9-CM",
+          "description": "Other chronic pain",
+          "type": "Human",
+          "covered_text": "chronic pain"
+        },
+        {
+          "begin": 11378,
+          "end": 11391,
+          "code": "790.4",
+          "code_system": "ICD-9-CM",
+          "description": "Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]",
+          "type": "MapType.EXACT",
+          "covered_text": "transaminitis"
+        },
+        {
+          "begin": 11642,
+          "end": 11661,
+          "code": "486",
+          "code_system": "ICD-9-CM",
+          "description": "Pneumonia, organism unspecified",
+          "type": "Human",
+          "covered_text": "bilateral pneumonia"
+        },
+        {
+          "begin": 11909,
+          "end": 11927,
+          "code": "291.81",
+          "code_system": "ICD-9-CM",
+          "description": "Alcohol withdrawal",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "alcohol withdrawal"
+        }
+      ],
+      "text": "Admission Date:  [**2185-7-7**]              Discharge Date:   [**2185-7-11**]\n\nDate of Birth:  [**2126-8-25**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 10488**]\nChief Complaint:\nSOB\n\nMajor Surgical or Invasive Procedure:\nPPD placement\n\n\nHistory of Present Illness:\n58 yo M with PMH significant for chronic back pain, history of\nsplenectomy, and EtOH use presents with increased shortness of\nbreath and productive cough, found to be in respiratory\ndistress.\n.\nPer patient, he has had productive cough for the past 1.5 weeks.\nIt started with a dry cough which progressed to coughing\n\"spells\" that would last thirty minutes at time. He reports\n\"yellow, green, and brown\" sputum production. He noted\nsubjective fevers, but no night sweats, or weight loss. Endorses\nsubsternal chest pain that has been constant for the past 1.5\nweeks worsens with cough. No nausea, vomiting, diarrhea, joint\npain, or rash.\n.\nOf note, patient spends his days at an outreach program for\npeople with substance abuse, depression, and PTSD at the\nVeteran's Hospital. Denied any recent travels or sick contact.\nReports that his most recent HIV/viral hepatitis tests were\nperformed one year ago and they were negative.\n.\nIn the ED, initial vs were: T:97.6 P:76 BP:117/76 RR:18 O2sat94%\n3L Nasal Cannula. He was noted to be uncomfortable and\nsomnolent, with slurred speech and scattered rhonchi on lung\nexam. Labs notable for leukocytosis of 11.6 without bands. CXR\nwas suggestive of multifocal pneumonia. VBG was 7.36/55/65 and\nhe was started on BiPAP for the hypercarbia, with FiO2 40, PEEP\n6, and PP 15. ABG soon after initiation of BiPAP was 7.39/51/399\nand patient was noted to be less somnolent and answering\nquestions. Patient initially treated with azithromycin with nebs\nbut then received vancomycin and ceftriaxone after the CXR\nfinding as well as 125 mg of methylprednisolone. EKG was\nunremarkable. Vitals signs prior to transfer were HR:54\nBP:131/81 RR:18 O2sat:99% on BiPAP.\n.\nOn the floor, patient was off BiPAP, with O2 sat in the mid-90s\non 2L NC. He was alert and oriented, slightly tremulous, but in\nno distress.\n.\nReview of sytems:\n(+) Per HPI\n(-) Denies chills, night sweats, recent weight loss or gain.\nDenies headache, sinus tenderness, rhinorrhea. Denied\npalpitations. Denied nausea, vomiting, diarrhea, constipation or\nabdominal pain. No recent change in bowel or bladder habits. No\ndysuria. Denied arthralgias or myalgias.\n\nPast Medical History:\n- splenectomy [**2154**] - after injury\n- shot in the left arm in [**Country 3992**]\n- chronic back pain with methadone use\n\n\nSocial History:\nPatient is a retired construction worker and [**Country 3992**] veteran.\nDivorced from wife. Mother is health care proxy.\n- alcohol: reports drinking 1 pint of vodka \"every ten years\".\nalso reported twice over past month to another physician. [**Name10 (NameIs) **]\nadmitted to drinking for 2 days (\"several pints\") prior to\nadmission.\n- tobacco: 2 cigarettes/day\n- illictis: denied IV drug use. reports marijuana use as a\nteenager\n\nFamily History:\nFather died of congestive heart failure.\n\nPhysical Exam:\nVitals: T:96.7 BP: 125/75 P:65 R:16 O2sat: 93% 2L NC\nGeneral: middle-age man, sitting up in bed, breathing easily\nHEENT: Sclera anicteric, MM dry, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: (limited by patient cooperation) dry crackles, no obvious\nwheezing, no accessory muscle use\nCV: Slow and regular, normal S1 + S2, no murmurs, rubs, gallops\nAbdomen:  soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema. No asterexia.\nNeuro: CN II-XII grossly intact. Alert and oriented x3.\n\n\nPertinent Results:\n[**2185-7-7**] 05:05PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.010\n[**2185-7-7**] 05:05PM URINE Blood-NEG Nitrite-NEG Protein-NEG\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-4* pH-6.0 Leuks-TR\n[**2185-7-7**] 05:05PM URINE RBC-1 WBC-<1 Bacteri-NONE Yeast-NONE\nEpi-1\n[**2185-7-7**] 05:05PM URINE CastHy-1*\n[**2185-7-7**] 05:05PM URINE Mucous-OCC\n.\n[**2185-7-8**] 05:07AM BLOOD WBC-8.7 RBC-3.80* Hgb-12.7* Hct-41.0\nMCV-108* MCH-33.4* MCHC-30.9* RDW-14.4 Plt Ct-456*\n[**2185-7-7**] 01:45PM BLOOD WBC-11.6* RBC-3.99* Hgb-13.4* Hct-41.1\nMCV-103* MCH-33.5* MCHC-32.5 RDW-14.9 Plt Ct-479*\n[**2185-7-8**] 05:07AM BLOOD Neuts-80.7* Lymphs-14.0* Monos-4.6\nEos-0.5 Baso-0.2\n[**2185-7-7**] 01:45PM BLOOD Neuts-70 Bands-0 Lymphs-17* Monos-7 Eos-2\nBaso-0 Atyps-2* Metas-1* Myelos-1*\n[**2185-7-7**] 01:45PM BLOOD Hypochr-OCCASIONAL Anisocy-1+\nPoiklo-NORMAL Macrocy-1+ Microcy-NORMAL Polychr-NORMAL\n[**2185-7-9**] 05:45AM BLOOD Plt Ct-537*\n[**2185-7-9**] 05:45AM BLOOD PT-12.8 PTT-26.7 INR(PT)-1.1\n[**2185-7-8**] 05:07AM BLOOD Plt Ct-456*\n[**2185-7-8**] 05:07AM BLOOD PT-12.5 PTT-25.9 INR(PT)-1.1\n[**2185-7-7**] 01:45PM BLOOD Plt Smr-NORMAL Plt Ct-479*\n[**2185-7-9**] 05:45AM BLOOD Glucose-72 UreaN-13 Creat-0.7 Na-141\nK-4.4 Cl-101 HCO3-31 AnGap-13\n[**2185-7-8**] 07:30PM BLOOD Na-138 K-5.4* Cl-100\n[**2185-7-8**] 05:07AM BLOOD Glucose-160* UreaN-12 Creat-0.7 Na-139\nK-5.4* Cl-101 HCO3-30 AnGap-13\n[**2185-7-7**] 01:45PM BLOOD Glucose-106* UreaN-12 Creat-0.8 Na-136\nK-3.8 Cl-97 HCO3-27 AnGap-16\n[**2185-7-9**] 05:45AM BLOOD Lipase-22\n[**2185-7-7**] 01:45PM BLOOD Lipase-15\n[**2185-7-7**] 01:45PM BLOOD cTropnT-<0.01\n[**2185-7-7**] 09:26PM BLOOD Ethanol-NEG\n[**2185-7-7**] 01:45PM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG\nBarbitr-NEG Tricycl-NEG\n[**2185-7-7**] 05:16PM BLOOD Type-ART pO2-399* pCO2-51* pH-7.39\ncalTCO2-32* Base XS-5\n[**2185-7-7**] 03:27PM BLOOD Type-[**Last Name (un) **] pO2-65* pCO2-55* pH-7.36\ncalTCO2-32* Base XS-3 Comment-GREEN\n.\nEKG [**7-7**]-Artifact is present. Sinus rhythm. The Q-T interval is\nprolonged.\nCompared to the previous tracing of [**2170-10-16**] there is no\nsignificant change.\n.\nCXR [**7-7**]-PA AND LATERAL VIEWS OF THE CHEST: Heart size is normal.\nMediastinal contours are unremarkable. Ill-defined opacities\nnoted diffusely within the left lung, but also within the right\nlung base, findings concerning for multifocal pneumonia. No\npleural effusion or pneumothorax is identified.  Wedge\ncompression deformity of a mid thoracic vertebral body is\nunchanged.\nIMPRESSION: Findings concerning for multifocal pneumonia.\n.\n[**7-8**] CXR-\nThe relative hyperlucency of the right upper lung suggests\nemphysema, even\nthough lung volumes are not particularly large. What was a\ndiffuse\ninterstitial pulmonary abnormality on [**7-7**] has substantially\ncleared with only a small residual at the lung bases, right\ngreater than left in less than 24 hours. This was pulmonary\nedema even though heart size was never enlarged nor was there\nsubstantial pleural effusion.\n.\nMICROBIOLOGY:\n[**2185-7-10**] SPUTUM ACID FAST SMEAR-NEG; ACID FAST\nCULTURE-PENDING INPATIENT\n[**2185-7-9**] SPUTUM ACID FAST SMEAR-NEG; ACID FAST\nCULTURE-PENDING INPATIENT\n[**2185-7-8**] Rapid Respiratory Viral Screen & Culture\nRespiratory Viral Culture-PENDING; Respiratory Viral Antigen\nScreen-PENDING INPATIENT\n[**2185-7-8**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY\nCULTURE-PRELIMINARY; Immunoflourescent test for Pneumocystis\njirovecii (carinii)-PRELIMINARY; ACID FAST SMEAR-NEG; ACID FAST\nCULTURE-PRELIMINARY INPATIENT\n[**2185-7-8**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY\nCULTURE-FINAL; ACID FAST CULTURE-PRELIMINARY; ACID FAST\nSMEAR-FINAL INPATIENT\n[**2185-7-7**] MRSA SCREEN MRSA SCREEN-PENDING INPATIENT\n[**2185-7-7**] URINE Legionella Urinary Antigen -FINAL\nINPATIENT\n[**2185-7-7**] BLOOD CULTURE Blood Culture, Routine-PENDING\nEMERGENCY [**Hospital1 **]\n[**2185-7-7**] BLOOD CULTURE Blood Culture, Routine-PENDING\n\n\n\nBrief Hospital Course:\n58 yo M with chronic back pain, splenectomy, and alcohol abuse\npresents with cough and shortness of breath from multifocal\npneumonia.\n.\n# Multifocal pneumonia: Etiology is most likely\ncommunity-acquired pneumonia. Given the possible alcohol use,\naspiration pneumonia considered to be possible. Influenza is\nless likely, late for the season. Patient does potentially have\nTB exposure risk from outreach program with other veterans. In\naddition, since he does not have a spleen, need to have clinical\nsuspicion for infection with encapsulated organism. The\nhypercarbia that he initially had in the ED was likely due to\ndecreased respiratory rate  due to somnolence, which was likely\nfrom combination of alcohol and methadone use. Urine legionella\nnegative. CXR shows improvement after 1 day of antibiotic\ntherapy. Pt states recent HIV and PPD testing at PCPs office.\nHowever, PCP has not seen pt in >1year. Pt was initally placed\non vanco, ceftriaxone, and azithromycin. However, as clinical\nsuspicion for MRSA PNA was low, vanco was discontinued. He will\nbe discharged on azithromycin and cefpodoxime. Pt refused\npneumonvax vaccination. PPD was placed and was read negative on\n[**2185-7-11**]. Sputum was sent for PCP, [**Name10 (NameIs) **] pending. AFB was negative\nx 3 on preliminary smear (AFB culture pending). Respiratory\nviral screen did not have sufficient sample, but viral culture\nwas also sent (still pending).\n.\n# Chest pain: Etiology most likely pleurisy from pneumonia. EKG\nunremarkable. Cardiac enzymes normal. Pt was given NsAIDS for\npain prn and monitored on telemetry.\n.\n# Back pain/extremity pain. h.o multiple prior fxs, Raynauds per\npt- Chronic issue.  methadone from methadone clinic.  Pt was\ngiven his home dose of 110mg daily.\nHabit OPCO - Methadone / Opioid Treatment\n[**Location (un) 13107**], [**Location (un) 669**], [**Numeric Identifier 13108**]\n[**Telephone/Fax (1) 10953**]\nMethadone dose: 110 mg every morning,\nWhen leaves, he will need d/c summary and e/o last dose.\n.\n# Alcohol abuse: Patient endorses 1.5 pints of beer intake per\nday, last drink >24 hours ago. However, story is consistently\nchanging and unreliable. PCP notes, prior admissions for ETOH\nwithdrawal and seizures. Denied prior history of seizures or\ndelirium tremens, but PCP confirms seizures. Exam is notable for\ntremors and agitation. Pt has a macrocytosis. Pt now admits to\nseveral days of several pints with h.o \"grand mal\" withdrawal\nseizures. Pt was placed on a CIWA scale and given valium for\nsigns of withdrawal. He was given thiamine and folate, but he\nrefused taking these medications on discharge. Urine/serum tox\nscreens positive for methadone and benzos.  Pt consistently\nasked for valium for his \"cough\".\n.\n#hyperkalemia-unclear etiology. s/p kayexylate.  Resolved.\n.\n#mild transaminitis-likely related to ETOH intake.  Monitored\nand trended downward.\n.\n#thrombocytosis-likely reactive given current state of\ninflammation.\n-trend/monitor.\n.\nFEN: cardiac, heart healthy. replete electrolytes, regular diet\n\n.\nProphylaxis: Subcutaneous heparin\n.\nAccess: peripherals\n.\nCode: Full\n.\nCommunication: Patient, called PCP, [**Name Initial (NameIs) 13109**].\n.\n\n\nMedications on Admission:\n(per patient):\n- methadone 110 mg po qd\n\nDischarge Medications:\n1. methadone\nmethadone 110mg daily\n2. azithromycin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every\n24 hours) for 3 days.\nDisp:*3 Tablet(s)* Refills:*0*\n3. cefpodoxime 200 mg Tablet Sig: One (1) Tablet PO twice a day\nfor 3 days.\nDisp:*6 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nmultifocal pneumonia\nETOH withdrawal\nchronic pain\ntransaminitis\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted with shortness of breath and coughing and\nfound to have a bilateral pneumonia. For this, you were started\non antibiotic therapy and your symptoms improved. In addition,\nyou were evaluated for tuberculosis and PPD was negative, as\nwell as AFB smears were negative.  You also revealed recent ETOH\nintake and were found to have alcohol withdrawal during\nadmission. You mentioned that you have several sources that can\nhelp you with help for this matter. Please continue to seek\nhelp.\n.\nMedication changes:\n1. antibiotics for 3 days (total of 7 days)\n.\nPlease take all of your medications as prescribed and follow up\nwith the appointments below.\n\nFollowup Instructions:\nPlease call your PCP [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at [**Telephone/Fax (1) 13110**] to\nschedule a follow up after discharge.\n\n\n\n"
+    }
+  ]
+}

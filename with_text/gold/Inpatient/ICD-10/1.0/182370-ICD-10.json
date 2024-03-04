@@ -1,0 +1,184 @@
+{
+  "hadm_id": 182370,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1236186,
+      "category": "Radiology",
+      "description": "PARACENTESIS DIAG/THERAP W IMAGING GUID",
+      "annotations": [
+        {
+          "begin": 731,
+          "end": 742,
+          "code": "0W9G3ZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Drainage of Peritoneal Cavity, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "therapeutic"
+        },
+        {
+          "begin": 930,
+          "end": 953,
+          "code": "0W9G3ZX",
+          "code_system": "ICD-10-PCS",
+          "description": "Drainage of Peritoneal Cavity, Percutaneous Approach, Diagnostic",
+          "type": "Human",
+          "covered_text": "diagnostic paracentesis"
+        }
+      ],
+      "text": "[**2147-3-20**] 4:42 PM\n PARACENTESIS DIAG/THERAP W IMAGING GUID                         Clip # [**Clip Number (Radiology) 33009**]\n Reason: therapeutic and diagnostic paracentesis, please remove up to\n Admitting Diagnosis: ABDOMINAL PAIN\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  54 year old woman with ascites, with adhesions, now with partial sbo, and\n  concern for infection\n REASON FOR THIS EXAMINATION:\n  therapeutic and diagnostic paracentesis, please remove up to 4L if possible\n ______________________________________________________________________________\n                                 FINAL REPORT\n EXAMINATION:  Bedside ultrasound-guided therapeutic and diagnostic\n paracentesis via a right flank approach.\n\n INDICATION:  54-year-old woman with ascites and small-bowel obstruction with\n adhesions.  Request is to perform therapeutic and diagnostic paracentesis to\n exclude SBP and to reduce intra-abdominal pressure.\n\n ANALGESIA:  The patient was on a propofol infusion in the ICU. The patient\n received 8 cc of 1% buffered lidocaine to the skin and subcutaneous tissues\n via the right flank approach.\n\n PHYSICIANS:  Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1057**] and Dr. [**First Name4 (NamePattern1) 23571**] [**Last Name (NamePattern1) **] performed the procedure.  Dr.\n [**Last Name (STitle) **], the attending radiologist, was present throughout the procedure.\n\n PROCEDURE NOTE IN DETAIL:  Informed consent was obtained from the healthcare\n proxy outlining the risks and benefits of the proposed procedure.  Limited\n ultrasound demonstrates moderate volume ascites and a suitable site for\n percutaneous access was identified in the right flank and the area marked on\n the patient's skin.  The area was prepped and draped in the usual sterile\n fashion.  A preprocedure timeout was performed as per [**Hospital1 51**] protocol.\n\n Following administration of 8 cc of 1% buffered lidocaine to the skin and\n subcutaneous tissues, a 5 French [**Last Name (un) 1275**] catheter was carefully advanced and\n positioned within the peritoneal space.  A sample was obtained and sent for\n cell count and microbiological assessment.  Following this, the catheter was\n attached to a vacuum drainage bottle and 3 liters of translucent yellow fluid\n were removed.  The [**Last Name (un) 1275**] catheter was then removed and a sterile dressing was\n applied.  The patient tolerated the procedure well with no early\n complications.\n\n IMPRESSION:  Uncomplicated bedside therapeutic and diagnostic paracentesis via\n a right flank approach.\n Overall, the patient tolerated the procedure well with no early complications.\n\n"
+    },
+    {
+      "note_id": 41788,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 512,
+          "end": 526,
+          "code": "K70.31",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic cirrhosis of liver with ascites",
+          "type": "Human",
+          "covered_text": "EtoH cirrhosis"
+        },
+        {
+          "begin": 517,
+          "end": 526,
+          "code": "I85.10",
+          "code_system": "ICD-10-CM",
+          "description": "Secondary esophageal varices without bleeding",
+          "type": "Human",
+          "covered_text": "cirrhosis"
+        },
+        {
+          "begin": 4645,
+          "end": 4648,
+          "code": "N18.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CKD"
+        },
+        {
+          "begin": 4842,
+          "end": 4854,
+          "code": "Z87.891",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of nicotine dependence",
+          "type": "Human",
+          "covered_text": "quit 5 years"
+        },
+        {
+          "begin": 12555,
+          "end": 12565,
+          "code": "K55.019",
+          "code_system": "ICD-10-CM",
+          "description": "Acute (reversible) ischemia of small intestine, extent unspecified",
+          "type": "Human",
+          "covered_text": "mesenteric"
+        },
+        {
+          "begin": 12669,
+          "end": 12692,
+          "code": "K56.609",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction",
+          "type": "Human",
+          "covered_text": "small bowel\nobstruction"
+        },
+        {
+          "begin": 12830,
+          "end": 12840,
+          "code": "B96.1",
+          "code_system": "ICD-10-CM",
+          "description": "Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere",
+          "type": "Human",
+          "covered_text": "Klebsiella"
+        },
+        {
+          "begin": 12841,
+          "end": 12844,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 12936,
+          "end": 12962,
+          "code": "K56.609",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction",
+          "type": "Human",
+          "covered_text": "CHRONIC ABDOMINAL PAIN/SBO"
+        },
+        {
+          "begin": 14280,
+          "end": 14294,
+          "code": "G93.40",
+          "code_system": "ICD-10-CM",
+          "description": "Encephalopathy, unspecified",
+          "type": "Human",
+          "covered_text": "Encephalopathy"
+        },
+        {
+          "begin": 16103,
+          "end": 16122,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute kidney injury"
+        },
+        {
+          "begin": 16500,
+          "end": 16540,
+          "code": "E46",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified protein-calorie malnutrition",
+          "type": "Human",
+          "covered_text": "Unspecified Protein/Calorie Malnutrition"
+        },
+        {
+          "begin": 17055,
+          "end": 17065,
+          "code": "K29.70",
+          "code_system": "ICD-10-CM",
+          "description": "Gastritis, unspecified, without bleeding",
+          "type": "Human",
+          "covered_text": "Gastritis:"
+        },
+        {
+          "begin": 17803,
+          "end": 17820,
+          "code": "Z53.29",
+          "code_system": "ICD-10-CM",
+          "description": "Procedure and treatment not carried out because of patient's decision for other reasons",
+          "type": "Human",
+          "covered_text": "Patient left AMA."
+        },
+        {
+          "begin": 19251,
+          "end": 19270,
+          "code": "K76.7",
+          "code_system": "ICD-10-CM",
+          "description": "Hepatorenal syndrome",
+          "type": "Human",
+          "covered_text": "Partial Small Bowel"
+        },
+        {
+          "begin": 19283,
+          "end": 19286,
+          "code": "B18.2",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic viral hepatitis C",
+          "type": "Human",
+          "covered_text": "HCV"
+        }
+      ],
+      "text": "Admission Date:  [**2147-3-9**]              Discharge Date:   [**2147-3-24**]\n\nDate of Birth:  [**2092-6-30**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nCodeine\n\nAttending:[**First Name3 (LF) 8388**]\nChief Complaint:\nabdominal pain\n\n\nMajor Surgical or Invasive Procedure:\nUltrasound-guided paracentesis [**2147-3-9**], [**2147-3-17**] and [**2147-3-23**]\nIR-guided Nasogastric Tube Advancement [**2147-3-10**]\n\n\nHistory of Present Illness:\nMs. [**Name14 (STitle) 79180**] is a 54F with PMH of HCV and EtoH cirrhosis (MELD =\n16) decompensated with esophageal varices and ascites requiring\nweekly paracentesis, multiple prior SBOs, mesenteric ischemia\ns/p Ex-Lap/LOA [**10/2146**] p/w abdominal distension and severe pain.\n\n.\nOf note, patient has had several recent admissions to [**Hospital1 18**]\n([**Date range (1) 2953**], [**Date range (1) 58857**], [**Date range (1) 90767**], [**Date range (1) 17387**]). In early [**Month (only) 956**] she\nwas treated medically for an ileus which improved w/ time and\nNPO. In early [**Month (only) 958**] she was readmitted for abdominal pain and\nBRBPR. After transient hypotension, she was admitted to the ICU\nwhere her pressures improved after volume resussitation and\ntransfusion of 2 units of pRBC. Flex sig demonstrated rectal\nvarices without stigmata of recent bleeding, and grade 1 interal\nhemorrhoids were noted. Her abdominal pain ultimately improved\nw/ time again and she was advanced to a solid diet prior to\ndischarge. She was readmitted again several days later in [**Month (only) 958**]\nw/ similar symptoms and again NPO. A CT of the abdomen and\npelvis during this hospitalization demonstrated again a small\nbowel obstruction with a transition point approximately in\ndistal ileum presumed from adhesions. The SBO appeared worse\nthan similar CT scan several weeks prior. As discharge summaries\nfrom two most recent hospital stays have not been completed, it\nappears her symptoms improved with w/ bowel rest and she was\nsubsequently discharged.\n.\nPer patient report, since discharge from [**Hospital1 18**], has had a 5d\nhospitalization at LGH for pain control of abdominal pain.\nDuring that time she underwent 2 paracentesis of 3L each, most\nrecent being day prior to admission.  She states she normally\ngets a paracentesis once/week at [**Hospital 3597**] [**Hospital **] Hospital, and then\nonce/2 weeks at LGH, but lately, has been hospitalized so\nfrequently she has not needed those outpatient appointments.\nPatient reports that after discharge from LGH, abdominal pain\nworsened almost immediately. She describes pain as diffuse\nthroughout her entire abdomen, worse around right flank and\nmid-abdomen.  It's sharp, stabbing and constant.  Only relief is\nthrough pain meds; eating and bowel movements do not affect [**Last Name (un) **]\npain.  She also reports associated nausea, but denies\ndiarrhea/vomitting. She has been passing gas and having having\nregular bowel movements 3-4 times a day. The stools are soft,\nlight brown, and no blood.  She does note that during her recent\nstay at LGH, she had one black-colored stool that was not\nguaiaced.  She denies fevers, chills, shortness of breath, chest\npain.\n.\nOf note she is scheduled for an elective admission to [**Hospital Ward Name 121**] 10 on\n[**2147-3-15**] for inpatient nutrition c/s and dobhoff placement.\nPatient states she has been eating high calorie foods per\nnutrition recommendations, but has been unable to gain weight.\nThus, malnutrition is most likely secondary to decreased GI\nabsorption, possibly secondary to bowel edema.\n.\nIn the ED, patient triggered for hypotension with initial VS\nHR100 SBP 87/69, which resolved without intervention. Exam\ndemonstrated moderately tender abd w/o rebound/guarding. Labs\nwere significant for creatinine 1.7 (baseline 1.0), mild\ntransaminitis, Tbili at baseline, lactate 2.0. She received 4mg\nof IV morphine for pain control. A diagnostic paracentesis was\nattempted by no ultrasound windows were visualized. Liver was\nconsulted who recommended admission to [**Doctor Last Name 3271**] [**First Name4 (NamePattern1) 679**] [**Last Name (NamePattern1) 4869**].\nVitals on transfer were: 97.9 85 102/78 14 99%RA.\n.\nOn arrival to the floor, vital signs were 97.8 102/74 80 20\n100%RA. Patient reported abdominal pain, improved from prior,\nsimilar to prior admissions.\n.\nREVIEW OF SYSTEMS:\nDenies fever, chills, night sweats, headache, cough, shortness\nof breath, chest pain, diarrhea, constipation, BRBPR, melena,\nhematochezia, dysuria, hematuria.\n\nPast Medical History:\n- HCV/EtOH cirrhosis (dx ~[**2124**]; c/b ascites, esophageal varices\n\ns/p clipping x2, encephalopathy)\n- CKD\n- s/p ex-lap LOA [**2146-10-20**]\n- s/p ex-lap/SBR x2 for perforation from blunt trauma [**2120**]\n- s/p Laparoscopic tubal ligation [**2125**]\n\nSocial History:\n- tobacco: 30 pack/year history quit 5 years ago\n- etoh: 12 beer/day x 30 years quit 5 years ago\n- IVDU > 30 years ago\n- On disability, former surgical tech [**Hospital1 2177**]\n\n\nFamily History:\nNot contributory to current hospitalization\n\n\nPhysical Exam:\nADMISSION PHYSICAL EXAM:\nVS 97.8 102/74 80 20 100%RA\nGENERAL - cachectic, appearing older than stated age, no acute\ndistress\nHEENT - dry mucous membranes, sclera anicteric,\nNECK - Supple, no JVD, no LAD\nHEART - RRR, nl S1-S2, no MRG\nLUNGS - CTAB, no r/rh/wh\nABDOMEN - normoactive BS, distended with large hernia protruding\nabove umbilicus, tympanic to percussion, mildly tender around\nthe umbilicus, no rebound/guarding\nEXTREMITIES - WWP, no edema, 2+ DP/radial pulses\nNEURO - A&Ox3, no asterixis\n.\nDISCHARGE PHYSICAL EXAM:\nVS 98.3 (98.9) 125/72 (113-136/60-75) 98 (84-102) 20 100RA\n(96-100RA(\nWeight 54.9 kg\nI/O PO 2840 + IV 300 / BRP, BMx4\nGENERAL: Very thin and cachetic female, looks older than stated\nage, comfortable. NAD.\nHEENT: Sclera icteric. PERRL, EOMI. Clear oropharynx.\nNECK: Supple with low JVP\nCARDIAC: PMI located in 5th intercostal space, midclavicular\nline. RRR, S1 S2 clear and of good quality without murmurs, rubs\nor gallops. No S3 or S4 appreciated.\nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp\nwere unlabored, no accessory muscle use, moving air\nsymmetrically. Minimal expiratory wheezes diffusely, slightly\nshallow breathing.\nABDOMEN: Normoactive bowel sounds. Less distended, soft,\nnon-tender. Dullness to percussion over dependent areas but\ntympanic anteriorly. No HSM or tenderness. +Foley.\nEXTREMITIES: Warm and well perfused, no clubbing or cyanosis. No\nedema, 2+ distal pulses.\nNEURO: Awake, alert and oriented x3. No asterixis.\n\n\nPertinent Results:\nADMISSION LABS:\n[**2147-3-9**] 03:21AM BLOOD WBC-8.0 RBC-4.47 Hgb-11.9* Hct-38.3\nMCV-86 MCH-26.6* MCHC-31.1 RDW-19.1* Plt Ct-125*#\n[**2147-3-9**] 03:21AM BLOOD PT-13.4* PTT-35.3 INR(PT)-1.2*\n[**2147-3-9**] 03:21AM BLOOD Glucose-119* UreaN-38* Creat-1.7* Na-134\nK-4.1 Cl-101 HCO3-24 AnGap-13\n[**2147-3-9**] 03:21AM BLOOD ALT-47* AST-99* AlkPhos-296* TotBili-1.7*\n[**2147-3-9**] 06:45AM BLOOD Calcium-8.7 Phos-3.7 Mg-2.6\n.\nRELEVANT LABS:\n[**2147-3-19**] 06:28PM BLOOD Type-ART pO2-182* pCO2-22* pH-7.58*\ncalTCO2-21 Base XS-1 Intubat-NOT INTUBA\n[**2147-3-20**] 12:37PM BLOOD Type-ART PEEP-5 FiO2-40 pO2-76* pCO2-30*\npH-7.45 calTCO2-21 Base XS--1\n[**2147-3-19**] 06:28PM BLOOD Lactate-2.1*\n[**2147-3-20**] 12:37PM BLOOD Lactate-2.1*\n[**2147-3-19**] 06:28PM BLOOD freeCa-1.17\n[**2147-3-20**] 12:37PM BLOOD freeCa-1.20\n[**2147-3-20**] 12:32PM URINE Color-DkAmb Appear-Hazy Sp [**Last Name (un) **]-1.039*\n[**2147-3-21**] 09:36AM URINE Color-Amber Appear-Cloudy Sp [**Last Name (un) **]-1.028\n[**2147-3-20**] 12:32PM URINE Blood-MOD Nitrite-POS Protein-30\nGlucose-NEG Ketone-TR Bilirub-SM  Urobiln-2* pH-6.0 Leuks-NEG\n[**2147-3-21**] 09:36AM URINE Blood-LG Nitrite-POS Protein-100\nGlucose-NEG Ketone-10 Bilirub-SM  Urobiln-NEG pH-6.0 Leuks-LG\n[**2147-3-21**] 09:36AM URINE RBC->182* WBC->182* Bacteri-MANY\nYeast-NONE Epi-0\n[**2147-3-20**] 12:32PM URINE Mucous-MANY\n[**2147-3-21**] 09:36AM URINE WBC Clm-FEW Mucous-FEW\n[**2147-3-20**] 04:35PM ASCITES WBC-145* RBC-1480* Polys-2* Lymphs-51*\nMonos-0 Mesothe-2* Macroph-45*\n[**2147-3-20**] 04:35PM ASCITES TotPro-1.4 Glucose-89 LD(LDH)-115\n.\nDISCHARGE LABS:\n[**2147-3-24**] 06:30AM BLOOD WBC-3.4* RBC-3.38* Hgb-9.4* Hct-30.4*\nMCV-90 MCH-27.8 MCHC-30.9* RDW-18.8* Plt Ct-84*\n[**2147-3-24**] 06:30AM BLOOD PT-17.1* PTT-48.4* INR(PT)-1.6*\n[**2147-3-24**] 06:30AM BLOOD Glucose-103* UreaN-15 Creat-0.9 Na-139\nK-4.1 Cl-106 HCO3-21* AnGap-16\n[**2147-3-24**] 06:30AM BLOOD ALT-22 AST-40 AlkPhos-79 TotBili-3.3*\n[**2147-3-24**] 06:30AM BLOOD Calcium-9.0 Phos-2.6* Mg-1.9\n.\nMICROBIOLOGY:\n[**2147-3-9**] Blood cultures x2: no growth\n[**2147-3-9**] Peritoneal fluid gram stain and culture: no growth\n[**2147-3-17**] HCV VL: 577,629 IU/mL.\n[**2147-3-17**] Peritoneal fluid gram stain and culture: no growth\n[**2147-3-18**] Blood cultures x2: no growth\n[**2147-3-18**] Urine culture: no growth\n[**2147-3-19**] MRSA screen: no growth\n[**2147-3-20**] URINE CULTURE:\n      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML..\n         Piperacillin/tazobactam sensitivity testing available\non request.\n                              SENSITIVITIES: MIC expressed in\nMCG/ML\n\n_________________________________________________________\n                             KLEBSIELLA PNEUMONIAE\n                             |\nAMIKACIN--------------   <=2 S\nAMPICILLIN/SULBACTAM--  =>32 R\nCEFAZOLIN-------------  =>64 R\nCEFEPIME--------------     2 S\nCEFTAZIDIME-----------     2 S\nCEFTRIAXONE-----------  =>64 R\nCIPROFLOXACIN---------   =>4 R\nGENTAMICIN------------  =>16 R\nMEROPENEM-------------<=0.25 S\nNITROFURANTOIN--------   128 R\nTOBRAMYCIN------------     8 I\nTRIMETHOPRIM/SULFA----  =>16 R\n.\n[**2147-3-20**] Blood cultures x2: no growth\n[**2147-3-21**] Sputum gram stain and culture: [**9-28**] PMNs, no growth on\nculture\n[**2147-3-21**] Blood culture: no growth to date\n[**2147-3-21**] Urine culture: KLEBSIELLA PNEUMONIAE 10,000-100,000\nORGANISMS/ML\n  SENSITIVITIES AS ABOVE\n[**2147-3-23**] Peritoneal fluid gram stain and culture: no growth\n.\n.\nIMAGING:\n[**2147-3-19**] CHEST (PORTABLE AP):\nFINDINGS: The tip of the endotracheal tube measures\napproximately 3.1 cm\nabove the carina. Patient has taken a slightly better\ninspiration. Cardiac\nsilhouette is within normal limits and there is no definite\nvascular\ncongestion. There are areas of increased opacification at both\nbases.\nAlthough this most likely reflects atelectasis, in the\nappropriate clinical\nsetting, the possibility of supervening pneumonia would have to\nbe considered.\n.\n[**2147-3-20**] PORTABLE ABDOMEN:\nThere has been interval improved number of small bowel loops\nthat are\ndistended consistent with improved partial small bowel\nobstruction. NG tube\ntip is in the stomach. There is evidence of ascites\n.\n[**2147-3-20**] CHEST (PORTABLE AP):\nThere are low lung volumes. Cardiac size is top normal. There\nare unchanged multiple bilateral right greater than left\ncalcified granulomas. Left lowerlobe opacity is likely\natelectasis. There is no pneumothorax or pleural effusion. ET\ntube is in standard position. NG tube tip is in the stomach.\n.\n[**2147-3-20**] PARACENTESIS DIAG/THERAP W IMAGING GUIDE:\nIMPRESSION: Uncomplicated bedside therapeutic and diagnostic\nparacentesis via a right flank approach.\nOverall, the patient tolerated the procedure well with no early\ncomplications.\n.\n[**2147-3-20**] PELVIS (AP ONLY):\nIMPRESSION:\nRadiopaque pessary device is in place projecting over the pubic\nsymphysis on single oblique frontal view.\n.\n[**2147-3-21**] PORTABLE ABDOMEN: Frontal abdominal chest radiograph\ndemonstrates the NG tube terminates in the stomach. The small\nbowel is persistently dilated. There is little change from [**3-20**], [**2146**].\n.\n[**2147-3-21**] PORTABLE ABDOMEN: Portable supine abdominal radiograph\nis little changed from 3:59 a.m. The abdomen is not completely\nimaged. The NG tube is no longer visualized. The small bowel is\npersistently dilated.\n.\n[**2147-3-22**] ABDOMEN (SUPINE/ERECT): Supine and erect abdominal\nradiographs again demonstrate mild small bowel distention,\nworsened [**3-21**] at 4:41 p.m. Hernial orifices are not imaged.\nThere is no pneumoperitoneum. Pulmonary and mediastinal\ncalcifications are partially imaged.\nIMPRESSION: Worsening small bowel distention.\n.\n[**2147-3-23**] IR-guided paracentesis: Ultrasound-guided therapeutic\nand diagnostic paracentesis with removal of 7 L of clear,\nstraw-colored fluid.\n\nBrief Hospital Course:\n54yo F PMHx HCV and EtoH cirrhosis decompensated with esophageal\nvarices and ascites requiring weekly paracentesis, multiple\nSBOs, mesenteric ischemia s/p Ex-Lap/LOA [**10/2146**] p/w abdominal\ndistention and pain, found to have chronic partial small bowel\nobstruction, which was managed conservatively. Hospital course\nwas complicated by encephalopathy requiring intubation and MICU\nadmission, as well as Klebsiella UTI and [**Last Name (un) **]. She ultimately\nleft against medical advice.\n.\n.\nACTIVE ISSUES:\n#CHRONIC ABDOMINAL PAIN/SBO: Patient had multiple prior\nadmissions for chronic adbominal pain, thought to multifactorial\ndue to chronic ascites, transient obstruction from\nadhesions/ileus, now presents with worsening of chronic pain.\nNarcotic bowel syndrome was initially thought to be most likely\ndiagnosis,  given patient's hx of narcotic abuse and dependence,\nnow trying to taper off narcotics to be listed for transplant.\nPatient's SBO is likely contributing to acute nature of pain.\nPatient then developed partial SBO, thus contributing to pain.\nPatient was made NPO and NGT was put to suction.  Chronic pain\nwas consulted and recommended bupronorphine, which was not\ninitially started out of concern for outpatient management of\nthis drug.  Patient's tramadol and gabapentin were increased,\nlidoderm patch to back, and baclofen. SBO was followed by daily\nKUB, abdominal exam, and lactate. While in the MICU, Transplant\nSurgery was consulted, and recommended conservative management\nof partial SBO with NGT, along with PO and PR lactulose.\nAdditionally, she had several therapeutic paracenteses for\nreflief of abdominal pressure from accumulating ascites.\nThereafter, she continued to have bowel movements and pass\nflatus.  Her diet was eventually advanced to regular. She had\ndiscontinued her NGT in the MICU, and it was not replaced.\n.\n# Encephalopathy: Patient was appropriate late afternoon on\n[**3-17**], but found to be aggressive and encepahlopathic that night,\npulled out NGT and PIV.  On morning of [**3-18**], was unresponsive,\nbut vitals were stable.  Lactulose had been held for 7 days in\nthe setting of SBO. At that time, there was no evidence of\ninfection, as no SBP on paracentesis, no pneumonia on CXR, UA\nnegative, and afebrile, no white count.  CT head on AM of [**3-19**]\nshowed no acute intracranial process. Patient was transferred to\nthe MICU for concern of airway production as patient was\nbecoming increasingly more confused in the context of being\nunable to take her lactulose and rifaxamin due to abdominal\npain. She was transferred to the MICU on [**2147-3-19**], and intubated\nfor airway protection rather than respiratory failure. She was\nextubated on [**2147-3-20**] prior to transfer for the floor. Mental\nstatus improved with decompression of SBO, rifaxmin and\nlactulose. In the MICU, she was noted to have a UTI that was\nlikely contributing to encephalopathy, ans she was started on\nceftriaxone, while cultures were pending. Cultures eventually\nreturned with Klebsiella resistant to ceftriaxone. Patient was\ntreated with one day of ceftazidime (to which the bacteria was\nsensitive) before she left AMA. She was given a prescription for\ncefpodoxime to continue at home.\n.\n# Klebsiella UTI: As noted above, in the context of\nencephalopathy, patient was noted to have Klebsiella UTI. She\nwas treated with one day of ceftazidime (to which the bacteria\nwas sensitive) before she left AMA. She was given a prescription\nfor cefpodoxime to continue at home. It is unknown whether her\nKlebsiella is sensitive to cefpodoxime, but the patient was\nwilling to risk worsening of infection and possible sepsis/death\nby leaving the hospital.\n.\n# Acute kidney injury: Creatinine 1.7 on admission (baseline\nranges from 0.8-1.1), which trended down to her baseline\nthroughout admission. Most likely, this was secondary to\npre-renal azotemia from volume distribution with ascites, along\nwith poor PO intake from SBO/abdominal pain. Several albumin\nchallenges over the course of admission resulted in improved\nkidney function.\n.\n.\nCHRONIC ISSUES:\n#Unspecified Protein/Calorie Malnutrition: Pt w chronically poor\nnutrition [**1-5**] abdominal pain, albumin 3.1, many month period of\npoor PO intake/weight gain.  She appears cachectic, was planned\nfor admission for Dobhoff and tube feedings on a separate\noccasion.  Patient was given dobhoff (could not be advanced\npost-pyloric at IR), and TF were initiated based on nutrition\nconsult, but stopped when patient developed SBO.  Patient cut\ndobhoff in half one night, hence it was pulled.  Current plan is\nto reinitiate tube feeds on another admission.\n.\n#Gastritis: Patient was continued on home omeprazole.\n.\n# Cirrhosis: The patient has cirrhosis with multiple\ncomplications. She is on cipro at home for SBP prophylaxis. MELD\n10 today. She is not a transplant candidate at [**Hospital1 18**] due to\ncontinued narcotic-seeking behavior. She was recommended to\npursue transplant at another institution.\n.\n.\nTRANSITIONAL ISSUES:\n# Patient is not a liver transplant candidate at [**Hospital1 18**] due to\ncontinued narcotic-seeking behavior. She was recommended to\npursue transplant at another institution.\n# Given prescription for cefpodoxime for Klebsiella UTI,\nalthough bacteria may not be sensitive to this medication.\nPatient understood risks of leaving the hospital without full\ntreatment of UTI.\n# Patient left AMA.\n# CODE: Full  (confirmed)\n# CONTACT: [**Name (NI) **], daughter - [**Name (NI) **] [**Name (NI) 7933**] [**Telephone/Fax (1) 90768**]\n\nMedications on Admission:\n- Rifaximin 550 mg t.i.d.\n- thiamine 100mg daily\n- albuterol 90 HFA prn (patient states she does not take)\n- Lasix 20 mg b.i.d.\n- omeprazole 40 mg b.i.d.\n- spironolactone 100 mg daily\n- Cipro 500 mg daily\n- lactulose 30 mL t.i.d.\n- gabapentin 300 mg qHS\n\nDischarge Medications:\n1. rifaximin 550 mg Tablet Sig: One (1) Tablet PO TID (3 times a\nday).\n2. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n3. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO twice a day.\n4. gabapentin 300 mg Capsule Sig: One (1) Capsule PO HS (at\nbedtime).\n5. acetaminophen 500 mg Capsule Sig: One (1) Capsule PO every\nfour (4) hours as needed for pain.\n6. spironolactone 100 mg Tablet Sig: One (1) Tablet PO once a\nday.\n7. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day.\n8. lactulose 10 gram/15 mL (15 mL) Solution Sig: Thirty (30) mL\nPO three times a day.\n9. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a\nday.\n10. cefpodoxime 200 mg Tablet Sig: One (1) Tablet PO twice a day\nfor 7 days.\nDisp:*14 Tablet(s)* Refills:*0*\n11. simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet,\nChewable PO QID (4 times a day).\nDisp:*120 Tablet, Chewable(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPartial Small Bowel Obstruction\nHCV/Alcoholic Cirrhosis\nType 2 Hepatorenal Syndrome\nMalnutrition\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDear Ms. [**Known lastname **],\n\nYou were admitted with abdominal pain and found to have a\npartial small bowel obstruction.  While you were here, we\nperformed two paracenteses on your ascites, and found that you\ndid not have an infection of your peritoneal fluid either time.\nWe treated your obstruction with NGT to suction and keeping you\nwith out food.  Eventually, we allowed you to slowly eat clear\nand then full liquids.  We tried to initiate tube feeding during\nthis admission, but this was complicated by your small bowel\nobstruction, so we were unable to initiate tube feeding at this\ntime.  We controlled your pain with tylenol, tramadol,\ngabapentin and flexeril, but you were not satisfied with this\npain regimen.\n\nYou had a urinary tract infection, with a bacteria (Klebsiella)\nthat was resistant to multiple antibiotics. It required\ntreatment with intravenous ceftazidime, but you did not want to\nstay for this treatment. You understood that risks of stopping\ntreatment included worsening of urinary tract infection, sepsis\nand death. We discharged you on an antibiotic that might work\nfor the infection.\n\nPlease note that the following changes have been made to your\nmedications:\n- START cefpodoxime 200 mg by mouth twice per day for seven days\n- START simethicone four times per day for abdominal pain\n\nYou left against medical advice, but understood the risks of\nleaving the hospital.\n\n\nFollowup Instructions:\nDepartment: LIVER CENTER\nWhen: WEDNESDAY [**2147-4-12**] at 2:40 PM\nWith: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 2422**]\nBuilding: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) 858**]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\n\n\n\n"
+    }
+  ]
+}

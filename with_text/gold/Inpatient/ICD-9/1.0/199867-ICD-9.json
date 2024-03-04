@@ -1,0 +1,86 @@
+{
+  "hadm_id": 199867,
+  "comment": "CABG - Missing OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 39287,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1439,
+          "end": 1451,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1452,
+          "end": 1466,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "- Dyslipidemia"
+        },
+        {
+          "begin": 1469,
+          "end": 1472,
+          "code": "300.3",
+          "code_system": "ICD-9-CM",
+          "description": "Obsessive-compulsive disorders",
+          "type": "Human",
+          "covered_text": "OCD"
+        },
+        {
+          "begin": 1834,
+          "end": 1858,
+          "code": "V17.3",
+          "code_system": "ICD-9-CM",
+          "description": "Family history of ischemic heart disease",
+          "type": "Human",
+          "covered_text": "- brother had CABG at 70"
+        },
+        {
+          "begin": 7892,
+          "end": 7912,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial fibrillation."
+        },
+        {
+          "begin": 8026,
+          "end": 8040,
+          "code": "427.32",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial flutter",
+          "type": "Human",
+          "covered_text": "atrial flutter"
+        },
+        {
+          "begin": 10815,
+          "end": 10839,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of native coronary artery",
+          "type": "Human",
+          "covered_text": "Coronary artery disease,"
+        },
+        {
+          "begin": 11018,
+          "end": 11040,
+          "code": "280.9",
+          "code_system": "ICD-9-CM",
+          "description": "Iron deficiency anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Iron deficiency anemia"
+        }
+      ],
+      "text": "Admission Date:  [**2110-10-3**]              Discharge Date:   [**2110-10-15**]\n\nDate of Birth:  [**2048-5-27**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nChest pain\n\nMajor Surgical or Invasive Procedure:\n- [**2110-10-3**] - Cardiac catheterization without intervention on\n- [**2110-10-7**] - Coronary artery bypass grafting x2, left internal\nmammary artery graft to left anterior descending, reverse\nsaphenous vein graft the marginal branch.\n\n\nHistory of Present Illness:\nThis 62 year old gentleman has been experiencing new onset,\nexertional chest pressure for the last few months. He describes\nchest pressure and jaw discomfort occurring about 20 minutes\ninto his walk.  This is also associated with nausea.  His\nsymptoms resolve with rest.  He does not have non-exertional\nchest discomfort.  He has also noticed occasional dizziness, not\nassociated with the chest discomfort.  He denies any edema,\northopnea, or PND.\nPer report, he was referred for a stress test which was done on\n[**2110-9-24**].  It was negative for chest pain or EKG changes, but\ndid show inferior ischemia and EF of 52%.  (The record is not\navailable at this time).Patient came in for a cardiac\ncatheterization, which found critical L main and 2VD. Cardiac\nsurgery was consulted for surgical revascularization.\n\nPast Medical History:\n- Hypertension\n- Dyslipidemia\n- OCD\n- s/p pilonidal cyst removal ~ 20 years ago\n- s/p left testical removal ~ 25 years ago, [**3-18**] trauma\n- s/p bilateral knee surgery\n\nSocial History:\n- Married with 2 children (1 son & 1 daughter)\n- [**Name (NI) 6160**]\n- Denies EtOH.\n- Ex smoker, quit 35 yrs ago, 1.5 ppd x 15 yrs\n- remote history of marijuana and cocaine use\n- denies IVDU\n\nFamily History:\n- brother had CABG at 70\n- another brother had MI in the 60s\n\nPhysical Exam:\nAdmission PE:\nPulse: 56  Resp: 16  O2 sat: 98% RA\nB/P  Right: 154/61    Left: 138/55\nHeight: 5'5\"    Weight: 83.9 kg\n\nGeneral:\nSkin: Dry [x] intact [x] scar on nose healed, multiple tattoos\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x] no lymphadenopathy\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur - none\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x] no palpable masses\nExtremities: Warm [x], well-perfused [x]  Edema none\nVaricosities: None [x]\nNeuro: Grossly intact [x]\nPulses:\nFemoral      Right: +1  Left: angioseal\nDP           Right: +1  Left: +1\nPT           [**Name (NI) 167**]: +1  Left: +1\nRadial       Right: +2  Left: +2\n\nCarotid Bruit        Right: no bruit    Left: + bruit\n\n\nPertinent Results:\nAdmission Labs:\n[**2110-10-9**] 07:00PM BLOOD WBC-10.9 RBC-3.44* Hgb-9.8* Hct-27.6*\nMCV-80* MCH-28.6 MCHC-35.6* RDW-14.0 Plt Ct-123*\n[**2110-10-10**] 04:50AM BLOOD UreaN-30* Creat-1.2 Na-135 K-4.0 Cl-97\n[**2110-10-3**]\n- CBC: WBC-6.5 RBC-4.08* HGB-11.6* HCT-33.1* MCV-81* MCH-28.3\nMCHC-34.9 RDW-13.3 NEUTS-73.9* LYMPHS-18.1 MONOS-5.2 EOS-2.1\nBASOS-0.8 PLT COUNT-217\n- BMP: GLUCOSE-99 UREA N-27* CREAT-0.9 SODIUM-138 POTASSIUM-4.2\nCHLORIDE-107 TOTAL CO2-26\n- LFT: ALT(SGPT)-18 AST(SGOT)-23 ALK PHOS-53 TOT BILI-0.3\n- Coag: PT-13.1 PTT-23.5 INR(PT)-1.1\n- Iron studies: IRON-44* calTIBC-285 VIT B12-473 FOLATE-16.3\nFERRITIN-81 TRF-219\n- %HbA1c-5.5\nLipid profile: cholesterol 182, TGA 126, HDL 40, LDL 117\n\nDiscahrge Labs:\n[**2110-10-13**] 05:10AM BLOOD Hct-28.6*\n[**2110-10-12**] 07:25AM BLOOD WBC-9.5 RBC-3.38* Hgb-9.5* Hct-28.0*\nMCV-83 MCH-28.2 MCHC-34.0 RDW-14.0 Plt Ct-261\n[**2110-10-12**] 07:25AM BLOOD Plt Ct-261\n[**2110-10-15**] 05:20AM BLOOD UreaN-36* Creat-1.7* Na-139 K-5.3* Cl-100\n[**2110-10-13**] 05:10AM BLOOD UreaN-28* Creat-1.4* Na-137 K-4.4 Cl-97\n\nImages & Procedures:\n[**2110-10-6**]\n- Transthoracic Echo: The left atrium is mildly dilated. Left\nventricular wall thickness, cavity size and regional/global\nsystolic function are normal (LVEF >55%). Right ventricular\nchamber size and free wall motion are normal. The diameters of\naorta at the sinus, ascending and arch levels are normal. The\naortic valve leaflets (3) appear structurally normal with good\nleaflet excursion and no aortic regurgitation. The mitral valve\nappears structurally normal with trivial mitral regurgitation.\nThere is no mitral valve prolapse. The estimated pulmonary\nartery systolic pressure is normal. There is a\ntrivial/physiologic pericardial effusion.\nIMPRESSION: Normal biventricular cavity sizes with preserved\nglobal and regional biventricular systolic function. No valvular\npathology or pathologic flow identified.\n\n- Carotid U/S:\n1. No significant right ICA stenosis.\n2. 60-69% left ICA stenosis\n\n- ECHO [**2110-10-7**]\nPRE BYPASS The left atrium is moderately dilated. No spontaneous\necho contrast or thrombus is seen in the body of the left\natrium/left atrial appendage or the body of the right\natrium/right atrial appendage. No atrial septal defect is seen\nby 2D or color Doppler. Left ventricular wall thicknesses are\nnormal. The left ventricular cavity size is normal. There is\nmild global left ventricular hypokinesis (LVEF = 45-50 %). The\nright ventricle displays normal free wall contractility. There\nare complex (>4mm) atheroma in the descending thoracic aorta.\nThe aortic valve leaflets (3) are mildly thickened but aortic\nstenosis is not present. Trace aortic regurgitation is seen. The\nmitral valve leaflets are mildly thickened. Mild (1+) mitral\nregurgitation is seen. There is a trivial/physiologic\npericardial effusion. Dr. [**Last Name (STitle) **] was notified in person of the\nresults in the operating room at the time of the study.\nPOST BYPASS The patient is a-paced. There is normal\nbiventricular systolic function (LVEF = 55%). No significant\nchange in valvular function. The thoracic aorta is intact s/p\ndecannulation.\n\n CHEST (PA & LAT) Study Date of [**2110-10-14**] 3:27 PM\n[**Hospital 93**] MEDICAL CONDITION: 62 year old man s/p CABG\nFinal Report\nPA AND LATERAL VIEWS, CHEST: Small bilateral pleural effusions\nand bibasilar atelectasis are unchanged since yesterday,\nhowever, improved since multiple prior radiographs. There is no\npulmonary edema. Mild cardiomegaly is stable.\nPost-CABG appearance of the mediastinum is also unchanged. No\npneumothorax is present.\nIMPRESSION: No significant changes with mild basilar atelectasis\nand trace\npleural effusions.\n\n\n\nBrief Hospital Course:\n62 year old male was admitted on [**2110-10-3**] for cardiac\ncatheterization. He was found to have 2-vessel-disease and\ncritical left main disease on cardiac catheterization.\nSubsequently, he underwent pre-op evaluation for CABG while\nwaiting for Plavix wash-out. It was noted that he has ~60-69%\nstenosis on left carotid artery based on ultrasound. On [**2110-10-7**],\nMr. [**Known lastname **] was taken to the operating room where he underwent\ncoronary artery bypass grafting to two vessels. Please see\noperative note for details. In summary he had: Coronary artery\nbypass grafting x2, left internal mammary artery graft to left\nanterior descending, reverse saphenous vein graft the marginal\nbranch. His bypass time was 38 minutes with a crossclamp time 29\nminutes. He tolerated the operation well and postoperatively he\nwas taken to the intensive care unit for monitoring. He woke\nneurologically intact and was extubated on the day of surgery.\nPOD 1 found the patient alert and oriented and breathing\ncomfortably.  The patient was neurologically intact and\nhemodynamically stable on no inotropic or vasopressor support.\nBeta blocker was initiated and the patient was gently diuresed\ntoward the preoperative weight.  The patient was transferred to\nthe telemetry floor for further recovery on POD2  Chest tubes\nand pacing wires were discontinued without complication.  The\npatient was evaluated by the physical therapy service for\nassistance with strength and mobility. On [**10-8**] he had rapid\natrial fibrillation. He was treated with increased beta-blocker\nand Amiodarone, he ultimately converted to nsr. On [**10-11**] he had\natrial flutter and was treated with IV Beta-blocker/Amio bolus\nx2/gtt/IV Diltiazem and once again converted to normal sinus\nrhythm. He continued to require oxygen. CXR revealed a left\npleural effusion. He was transferred back to CVICU for more\nintensive monitoring while a left therapeutic thoracentesis was\nperformed. It drained 450 cc. The oxygen requirement decreased\nand Mr.[**Known lastname **] was transferred back down to the stepdown floor.\nThe remainder of his hospital stay was uneventful.\nBy the time of discharge on POD8 the patient was ambulating\nfreely, the wound was healing and pain was controlled with oral\nanalgesics.  The patient was discharged home in good condition\nwith visiting nurse services. He is to follow up with Dr [**Last Name (STitle) **]\nin 3 weeks.\n\n\nMedications on Admission:\n- amlodipine 10 mg, once daily\n- aripiprazole 2 mg, once daily\n- fluoxetine 40 mg, once daily\n- omeprazole 20 mg EC, once daily\n- simvastatin 40 mg, once daily\n- trazodone 50 mg, once at bed time (takes regularly)\n- ASA 325 mg, once daily\n- metoprolol ER 25 mg, once at bedtime\n\nDischarge Medications:\n1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\nDisp:*100 Tablet, Delayed Release (E.C.)(s)* Refills:*2*\n2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n3. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n4. Zocor 40 mg Tablet Sig: One (1) Tablet PO at bedtime.\nDisp:*30 Tablet(s)* Refills:*2*\n5. Fluoxetine 40 mg Capsule Sig: One (1) Capsule PO once a day.\n\n6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nevery 4-6 hours as needed for pain.\nDisp:*50 Tablet(s)* Refills:*0*\n7. Aripiprazole 2 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\nDisp:*60 Tablet(s)* Refills:*0*\n9. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID\n(3 times a day).\nDisp:*90 Tablet(s)* Refills:*2*\n10. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime) as needed for insomnia.\n11. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO once a day:\n400mg QD x7 days the 200mg QD.\nDisp:*40 Tablet(s)* Refills:*1*\n12. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every\n6 hours) for 5 days.\nDisp:*20 Capsule(s)* Refills:*0*\n13. Potassium Chloride 10 mEq Tablet Sustained Release Sig: Two\n(2) Tablet Sustained Release PO once a day for 10 days.\nDisp:*20 Tablet Sustained Release(s)* Refills:*0*\n14. Furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day\nfor 10 days.\nDisp:*10 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Location (un) 932**] Area VNA\n\nDischarge Diagnosis:\nPrimary diagnosis:\n- Coronary artery disease, s/p coronary artery bypass grafting\nx2, left internal mammary artery graft to left anterior\ndescending, reverse saphenous vein graft the marginal branch.\n\nSecondary diagnoses:\n- Iron deficiency anemia\n- Carotid artery stenosis, Left\n- Dyslipidemia\n- Obsessive compulsive disorder\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with oral analgesia\nIncisions: Sternal - healing well, no erythema or drainage\nLeg Right- healing well, no erythema or drainage. 1+ Edema\n\n\nDischarge Instructions:\n1. Please shower daily including washing incisions gently with\nmild soap, no baths or swimming until cleared by surgeon. Look\nat your incisions daily for redness or drainage\n2. Please NO lotions, cream, powder, or ointments to incisions\n3. Each morning you should weigh yourself and then in the\nevening take your temperature, these should be written down on\nthe chart\n4. No driving for approximately one month until follow up with\nsurgeon\n5. No lifting more than 10 pounds for 10 weeks\n6. Please call with any questions or concerns [**Telephone/Fax (1) 170**]\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**Last Name (STitle) **] [**2110-10-30**] 2:00PM\nCardiologist: Dr [**First Name8 (NamePattern2) 518**] [**Last Name (NamePattern1) 8579**] on [**11-4**] @ 10AM.\n\nPlease call to schedule appointments with your\nPrimary Care Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in [**5-19**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n\nCompleted by:[**2110-10-15**]"
+    }
+  ]
+}

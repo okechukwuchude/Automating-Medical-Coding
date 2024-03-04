@@ -1,0 +1,174 @@
+{
+  "hadm_id": 109017,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 678681,
+      "category": "Respiratory",
+      "description": "Respiratory Care Shift Note",
+      "annotations": [
+        {
+          "begin": 47,
+          "end": 70,
+          "code": "5A1945Z",
+          "code_system": "ICD-10-PCS",
+          "description": "Respiratory Ventilation, 24-96 Consecutive Hours",
+          "type": "Human",
+          "covered_text": "mechanical ventilation:"
+        }
+      ],
+      "text": "Demographics\n   Day of intubation: 1\n   Day of mechanical ventilation: 1\n   Ideal body weight: 0 None\n   Ideal tidal volume: 0 / 0 / 0 mL/kg\n   Airway\n   Airway Placement Data\n   Known difficult intubation: Unknown\n   Procedure location: Outside hospital\n   Reason: Emergent (1st time)\n   Tube Type\n   ETT:\n                   Position: 22 cm at teeth\n                   Route: Oral\n                   Type: Standard\n                   Size: 7mm\n   Cuff  Management:\n                   Vol/Press:\n                                   Cuff pressure: 28  cmH2O\n                                   Cuff volume: 6  mL / Air\n   Lung sounds\n   RLL Lung Sounds: Diminished\n   RUL Lung Sounds: Rhonchi\n   LUL Lung Sounds: Rhonchi\n   LLL Lung Sounds: Diminished\n   Secretions\n   Sputum color / consistency: Blood Tinged / Thick\n   Sputum source/amount: Suctioned / Moderate\n   Ventilation Assessment\n   Level of breathing assistance: Continuous invasive ventilation\n   Visual assessment of breathing pattern: Normal quiet breathing\n   Assessment of breathing comfort: No response (sleeping / sedated)\n   Invasive ventilation assessment:\n   Trigger work assessment: Not triggering\n   Plan\n   Next 24-48 hours:\n   Reason for continuing current ventilatory support: Hemodynimic\n   instability\n   Respiratory Care Shift Procedures\n   Transports:\n   Destination (R/T)\n   Time\n   Complications\n   Comments\n   CT\n   2330\n   Transported to CT scan and back without incident.\n"
+    },
+    {
+      "note_id": 678683,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 211,
+          "end": 227,
+          "code": "I69.951",
+          "code_system": "ICD-10-CM",
+          "description": "Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting right dominant side",
+          "type": "Human",
+          "covered_text": "right hemiplegia"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   82 yo F h/o Afib found down at home with speech difficulty, right sided\n   weakness.  Found to have left MCA stroke with some hemorrhagic\n   conversion, not TPA candidate.\n   Chief complaint:\n   right hemiplegia\n   PMHx:\n   SAH/intraventricular bleed after mechanical fall [**1-/2154**], Parkinson's\n   disease, atrial fibrillation/flutter (not on coumadin because of\n   falls), arthritis, CAD (inferolateral reversible defect per MIBI in\n   [**2146**]), asthma, hypothyroidism, TIA [**2140**], osteoporosis, HTN, hiatal\n   hernia\n   Current medications:\n           1. IV access: Peripheral line Order date: [**5-5**] @ 1730\n   12. Magnesium Sulfate  IV Sliding Scale Order date: [**5-6**] @ 0419\n   2. 40 mEq Potassium Chloride / 1000 mL NS\n   Continuous at 70 ml/hr Order date: [**5-6**] @ 0420\n   13. Mannitol 25 g IV Q6H\n   Hold for serum osmol >320 and serum Na >145.  Order date: [**5-6**] @ 0543\n   3. Acetaminophen 325-650 mg PO Q6H:PRN fever, pain  Order date: [**5-5**] @\n   1730\n   14. Metoprolol Tartrate 25 mg PO TID\n   Hold for SBP<110, HR<55  Order date: [**5-5**] @ 2054\n   4. Carbidopa-Levodopa (25-100) 2 TAB PO BID\n   At noontime and at midnight.  Order date: [**5-5**] @ 2054\n   15. Omeprazole 40 mg PO DAILY  Order date: [**5-5**] @ 1730\n   5. Carbidopa-Levodopa (25-100) 3 TAB PO BID\n   At 6 am and at 6pm.  Order date: [**5-5**] @ 2054\n   16. Phenylephrine 0.5-5 mcg/kg/min IV DRIP TITRATE TO MAP>65.  Order\n   date: [**5-6**] @ 0541\n   6. Calcium Carbonate 1500 mg PO DAILY  Order date: [**5-5**] @ 2314\n   17. Potassium Chloride  PO Sliding Scale Duration: 24 Hours\n   Hold for K >  Order date: [**5-6**] @ 0419\n   7. Chlorhexidine Gluconate 0.12% Oral Rinse 15 ml ORAL [**Hospital1 **]\n   Use only if patient is on mechanical ventilation.  Order date: [**5-5**] @\n   2307\n   18. Propofol 20-100 mcg/kg/min IV DRIP TITRATE TO adequate sedation\n   Order date: [**5-5**] @ 2307\n   8. Docusate Sodium 100 mg PO BID  Order date: [**5-5**] @ 1730\n   19. Simvastatin 10 mg PO DAILY  Order date: [**5-5**] @ 1730\n   9. Insulin SC  (per Insulin Flowsheet)\n         Sliding Scale Order date: [**5-5**] @ 1730\n   20. Sodium Chloride 0.9% Flush 3 mL IV Q8H:PRN line flush\n   Peripheral line: Flush with 3 mL Normal Saline every 8 hours and PRN.\n   Order date: [**5-5**] @ 1730\n   10. Levothyroxine Sodium 175 mcg PO DAILY  Order date: [**5-5**] @ 1730\n   21. Vitamin D 400 UNIT PO DAILY  Order date: [**5-5**] @ 2314\n   11. Mannitol 25 g IV ONCE Duration: 1 Doses Order date: [**5-6**] @ 0006\n   24 Hour Events:\n   - change in left pupil -> head CT showing large area of hemorrhage\n   - no intervention per nsurg, likely unsalvageable\n   Post operative day:\n   HD #2\n   Allergies:\n   Penicillins\n   Hives;\n   Sulfa (Sulfonamides)\n   Hives;\n   Risperidone\n   Confusion/Delir\n   Oxycodone\n   Confusion/Delir\n   Dilaudid (Oral) (Hydromorphone Hcl)\n   Confusion/Delir\n   Codeine\n   Nausea/Vomiting\n   Vicodin (Oral) (Hydrocodone Bit/Acetaminophen)\n   Nausea/Vomiting\n   Last dose of Antibiotics:\n   Infusions:\n   Mannitol\n   Other ICU medications:\n   Other medications:\n   Flowsheet Data as of  [**2154-5-6**] 05:44 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**56**] a.m.\n   Tmax: 37.7\nC (99.8\n   T current: 37\nC (98.6\n   HR: 57 (53 - 60) bpm\n   BP: 100/54(65) {100/54(65) - 189/84(107)} mmHg\n   RR: 14 (14 - 21) insp/min\n   SPO2: 98%\n   Heart rhythm: SB (Sinus Bradycardia)\n             Total In:\n                                                                    531 mL\n                                                                    916 mL\n   PO:\n             Tube feeding:\n   IV Fluid:\n                                                                    471 mL\n                                                                    736 mL\n   Blood products:\n   Total out:\n                                                                    620 mL\n                                                                    690 mL\n   Urine:\n                                                                    620 mL\n                                                                    690 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    -89 mL\n                                                                    226 mL\n   Respiratory support\n   O2 Delivery Device: Endotracheal tube\n   Ventilator mode: CMV/ASSIST/AutoFlow\n   Vt (Set): 450 (450 - 450) mL\n   RR (Set): 14\n   RR (Spontaneous): 0\n   PEEP: 5 cmH2O\n   FiO2: 50%\n   RSBI Deferred: No Spon Resp\n   PIP: 29 cmH2O\n   Plateau: 23 cmH2O\n   Compliance: 25 cmH2O/mL\n   SPO2: 98%\n   ABG: 7.56/36/494/33/10\n   Ve: 5.8 L/min\n   PaO2 / FiO2: 988\n   Physical Examination\n   General Appearance: intubated, sedated\n   HEENT: surgical pupil right, left pupil dilated and fixed\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : , Diminished: right base)\n   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present\n   Left Extremities: (Edema: Absent)\n   Right Extremities: (Edema: Absent)\n   Neurologic: Sedated, intubated, withdraws extremities to nailbed stim,\n   +corneal, +cough\n   Labs / Radiology\n   186 K/uL\n   11.1 g/dL\n   97 mg/dL\n   0.6 mg/dL\n   33 mEq/L\n   2.6 mEq/L\n   16 mg/dL\n   102 mEq/L\n   143 mEq/L\n   32.5 %\n   10.9 K/uL\n        [image002.jpg]\n                             [**2154-5-5**]  11:21 PM\n                             [**2154-5-6**]  02:51 AM\n   WBC\n   10.9\n   Hct\n   32.5\n   Plt\n   186\n   Creatinine\n   0.6\n   Troponin T\n   0.05\n   TCO2\n   33\n   Glucose\n   97\n   Other labs: CK / CK-MB / Troponin T:178/5/0.05, Ca:8.7 mg/dL, Mg:1.6\n   mg/dL, PO4:2.4 mg/dL\n   Assessment and Plan\n   CVA (STROKE, CEREBRAL INFARCTION), HEMORRHAGIC\n   Assessment and Plan: 82 yo F h/o Afib with left MCA stroke with\n   hemorrhagic conversion.\n   Neurologic: Neuro checks Q: 2 hr, Left MCA stroke -> large hemorrhage,\n   likely unsalvageable.  Continue mannitol 25 q6 to temporize until\n   family arrives.\n   Cardiovascular: Hemodynamically stable, keep SBP<180.  ?TTE today to\n   eval for embolic source.  Continue lopressor 25 tid, statin\n   Pulmonary: Cont ETT, (Ventilator mode: CMV), Wean vent as tolerated,\n   likely will not be able to extubate.\n   Gastrointestinal / Abdomen: NPO for now, NGT in place.  Consider\n   starting TF's.\n   Nutrition: NPO\n   Renal: Foley, Adequate UO, Creat stable 0.6.  Follow Na/osm q6 while on\n   mannitol.  Repleted K/Mg\n   Hematology: Hct 32.5 down from 37.7, cont to follow.  No obvious source\n   of bleed other than intracranial, possibly hemodilution [**1-7**] IV fluids.\n   Continue to watch.\n   Endocrine: RISS, Follow FS.  Continue levothyroxine.\n   Infectious Disease: WBC 10.9.  Afebrile, no indication for abx\n   Lines / Tubes / Drains: Foley, NGT, ETT, PIV\n   Wounds:\n   Imaging:\n   Fluids: NS, Potassium Chloride, 70 cc/hr\n   Consults: Neuro surgery, Neurology\n   Billing Diagnosis: (Hemorrhage, NOS), CVA, (Respiratory distress:\n   Failure)\n   ICU Care\n   Nutrition:\n   Comments: NPO for now, consider TFs.\n   Glycemic Control:  Regular insulin sliding scale\n   Lines:\n   18 Gauge - [**2154-5-5**] 08:00 PM\n   Prophylaxis:\n   DVT: Boots\n   Stress ulcer: PPI\n   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI\n   Comments:\n   Communication: Patient discussed on interdisciplinary rounds , Family\n   meeting planning Comments: To have family meeting when pt's relative\n   returns from [**Country 6757**].\n   Code status: Full code\n   Disposition: ICU\n   Total time spent: 32 minutes\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 46983,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 388,
+          "end": 398,
+          "code": "0BH17EZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening",
+          "type": "Human",
+          "covered_text": "Intubation"
+        },
+        {
+          "begin": 2711,
+          "end": 2740,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation-diagnosed"
+        },
+        {
+          "begin": 2777,
+          "end": 2780,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 2845,
+          "end": 2851,
+          "code": "J45.909",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified asthma, uncomplicated",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 2929,
+          "end": 2943,
+          "code": "E03.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypothyroidism, unspecified",
+          "type": "Human",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 3003,
+          "end": 3015,
+          "code": "M81.0",
+          "code_system": "ICD-10-CM",
+          "description": "Age-related osteoporosis without current pathological fracture",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 3016,
+          "end": 3035,
+          "code": "G20",
+          "code_system": "ICD-10-CM",
+          "description": "Parkinson's disease",
+          "type": "Human",
+          "covered_text": "Parkinson's disease"
+        },
+        {
+          "begin": 3036,
+          "end": 3048,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 3049,
+          "end": 3062,
+          "code": "K44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Diaphragmatic hernia without obstruction or gangrene",
+          "type": "Human",
+          "covered_text": "Hiatal hernia"
+        },
+        {
+          "begin": 6789,
+          "end": 6805,
+          "code": "Z51.5",
+          "code_system": "ICD-10-CM",
+          "description": "Encounter for palliative care",
+          "type": "Human",
+          "covered_text": "comfort measures"
+        },
+        {
+          "begin": 8461,
+          "end": 8491,
+          "code": "I61.9",
+          "code_system": "ICD-10-CM",
+          "description": "Nontraumatic intracerebral hemorrhage, unspecified",
+          "type": "Human",
+          "covered_text": "Massive hemorrhagic conversion"
+        },
+        {
+          "begin": 8497,
+          "end": 8523,
+          "code": "I63.9",
+          "code_system": "ICD-10-CM",
+          "description": "Cerebral infarction, unspecified",
+          "type": "Human",
+          "covered_text": "left MCA territory infarct"
+        },
+        {
+          "begin": 8708,
+          "end": 8724,
+          "code": "G93.5",
+          "code_system": "ICD-10-CM",
+          "description": "Compression of brain",
+          "type": "Human",
+          "covered_text": "uncal\nherniation"
+        },
+        {
+          "begin": 8725,
+          "end": 8744,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial Fibrillation"
+        }
+      ],
+      "text": "Admission Date:  [**2154-5-5**]              Discharge Date:   [**2154-5-7**]\n\nDate of Birth:  [**2071-6-2**]             Sex:   F\n\nService: NEUROLOGY\n\nAllergies:\nPenicillins / Sulfa (Sulfonamides) / Risperidone / Oxycodone /\nDilaudid / Codeine / Vicodin\n\nAttending:[**First Name3 (LF) 5018**]\nChief Complaint:\nR sided weakness and trouble speaking\n\nMajor Surgical or Invasive Procedure:\nIntubation\n\n\nHistory of Present Illness:\n82 yo RH woman with h/o Afib (not on coumadin [**1-7**] multiple\nfalls), HTN, PD, CAD, recent IVH [**1-7**] fall who presents after\nbeing found down.  She was speaking to her son-in-law this am\n~9am who found her initially to be speaking normally (although\nconversation was brief but able to ask about her daughter who is\nout of the country) - incidentally she called him.  However,\nsoon\nafter the call, he was answering a question and then noted no\nresponse on the other end of the telephone.  He called her name,\nbut heard no response.  A friend had been planning to pick her\nup\nat 10 am, so he figured the phone was having technical\ndifficulties and that he would be contact[**Name (NI) **]/seen by the people\nshe was supposed to meet.  He didn't hear anything and presumed\nthat things were ok.  ~12:30, her daughter in law came by her\napt\nto see how she was doing.  When she knocked, she heard someone\n(the pt) trying to say something but not really saying anything\nclearly.  She called 911 and the fire dept responded, broke open\nthe door and found the patient dressed (ready to go out per\nchildren), unable to communicate - not making word salad, but\nonly word that was understandable was \"no\" with r sided\nweakness.\nAs a result, she was brought to [**Hospital1 18**] ED where she was SBPs in\n150.  she could follow simple commands, but was not moving her\nRUE.  she also appeared to have trouble getting words out per ED\nstaff. She was then intubated for airway protection. CTH was\nattained which revealed hypodensity involving LMCA territory\nwith\nsmall amount of hemorrhage concerning for hemorrhagic conversion\nof infarction and neurology service was contact[**Name (NI) **].\n\nIncidentally, the patient's children describe her as having\ngradual worsening of her language with worsening word finding\ndifficulties over the past year.  After a recent admission for\nIVH, she has also had a tendency to sit with her eyes close\n(although awake) per their report.\n\nPer family, patient with h/o TIA with dysarthria and L hand\n\"shaking\" lasting minutes.  they don't recall results of workup\nfrom [**2140**].\n\nROS:\nGen:  pt unable to relate. but per family, no recent illness, no\ncomplaints of HA, no other previous weakness, vision changes,\nsensory symptoms.\n\n\nPast Medical History:\nAtrial fibrillation-diagnosed [**12-11**] (on Coumadin)\nArthritis\nCAD (inferolateral reversible defect per MIBI in [**2146**])\nZoster\nAsthma\nArthroscopic surgery to knees (bilat)\nWrist [**Doctor First Name **]\nTAH\nCCY\nHypothyroidism\nTIA in [**2140**] (self limited with no residual defecits)\nOsteoporosis\nParkinson's disease\nHypertension\nHiatal hernia\n\nSocial History:\nLives alone in an apartment. Her daughters are involved. She\ndenies alcohol, tobacco and illicit drugs.\n\n\nFamily History:\nNo significant\n\nPhysical Exam:\nVS:  T 97.3 HR 62     BP 154/94    RR 18      Sat 100% RA\nPE:\nHEENT \tAT/NC, MMM no lesions\nNeck \tSupple, no bruits\nChest \tCTA B\nCVS \tirregularly irregular\nABD \tsoft, NTND, + BS\nSKIN\n\nNEUROLOGICAL\nMS:  intubated, sedated on propofol. when taken off, BPs into\n200s\neyes closed, not following commands, no spont eye opening or eye\nmovements. spont movements of all extremities except RUE.\n\nCN: surgical pupils bilaterally, + corneal reflexes Bilaterally,\nno OCRs, no gag, no grimace noted. pt with ETT taped onto R NLF\n\nMotor: tone: increased tone throughout.  moving extremities\nexcept for RUE spontaneously.  With noxious to RUE, localizes\nwith left, but no movement noted on R.  LLE moving greater than\nRLE, but RLE is easily antigravity.\n\n[**Last Name (un) **]: all extremities save for RUE withdraw to mild stim\n\nReflex: 2+ bilaterally, except for ankles 0. toe on L is up. toe\non R is mute.\n\n\nPertinent Results:\n[**2154-5-5**] 03:11PM   GLUCOSE-116* LACTATE-2.2* NA+-143 K+-3.5\nCL--95* TCO2-31*\n[**2154-5-5**] 02:55PM   GLUCOSE-122* UREA N-21* CREAT-0.8 SODIUM-140\nPOTASSIUM-3.5 CHLORIDE-98 TOTAL CO2-28 ANION GAP-18\n[**2154-5-5**] 02:55PM   CK(CPK)-106\n[**2154-5-5**] 02:55PM   CK-MB-7\n[**2154-5-5**] 02:55PM   cTropnT-0.01\n[**2154-5-5**] 02:55PM   CALCIUM-9.4 PHOSPHATE-3.2 MAGNESIUM-1.8\n[**2154-5-5**] 02:55PM   CALCIUM-9.4 PHOSPHATE-3.2 MAGNESIUM-1.8\n[**2154-5-5**] 02:55PM   WBC-8.3 RBC-3.89* HGB-12.5 HCT-37.7 MCV-97\nMCH-32.2* MCHC-33.3 RDW-14.4\n[**2154-5-5**] 02:55PM   NEUTS-83.1* LYMPHS-11.1* MONOS-4.5 EOS-0.7\nBASOS-0.6\n[**2154-5-5**] 02:55PM   PLT COUNT-235\n[**2154-5-5**] 02:55PM   PT-13.7* PTT-27.1 INR(PT)-1.2*\n[**2154-5-5**] 04:05PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-100\nGLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-8.0\nLEUK-NEG\n[**2154-5-5**] 04:05PM URINE  RBC-0-2 WBC-0-2 BACTERIA-RARE YEAST-NONE\nEPI-0\n[**2154-5-5**] 11:21PM   TYPE-ART PO2-494* PCO2-36 PH-7.56* TOTAL\nCO2-33* BASE XS-10\n\n[**5-5**] CT head: Large hypodense area concerning for acute ischemia\nin distribution\nof left MCA, with foci of blood products. MRI is recommended for\nfurther\nevaluation, and neurology consult. Findings were discussed with\nDr. [**First Name4 (NamePattern1) **]\n[**Last Name (NamePattern1) 780**] at 4:10 p.m. on [**2154-5-5**] and posted on the ED dashboard.\n2. Scattered area of low attenuation in the subcortical white\nmatter on the\nright, likely consistent with chronic small vessel ischemic\nchanges.\n3. No evidence of fracture.\n\n[**5-5**] CT head after change in exam:\n1. Massive hemorrhagic conversion of a left MCA territory\ninfarct with local\nmass effect, including effacement of the left lateral ventricle\nincluding near\ncomplete effacement of the left lateral ventricle, as well as\nsignificant\nsubfalcine and left uncal herniation. Some mild interval\ndilatation of the\nright lateral ventricle atrium should be monitored on followup\nexaminations.\n\n\nBrief Hospital Course:\nMrs [**Known lastname **] was admitted to the ICU with large LMCA infarction.  No\nintervention was indicated as she was outside the window.\nOvernight she had a change in her pupilary exam and stat repeat\nhead CT was ordered.  She was found to have massive hemorrhagic\nconversion of her stroke.  She was not on any anti-platlet or\nanticoagulants at the time.  Full medical management was\nmaintainted until [**5-7**] when her daughter [**Name (NI) **] was able to arrive\nhome from [**Country 84997**].  On [**5-7**] after a family meeting with bother\ndaughters, son-in-law, [**Name (NI) 18198**], and other family members\ncare was withdrawn and she was made comfort measures only.  She\npassed away shortly after extubation.\n\nMedications on Admission:\n1. Carbidopa-Levodopa 25-100 mg Tablet Sig: Two (2) Tablet PO\nQID (4 times a day).\n2. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day): in one week (starting [**2154-1-24**], dose should be\nincresed to 750 mg [**Hospital1 **] foe one week, then (on [**2154-1-31**]), dose\nshould be increased to 1000 mg [**Hospital1 **], as long as pt.s mental\nstatus remains clear.  If there are questions about this,\ncontact pt.s primary care MD, Dr. [**Last Name (STitle) 2204**] at [**Telephone/Fax (1) 20792**].\nTablet(s)\n3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).\n5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed.\n6. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n7. Colace 100 mg Capsule Sig: Two (2) Capsule PO at bedtime.\n8. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)\nTablet, Chewable PO BID (2 times a day).\n9. Lisinopril 10 mg Tablet Sig: Three (3) Tablet PO DAILY\n(Daily).\n10. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO\nDAILY (Daily).\n11. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb\nInhalation Q6H (every 6 hours) as needed for shortness of breath\n\nor wheezing.\n12. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3\ntimes a day).\n13. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q8H\n(every 8 hours).\n\n\nDischarge Medications:\nNone, pt passed away\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nMassive hemorrhagic conversion of a left MCA territory infarct\nwith local mass effect, including effacement of the left lateral\nventricle including near complete effacement of the left lateral\nventricle, as well as significant subfalcine and left uncal\nherniation\nAtrial Fibrillation\n\n\nDischarge Condition:\nExpired\n\n\nDischarge Instructions:\nThe patient was admitted with a large left MCA infarct with\nlarge hemorrhagic conversion and subfalcine and left uncal\nherniation. The patient was made CMO, and expired with her\nfamily at the bedside.\n\nFollowup Instructions:\nNone\n\n\n                             [**Name6 (MD) 4267**] [**Last Name (NamePattern4) 4268**] MD, [**MD Number(3) 5023**]\n\nCompleted by:[**2154-5-10**]"
+    }
+  ]
+}

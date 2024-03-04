@@ -1,0 +1,131 @@
+{
+  "hadm_id": 152801,
+  "comment": "CABG &AVR Replacement- Need OP note to Validate PCS",
+  "notes": [
+    {
+      "note_id": 34967,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 253,
+          "end": 256,
+          "code": "I50.22",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic systolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 317,
+          "end": 341,
+          "code": "I35.0",
+          "code_system": "ICD-10-CM",
+          "description": "Nonrheumatic aortic (valve) stenosis",
+          "type": "Human",
+          "covered_text": "Aortic valve replacement"
+        },
+        {
+          "begin": 866,
+          "end": 869,
+          "code": "I73.9",
+          "code_system": "ICD-10-CM",
+          "description": "Peripheral vascular disease, unspecified",
+          "type": "Human",
+          "covered_text": "PVD"
+        },
+        {
+          "begin": 1247,
+          "end": 1259,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 1260,
+          "end": 1272,
+          "code": "I11.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive heart disease with heart failure",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1314,
+          "end": 1318,
+          "code": "J44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic obstructive pulmonary disease, unspecified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 1319,
+          "end": 1329,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 1330,
+          "end": 1342,
+          "code": "M81.0",
+          "code_system": "ICD-10-CM",
+          "description": "Age-related osteoporosis without current pathological fracture",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 1343,
+          "end": 1359,
+          "code": "I50.22",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic systolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "Chronic systolic"
+        },
+        {
+          "begin": 6008,
+          "end": 6031,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "mid and distal LAD, 60%"
+        },
+        {
+          "begin": 9869,
+          "end": 9884,
+          "code": "I65.21",
+          "code_system": "ICD-10-CM",
+          "description": "Occlusion and stenosis of right carotid artery",
+          "type": "Human",
+          "covered_text": "Carotid Disease"
+        },
+        {
+          "begin": 9932,
+          "end": 9945,
+          "code": "I25.2",
+          "code_system": "ICD-10-CM",
+          "description": "Old myocardial infarction",
+          "type": "Human",
+          "covered_text": "History of MI"
+        },
+        {
+          "begin": 9954,
+          "end": 9973,
+          "code": "I50.22",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic systolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "(chronic,\nsystolic)"
+        }
+      ],
+      "text": "Admission Date:  [**2164-9-19**]              Discharge Date:   [**2164-9-30**]\n\nDate of Birth:  [**2082-8-17**]             Sex:   F\n\nService: CARDIOTHORACIC\n\nAllergies:\nAce Inhibitors\n\nAttending:[**First Name3 (LF) 922**]\nChief Complaint:\nFatigue/DOE/CHF\n\nMajor Surgical or Invasive Procedure:\n[**2164-9-24**] - 1. Aortic valve replacement with a 21-mm [**Doctor Last Name **] Magna\naortic valve bioprosthesis. 2. Coronary artery bypass grafting\nx2, left internal mammary artery to left anterior descending\ncoronary artery; reverse saphenous vein single graft from the\naorta to the posterior descending coronary artery.3. Concomitant\nright carotid endarterectomy performed by Dr. [**Last Name (STitle) **] and\ndictated separately.\n[**2164-9-20**] - Cardiac catheterization\n\nHistory of Present Illness:\n82 year old woman with complex past medical history including\nPVD, aortic stenosis, and mitral regurgitation who has been\nexperiencing worsening fatigue, dyspnea on exertion, and\ncongestive heart failure. She has had several failed\ncatheterizations secondary to severe PVD (femoral, radial,\nbrachial). SHe is now admitted for cardiac catheterization and\nsurgical management of her valvular and coronary artery disease.\n\n\nPast Medical History:\nDyslipidemia\nHypertension\naortic stenosis\nMitral regurgitation\nPVD\nCOPD\nDepression\nOsteoporosis\nChronic systolic dysfunction\n\nSocial History:\nSheis retired.  She is edentulous and therefore will not require\ndental clearance.  She is a 55-pack year history of smoking.\nShe quit smoking last year.  She does not use any alcohol at\nthis time.  She is widowed and speaks only Greek.\n\n\nFamily History:\nShe has two sisters with hypertension but no premature coronary\ndisease.\n\nPhysical Exam:\nOn examination, her heart rate was 68.  Respiratory rate was 12.\nBlood pressure on the right was 134/50 not taken on the left due\nto recent brachial artery attempts at catheterization.  She was\n5\nfeet tall weighing 110 pounds.  Overall, she appeared to be\nquite\nfrail elderly woman in no apparent distress.  She was using a\ncane to ambulate.  Skin was warm and dry without any cyanosis or\nedema.  She had mild clubbing.  Her head was normocephalic and\natraumatic.  Pupils were equally, round, and reactive to light.\nSclerae were anicteric.  Oropharynx was benign.  She was\nedentulous.  Her neck was supple with full range of motion and\nno\nJVD.  Carotid bruits were present on both sides.  She had\nbibasilar crackles left greater than right and barrel chest\nconsistent with COPD.  Heart was regular in rate and rhythm with\na grade III/VI systolic ejection murmur and grade I/VI diastolic\nmurmur with S1 and S2 tones present.  She had right upper\nquadrant tenderness today in the office with mild hepatomegaly.\nHer extremities were warm and well perfused with very trace\nperipheral edema and a little bit of mild clubbing on the left.\nShe had some ecchymosis of her abdomen from Heparin shots in the\nhospital.  She had noted varicosities.  She was alert and\noriented x3 moving all extremities.  Gait slow and steady using\nthe cane with 4/5 strength.  She had 2+ bilateral femoral pulses\nwith a bruit present in her left femoral artery, trace DP\nbilateral pulses, 1+ bilateral in the PTs, and 2+ bilateral\nradial pulses.\n\n\nPertinent Results:\n[**2164-9-19**] 08:43PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG\nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0\nLEUK-NEG\n[**2164-9-19**] 09:34PM   PT-13.7* PTT-25.4 INR(PT)-1.2*\n[**2164-9-19**] 09:34PM   WBC-6.9 RBC-3.07* HGB-9.6* HCT-29.3* MCV-96\nMCH-31.3 MCHC-32.8 RDW-17.8*\n[**2164-9-19**] 09:34PM   ALT(SGPT)-19 AST(SGOT)-24 ALK PHOS-69 TOT\nBILI-0.3\n[**2164-9-19**] 09:34PM   GLUCOSE-127* UREA N-41* CREAT-1.3* SODIUM-140\nPOTASSIUM-4.5 CHLORIDE-108 TOTAL CO2-22 ANION GAP-15\n\n[**2164-9-19**] Abdominal U/S\nStatus post cholecystectomy. Common bile duct is dilated, which\nis not an uncommon finding after cholecystectomy.\n\n[**2164-9-24**] ECHO\nPRE-BYPASS:\n1. The left atrium is moderately dilated. No spontaneous echo\ncontrast or thrombus is seen in the body of the left atrium or\nleft atrial appendage. No atrial septal defect is seen by 2D or\ncolor Doppler.\n2. There is mild symmetric left ventricular hypertrophy. The\nleft ventricular cavity size is normal. There is mild regional\nleft ventricular systolic dysfunction with inferior basal\nhypokinesis. Overall left ventricular systolic function is low\nnormal (LVEF 50-55%).\n3. Right ventricular chamber size and free wall motion are\nnormal.\n4. There are simple atheroma in the ascending aorta. There are\nsimple atheroma in the aortic arch. There are complex (>4mm)\natheroma in the descending thoracic aorta.\n5. There are three aortic valve leaflets. The aortic valve\nleaflets are moderately thickened. There is moderate to severe\naortic valve stenosis (area 0.8-1.0cm2). Moderate (2+) aortic\nregurgitation is seen. The aortic regurgitation jet is\neccentric, directed toward the anterior mitral leaflet.\n6. Mild to moderate ([**1-11**]+) mitral regurgitation is seen.\nPosterior leaflet appears slightly restricted, jet is central.\n7. There is no pericardial effusion.\nDr. [**Last Name (STitle) 914**] was notified in person of the results.\n\nPOST-BYPASS: For the post-bypass study, the patient was\nreceiving vasoactive infusions including phenylephrine and is\nbeing AV paced.\n1. A well-seated bioprosthetic valve is seen in the Aortic\nposition with normal leaflet motion and gradients (mean gradient\n= 7 mmHg). No aortic regurgitation is seen.\n2. LV function is unchanged.\n3. MR is mild.\n4. Other findings are unchanged.\n\n[**2164-9-21**] Carotid duplex ultrasound\n1. 80-99% right ICA stenosis.\n2. 60-69% left ICA stenosis.\n3. High-grade left external carotid artery stenosis.\n\n[**2164-9-20**] Cardiac Catheterization\nShowed 80% mid and distal LAD, 60% mid LCX, and a complicated\n99% calcified proximal RCA lesion.\n\nBrief Hospital Course:\nPatient was admitted to the hospital on [**9-19**] for\npre-operative workup. Diagnsotic catheterization on [**2164-9-20**]\nshowed 80% mid and distal LAD, 60% mid LCX, and a complicated\n99% calcified proximal RCA lesion. An aortogram was performed at\nthe end of the procedure and revealed severe aorto-iliac disease\nextending into her Profunda and Superficial femoral arteries\nbilaterally.  Also on [**2164-9-20**] patient had carotid duplex scans\nthat revealed severe  80-99% right ICA stenosis, 60-69% left ICA\nstenosis and a high-grade left external carotid artery stenosis.\nThe vascular surgery service was consulted who recommended a\nconcommittant right carotid endarterectomy. As she had right\nupper quadrant tenderness, a right upper quadrant ultrasound was\nobtained which showed a dilated common bile duct which was not\nan uncommon finding after cholecystectomy. No other\nabnormalities were seen. On [**2164-9-24**], Ms. [**Known lastname 7568**] was taken to the\noperating room where she underwent an aortic valve replacement\nwith a 21-mm [**Doctor Last Name **] Magna aortic valve bioprosthesis, two\nvessel coronary artery bypass grafting and a concomitant right\ncarotid endarterectomy performed by Dr. [**Last Name (STitle) **]. Please see\noperative notes from both vascular and cardiac surgery for\ndetails. Postoperatively she was transferred to the cardiac\nsurgical intensive care unit for further monitoring. Within 24\nhours, Ms. [**Known lastname 7568**] [**Last Name (Titles) 5058**] neurologically intact and was extubated.\nShe was transfused with PRBCs for postoperative anemia and to\nmaintain hematocrit near 30%. She initially required atrial\npacing for an underlying junctional rhythm/sinus node\ndysfunction, for which beta blockade was initially withheld. She\notherwise maintained stable hemodynamics and transferred to the\nSDU on postoperative day two.  On POD 5 the patient developed\natrial fibrillation.  She was treated with lopressor 5mg IVP and\nstarted on lopressor 12.5mg PO.  Approximately one hour after\ninitiation of therapy, the patient converted to sinus rhythm,\nwith a long (22second) conversion pause.  The patient's nurse\nwas in the room, witnessed this long pause, and chest\ncompressions were initiated.  The patient came to immediately.\nFollow up CXR reveals no rib fractures.  The patient remained\nstable in normal sinus rhythm for the next 24 hours.  She was\ndischarged in good condition to rehab on POD 6.\n\nMedications on Admission:\nASA 81', zocor 40', protonix 40', toprol xl 25', hctz 25',\nboniva 150 monthly, calcium, vit d, tylenol, duragesic patch 25\n\nDischarge Medications:\n1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n2. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).\n4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n5. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every\n4 hours) as needed.\n6. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO HS (at bedtime) as needed for constipation.\n7. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nDAILY (Daily) as needed for constipation.\n8. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3\nhours) as needed.\n9. Fentanyl 25 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr\nTransdermal Q72H (every 72 hours).\n10. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\n11. Furosemide 20 mg Tablet Sig: Two (2) Tablet PO BID (2 times\na day).\nDisp:*120 Tablet(s)* Refills:*2*\n12. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal\nSig: One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12\nhours).\nDisp:*60 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital3 7665**]\n\nDischarge Diagnosis:\nAortic Stenosis, Coronary Artery Disease -  s/p AVR/CABG\nCarotid Disease - s/p Right CEA\nPMH: PVD, HTN, Hyperlipidemia, History of MI, MR, CHF(chronic,\nsystolic), COPD\n\n\nDischarge Condition:\ngood\n\nDischarge Instructions:\n1)  Monitor wounds for signs of infection. These include\nredness, drainage or increased pain. In the event that you have\ndrainage from your sternal wound, please call ([**Telephone/Fax (1) 1504**].\n2)  Report any fever greater then 100.5.\n3)  Report any weight gain of 2 pounds in 24 hours or 5 pounds\nin 1 week.\n4)  No lotions, creams or powders to incision until it has\nhealed. OK to shower and wash incision. Gently pat the wound\ndry.  Please shower daily.  No bathing or swimming for 1 month.\n5) No lifting greater then 10 pounds for 10 weeks.\n6) No driving for 1 month.\n\n\nFollowup Instructions:\n[**Hospital 409**] clinic in 2 weeks\nPlease follow-up with Dr. [**Last Name (STitle) 914**] in 1 month. ([**Telephone/Fax (1) 1504**]\nPlease follow-up with Dr. [**Last Name (STitle) **] in [**2-12**] weeks. [**Telephone/Fax (1) 74598**]\n\n\n\nCompleted by:[**2164-9-30**]"
+    }
+  ]
+}

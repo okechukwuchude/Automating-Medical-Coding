@@ -1,0 +1,104 @@
+{
+  "hadm_id": 147938,
+  "comment": "Procedure report for cerebral angiogram not present",
+  "notes": [
+    {
+      "note_id": 53709,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 309,
+          "end": 327,
+          "code": "88.41",
+          "code_system": "ICD-9-PCS",
+          "description": "Arteriography of cerebral arteries",
+          "type": "MapType.APPROX",
+          "covered_text": "Cerebral Angiogram"
+        },
+        {
+          "begin": 1662,
+          "end": 1697,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "He has a 15-20 pack year of tobacco"
+        },
+        {
+          "begin": 7674,
+          "end": 7689,
+          "code": "348.5",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral edema",
+          "type": "Human",
+          "covered_text": "vasogenic edema"
+        },
+        {
+          "begin": 8014,
+          "end": 8063,
+          "code": "431",
+          "code_system": "ICD-9-CM",
+          "description": "Intracerebral hemorrhage",
+          "type": "Human",
+          "covered_text": "Left Temporoparietal Intraparenchymal Hemorrhage:"
+        },
+        {
+          "begin": 9450,
+          "end": 9454,
+          "code": "305.01",
+          "code_system": "ICD-9-CM",
+          "description": "Alcohol abuse, continuous drinking behavior",
+          "type": "Human",
+          "covered_text": "ETOH"
+        },
+        {
+          "begin": 9882,
+          "end": 9885,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 11753,
+          "end": 11794,
+          "code": "431",
+          "code_system": "ICD-9-CM",
+          "description": "Intracerebral hemorrhage",
+          "type": "Human",
+          "covered_text": "Left Temporal Intraparenchymal Hemorrhage"
+        },
+        {
+          "begin": 11816,
+          "end": 11828,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 11830,
+          "end": 11841,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "Tobacco Use"
+        },
+        {
+          "begin": 12164,
+          "end": 12171,
+          "code": "780.39",
+          "code_system": "ICD-9-CM",
+          "description": "Other convulsions",
+          "type": "Human",
+          "covered_text": "seizure"
+        }
+      ],
+      "text": "Admission Date:  [**2144-3-16**]              Discharge Date:   [**2144-3-21**]\n\nDate of Birth:  [**2096-11-6**]             Sex:   M\n\nService: NEUROLOGY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 2569**]\nChief Complaint:\nIPH\n\nMajor Surgical or Invasive Procedure:\nCerebral Angiogram ([**2144-3-20**])\n\n\nHistory of Present Illness:\nMr [**Known lastname 110267**] is a 47 year old man with HTN and daily etoh\nabuse who woke up at 7am who presents as a transfer from an OSH\nfollowing a seizure and an IPH.  Today the patient was awoken\naround 7:20 am per his wife with worse HA of his life.  He had\nbeen drinking all weekend, and the wife assumed it was a \"hang\nover\" and he called in to work.  Around noon he was sleeping on\nthe couch and she took the kids to the pool.  However, she\nforgot\nsomething and returned around 1 pm.  She hurt a loud grunt and\nwalked over to find her husband with his head deviated to the\nleft and rigid.  This lasted less than a minute and he was\nsomnolent afterwards.  EMS was notified and he was brought over\nto [**Hospital3 15402**] and was reportedly lethargic but answering\nquestions\nappropriately and a noncontrast head ct showed a 3 cm left\ntemporal bleed.  His vitals at that time were T 98.7 / pulse\n127,\nresp 20, BP 144/81.  Patient was given Keppra 1 g at OSH, 2 mg\nof\nativan and 5 mg of diazepam and 4 mg of zofran and transferred\nfor further management.\n\n\nPast Medical History:\nbroken leg\nsleep apnea?\nHTN\nNo surgeries\n\n\nSocial History:\nLives at home wiht his wife / works as a mechanic for a Dodge\ndealership.  He has three children 12, 11 and 6 who are all at\nhome with him.  He has a 15-20 pack year of tobacco.  Daily Etoh\n12-18 beers per day / does not recall history of DT's.,  smokes\nMJ\nocassionally, no coccaine and no heroin use.\n\n\nFamily History:\ndoes not believe there is a history of strokes or\nseizures\n\n\nPhysical Exam:\nAt admission:\nO: T: af BP:150 / 82        HR: 109   R 11      O2Sats100 on 2 l\n\nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in\noropharynx\nNeck: Supple,  No nuchal rigidity\nPulmonary: Lungs CTA bilaterally without R/R/W\nCardiac: RRR, nl. S1S2, no M/R/G noted\nAbdomen: soft, NT/ND, no masses or organomegaly noted.\nExtremities:warm and well perfused\nSkin: no rashes or lesions noted.\n\n-Mental Status: Alert, oriented x 2, stated it was \"[**2140-1-30**]\".\n\nAttentive, able to name DOW backward without difficulty.\nLanguage is fluent with intact repetition and comprehension.\nNormal prosody.  There were no paraphasic errors.  Pt. was able\nto name both high and low frequency objects.  Able to read\nwithout difficulty.  Speech was not dysarthric. Able to follow\nboth midline and appendicular commands. Pt. was able to register\n3 objects and recall 0/3 at 5 minutes.  The pt. had good\nknowledge of current events.  There was no evidence of apraxia\nor\nneglect.  Calculation was intact (answers seven quarters in\n$1.75)\n.\n-Cranial Nerves:\nI: Olfaction not tested.\nII: Left eye 5 mm to 3 mm, R eye 4 mm to 3mm and brisk.\nIII, IV, VI: EOMI without nystagmus.  Normal saccades.\nV: Facial sensation intact to light touch.\nVII: No facial droop, facial musculature symmetric.\nVIII: Hearing intact to finger-rub bilaterally.\nIX, X: Palate elevates symmetrically.\n[**Doctor First Name 81**]: 5/5 strength in trapezii and SCM bilaterally.\nXII: Tongue protrudes in midline.\n.\n-Motor: Normal bulk, tone throughout. No pronator drift\nbilaterally. + asterixis bl, postural tremur (high freq, low\namp)\n  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA [**First Name9 (NamePattern2) 2339**] [**Last Name (un) 938**] EDB\nL  5    5   5   5   5  5  5  5   5    5  5     5     5   5\nR  5    5   5   5   5  5  5  5   5    5  5     5     5   5\n.\n-Sensory: No deficits to light touch, pinprick, cold sensation,\nvibratory sense, proprioception throughout. No extinction to\nDSS.\n.\n-DTRs:\n  [**Name2 (NI) **] Tri [**Last Name (un) 1035**] Pat Ach\nL  2  2    2    2   1\nR  2  2    2    2   1\nPlantar response was flexor bilaterally.\n.\n-Coordination:  No dysmetria on FNF or HKS bilaterally.\n\nAt transfer out of NeuroICU:\nNeuro: 1 mm of anisicoria (L > R), R hand may be slightly slower\non RAMs than L hand. Otherwise normal.\n\n\nPertinent Results:\nLABS ON ADMISSION:\n[**2144-3-16**] 04:35PM   WBC-11.2* RBC-4.88 HGB-14.9 HCT-45.6 MCV-93\nMCH-30.5 MCHC-32.6 RDW-13.4\n[**2144-3-16**] 04:35PM   PLT COUNT-197\n[**2144-3-16**] 04:35PM   PT-9.9 PTT-25.3 INR(PT)-0.9\n[**2144-3-16**] 04:35PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG\nbnzodzpn-NEG barbitrt-NEG tricyclic-NEG\n[**2144-3-16**] 04:35PM   UREA N-13 CREAT-0.7\n[**2144-3-16**] 04:43PM   GLUCOSE-120* NA+-139 K+-4.1 CL--99 TCO2-26\n.\nSTROKE RISK FACTORS:\n[**2144-3-17**] 04:22AM BLOOD Triglyc-96 HDL-66 CHOL/HD-3.3\nLDLcalc-136*\n[**2144-3-17**] 04:22AM BLOOD %HbA1c-5.4 eAG-108\n.\nLFT's\n[**2144-3-17**] 04:22AM BLOOD ALT-24 AST-37 LD(LDH)-174 AlkPhos-45\nTotBili-0.7\n.\n[**2144-3-16**] CTA Head and Neck:\nIMPRESSION:\n1. Left temporal parenchymal hemorrhage with associated small\nsubdural\nhematoma. Mass effect is mild with effacement of the left\nambient cistern and compression of the ventricle of the left\ntemporal [**Doctor Last Name 534**]. No intraventricular extension.\n2. No evidence of vascular malformation or aneurysm.\n3. Cystic lucency in right anterior alveolar process of maxilla\nfor which\ndifferential considerations include chronic abcess and clinical\ncorrelation should be performed.\n.\n[**2144-3-16**] Portable CXR:\nFINDINGS: The lung volumes are normal. There is no evidence of\npleural\neffusion or pneumothorax. Normal size of the cardiac silhouette.\nIn the lung parenchyma, there is no evidence of a mass or\npulmonary nodules. The hilar and mediastinal contours are\nunremarkable.\n.\n[**2144-3-17**] Repeat Head CT:\nStable left temporal parenchymal hematoma with associated small\nsubdural hematomas along the left tentorium and left temporal\nlobe, unchanged from [**2144-3-16**]. There is mild associated mass\neffect with no evidence of herniation.\n.\n[**2144-3-17**] MRI/MRV:\n1. Left temporoparietal intraparenchymal hematoma, with left\nhemispheric and left tentorial subdural hematoma, not\nsignificantly changed.\n2. No evidence of venous sinus thrombosis.\n3. Mild peripheral enhancement along the hematoma, likely\nrepresents reactive changes. No evidence of underlying mass\nlesion in this study.\n4. Opacification of the left mastoid sinus. Please correlate\nclinically for signs of infection. Cortical venous sinus\nthrombosis cannot be excluded in this study.\n.\n[**2144-3-21**] Cerebral Angiogram:\nPRELIMINARY REPORT PRIOR TO DISCHARGE:\nMr. [**Known firstname **] [**Known lastname 110267**] underwent diagnostic cerebral angiography\nwhich was unremarkable. There is no evidence of vascular\nmalformation or aneurysm in the intracranial circulation.\n.\nLABS AT DISCHARGE:\n[**2144-3-21**] 05:30AM BLOOD WBC-6.3 RBC-4.30* Hgb-13.3* Hct-39.8*\nMCV-93 MCH-30.9 MCHC-33.4 RDW-12.4 Plt Ct-196\n[**2144-3-21**] 05:30AM BLOOD Glucose-108* UreaN-9 Creat-0.7 Na-138\nK-4.3 Cl-102 HCO3-29 AnGap-11\n[**2144-3-21**] 05:30AM BLOOD Calcium-9.0 Phos-3.7 Mg-2.0\n\nBrief Hospital Course:\nMr. [**Known lastname 110267**] is a 47 year old man with HTN and daily etoh abuse\nwho woke up at 7am with worse HA of life at noon found by wife\nin a likely complex partial seizure with secondary\ngeneralization (loud vocalization left head deviation and then\ntonic rigidity) that self resolved in about 1 minute.\n\nBRIEF ICU COURSE:\nPatient was initially admitted to the NeuroICU for close\nmonitoring. Neurological exam shows unequal, reactive pupils\n(L>R) but otherwise, nonfocal exam. Noncontrast head ct showed a\n3 cm left temporal bleed with mild surrounding vasogenic edema\nand localized mass effect, but no midline shift and basal\ncisterns intact. Etiology for bleed unlikely to be hypertensive\ngiven location and only mildly elevated BP at OSH. Underlying\nstructural lesion is possible, especially since there appears to\nbe prominent vasculature on CTA. Venous thrombosis was also\nconsidered.\n.\n#Left Temporoparietal Intraparenchymal Hemorrhage: The patient\nunderwent and MRI/MRV to further delineate an underlying\nmass/lession (see full report above). There was no evidence of\nvenous sinus thrombosis or mass, and the previously identified\nbleed was deemed stable. Our colleagues in Neurosurgery were\nconsulted and a cerebral angiogram was performed but did not\nidentify any pertinent vascular abnormalities. The patient due\nto initial presentation of seizure (likely secondary to\ntemporoparietal bleed) was placed on Keppra 1000mg [**Hospital1 **] without\nany notable seizure events. He will continue this as an\noutpatient. The patient had his stroke risk factors evaluated,\nHBA1c WNL, and LDL of 136. He did not require starting of a\nstatin as this has been shown to increase the risk of bleeding.\nThe patient did have noticeable memory deficits on cognitive\nevaluation with occupational therapy. It has been recommended to\nthe patient to schedule an appointment with Dr. [**First Name (STitle) **]\n(behavioral Neurology) in order to receive a full cognitive\nevaluation prior to returning to work. As to the etiology of the\nstroke, it is possible that is HTN related although the location\nis not necessarily specific for this. Patient will have a follow\nup MRI in about one month, and follow-up with Neurosurgery and\nNeurology to help delineate if there is another underlying\nlesion that was not identified on current studies.\n\n#ETOH: Per report from wife patient had been drinking up to 18\nbeers/day. Patient was placed on CIWA while in the unit and\nreceived only minimal doses. He clinically did not go into\nwithdrawl. The CIWA was kept upon transfer to the floor but he\ndid not require any BZD's. LFT's were WNL, with no transminitis,\nand liver synthetic function was normal. Patient was given\nthiamine, folic acid, and multivitamin while in the hospital.\n\n#HTN: Patient initially had goal SBP<160 with PRN hydralazine.\nHe was on lotrel (5 amlodipine, 40 benezepril) at home. He had\nthis restarted upon arrival to the floor and acheived good\ncontrol with this. He will continue his home Lotrel as he\nreceived\n\n#Tobacco Use: Patient has been a lifelong smoker. We discussed\nthat this was a risk factor for stroke. He was given a nicotine\npatch while in hospital. He will discuss cessation options\n(including welbutrin or chantix) with his PCP. [**Name10 (NameIs) **] was given\na prescription for nicotine patches.\n\n# Social issues: The patient's wife was uncomfortable coping\nbefore baseling and more worried after her husband's stroke.\nSocial work was consulted and helped provide resources to Mr.\n[**Known lastname 110267**] regarding alcohol cessation, in addition the patient's\nwife was given support resources as well.\n\nTRANSITIONAL ISSUES:\n1) Continue Keppra until follow up with Neurology (Dr. [**Last Name (STitle) **]\n2) Repeat MRI in about 1 month, f/u with Nsurg\n3) Continued monitoring of blood pressure control per PCP\n4) Discussion of continued tobacco cessation with PCP\n\nMedications on Admission:\nLotrel (almodipine 5, benzepril 40)\n\nDischarge Medications:\n1. levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2\ntimes a day).\nDisp:*120 Tablet(s)* Refills:*0*\n2. amlodipine-benazepril 5-40 mg Capsule Sig: One (1) Capsule PO\nonce a day.\n3. nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr\nTransdermal DAILY (Daily) as needed for nicotine withdrawal:\napply when you feel the craving for cigarette. DO NOT SMOKE with\npatch.\nDisp:*60 Patch 24 hr(s)* Refills:*0*\n4. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q8H (every\n8 hours) as needed for pain: do not take more than 4000mg in 24\nhours. .\nDisp:*60 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPrimary Diagnosis: Left Temporal Intraparenchymal Hemorrhage\nSecondary Diagnosis: Hypertension, Tobacco Use\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDear Mr. [**Known lastname 110267**],\n\nIt was a pleasure taking care of you at [**Hospital1 18**]. You were sent to\nthe hospital after having had a seizure and a terrible headache.\nYou were admitted to the Neurology service, and a scan was\nperformed of your head that showed a bleed in the left side of\nyour brain. While it is still unclear exactly what caused the\nbleed, the most likely cause is your high blood pressure. You\nhad a study of your blood vessels of the brain which was\nreassuring, but did not help to reveal a potential cause for the\nbleed in your brain.\n\nYour seizure that you had was most likely due to the bleed in\nthe brain. For this reason we are starting you on an\nanti-seizure medication known as Keppra. You will need to\ncontinue this until your follow up with the Neurology team (Dr.\n[**Last Name (STitle) **]. Please see below for your scheduled appointment.\n\nBecause you had a seizure, it will be important that you DO NOT\ndrive for the next 6 months. In addition to this please avoid\ndangerous activities such as climbing. Also, do not take baths\nor swim as you are at an increased risk for drowning if you were\nto have a seizure.\n\nIn addition, we discussed with you the risk factors for your\nbleed in the brain. There are several things you can do to\nreduce your risk of stroke. You should continue to take your\nblood pressure medication,  and reduce your sodium intake to\nhelp control your blood pressure. In addition, smoking is a\nlarge risk factor for having a stroke, and if you were to quit\nit would greatly reduce your risk. For this reason we are\npresribing you a patch known as the nicotine patch to help you\nfight off the craving. DO NOT smoke while you have the nicotine\npatch in place. There are other medications as well that can be\nused to help you quit smoking (bupropion and welbutrin), you\nshould discuss this with your primary care provider. [**Name10 (NameIs) **],\nsometimes heavy drinking of alcohol can cause problems with your\nblood clotting. The Social Work team has provided you options\nabout certain programs that can help you with your alcohol\nintake.\n\nSocial work has also provided you with information on programs\nto help with your alcohol use, in addition, for your wife to\nhave support as well.\n\nAlso, due to the location of your bleed you were noted to have\nissues associated with your memory. You were seen by\nOccupational Therapy who has recommended a full neurocognitive\nevaluation before you return to work. Please call to setup an\nappointment with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], the contact information\nwill be provided below.\n\nAlso, the Neurosurgery team would like for you to follow-up and\nget a repeat scan of your head in a month. Please see below.\n\nWe made the following changes to your medications:\nSTART Keppra 1000mg take one tablet by mouth twice daily\n(continue to take this until your follow-up with Dr. [**Last Name (STitle) **]\nSTART Tylenol (Acetaminophen) take one to two 500mg tablets\nevery 8 hours as needed for headache\nSTART Nicotine Patch (transdermal) 14mg apply once every 24\nhours as needed for cigarette craving\n\nFollowup Instructions:\nYou will need to follow-up with your primary care provider [**Last Name (NamePattern4) **]\n[**12-2**] weeks. Please call Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on Monday [**3-23**] to\nsetup an appointment. You should discuss your smoking cessation\nand your blood pressure medication. The phone number is\n[**Telephone/Fax (1) 39454**].\n\nYou need to follow up with Dr. [**First Name (STitle) **] from Neurosurgery in 1\nmonth. You will need an MRI/MRA prior to this appt. Appt can be\nmade by calling [**Telephone/Fax (1) 1669**].\n\nYou will need a formal neuro-cogntive evaluation to evaluate for\nyour safety to return to work. Please call to setup an\nappointment with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at ([**Telephone/Fax (1) 1703**].\n\nDepartment: NEUROLOGY\nWhen: WEDNESDAY [**2144-5-13**] at 2:00 PM\nWith: [**Name6 (MD) 4267**] [**Last Name (NamePattern4) 4268**], MD, PHD [**Telephone/Fax (1) 657**]\nBuilding: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 858**]\nCampus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage\n\n\n                             [**First Name8 (NamePattern2) **] [**Name8 (MD) 162**] MD [**MD Number(2) 2575**]\n\n"
+    }
+  ]
+}

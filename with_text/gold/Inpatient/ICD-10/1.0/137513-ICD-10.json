@@ -1,0 +1,85 @@
+{
+  "hadm_id": 137513,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 34947,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 616,
+          "end": 625,
+          "code": "Z68.42",
+          "code_system": "ICD-10-CM",
+          "description": "Body mass index [BMI] 45.0-49.9, adult",
+          "type": "Human",
+          "covered_text": "BMI of 49"
+        },
+        {
+          "begin": 1014,
+          "end": 1026,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "dyslipidemia"
+        },
+        {
+          "begin": 1056,
+          "end": 1064,
+          "code": "G43.909",
+          "code_system": "ICD-10-CM",
+          "description": "Migraine, unspecified, not intractable, without status migrainosus",
+          "type": "Human",
+          "covered_text": "migraine"
+        },
+        {
+          "begin": 1076,
+          "end": 1080,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 4288,
+          "end": 4290,
+          "code": "I26.90",
+          "code_system": "ICD-10-CM",
+          "description": "Septic pulmonary embolism without acute cor pulmonale",
+          "type": "Human",
+          "covered_text": "PE"
+        },
+        {
+          "begin": 6289,
+          "end": 6296,
+          "code": "E66.01",
+          "code_system": "ICD-10-CM",
+          "description": "Morbid (severe) obesity due to excess calories",
+          "type": "Human",
+          "covered_text": "Obesity"
+        }
+      ],
+      "text": "Admission Date:  [**2133-3-3**]              Discharge Date:   [**2133-3-12**]\n\nDate of Birth:  [**2089-4-15**]             Sex:   F\n\nService: SURGERY\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 301**]\nChief Complaint:\nPatient admitted for weight reduction surgery.\n\nMajor Surgical or Invasive Procedure:\nStatus Post Laparoscopic Gastric Bypass\n\nHistory of Present Illness:\n[**Known firstname **] has class III morbid obesity with weight of 290.1 lbs as\nof [**2132-10-15**] (her initial screen weight on [**2132-10-6**] was 286.9\nlbs),\nheight of 64.5 inches and BMI of 49. Her previous weight loss\nefforts have included 2 months of the [**Doctor Last Name 1729**] diet in [**2127**] and\n[**2129**] losing 20 lbs, 4 months of prescription weight loss\nmedication Phentermine in [**2122**]-[**2123**] losing 47 lbs that she\nregained after stopping medication in one year and 3 months of\nPondimin (Fenfluramine) in [**2112**] losing 20 lbs.\n\nPast Medical History:\ndyslipidemia, urinary stressincontinence, migraine headaches,\nGERD, gallbladder disease and b/l knee and low back pain\n\nSocial History:\nShe denied tobacco and recreational drug usage, has one bottle\nof wine cooler twice a month and drinks 5-7 cups of coffee a\nday.  She works as a manager for\n[**Company 33655**] insurance company. She is married living with her\nhusband age 43 and they have 3 children ages 12, 17 and 20 years\nold.\n\n\nFamily History:\nHer family history is\nnoted for both parents living father age 74 with obesity; mother\nin her 70s with cancer; aunt living in her 70s with diabetes and\ngrandmother deceased with diabetes.\n\nPhysical Exam:\nHer blood pressure was 134/90, pulse 98 and O2 saturation 98%\nroom air. On physical examination [**Known firstname **] was casually dressed,\nslightly anxious but in no distress. Skin was warm, moist, no\nrashes. Sclerae were anicteric, conjunctiva clear, pupils were\nequal round and reactive to light, fundi were normal, mucous\nmembranes were moist, tongue pink and the oropharynx was without\nexudates or hyperemia. Trachea was in the midline and the neck\nwas supple without adenopathy, thyromegaly or carotid bruits.\nChest was symmetric and the lungs were clear to auscultation\nbilaterally with good air movement. Cardiac exam was regular\nrate\nand rhythm, normal S1 and S2, no murmurs, rubs or gallops. The\nabdomen was obese but soft and non-tender, non-distended with\nnormal bowel sounds, no masses, healed trocar scars, no hernias.\nThere was no spinal tenderness or flank pain. Lower extremities\nwere without edema, venous insufficiency or clubbing. There was\nno joint swelling or joint inflammation. There were no focal\nneurological deficits.\n\n\nPertinent Results:\n[**2133-3-5**] 10:21PM BLOOD PTT-38.4*\n[**2133-3-6**] 04:10AM BLOOD WBC-13.8*# RBC-3.83* Hgb-11.8* Hct-32.8*\nMCV-86 MCH-30.7 MCHC-35.8* RDW-13.9 Plt Ct-224\n[**2133-3-6**] 04:10AM BLOOD Glucose-108* UreaN-7 Creat-0.6 Na-136\nK-3.5 Cl-101 HCO3-25 AnGap-14\n[**2133-3-5**] 01:42AM BLOOD Type-ART pO2-45* pCO2-34* pH-7.47*\ncalTCO2-25 Base XS-1 Intubat-NOT INTUBA Comment-COLLECTION\n[**2133-3-5**] 01:42AM BLOOD freeCa-1.10*\n\n[**2133-3-5**] CTA of Chest\nMassive PE, including a saddle embolus, occluding right main\npulmonary artery\nand multiple lobar, segmental and subsegmental right sided\nemboli. Evidence\nof right ventricular strain; right main pulmonary artery is\nprogressively\ndilated on delayed scan.\n\n[**2133-3-6**] Lower extremity Ultrasound\nCompressible but echogenic left greater saphenous and common\nfemoral veins\nwith possible slight decrease of variability in the common\nfemoral veins\n(compared with the right) is compatible with a more proximal\npartially-occlusive thrombus.\n\n\nBrief Hospital Course:\nPatient admitted and underwent a laparoscopic gastric bypass on\n[**2133-3-3**]. Postoperatively patient developed tachycardia and\nintermittent drops in oxygen saturation. On postoperative day\none she underwent an upper gi study that confirmed no leak or\nobstruction. A chest x-ray showed lung volumes relatively low,\na heart that is moderately enlarged, but no signs of\noverhydration was seen and\nModerate retrocardiac atelectasis, but no evidence of pneumonia,\nno pneumothorax. Patient was then given CT scan of chest. This\nconfirmed a Massive PE, including a saddle embolus, occluding\nright main pulmonary artery and multiple lobar, segmental and\nsubsegmental right sided emboli. Patient was immediately started\non a heparin gtt and transfered to the intensive care unit for\nclose monitoring.\n\nOn postoperative day 3 patient had an ultrasound of her lower\nextremities to rule out clot. This exam showed Compressible but\nechogenic left greater saphenous and common femoral veins with\npossible slight decrease of variability in the common femoral\nveins (compared with the right) is compatible with a more\nproximal\npartially-occlusive thrombus.\n\nVascular service consulted. Recommends that INR be maintained\nbetween 2.5 - 3. Coumadin to be continued for 6 months.\n\nOn Postoperative day 7 her heparin gtt was discontinued as her\nINR was 3.5.\n\nOn postoperative day 9 her INR was 3.6.\n\nWe will discharge her home on coumadin 2.5mg daily with follow\nup management by her primary care provider. [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] at\n[**Telephone/Fax (1) 60008**]. I have spoken with Dr. [**Last Name (STitle) **] regarding [**Hospital 228**]\nhospital course and follow up needs. Dr. [**Last Name (STitle) **] has agreed to\nsee [**Known firstname **] on Friday [**3-13**] and manage her coumadin regimen.\n\n[**Known firstname **] has been given information regarding coumadin and it's\nside effects. She will follow up with Dr. [**Last Name (STitle) **] in 2 weeks.\n\n\nMedications on Admission:\nMidol PRN cramps; Tylenol ES, Aleve and Advil for knee and back\npain PRN; daily MV with minerals and Vitamin D 1000 U QD\n\nDischarge Medications:\n1. Docusate Sodium 50 mg/5 mL Liquid Sig: Ten (10) ml PO BID (2\ntimes a day).\nDisp:*500 ml* Refills:*0*\n2. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs\nPO Q4H (every 4 hours) as needed for pain.\nDisp:*500 ml* Refills:*0*\n3. Zantac 15 mg/mL Syrup Sig: Ten (10) ml PO twice a day.\nDisp:*600 ml* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPrimary Diagnosis: Obesity\n\n\nDischarge Condition:\nStable\n\n\nDischarge Instructions:\nDischarge Instructions: Please call your surgeon or return to\nthe emergency department if you develop a fever greater than\n101.5, chest pain, shortness of breath, severe abdominal pain,\npain unrelieved by your pain medication, severe nausea or\nvomiting, severe abdominal bloating, inability to eat or drink,\nfoul smelling or colorful drainage from your incisions, redness\nor swelling around your incisions, or any other symptoms which\nare concerning to you.\n\nDiet: Stay on Stage III diet until your follow up appointment.\nDo not self advance\ndiet, do not drink out of a straw or chew gum.\n\nMedication Instructions:\nResume your home medications, CRUSH ALL PILLS.\nYou will be starting some new medications:\n1.  You are being discharged on medications to treat the pain\nfrom your operation. These medications will make you drowsy and\nimpair your ability to drive a motor vehicle or operate\nmachinery safely. You MUST refrain from such activities while\ntaking these medications.\n2. You should begin taking a chewable complete multivitamin with\nminerals. No gummy vitamins.\n3. You will be taking Zantac liquid 150 mg twice daily for one\nmonth. This medicine prevents gastric reflux.\n4. You should take a stool softener, Colace, twice daily for\nconstipation as needed, or until you resume a normal bowel\npattern.\n5. You must not use NSAIDS (non-steroidal anti-inflammatory\ndrugs) Examples are Ibuprofen, Motrin, Aleve, Nuprin and\nNaproxen. These agents will cause bleeding and ulcers in your\ndigestive system.\n\nActivity:\nNo heavy lifting of items [**9-17**] pounds for 6 weeks. You may\nresume moderate\nexercise at your discretion, no abdominal exercises.\n\nWound Care:\nYou may shower, no tub baths or swimming.\nIf there is clear drainage from your incisions, cover with\nclean, dry gauze.\nYour steri-strips will fall off on their own. Please remove any\nremaining strips 7-10 days after surgery.\nPlease call the doctor if you have increased pain, swelling,\nredness, or drainage from the incision sites.\n\n\nFollowup Instructions:\nProvider: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 18800**], RD Phone:[**Telephone/Fax (1) 305**]\nDate/Time:[**2133-3-18**] 3:30\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 304**], MD Phone:[**Telephone/Fax (1) 305**]\nDate/Time:[**2133-3-18**] 4:00\nProvider: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 18800**], RD Phone:[**Telephone/Fax (1) 305**]\nDate/Time:[**2133-4-24**] 9:00\n\n\n\nCompleted by:[**2133-3-12**]"
+    },
+    {
+      "note_id": 451263,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 3959,
+          "end": 3982,
+          "code": "G47.33",
+          "code_system": "ICD-10-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "Human",
+          "covered_text": "OBSTRUCTIVE SLEEP APNEA"
+        }
+      ],
+      "text": "TSICU\n   HPI:\n   Pt 2 days s/p gastric bypass with large saddle PE.  Pt had increasing\n   shortness of breath yesterday and increased work of breathing since\n   yesterday evening.  She also reports fatigue and mild cough - no\n   hemoptysis.  Pt denies chest pain, palpitations, leg swelling, or\n   history of clots.\n   Chief complaint:\n   PE s/p gastric bypass\n   PMHx:\n   PMH: dyslipidemia, urinary stress incontinence, migraine headaches,\n   GERD, gallbladder disease and b/l knee and low back pain\n   PSH: Lap chole\n   Current medications:\n   24 Hour Events:\n ULTRASOUND - At [**2133-3-6**] 09:00 AM\n   Bilateral Lower Extrems, ?embolism?\n   Post operative day:\n   [**3-8**] POD 5\n   24hr events: [**3-7**]: no surgical intervention by vasc.  Heme made nomogram\n   for heparin managagement.  diet advanced to stage3\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Infusions:\n   Heparin Sodium - 3,000 units/hour\n   Other ICU medications:\n   Heparin Sodium - [**2133-3-7**] 10:00 AM\n   Famotidine (Pepcid) - [**2133-3-7**] 08:07 PM\n   Other medications:\n   Flowsheet Data as of  [**2133-3-8**] 04:09 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**35**] a.m.\n   Tmax: 37.1\nC (98.7\n   T current: 36.7\nC (98.1\n   HR: 99 (97 - 122) bpm\n   BP: 121/68(81) {90/44(62) - 136/103(108)} mmHg\n   RR: 14 (12 - 26) insp/min\n   SPO2: 91%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                  1,835 mL\n                                                                    359 mL\n   PO:\n                                                                    550 mL\n                                                                    200 mL\n   Tube feeding:\n   IV Fluid:\n                                                                  1,285 mL\n                                                                    159 mL\n   Blood products:\n   Total out:\n                                                                  1,650 mL\n                                                                    950 mL\n   Urine:\n                                                                  1,550 mL\n                                                                    950 mL\n   NG:\n   Stool:\n   Drains:\n                                                                    100 mL\n   Balance:\n                                                                    185 mL\n                                                                   -591 mL\n   Respiratory support\n   O2 Delivery Device: None\n   SPO2: 91%\n   ABG: ///25/\n   Physical Examination\n   General Appearance: No acute distress\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present\n   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present)\n   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   Moves all extremities\n   Labs / Radiology\n   311 K/uL\n   10.0 g/dL\n   109 mg/dL\n   0.5 mg/dL\n   25 mEq/L\n   3.4 mEq/L\n   10 mg/dL\n   101 mEq/L\n   139 mEq/L\n   29.5 %\n   10.3 K/uL\n        [image002.jpg]\n                             [**2133-3-6**]  04:10 AM\n                             [**2133-3-7**]  05:25 AM\n                             [**2133-3-8**]  12:19 AM\n   WBC\n   13.8\n   11.5\n   10.3\n   Hct\n   32.8\n   30.2\n   29.5\n   Plt\n   [**Telephone/Fax (3) 6775**]\n   Creatinine\n   0.6\n   0.5\n   0.5\n   Glucose\n   108\n   119\n   109\n   Other labs: PT / PTT / INR:16.3/69.7/1.5, Ca:8.1 mg/dL, Mg:2.2 mg/dL,\n   PO4:2.9 mg/dL\n   Assessment and Plan\n   .H/O OBSTRUCTIVE SLEEP APNEA (OSA), PULMONARY EMBOLISM (PE), ACUTE\n   Assessment and Plan:  43 yo F with PE 3 days s/p gastric bypass\n   Neurologic: Dilaudid PCA for pain - controlled;\n   Cardiovascular: stable, no issues.\n   Pulmonary: nasal canula O2 weened.  Uses CPAP and O2 while sleeping.\n   Titrate hep gtt for PTT 60-80.  Vasc surgery says no indication for\n   embolectomy or IVC filter now.\n   Gastrointestinal / Abdomen: Stage 3 diet\n   Nutrition: Stage 3 diet\n   Renal: Good urine output. Cr stable\n   Hematology: Continue heparin drip goal PTT 60-80.  Heme c/s with\n   heparin nomogram in OMR for heparin gtt adjustments.  Coumadin held\n   until PTT therapeutic x24hrs.\n   Endocrine: RISS, RISS, glucose controlled\n   Infectious Disease: No sign of infection\n   Lines / Tubes / Drains: piv, JP\n   Wounds:\n   Imaging:\n   Fluids: KVO\n   Consults: Platinum surgery, Vascular, Heme\n   Billing Diagnosis: Other: PE\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   22 Gauge - [**2133-3-7**] 08:04 PM\n   Prophylaxis:\n   DVT:  (Systemic anticoagulation: Heparin drip)\n   Stress ulcer:\n   VAP bundle:\n   Comments:\n   Communication: ICU consent signed Comments:\n   Code status: Full code\n   Disposition: Transfer to floor\n   Total time spent: 21 minutes\n"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "hadm_id": 185789,
+  "comment": "CABG OP report not present- unablet to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 2041,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 335,
+          "end": 347,
+          "code": "4A023N7",
+          "code_system": "ICD-10-PCS",
+          "description": "Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "Cardiac cath"
+        },
+        {
+          "begin": 397,
+          "end": 460,
+          "code": "02100Z9",
+          "code_system": "ICD-10-PCS",
+          "description": "Bypass Coronary Artery, One Artery from Left Internal Mammary, Open Approach",
+          "type": "Human",
+          "covered_text": "Left internal mammary\nartery to left anterior descending artery"
+        },
+        {
+          "begin": 466,
+          "end": 540,
+          "code": "021109W",
+          "code_system": "ICD-10-PCS",
+          "description": "Bypass Coronary Artery, Two Arteries from Aorta with Autologous Venous Tissue, Open Approach",
+          "type": "Human",
+          "covered_text": "saphenous vein\ngrafts to obtuse marginal-1 and posterior descending artery"
+        },
+        {
+          "begin": 603,
+          "end": 615,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "hypertension"
+        },
+        {
+          "begin": 902,
+          "end": 932,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "severe coronary artery disease"
+        },
+        {
+          "begin": 1034,
+          "end": 1046,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1250,
+          "end": 1262,
+          "code": "Z87.891",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of nicotine dependence",
+          "type": "Human",
+          "covered_text": "quit smoking"
+        },
+        {
+          "begin": 5237,
+          "end": 5256,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial fibrillation"
+        },
+        {
+          "begin": 5937,
+          "end": 5995,
+          "code": "Z79.82",
+          "code_system": "ICD-10-CM",
+          "description": "Long term (current) use of aspirin",
+          "type": "Human",
+          "covered_text": "Aspirin 81 mg Tablet 1 (One) Tablet(s) by mouth once a day"
+        },
+        {
+          "begin": 7738,
+          "end": 7761,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 7822,
+          "end": 7850,
+          "code": "N40.0",
+          "code_system": "ICD-10-CM",
+          "description": "Benign prostatic hyperplasia without lower urinary tract symptoms",
+          "type": "Human",
+          "covered_text": "Benign prostatic hypertrophy"
+        },
+        {
+          "begin": 7851,
+          "end": 7866,
+          "code": "K50.90",
+          "code_system": "ICD-10-CM",
+          "description": "Crohn's disease, unspecified, without complications",
+          "type": "Human",
+          "covered_text": "Crohn's disease"
+        },
+        {
+          "begin": 7880,
+          "end": 7900,
+          "code": "H35.30",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified macular degeneration",
+          "type": "Human",
+          "covered_text": "Macular degeneration"
+        },
+        {
+          "begin": 7901,
+          "end": 7913,
+          "code": "M81.0",
+          "code_system": "ICD-10-CM",
+          "description": "Age-related osteoporosis without current pathological fracture",
+          "type": "Human",
+          "covered_text": "Osteoporosis"
+        },
+        {
+          "begin": 8028,
+          "end": 8062,
+          "code": "Z85.828",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of other malignant neoplasm of skin",
+          "type": "Human",
+          "covered_text": "Skin cancer excised from lower lip"
+        }
+      ],
+      "text": "Admission Date:  [**2166-2-6**]              Discharge Date:   [**2166-2-17**]\n\nDate of Birth:  [**2091-10-24**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 165**]\nChief Complaint:\nChest pain\n\nMajor Surgical or Invasive Procedure:\n[**2166-2-7**] Cardiac cath\n[**2166-2-12**] Coronary artery bypass graft x3: Left internal mammary\nartery to left anterior descending artery; and saphenous vein\ngrafts to obtuse marginal-1 and posterior descending artery\n\nHistory of Present Illness:\n74-year-old male with history of hypertension, accelerated\njunctional rhythm causing symptoms during exertion much improved\nfollowing aggressive blood pressure control,and Crohns disease\nthat presents after nuclear stress test today showed 3 mm ST\nsegment depression inferolaterally. He was admitted for cardiac\ncath which revealed severe coronary artery disease and is now\nreferred for surgery.\n\nPast Medical History:\nBenign prostatic hypertrophy\nCrohn's disease\nHypertension\nMacular degeneration\nOsteoporosis\nOsteoarthritis (back)\nBack surgery with rod (as teenager)\nBilateral rotator cuffs\nBilateral carpal tunnel release\nSkin cancer excised from lower lip\n\nSocial History:\nHe quit smoking in [**2132**].  He retired as a vice-president of a\nconstruction company.  He has been married for 29 years.  He has\nnot drunk any alcohol for the past 15 years or so. Lives with\nwife and daughter. [**Name (NI) **] Dental Exam: [**4-8**] mos. ago\n\nFamily History:\nMother had some type of cervical or perhaps bladder cancer.\nThere is no family history of colon cancer.  Father and one\nsister had a history of alcoholism.  His other sister is\notherwise well.  He has three healthy children ages 51, 45, and\n43 along with four grandchildren, all in good health.\n\nPhysical Exam:\nPulse: 56 Resp: 16 O2 sat: 100%RA\nB/P  Right:    Left: 129/57\nHeight:     Weight: 73.6kg\n\nGeneral: NAD, WGWN, appears stated age\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]\nExtremities: Warm [x], well-perfused [x]  Edema- none\nVaricosities: None [x]\nNeuro: Grossly intact\nPulses:\nFemoral      Right: 2+ **Mynx closure device** Left: 2+\nDP           Right: 1+  Left: 2+\nPT           [**Name (NI) 167**]: 2+  Left: 2+\nRadial       Right: 2+  Left: 2+\n\nCarotid Bruit        Right:    Left:\nno bruits\n\nPertinent Results:\n[**2166-2-6**] Nuclear perfusion: 1. Normal myocardial perfusion at the\nlevel of exercise achieved and in the setting of ischemic ECG\nchanges. EF of 63% at stress and 66% at rest.\n\n[**2166-2-7**] Cardiac cath: 1. Selective coronary angiography of this\nright dominant system revealed three vessel coronary artery\ndisease. The LMCA had a hazy distal 60-70% stenosis. The LAD and\nLCx were free of angiographically significant disease. The RCA\nhad serial 70% stenoses from its mid-portion to distal vesel.\n\n[**2166-2-10**] Carotid U/S: Plaque at the ostia of the internal carotid\narteries but no evidence of a hemodynamically significant\nstenosis. Flow in the vertebral arteries is prograde on both\nsides.\n\n[**2166-2-12**] Echo: Pre Bypass: The left atrium is normal in size. No\natrial septal defect is seen by 2D or color Doppler. Left\nventricular wall thicknesses and cavity size are normal. Right\nventricular chamber size and free wall motion are normal. There\nare simple atheroma in the descending thoracic aorta. The aortic\nvalve leaflets (3) appear structurally normal with good leaflet\nexcursion and no aortic regurgitation. The mitral valve appears\nstructurally normal with trivial mitral regurgitation. Trivial\nmitral regurgitation is seen. Post Bypass: Preserved\nbiventricular function, LVEF>55%. MR remains trace. No aortic\ndissection seen, though incidental note is made of shadowing in\nthe proximal aortic root near the right coronary cusp- can not\nexclude mass or throumbus, no luminal irregularities- discussed\nwith and shown to Dr. [**Last Name (STitle) **]. Remaining exam is\nunchanged, all findings discussed with surgeons at the time of\nthe exam.\n\nBrief Hospital Course:\nAs mentioned in the HPI, Mr. [**Known lastname 11165**] is a 74-year-old male with\nhistory of hypertension, accelerated junctional rhythm and\nCrohns disease that presents after abnormal nuclear stress test\nwith cardiac cath showing left main and RCA CAD. Patient\nunderwent usual pre-operative work-up for bypass surgery while\nreceiving appropriate medical management prior to surgery. On\n[**2-12**] he was brought to the operating room where he underwent a\ncoronary artery bypass graft x 3. Please see operative for\nsurgical details. Following surgery he was transferred to the\nCVICU for invasive monitoring in stable condition. Later that\nday he was weaned from sedation, awoke neurologically intact and\nextubated. On post-op day one beta-blockers and diuretics were\nstarted and he was gently diuresed towards his pre-op weight.\nLater on this day he was transferred to the step-down unit for\nfurther care. Chest tubes and epicardial pacing wires were\nremoved per protocol. On post-op day two he had an episode of\natrial fibrillation which was treated with Amiodarone and\nLopressor with conversion back to sinus rhythm. He otherwise\nmade good recovery while working with physical therapy for\nstrength and mobility. On post-op day five he was discharged\nhome with the appropriate medications and follow-up\nappointments.\n\nMedications on Admission:\nAlendronate 70 mg Tablet 1 Tablet(s) by mouth weekly (Sat)\nChlorthalidone 12.5 mg Tablet daily\nFolic acid 1 mg Tablet by mouth daily\nHydrocortisone 100 mg/60 mL enema rectally every third night\n(Patient takes about every ten days, last time on [**2166-2-5**])\nLisinopril 40 mg Tablet 1 Tablet(s) by mouth daily\nTerazosin 5 mg Capsule  1 Capsule(s) by mouth at bedtime\nAspirin 81 mg Tablet 1 (One) Tablet(s) by mouth once a day\nBifidobacterium infantis [Align]\nCalcium citrate-vitamin D3 [Citracal + D]\nMultivitamin\nStudy medication for macular degeneration at [**Hospital1 2025**] (unknown\nformulation)\n\nDischarge Medications:\n1. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:\nOne (1) Tablet, ER Particles/Crystals PO Q12H (every 12 hours).\nDisp:*10 Tablet, ER Particles/Crystals(s)* Refills:*0*\n2. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)\nfor 10 days.\nDisp:*10 Tablet(s)* Refills:*0*\n3. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\nDisp:*60 Tablet(s)* Refills:*2*\n4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*60 Capsule(s)* Refills:*2*\n5. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\nDisp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*\n6. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ4H (every 4 hours) as needed for pain.\nDisp:*45 Tablet(s)* Refills:*0*\n7. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*60 Tablet(s)* Refills:*2*\n8. alendronate 70 mg Tablet Sig: One (1) Tablet PO QSAT (every\nSaturday).\nDisp:*8 Tablet(s)* Refills:*2*\n9. terazosin 5 mg Capsule Sig: One (1) Capsule PO HS (at\nbedtime).\nDisp:*30 Capsule(s)* Refills:*2*\n10. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\nDisp:*60 Tablet(s)* Refills:*2*\n11. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\nDisp:*60 Tablet(s)* Refills:*2*\n12. multivitamin     Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*60 Tablet(s)* Refills:*2*\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital 2255**] [**Name (NI) 2256**]\n\nDischarge Diagnosis:\nCoronary artery disease s/p Coronary artery bypass graft x 3\n\nPast medical history:\nBenign prostatic hypertrophy\nCrohn's disease\nHypertension\nMacular degeneration\nOsteoporosis\nOsteoarthritis (back)\nBack surgery with rod (as teenager)\nBilateral rotator cuffs\nBilateral carpal tunnel release\nSkin cancer excised from lower lip\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Right/Left - healing well, no erythema or drainage.\nEdema\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\nFemales: Please wear bra to reduce pulling on incision, avoid\nrubbing on lower edge\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**First Name (STitle) **] on [**3-3**] at 1:30PM\nCardiologist: Dr. [**Last Name (STitle) 1911**] [**2-27**] at 3:30PM\n[**Hospital Ward Name 121**] 6 wound check on Tuesday [**2166-2-25**] at 11am with Midlevel #\n[**Telephone/Fax (1) 3071**]\n\nPlease call to schedule appointments with your\nPrimary Care Dr. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) **] in [**4-8**] weeks\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]\n\nCompleted by:[**2166-2-17**]"
+    }
+  ]
+}

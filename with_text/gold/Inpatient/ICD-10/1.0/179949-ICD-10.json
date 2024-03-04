@@ -1,0 +1,175 @@
+{
+  "hadm_id": 179949,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1223808,
+      "category": "Radiology",
+      "description": "CT ABD & PELVIS W & W/O CONTRAST, ADDL SECTIONS",
+      "annotations": [
+        {
+          "begin": 784,
+          "end": 804,
+          "code": "K86.1",
+          "code_system": "ICD-10-CM",
+          "description": "Other chronic pancreatitis",
+          "type": "Human",
+          "covered_text": "chronic pancreatitis"
+        }
+      ],
+      "text": "[**2131-2-10**] 3:37 PM\n CT ABD & PELVIS W & W/O CONTRAST, ADDL SECTIONS                 Clip # [**Clip Number (Radiology) 68072**]\n Reason: ? acute process; ct abdomen/pelvis w/ and w/o PO and IV cont\n Admitting Diagnosis: DIABETIC KETOACIDOSIS\n  Contrast: OPTIRAY Amt: 100\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  40 year old woman with chronic pancreatitis s/p whipple p/w abd pain\n REASON FOR THIS EXAMINATION:\n  ? acute process; ct abdomen/pelvis w/ and w/o PO and IV contrast.\n No contraindications for IV contrast\n ______________________________________________________________________________\n                                 FINAL REPORT\n HISTORY:  40-year-old female presenting with a history of chronic pancreatitis\n status post a Whipple procedure, now presenting with abdominal pain.  Please\n evaluate for an acute process.\n\n COMPARISON:  CT scan from [**2130-8-30**].\n\n TECHNIQUE:  Contiguous axial images were obtained through the abdomen and\n pelvis before and after the injection of IV contrast.  In addition, enteric\n contrast was administered.  Coronal and sagittal reformatted images were also\n available for review.  Total exam DLP is 606.27.\n\n FINDINGS:  The visualized lower lungs reveal mild bibasilar atelectasis.\n\n Since the prior examination, the gallbladder, distal pancreas, and spleen have\n been removed.  The liver enhances homogeneously without focal mass.  The\n common bile duct measures up to 7.5 mm, presumably related to the recent\n surgery.  As on the prior examination, there are at least three walled off\n collections in the pancreas that probably represent hematomas and are slightly\n smaller from prior exam.  The pancreatic duct is normal.  The remaining\n pancreas is atrophic without calcifications.\n\n Multiple hypodensities are seen in both kidneys that are too small to\n adequately characterize but likely represent cysts.  The largest is in the\n upper pole of the left kidney and measures up to 1 cm.  The kidneys otherwise\n enhance symmetrically with symmetric excretion of contrast.  No adrenal nodule\n is identified.\n\n There is a Foley catheter in a mildly distended bladder.  Air within the\n bladder lumen is presumably iatrogenic from Foley catheter placement.\n Multiple fluid-filled structures posterior to the uterine body are more\n apparent on the current examination.  The largest measures up to 3.4 x 2.8 cm.\n These likely are related to the patient's ovaries representing ovarian cysts.\n There is some free fluid in the pelvis.\n\n Oral contrast is seen extending to the hepatic flexure.  There is a\n jejunostomy tube extending into a small bowel loop through the left anterior\n abdominal wall.  There is a 4 x 1.2 cm well circumscribed indurated fat\n structure along the left lateral aspect of the omentum consistent with an\n omental infarct.\n\n                                                             (Over)\n\n [**2131-2-10**] 3:37 PM\n CT ABD & PELVIS W & W/O CONTRAST, ADDL SECTIONS                 Clip # [**Clip Number (Radiology) 68072**]\n Reason: ? acute process; ct abdomen/pelvis w/ and w/o PO and IV cont\n Admitting Diagnosis: DIABETIC KETOACIDOSIS\n  Contrast: OPTIRAY Amt: 100\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n The portal vein and SMV are patent.  The splenic vein is no longer visualized,\n presumably secondary to the recent surgery.  The celiac axis, SMA, and renal\n arteries are patent.  There is a venous catheter with its tip in the left\n external iliac vein.\n\n No osseous abnormalities are identified.\n\n IMPRESSION:\n 1.  Omental infarct along the left lateral aspect of the abdomen.  Clinically\n correlate with the patient's pain.\n\n 2.  The patient is status post distal pancreatectomy, splenectomy, and\n cholecystectomy.\n\n 3.  At least three walled off collections are again seen in the pancreas which\n probably represent chronic hematomas and are slightly smaller.  No evidence\n for chronic pancreatitis.\n\n 4.  Mild dilation of the common bile duct.  MRCP may be performed to further\n evaluate.\n\n These findings were discussed with Dr. [**Last Name (STitle) 9217**] via telephone by Dr. [**Last Name (STitle) 874**] on\n [**2131-2-10**].\n\n"
+    },
+    {
+      "note_id": 4950,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 564,
+          "end": 574,
+          "code": "E11.10",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with ketoacidosis without coma",
+          "type": "Human",
+          "covered_text": ",type 2 DM"
+        },
+        {
+          "begin": 1968,
+          "end": 1989,
+          "code": "G43.819",
+          "code_system": "ICD-10-CM",
+          "description": "Other migraine, intractable, without status migrainosus",
+          "type": "Human",
+          "covered_text": "Intractable migraines"
+        },
+        {
+          "begin": 2163,
+          "end": 2224,
+          "code": "G90.50",
+          "code_system": "ICD-10-CM",
+          "description": "Complex regional pain syndrome I, unspecified",
+          "type": "Human",
+          "covered_text": "Chronic pain due to reflex sympathetic dystrophy secondary to"
+        },
+        {
+          "begin": 2286,
+          "end": 2298,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 2302,
+          "end": 2309,
+          "code": "E66.9",
+          "code_system": "ICD-10-CM",
+          "description": "Obesity, unspecified",
+          "type": "Human",
+          "covered_text": "Obesity"
+        },
+        {
+          "begin": 2351,
+          "end": 2361,
+          "code": "G90.59",
+          "code_system": "ICD-10-CM",
+          "description": "Complex regional pain syndrome I of other specified site",
+          "type": "Human",
+          "covered_text": "right face"
+        },
+        {
+          "begin": 2366,
+          "end": 2387,
+          "code": "G90.51",
+          "code_system": "ICD-10-CM",
+          "description": "Complex regional pain syndrome I of upper limb",
+          "type": "Human",
+          "covered_text": "right\nupper extremity"
+        },
+        {
+          "begin": 2404,
+          "end": 2423,
+          "code": "H54.40",
+          "code_system": "ICD-10-CM",
+          "description": "Blindness, one eye, unspecified eye",
+          "type": "Human",
+          "covered_text": "Right eye blindness"
+        },
+        {
+          "begin": 2460,
+          "end": 2463,
+          "code": "K27.9",
+          "code_system": "ICD-10-CM",
+          "description": "Peptic ulcer, site unspecified, unspecified as acute or chronic, without hemorrhage or perforation",
+          "type": "Human",
+          "covered_text": "PUD"
+        },
+        {
+          "begin": 2468,
+          "end": 2488,
+          "code": "M06.9",
+          "code_system": "ICD-10-CM",
+          "description": "Rheumatoid arthritis, unspecified",
+          "type": "Human",
+          "covered_text": "Rheumatoid Arthritis"
+        },
+        {
+          "begin": 2493,
+          "end": 2513,
+          "code": "E55.9",
+          "code_system": "ICD-10-CM",
+          "description": "Vitamin D deficiency, unspecified",
+          "type": "Human",
+          "covered_text": "Vitamin D deficiency"
+        },
+        {
+          "begin": 6530,
+          "end": 6551,
+          "code": "E11.10",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with ketoacidosis without coma",
+          "type": "Human",
+          "covered_text": "Diabetic ketoacidosis"
+        },
+        {
+          "begin": 7335,
+          "end": 7347,
+          "code": "K85.90",
+          "code_system": "ICD-10-CM",
+          "description": "Acute pancreatitis without necrosis or infection, unspecified",
+          "type": "Human",
+          "covered_text": "Pancreatitis"
+        },
+        {
+          "begin": 8026,
+          "end": 8039,
+          "code": "E11.65",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus with hyperglycemia",
+          "type": "Human",
+          "covered_text": "Hyperglycemia"
+        },
+        {
+          "begin": 8355,
+          "end": 8368,
+          "code": "D72.829",
+          "code_system": "ICD-10-CM",
+          "description": "Elevated white blood cell count, unspecified",
+          "type": "Human",
+          "covered_text": "Leukocytosis:"
+        },
+        {
+          "begin": 8674,
+          "end": 8686,
+          "code": "G89.29",
+          "code_system": "ICD-10-CM",
+          "description": "Other chronic pain",
+          "type": "Human",
+          "covered_text": "Chronic pain"
+        }
+      ],
+      "text": "Admission Date:  [**2131-2-8**]              Discharge Date:   [**2131-2-16**]\n\nDate of Birth:  [**2091-2-1**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nSulfa (Sulfonamide Antibiotics) / Compazine / Penicillins /\nCipro Cystitis / Zostrix / Prednisone / Bactrim / picc dressing\n/ lisinopril\n\nAttending:[**Doctor First Name 3298**]\nChief Complaint:\nnausea/vomiting\n\n\nMajor Surgical or Invasive Procedure:\nleft femoral central line placement\n\nHistory of Present Illness:\n40yo F with history of distal pancreatectomy on [**2130-12-8**], on\nchronic tube feeds,type 2 DM, who presents with 3 days of\nnausea, bilious vomiting and abdominal pain. Her abdominal pain\nis minimal, located diffusely, present for 3 days, constant\n[**11-7**], worsened with food intake. Her vomitus is green with few\nspecks of red in her last vomiting episode earlier today , she\ndenies any frank hematemesis, melena, hematochezia,\ndiarrhea.Last BM was normal yesterday, brown and formed. She at\ntimes feels sleepy, but denies confusion.\n\nIn the ED, initial VS were: 96.1 128 136/92 16 . She was found\nto have elevated blood glucose and in DKA. Started on Insulin\ndrip and IV fluids.She also recieved 4 mg IV dilaudid, 8 mg IV\nMorphine for abdominal pain and IV/p.o Zofran, compazine, for\nnausea.For her leukocytosis she was given Vancomycin and\nMeropenem.She recieved 4 Liters of NS and one liter of 1/2NS.\nShe was given calcium gluconate for questionable T waves.\n\nOn arrival to the MICU, her vitals are pulse 122, 99% RA,\nBP-120/95. The above hx was obtained and she was oriented X 3.\n\nReview of systems:\n(+) Per HPI\n(-) Denies fever, chills, night sweats, recent weight loss or\ngain. Denies headache, sinus tenderness, rhinorrhea or\ncongestion. Denies cough, shortness of breath, or wheezing.\nDenies chest pain, chest pressure, palpitations, or weakness.\nDenies dysuria, frequency, or urgency. Denies arthralgias or\nmyalgias. Denies rashes or skin changes.\n\n\nPast Medical History:\n1. Intractable migraines with muscle spasm and neuralgia, and\nstatus migrainous, currently treated with trigger point\ninjections, plans to try botox if approved\n-first headaches [**2124-10-20**]\n2. Chronic pain due to reflex sympathetic dystrophy secondary to\n\nbeing hit by a car at age 15\n3. Type 2 Diabetes Mellitus\n4. Hypertension\n5. Obesity\n6. Complex Regional Pain Syndrome of the right face and right\nupper extremity on methadone\n7. Right eye blindness\n8. Left pupil dysfunction - ADIE\n9. PUD\n10. Rheumatoid Arthritis\n11. Vitamin D deficiency\n12. abnormal LFT's - no response to Hep B vaccines x3\n[**32**]. Pancreatitis: complicated by necrotizing pancratitis [**5-/2130**]\nw/ multiple admissions for abdominal pain\n\n\nSocial History:\nDenies tobacco, previously drank socially (3 drinks per night\nper some reports but per her report she drank no more than one\ndrink per day for many years, no alcohol for months.) Denies\ndrug use. Lives with boyfriend, unemployed since [**2129-9-28**].\n\n\nFamily History:\nFather and sister with HTN. Family history of CAD. No family\nhistory of CVA or headache.\n\nPhysical Exam:\nAdmission exam:\nVitals:pulse 122, 99% RA, BP-120/95.\nGeneral: Alert, oriented, no acute distress, sleepy at times but\nwakes up to verbal stimuli\nHEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL\nNeck: supple, JVP not elevated, no LAD\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nAbdomen: soft, diffusley tender, no rebound, no guarding, BS +,\nnon-distended, bowel sounds present, no organomegaly\nGU:  foley placed\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: CNII-XII intact, 5/5 strength upper/lower extremities,\ngrossly normal sensation, 2+ reflexes bilaterally, gait\ndeferred, finger-to-nose intact. Oriented X 3, with poor\nattention not able to say days of week backward.\n\nDischarge exam:\nT 97.5, 98/50, 78, 18, 98% on RA\nGeneral: Alert, oriented, covering her eyes with her arm, but in\nno acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated\nCV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nronchi\nAbdomen: very soft, diffuse mild tenderness, no rebound, no\nguarding, BS +, non-distended, bowel sounds present, no\norganomegaly\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: left pupil dysfunction (at baseline), CNIII-XII intact,\n5/5 strength upper/lower extremities\n\nPertinent Results:\n[**2131-2-8**] URINE CULTURE:\nGRAM POSITIVE BACTERIA.    10,000-100,000 ORGANISMS/ML..\nAlpha hemolytic colonies consistent with alpha streptococcus or\nLactobacillus sp.\n\n[**2131-2-9**] Urine Culture: No growth.\n\nCT Abdomen/Pelvis:\nIMPRESSION:\n1. Omental infarct along the left lateral aspect of the abdomen.\nClinically correlate with the patient's pain.\n2. The patient is status post distal pancreatectomy,\nsplenectomy, and\ncholecystectomy.\n3. At least three walled off collections are again seen in the\npancreas which probably represent chronic hematomas and are\nslightly smaller. No evidence for chronic pancreatitis.\n4. Mild dilation of the common bile duct. MRCP may be performed\nto further evaluate.\n\nAdmission [**Month/Day/Year **]:\n[**2131-2-8**] 01:30PM BLOOD WBC-34.0*# RBC-5.05 Hgb-11.0* Hct-40.9#\nMCV-81*# MCH-21.8* MCHC-27.0* RDW-17.5* Plt Ct-634*\n[**2131-2-8**] 01:30PM BLOOD Glucose-965* UreaN-34* Creat-1.5* Na-140\nK-5.6* Cl-101 HCO3-8* AnGap-37*\n[**2131-2-8**] 01:30PM BLOOD ALT-26 AST-33 AlkPhos-216*\n[**2131-2-8**] 01:30PM BLOOD Lipase-913*\n[**2131-2-8**] 01:30PM BLOOD Albumin-4.9 Calcium-9.6 Phos-5.5* Mg-2.6\n[**2131-2-8**] 04:25PM BLOOD Triglyc-189*\n[**2131-2-8**] 04:25PM BLOOD Osmolal-359*\n[**2131-2-8**] 09:04PM BLOOD Type-[**Last Name (un) **] pO2-68* pCO2-47* pH-7.30*\ncalTCO2-24 Base XS--3\n[**2131-2-8**] 01:54PM BLOOD Lactate-1.9\n\nDischarge [**Year/Month/Day **]:\n[**2131-2-13**] 09:06AM BLOOD WBC-13.7* RBC-4.03* Hgb-8.7* Hct-30.0*\nMCV-75* MCH-21.6* MCHC-29.0* RDW-17.6* Plt Ct-385\n[**2131-2-13**] 09:06AM BLOOD Glucose-351* UreaN-13 Creat-0.5 Na-139\nK-4.4 Cl-103 HCO3-26 AnGap-14\n[**2131-2-13**] 09:06AM BLOOD Calcium-9.2 Phos-5.1* Mg-1.8\n\nBrief Hospital Course:\nMs. [**Known lastname **] is a 40yo F with history of distal pancreatectomy on\n[**2130-12-8**], on chronic tube feeds, who presented with 1 day of\nnausea, blilious vomiting and abdominal pain.  Patient was found\nto have pancreatitis and diabetic ketoacidosis.\n\nACTIVE ISSUES:\n\n1. Diabetic ketoacidosis: In the ED, she was found to have\nelevated blood glucose to 900s and to be in DKA.  Her anion gap\nwas 31. She was started on an Insulin drip and IV fluids.  In\nthe ICU she was continued on the insulin drip and her anion gap\nclosed within 12 hours.  She was ruled out for MI. No infectious\netiology of hyperglycemia was found (had urine culture with\n10,000-100,000 colonies of gram positive alpha hemolytic\ncolonies consistent with alpha streptococcus or Lactobacillus\nsp). Pt was not treated for UTI as it was felt that this was a\ncontaminant.  She denied insulin noncompliance or recent drug\nabuse. Mental status was stable and not obtunded  Anion gap\nclosed with insulin drip and IV fluids (8-10 liters). On\nhospital Day # 2 tolerated orals and was transitioned to SC\nInsulin.\n\n2. Pancreatitis: Patient was found to have elevated lipase to\n913 on admission and diffuse abdominal tenderness.  Surgery was\nconsulted and recommended CT scan, which did not any changes\nexcept for omental infarct in the left upper abdomen (nothing to\ndo for this as per surgery).  No surgical intervention was\nrecommended. Surgery followed patient throughout\nhospitalization.  She was able to tolerate a regular diet in\naddition to her tube feeds.\n\nPatient was controlled with IV morphine in the ICU.  When\npatient tolerated PO, her pain medication was changed to\noxycodone.  Patient was discharged with several days of\noxycodone as she continued to have some abdominal pain at\ndischarge.\n\n3. Hyperglycemia: When tube feeds were restarted, hyperglycemia\nwas a problem for patient.  [**Last Name (un) **] consulted. Glargine insulin\nwas increased from 12 [**Hospital1 **] to 34 [**Hospital1 **] at discharge.  Given tube\nfeeding, patient was changed from humalog insulin sliding scale\nto regular insulin sliding scale.\n\n4. Leukocytosis: Likely secondary to pancreatitis. No other\nlocalizing symptoms of infection.  Improved throughout admission\nand was 13 at last check prior to discharge.  Patient should\nhave her CBC checked next week at visit with her PCP.\n\nCHRONIC INACTIVE ISSUES:\n1. Hypertension: Normotensive. Continued clonidine.\n\n2. Chronic pain: Worse than typical pain in setting of acute\npancreatitis. Continued fentanyl patch, gabpentin, tizanidine.\nPatient received Oxycodone PRN for breakthrough pain.\n\nTRANSITIONAL ISSUES:\n1. Repeat CBC in one week as patient had elevated WBC count\nthroughout hospitalization.\n2. Patient instructed to track finger stick glucose and insulin\nrequirement.  She will bring this information to next [**Last Name (un) **]\nappointment.\n\nMedications on Admission:\nFentanyl patch 75 mcg q72 hours\nTizanidine 4 mg qhs\nNaratriptan 2.5 mg prn migraine\nlantus/humalog,\nclonidine 0.4 [**Hospital1 **]\nlorazepam 0.5 mg qhs,\npromethazine 12.5 q6h prn nausea,\ndoxepim 50 mg qhs\ngabapentin 800 [**Hospital1 **], 1600 qhs,\nzofran 4 mg daily\n\n\nDischarge Medications:\n1. fentanyl 75 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr\nTransdermal Q72H (every 72 hours).\n2. clonidine 0.2 mg Tablet Sig: Two (2) Tablet PO BID (2 times a\nday).\n3. tizanidine 2 mg Tablet Sig: Two (2) Tablet PO QHS (once a day\n(at bedtime)).\n4. naratriptan 2.5 mg Tablet Sig: One (1) Tablet PO As needed as\nneeded for migraine headache.\n5. gabapentin 400 mg Capsule Sig: Four (4) Capsule PO HS (at\nbedtime).\n6. Lantus 100 unit/mL Solution Sig: Thirty Four (34) units\nSubcutaneous twice a day.\nDisp:*20 mL* Refills:*2*\n7. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime.\n8. doxepin 25 mg Capsule Sig: Three (3) Capsule PO HS (at\nbedtime).\n9. gabapentin 800 mg Tablet Sig: As directed Tablet PO three\ntimes a day: Take 1100 mg in AM and afternoon, 1600 mg at\nbedtime.\n10. naratriptan 2.5 mg Tablet Sig: One (1) Tablet PO As needed\nas needed for headache.\n11. ondansetron 4 mg Film Sig: One (1)  PO every eight (8) hours\nas needed for nausea.\n12. promethazine 12.5 mg Tablet Sig: One (1) Tablet PO every six\n(6) hours as needed for nausea.\n13. tizanidine 4 mg Tablet Sig: Two (2) Tablet PO at bedtime:\nPlease take as directed by your PCP. .\n14. multivitamin  Oral\n15. Tube Feeds\nNUTRITIONAL SUPPLEMENT - FIBER [REPLETE/FIBER] -   Liquid - 90\ncc via tube feed per hour x 16 hours Please give 90cc/hr via\nj-tube with a pump for 16 hours daily.\n16. insulin regular human 100 unit/mL Solution Sig: As directed\nunits Injection QACHS: Please take subcutaneously as directed by\nsliding scale. Pt will use 14 - 26 units four times per day.\nDisp:*30 mL* Refills:*2*\n17. oxycodone 10 mg Tablet Sig: One (1) Tablet PO every six (6)\nhours as needed for pain: Do not drive while taking this\nmedication. .\nDisp:*15 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPRIMARY: Diabetic ketoacidosis, pancreatitis, hyperglycemai\nSECONDARY: Chronic abdominal pain, hypertension\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nIt was a pleasure to participate in your care Ms. [**Known lastname **]. You\nwere admitted to the hospital with pancreatitis and diabetic\nketoacidosis.  You were initially in the ICU and received an\ninsulin drip.  The diabetic ketoacidosis improved.  You were\nseen by the surgeons.  The pancreatitis improved.  You were\ntransferred to the medical floor and restarted tube feeds.  Your\nblood surgar was high so we increased your insulin.\n\nPlease check your fingerstick four times per day.  Please record\nthis information and bring it to your next appointment with your\n[**Last Name (un) **] doctor.\n\nPlease make the following changes to your medications:\n1. INCREASE lantus insulin to 34 units twice a day\n2. STOP humalog insulin\n3. START oxycodone 10 mg every 6 hours as needed for pain. This\nmedication may make you drowsy. Do not drive while taking this\nmedication.\n4. START regular insulin as per sliding scale\nBreakfast Lunch Dinner Bedtime\nRegular Regular Regular Regular\nGlucose  Breakfast  Lunch     Dinner     Bedtime\n71-80     mg/dL 2   Units 2   Units 2   Units 2   Units\n81-120   mg/dL 14   Units 14   Units 14   Units 14   Units\n121-160   mg/dL 18   Units 18   Units 18   Units 18   Units\n161-200   mg/dL 20   Units 20   Units 20   Units 20   Units\n201-240   mg/dL 22   Units 22   Units 22   Units 22   Units\n241-350   mg/dL 26   Units 26   Units 26   Units 26   Units\n\n\nFollowup Instructions:\nDepartment: [**State **]When: WEDNESDAY [**2131-2-21**] at 10:45 AM\nWith: [**Name6 (MD) **] [**Name8 (MD) 9862**], MD [**Telephone/Fax (1) 2205**]\nBuilding: [**State **] ([**Location (un) **], MA) [**Location (un) **]\nCampus: OFF CAMPUS     Best Parking: On Street Parking\n\nName: [**Last Name (LF) **], [**First Name3 (LF) 16244**] K. MD\nLocation: [**Last Name (un) **] DIABETES CENTER\nAddress: ONE [**Last Name (un) **] PLACE, [**Location (un) **],[**Numeric Identifier 718**]\nPhone: [**Telephone/Fax (1) 3402**]\nAppointment: TUESDAY [**3-6**] AT 9AM\n\n\n\n"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "hadm_id": 171431,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 595170,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 17,
+          "end": 47,
+          "code": "493.92",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, with acute exacerbation",
+          "type": "Human",
+          "covered_text": "Asthma With Acute Exacerbation"
+        }
+      ],
+      "text": "Chief Complaint: Asthma With Acute Exacerbation\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   24 Hour Events:\n   -Patient with continued negative fluid balance\n   -Asthma Rx optimized with decreased steroid dosing, optimized\n   beta-agonists\n   History obtained from [**Hospital 31**] Medical records\n   Allergies:\n   Codeine\n   Rash;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2196-10-10**] 11:00 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.2\nC (99\n   Tcurrent: 36.7\nC (98\n   HR: 79 (65 - 110) bpm\n   BP: 116/90(96) {94/37(57) - 129/90(96)} mmHg\n   RR: 22 (10 - 26) insp/min\n   SpO2: 95%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 130 kg (admission): 130 kg\n                  Total In:\n                                                                  1,540 mL\n                                                                  1,080 mL\n   PO:\n                                                                  1,540 mL\n                                                                  1,080 mL\n   TF:\n   IVF:\n   Blood products:\n   Total out:\n                                                                  3,600 mL\n                                                                  1,800 mL\n   Urine:\n                                                                  3,600 mL\n                                                                  1,800 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                 -2,060 mL\n                                                                   -720 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 95%\n   ABG: ///35/\n   Physical Examination\n   General Appearance: Overweight / Obese\n   Head, Ears, Nose, Throat: Normocephalic\n   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Distant)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)\n   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Dullness : ),\n   (Breath Sounds: Wheezes : , Diminished: ), No significant improvement\n   from yesterday\nshe does have prominent central expiratory wheezes\nit is\n   interesting that they are more monophonic than polyphonic and this does\n   raise the question of central airways involvement.\n   Abdominal: Soft, Non-tender, Bowel sounds present\n   Extremities: Right lower extremity edema: Trace, Left lower extremity\n   edema: Trace\n   Skin:  Not assessed\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Movement: Not assessed, Tone: Not assessed\n   Labs / Radiology\n   12.3 g/dL\n   411 K/uL\n   113 mg/dL\n   0.8 mg/dL\n   35 mEq/L\n   3.8 mEq/L\n   9 mg/dL\n   99 mEq/L\n   141 mEq/L\n   37.1 %\n   19.0 K/uL\n        [image002.jpg]\n                             [**2196-10-8**]  01:43 AM\n                             [**2196-10-8**]  04:31 AM\n                             [**2196-10-9**]  03:47 AM\n                             [**2196-10-10**]  04:50 AM\n   WBC\n   16.1\n   18.9\n   19.0\n   Hct\n   37.2\n   36.0\n   37.1\n   Plt\n   390\n   398\n   411\n   Cr\n   0.6\n   0.7\n   0.8\n   TropT\n   <0.01\n   TCO2\n   35\n   Glucose\n   133\n   124\n   113\n   Other labs: PT / PTT / INR:13.1/24.6/1.1, CK / CKMB /\n   Troponin-T:59/2/<0.01, ALT / AST:[**8-11**], Alk Phos / T Bili:104/0.1,\n   Differential-Neuts:90.8 %, Lymph:7.2 %, Mono:0.7 %, Eos:1.2 %, Lactic\n   Acid:1.9 mmol/L, Albumin:4.0 g/dL, LDH:148 IU/L, Ca++:9.5 mg/dL,\n   Mg++:2.2 mg/dL, PO4:3.7 mg/dL\n   Fluid analysis / Other labs: TSH-0.14\n   Ft4-4.1\n   Imaging: CXR--no focal consolidation, no PTX, decreased lung volumes.\n   Assessment and Plan\n   27 yo female with history of Asthma now admitted with exacerbation of\n   Asthma which has been more severe than any experienced before.  This is\n   in the setting of sick contacts, mold exposure and has had slow trend\n   to better in regards to bronchospasm.\n   1)Asthma-With acute exacerbation-This is persistent at this time with\n   continued bronchospasm noted thorugh to this morning with little\n   improvement.  Do have a concern for possible impact from undiagnosed\n   upper airway compromise with paradoxical vocal cord motion.  She may\n   have significant imipact from relatively low lung volumers allowing\n   persistence of expiratory airflow limitation.\n   -Xoponex to continue\n   -Viral screen without enough cells and will continue with culture\n   across time\n   -Singulair\n   -Methylprednisolone\n   -Xoponex at max dosing\n   -Will move to central airway imaging given persistent of mono-phonic\n   more central wheezes on exam and with significant persisten complaints.\n   -Will move to ambulate today and consider response as at rest we have a\n   good tolerance of wean of O2 to 6 liters with persistence of good\n   saturations and with capacity to tolerate ambulation would have further\n   reassurance that we have continued improvement in bronchospasm.\n RESPIRATORY FAILURE, CHRONIC\n PNEUMONIA, OTHER\n DYSPNEA (SHORTNESS OF BREATH)\n PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)\n   ICU Care\n   Nutrition: PO diet\n   Glycemic Control:\n   Lines:\n   22 Gauge - [**2196-10-9**] 12:11 PM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer: PPI\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition :ICU\n   Total time spent: 40 minutes\n"
+    },
+    {
+      "note_id": 595338,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 5869,
+          "end": 5883,
+          "code": "536.3",
+          "code_system": "ICD-9-CM",
+          "description": "Gastroparesis",
+          "type": "Human",
+          "covered_text": "gasteoperesis:"
+        },
+        {
+          "begin": 6206,
+          "end": 6220,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "MapType.EXACT",
+          "covered_text": "Hypothyroidism"
+        },
+        {
+          "begin": 6491,
+          "end": 6497,
+          "code": "112.9",
+          "code_system": "ICD-9-CM",
+          "description": "Candidiasis of unspecified site",
+          "type": "MapType.EXACT",
+          "covered_text": "Thrush"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint:\n   HPI:\n   24 Hour Events:\n   [**10-10**]:\n   - advanced to regular diet\n   - lost access yesterday, so PICC was ordered\n   - OOB to commode with little assistance\n   - thyroid studies indicated essential hypothyroidism -> f/u outpt\n   - prolactin was added to AM labs -> nl\n   Allergies:\n   Codeine\n   Rash;\n   Last dose of Antibiotics:\n   Levofloxacin - [**2196-10-10**] 10:00 PM\n   Infusions:\n   Other ICU medications:\n   Ranitidine (Prophylaxis) - [**2196-10-10**] 08:00 PM\n   Omeprazole (Prilosec) - [**2196-10-10**] 08:00 PM\n   Heparin Sodium (Prophylaxis) - [**2196-10-10**] 10:00 PM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2196-10-11**] 06:28 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.6\nC (99.7\n   Tcurrent: 36.5\nC (97.7\n   HR: 82 (61 - 97) bpm\n   BP: 138/80(96) {116/60(73) - 139/90(111)} mmHg\n   RR: 21 (9 - 22) insp/min\n   SpO2: 96%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 130 kg (admission): 130 kg\n                  Total In:\n                                                                  1,680 mL\n                                                                    360 mL\n   PO:\n                                                                  1,680 mL\n                                                                    360 mL\n   TF:\n   IVF:\n   Blood products:\n   Total out:\n                                                                  4,200 mL\n                                                                  1,400 mL\n   Urine:\n                                                                  4,200 mL\n                                                                  1,400 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                 -2,520 mL\n                                                                 -1,040 mL\n   Respiratory support\n   O2 Delivery Device: Aerosol-cool\n   SpO2: 96%\n   ABG: ///32/\n   Physical Examination\n   General: Alert, oriented, no acute distress\n   Lungs: diffuse expiratory wheezes, no crackles, significantly prolonged\n   expiratory phase\n   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops\n   Abdomen:  obese, soft, non-distended, TTP in RUQ, bowel sounds present,\n   no rebound tenderness or guarding\n   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema\n   Labs / Radiology\n   12.5 g/dL\n   424 K/uL\n   115 mg/dL\n   0.8 mg/dL\n   32 mEq/L\n   3.7 mEq/L\n   8 mg/dL\n   98 mEq/L\n   140 mEq/L\n   37.9 %\n   20.2 K/uL\n        [image002.jpg]\n                             [**2196-10-8**]  01:43 AM\n                             [**2196-10-8**]  04:31 AM\n                             [**2196-10-9**]  03:47 AM\n                             [**2196-10-10**]  04:50 AM\n                             [**2196-10-11**]  05:23 AM\n   WBC\n   16.1\n   18.9\n   19.0\n   20.2\n   Hct\n   37.2\n   36.0\n   37.1\n   37.9\n   Plt\n   390\n   398\n   411\n   424\n   Cr\n   0.6\n   0.7\n   0.8\n   0.8\n   TropT\n   <0.01\n   TCO2\n   35\n   Glucose\n   133\n   124\n   113\n   115\n   Micro:\n   Blood culture from [**10-7**]: pending\nUrine culture from [**10-7**]: GRAM POSITIVE BACTERIA.    10,000-100,000 ORGANISMS/ML.\n         Alpha hemolytic colonies consistent with alpha streptococcus or\n         Lactobacillus sp.\n   -Rapid respiratory viral culture ([**10-8**]):  Pending\n-Respiratory Viral Antigen Screen (Final [**2196-10-10**]):\nRespiratory viral antigen test is uninterpretable due to the lack of\ncells.\n   Imaging:  CXR yesterday ([**10-10**])\n   FINDINGS: As compared to the previous radiograph, there is no relevant\n   change. Borderline size of the cardiac silhouette. No evidence of focal\n   parenchymal opacity suggesting pneumonia. No pleural effusions. No\n   hilar or\n   mediastinal adenopathies.\n   Assessment and Plan\n   Assessment and Plan: 27 yo female with MMP incl asthma, fibromyalgia\n   and tobacco abuse admitted to ICU for hypoxia/respiratory distress.\n   .\n   # Respiratory distress/hypoxia: Likely [**2-29**] asthma exacerbation, with\n   precipitating causes incl bacterial (atypical most likely) pneumonia,\n   viral pneumonia, influenza and long-term tobacco use. Eosinophilic PNA\n   less likely as no peripheral eosinophila, no other signs of vasculitis\n   at this time.  Patient reports excessive mold in her building which\n   could be significant given ddx includes hypersensitivity\n   pneumonitis.    PFTs frm [**7-5**] are normal. Given steroid use, PCP also\n   on diff.  CRP, ESR mildly elev making vasculitis unlikely. The leading\n   differential is asthma with exacerbating viral pneumonia.\n   - continue current regimen of singulair, MethylPREDNISolone Sodium Succ\n   80 mg IV Q8, Xopenex Neb *NF* 0.63 mg Other q4-6H, Ipratropium Bromide\n   Neb 1 NEB IH Q6H, Fluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **],\n   Fluticasone-Salmeterol Diskus (250/50)  1 INH IH [**Hospital1 **]\n   - continue on Levoquin for possible CAP vs atypical pna\n   - f/u on resp viral culture\n   - ABG if clinically declines\n   - wean oxygen as tolerated\n   - encourage ambulation\n   - consider broadening coverage if no clinical improvement, also can\n   consider bronchoscopy\n   - also consider pulm edema from 2L NS pt received in ED, can consider\n   Lasix\n   .\n   # Tobacco abuse: pt currently still a smoker\n   - counsel pt to quit smoking\n   - Nicotine patch\n   .\n   # Fibromyalgia: currently complains of bilat leg pain\n   - continue home Percocet q4-6h PRN for pain\n   - continue home Lyrica\n   .\n   # Depression: stable\n   - continue home Cymbalta and Valium\n   .\n   # GERD/gasteoperesis:\n   - continue home pantoprazole, Ranitidine\n   - Ondesetron if needed\n   .\n   # Chest pain: can be due to PNA, PE, GERD, anxiety or ACS.  EKG shows\n   no acute changes. Very low risk for CAD and sounds like chronic symptom\n   for her. CE flat x2.\n   -ekg prn\n   -pain management with outpatient percocet\n   .\n   # Central Hypothyroidism:\n   - need outpatient followup or can start workup on the floor to start\n   with a head CT\n   - previous cortstim from last year was wnl\n   - consider other HPA axis labs such as prolactin, growth hormone, FSH\n   .\n   # Vit D def:\n   - continue Ca, VitD suppl\n   .\n   # Thrush: on steroids\n   - nystatin swish and swallow\n   ICU Care\n   Nutrition: Full diet\n   Glycemic Control:  ISS\n   Lines:\n   22 Gauge - [**2196-10-8**] 12:03 AM\n   Prophylaxis:\n   DVT: SC heparin\n   Stress ulcer:  pantoprazole, ranitidine\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: FULL\n   Disposition: ICU for now\n"
+    },
+    {
+      "note_id": 23168,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 382,
+          "end": 388,
+          "code": "493.92",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, with acute exacerbation",
+          "type": "Human",
+          "covered_text": "asthma"
+        },
+        {
+          "begin": 407,
+          "end": 420,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "tobacco abuse"
+        },
+        {
+          "begin": 2094,
+          "end": 2104,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 2122,
+          "end": 2128,
+          "code": "493.92",
+          "code_system": "ICD-9-CM",
+          "description": "Asthma, unspecified type, with acute exacerbation",
+          "type": "Human",
+          "covered_text": "Asthma"
+        },
+        {
+          "begin": 2131,
+          "end": 2138,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "description": "Tobacco use disorder",
+          "type": "Human",
+          "covered_text": "Tobacco"
+        },
+        {
+          "begin": 2147,
+          "end": 2154,
+          "code": "278.00",
+          "code_system": "ICD-9-CM",
+          "description": "Obesity, unspecified",
+          "type": "Human",
+          "covered_text": "Obesity"
+        },
+        {
+          "begin": 2157,
+          "end": 2163,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 2203,
+          "end": 2207,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 2230,
+          "end": 2240,
+          "code": "268.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified vitamin D deficiency",
+          "type": "Human",
+          "covered_text": "deficiency"
+        },
+        {
+          "begin": 7719,
+          "end": 7731,
+          "code": "729.1",
+          "code_system": "ICD-9-CM",
+          "description": "Mylagia and myositis, unspecified",
+          "type": "Human",
+          "covered_text": "Fibromyalgia"
+        },
+        {
+          "begin": 10574,
+          "end": 10583,
+          "code": "480.9",
+          "code_system": "ICD-9-CM",
+          "description": "Viral pneumonia, unspecified",
+          "type": "Human",
+          "covered_text": "Pneumonia"
+        }
+      ],
+      "text": "Admission Date:  [**2196-10-7**]              Discharge Date:   [**2196-10-13**]\n\nDate of Birth:  [**2168-11-16**]             Sex:   F\n\nService: MEDICINE\n\nAllergies:\nCodeine\n\nAttending:[**First Name3 (LF) 2195**]\nChief Complaint:\ndifficulty breathing\n\nMajor Surgical or Invasive Procedure:\nPlacement of a midline IV\n\n\nHistory of Present Illness:\nPt is a 27 yo female with MMP incl asthma, fibromyalgia and\ntobacco abuse here with complaint of difficulty breathing and\nwheezing for last 3 days.  Has been having similar problems for\nthe last few months, but more acute now. Pt states that she had\nfevers upto 101.4 and chills at home.  Generalized weakness, and\nmyalgias as well.  Pt admits to a cough, but hasn't been able to\ncough up anything.  Denies any sick contacts.  Denies nasal\ncongestion or sore throat. Was recently treated for a UTI with\n7d course of Cipro. Pt also complains of chest pain in the\nepigarstic area, no radiation, worse with deep inspiration and\ncertain movements. Took her inhalers/nebs and 40 mg of\nPrednisone yesterday, with no improvement of symptoms.\n.\nOf note, pt went to see her PCP yesterday, and had a CT chest\nthat showed bilateral opacities.  She was told to come to the ED\nin the setting of increased SOB. Pt was noted to have\nlymphadenopathy in the past, and is being worked up for\nsarcoidosis.\n.\nIn the ED, initial vs were: T 98.8 P 111 BP 146/88 R 20 O2 sat\n95% on RA. Patient's O2 sats went down to 88% on RA.  She\nreceived nebs, but was still hypoxic, eventually requiring NRB.\nPt also received 2L NS for IVF and Solumedrol 125mg IV,\nLevofloxacin and Ceftriaxone.\n.\nShe was then transferred to the ICU.\n.\nReview of sytems:\n(+) Per HPI\n(-) Admits to fever, chills, 20 lb recent weight loss in the\nlast 2-3wks. Admits to migraine headaches, denies rhinorrhea or\ncongestion. Admits to cough, shortness of breath, chest pain.\nAdmits to some nausea and low PO intake, but denies vomiting,\ndiarrhea, constipation or abdominal pain. No recent change in\nbowel or bladder habits. No dysuria. Admits to chronic arthritis\nand myalgias.\n\n\nPast Medical History:\n- Depression\n- Fibromyalgia\n- Asthma\n- Tobacco abuse\n- Obesity\n- Anemia\n- Internal hemorrhoids\n- Gasteoperesis/GERD/hiatal hernia\n- Vid D deficiency\n\n\nSocial History:\nShe is a CNA worker in surgery here at [**Hospital1 1444**], but currently is on medical\nleave due to all of her chronic conditions.  She currently is\nsmoking five cigarettes per day, started at age of 10, and\nsmoked\nup to two packs per day in the past.  Denies any alcohol use.\n\n\nFamily History:\nMaternal aunt with breast cancer in her mid 30s,\nmaternal great aunt with breast cancer and rectal cancer of\nunknown age.  Maternal grandfather diagnosed with pancreatic\ncancer and died at the age of 70. Mother with sarcoidosis.\n\nPhysical Exam:\nVitals: T: 98 BP: 148/95 P: 101 R: 17  O2: 99% on NRB\nGeneral: Alert, oriented, no acute distress\nHEENT: MMM, oropharynx clear, dentures in place\nNeck: supple, JVP not elevated, no LAD\nLungs: diffuse wheezes, no crackles\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nAbdomen:  obese, soft, non-distended, TTP in RUQ, bowel sounds\npresent, no rebound tenderness or guarding\nGU: no suprapubic tenderness\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: 4/5 strength in BLE, 5/5 strength in BUE, decr sensation\non R leg up to knee, CNII-XII intact, gait deferred\n\n\nPertinent Results:\n[**2196-10-7**] 10:31PM URINE  COLOR-Amber APPEAR-Clear SP [**Last Name (un) 155**]-1.009\n[**2196-10-7**] 10:31PM URINE  BLOOD-SM NITRITE-POS PROTEIN-TR\nGLUCOSE-NEG KETONE-NEG BILIRUBIN-SM UROBILNGN-NEG PH-6.5\nLEUK-NEG\n[**2196-10-7**] 10:31PM URINE  RBC-[**3-31**]* WBC-0-2 BACTERIA-MOD YEAST-NONE\nEPI-[**3-31**]\n[**2196-10-7**] 09:09PM URINE  HOURS-RANDOM\n[**2196-10-7**] 09:09PM URINE  UCG-NEGATIVE\n[**2196-10-7**] 09:09PM URINE  UHOLD-HOLD\n[**2196-10-7**] 08:52PM   LACTATE-3.1*\n[**2196-10-7**] 08:40PM   GLUCOSE-167* UREA N-5* CREAT-0.7 SODIUM-136\nPOTASSIUM-3.5 CHLORIDE-97 TOTAL CO2-28 ANION GAP-15\n[**2196-10-7**] 08:40PM   estGFR-Using this\n[**2196-10-7**] 08:40PM   WBC-17.4*# RBC-4.18* HGB-12.9 HCT-40.9 MCV-98\nMCH-30.9 MCHC-31.5 RDW-14.3\n[**2196-10-7**] 08:40PM   NEUTS-85.9* LYMPHS-10.5* MONOS-2.0 EOS-0.9\nBASOS-0.7\n[**2196-10-7**] 08:40PM   PLT COUNT-420\n\n[**2196-10-13**]\nWBC-14.8* RBC-4.13* Hgb-12.9 Hct-40.4 MCV-98  Plt Ct-361\nGlucose-85 UreaN-7 Creat-1.1 Na-141 K-3.2* Cl-99 HCO3-33*\nAnGap-12\nCalcium-8.8 Phos-3.6 Mg-2.2\n\nImaging:\n[**2196-10-6**] Chest CT: New widespread areas of ground-glass opacities\nin both lungs involving all lobes with no central or peripheral\npredisposition as well as with no apical basal gradient with\nslightly more of the abnormality seen within the upper lungs.\nThe differential diagnosis might include infectious process such\nas viral pneumonia or mycoplasma. Less likely , hypersensitivity\npneumonitis, eosinophilic pneumonia , vasculitis or COP may be\nalso suggested. Clinical correlation is recommended.\n\n[**2196-10-7**] CXR: The CT scan of one day prior demonstrates scattered\nareas of\nground-glass opacity throughout both lungs, predominantly in the\napices. The current x-ray study, though limited as above,\ndemonstrates increased density in the left perihilar and lower\nlung regions. It is unlikely that the process noted on the CT\nhas resolved; however, some of the opacity in the left lung that\nis now visualized may be due to atelectasis. If clinically\nfeasible, consider PA and lateral view for more sensitive\nevaluation. However, there is likely underlying evolving\ninfection as detailed in the chest CT report.\n\n[**2196-10-9**] CXR: Cardiomediastinal silhouette remains stable. The\npatient is in mild volume overload. There is still no focal\nconsolidation demonstrated with the focal areas of ground-glass\nopacities seen on prior chest CT from [**2197-1-5**] can be\nseen in the left upper lung and as previously mentioned might\nrepresent infectious process.\n\n\nBrief Hospital Course:\n27 yo female with MMP incl asthma, fibromyalgia and tobacco\nabuse admitted to ICU for hypoxia/respiratory distress.\n\n# Respiratory distress/hypoxia: On admission to the [**Hospital Unit Name 153**],\npatient was satting at 97%-100% on NRB.  Patient reports this\nepisode felt different from her usual asthma exacerbation as she\nfelt much worse this time. The differential diagnoses included\nCAP pneumonia / atypical pneumonia, viral pneumonia, influenza\ncomplicated by asthma exacerbation.  PE, ACS, CHF on\ndifferential but unlikely.  Eosinophilic PNA less likely as no\nperipheral eosinophila, no other signs of vasculitis at this\ntime (ESR and CRP only mildly elevated).  Per patient's PCP\npatient has long reported excessive mold in her building which\ncould be significant given ddx includes hypersensitivity\npneumonitis. Patient was put on Levoquin for possible CAP vs\natypical pna. CXR showed no consolidations or clear infiltrate;\ntogether with her clinical exam of severe wheezing, this was\nmost consistent with viral pneumonia complicated by asthma\nexacerbation despite her negative viral cultures.  Patient was\nput on Advair, Flovent, Xopenex. In addition, solumedrol and\nsingulair were started. Patient was initially put on high flow\naerosol mask, which was slowly weaned to nasal cannula. On the\nday of transfer to floor, patient walked 3 laps on ICU floor on\nroom air with oxygen saturation of around 93%. While on the\nfloor she remained stable, with improvement in her tachycardia.\n\n# Chest pain: Differential included pneumonia, asthma\nexacerbation and chest tightness, PE, GERD, anxiety or ACS.  EKG\nshowed no acute changes. Patient had very low risk for CAD.\nCardiac enzymes were negative x 2. Outpatient percocet was\ncontinued.\n\n# Fibromyalgia: Patient complained of bilateral leg pain on\nadmission. Home Percocet q4-6h PRN was continued for pain. Home\ndose Lyrica was continued as well.\n\n# Depression: Stable. Home Cymbalta and Valium were continued.\n\n# GERD/gasteoperesis: Home dose pantoprazole and ranitidine were\ncontinued.\n\n# Vit D def: Home dose calcium and vitD supplementation were\ncontinued.\n\nFEN: regular diet\nProphylaxis: SC heparin, bowel regimen\nCode:  Full code\nCommunication: Patient\n\n\nMedications on Admission:\nAlbuterol Sulfate 90 mcg 2 puffs q4-6h as needed\nButalbital-Acetaminophen-Caff 50 mg-325 mg-40 mg Tablet QID prn\nCiprofloxacin 500 mg Tablet [**Hospital1 **] [**2196-10-5**]\nDiazepam 5 mg q6h\nDuloxetine [Cymbalta] 20 mg [**Hospital1 **]\nEsomeprazole Magnesium [Nexium] 40 mg [**Hospital1 **]\nFluticasone 50 mcg 2 sprays nasally daily\nAdvair Diskus 500 mcg-50 mcg/Dose 1 whiff(s) [**Hospital1 **]\nOndansetron 4 mg q6h PRN for nausea\nOxycodone-Acetaminophen 5 mg-325 mg q4-6 hours PRN for pain\nPhenazopyridine 100 mg TID PRN [**2196-10-5**]\nPregabalin [Lyrica] 75 mg [**Hospital1 **]\nTretinoin [Retin-A] 0.025 % Cream\nwig use as directed daily For alopecia\nVitamin D 1000 units M-F, [**2187**] units SaSun\nFerrous Gluconate 325 mg daily\nLoratadine 10 mg Tablet daily PRN for allergies\nMultivitamins-Minerals-Lutein daily\nRanitidine 75 mg 1-2 times daily\n\n\nDischarge Medications:\n1. Diazepam 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6\nhours) as needed for anxiety.\n2. Duloxetine 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO BID (2 times a day).\n3. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:\nOne (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).\n4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO\nQ6H (every 6 hours) as needed for pain.\nDisp:*20 Tablet(s)* Refills:*0*\n5. Pregabalin 75 mg Capsule Sig: One (1) Capsule PO BID (2 times\na day).\n6. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2)\nTablet PO DAILY (Daily).\n7. Ferrous Gluconate 325 mg (37.5 mg Iron) Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n8. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n9. Ranitidine HCl 150 mg Tablet Sig: 0.5 Tablet PO BID (2 times\na day).\n10. Ipratropium Bromide 0.02 % Solution Sig: One (1) treatment\nInhalation every six (6) hours as needed for shortness of breath\nor wheezing.\n11. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*30 Tablet(s)* Refills:*2*\n12. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO BID (2 times a day).\n13. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID\n(4 times a day) as needed for thrush.\n14. Prednisone 50 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\nDisp:*10 Tablet(s)* Refills:*2*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nViral Pneumonia\nAsthma Exacerbation\n\nDischarge Condition:\nImproved\n\nDischarge Instructions:\nPlease return to the hospital if you develop fevers, chills,\nnausea, vomiting, chest pain or shortness of breath. Please\nfollow-up with Dr.[**Last Name (STitle) 1007**] to have a complete blood count checked\nand to plan a steroid taper.\n\nFollowup Instructions:\nDr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1007**] [**Last Name (LF) 766**], [**10-17**] at 1:45\nDr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Phone:[**Telephone/Fax (1) 558**]  [**2196-12-5**] at 11:30\n\n\n"
+    },
+    {
+      "note_id": 595518,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 4155,
+          "end": 4183,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "description": "Acute respiratory failure",
+          "type": "MapType.APPROX",
+          "covered_text": "RESPIRATORY FAILURE, CHRONIC"
+        }
+      ],
+      "text": "Chief Complaint: Asthma With Acute Exacerbation\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   24 Hour Events:\n MIDLINE - START [**2196-10-11**] 09:16 AM\n CALLED OUT\n   History obtained from [**Hospital 31**] Medical records\n   Allergies:\n   Codeine\n   Rash;\n   Last dose of Antibiotics:\n   Levofloxacin - [**2196-10-10**] 10:00 PM\n   Infusions:\n   Other ICU medications:\n   Omeprazole (Prilosec) - [**2196-10-11**] 07:45 PM\n   Ranitidine (Prophylaxis) - [**2196-10-11**] 07:45 PM\n   Heparin Sodium (Prophylaxis) - [**2196-10-12**] 12:03 AM\n   Other medications:\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Constitutional: Fatigue\n   Flowsheet Data as of  [**2196-10-12**] 09:20 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.6\nC (99.7\n   Tcurrent: 36.7\nC (98.1\n   HR: 61 (59 - 115) bpm\n   BP: 139/76(90) {114/62(75) - 149/115(118)} mmHg\n   RR: 15 (9 - 31) insp/min\n   SpO2: 94%\n   Heart rhythm: SR (Sinus Rhythm)\n   Wgt (current): 130 kg (admission): 130 kg\n                  Total In:\n                                                                  1,320 mL\n                  PO:\n                                                                  1,320 mL\n                  TF:\n   IVF:\n   Blood products:\n   Total out:\n                                                                  3,530 mL\n                                                                      0 mL\n   Urine:\n                                                                  3,530 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                 -2,210 mL\n                                                                      0 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 94%\n   ABG: ///35/\n   Physical Examination\n   Cardiovascular: (S1: Normal), (S2: Distant)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Breath Sounds: Wheezes : Expiratory, central,\n   monophonic)\n   Skin:  Not assessed\n   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   13.0 g/dL\n   357 K/uL\n   119 mg/dL\n   0.9 mg/dL\n   35 mEq/L\n   3.6 mEq/L\n   7 mg/dL\n   97 mEq/L\n   140 mEq/L\n   39.5 %\n   22.5 K/uL\n        [image002.jpg]\n                             [**2196-10-8**]  01:43 AM\n                             [**2196-10-8**]  04:31 AM\n                             [**2196-10-9**]  03:47 AM\n                             [**2196-10-10**]  04:50 AM\n                             [**2196-10-11**]  05:23 AM\n                             [**2196-10-12**]  04:39 AM\n   WBC\n   16.1\n   18.9\n   19.0\n   20.2\n   22.5\n   Hct\n   37.2\n   36.0\n   37.1\n   37.9\n   39.5\n   Plt\n   390\n   398\n   411\n   424\n   357\n   Cr\n   0.6\n   0.7\n   0.8\n   0.8\n   0.9\n   TropT\n   <0.01\n   TCO2\n   35\n   Glucose\n   133\n   124\n   113\n   115\n   119\n   Other labs: PT / PTT / INR:13.1/24.6/1.1, CK / CKMB /\n   Troponin-T:59/2/<0.01, ALT / AST:[**8-11**], Alk Phos / T Bili:104/0.1,\n   Differential-Neuts:90.8 %, Lymph:7.2 %, Mono:0.7 %, Eos:1.2 %, Lactic\n   Acid:1.9 mmol/L, Albumin:4.0 g/dL, LDH:148 IU/L, Ca++:9.3 mg/dL,\n   Mg++:2.4 mg/dL, PO4:3.7 mg/dL\n   Imaging: CXR-no chagne from previous\n   Assessment and Plan\n   27 yo female with admission with asthma with acute exacerbation--now\n   with substantial improvement.\n   Asthma with Acute exacerbation--improved, will continue with-->\n   -Advair\n   -Atrovent\n   -Singulair\n   -levoflox\n   -Xoponex q 4 hours\n   -Prednisone 50mg qd--and will taper over 7-10 days based on patient\n   symptoms.\n RESPIRATORY FAILURE, CHRONIC\n PNEUMONIA, OTHER\n DYSPNEA (SHORTNESS OF BREATH)\n PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   Midline - [**2196-10-11**] 09:16 AM\n   Prophylaxis:\n   DVT: SQ UF Heparin\n   Stress ulcer: H2 blocker\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition :Transfer to floor\n   Total time spent: 33 minutes\n"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "hadm_id": 114384,
+  "comment": "OP report for mitral valve replacement not present",
+  "notes": [
+    {
+      "note_id": 41042,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 328,
+          "end": 352,
+          "code": "35.23",
+          "code_system": "ICD-9-PCS",
+          "description": "Replacement of mitral valve with tissue graft",
+          "type": "Human",
+          "covered_text": "Mitral valve replacement"
+        },
+        {
+          "begin": 628,
+          "end": 648,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "description": "Mitral valve disorders",
+          "type": "Human",
+          "covered_text": "mitral regurgitation"
+        },
+        {
+          "begin": 734,
+          "end": 746,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 747,
+          "end": 761,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 799,
+          "end": 818,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 820,
+          "end": 831,
+          "code": "V58.61",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of anticoagulants",
+          "type": "Human",
+          "covered_text": "on Coumadin"
+        },
+        {
+          "begin": 859,
+          "end": 875,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "Diabetes type II"
+        },
+        {
+          "begin": 876,
+          "end": 905,
+          "code": "185",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of prostate",
+          "type": "Human",
+          "covered_text": "Prostate cancer- elevated PSA"
+        },
+        {
+          "begin": 4048,
+          "end": 4051,
+          "code": "88.72",
+          "code_system": "ICD-9-PCS",
+          "description": "Diagnostic ultrasound of heart",
+          "type": "MapType.APPROX",
+          "covered_text": "TEE"
+        }
+      ],
+      "text": "Admission Date:  [**2161-1-29**]              Discharge Date:   [**2161-2-7**]\n\nDate of Birth:  [**2076-8-2**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 1505**]\nChief Complaint:\nDyspnea on exertion\n\nMajor Surgical or Invasive Procedure:\nMitral valve replacement with a [**Street Address(2) 12523**]. [**Hospital 923**] Medical Biocor\nEpic tissue valve.\n\n\nHistory of Present Illness:\n83 year old male with recent dyspnea with exertion and edema\nlower extremities that has improved with lasix.  Referred for\ncardiac catheterization due to mitral regurgitation found on\nechocardiogram, in preparation for cardiac\nsurgery.\n\n\nPast Medical History:\nHypertension\nHyperlipidemia\nSevere mitral regurgitation/prolapse\nAtrial fibrillation, on Coumadin; last dose WED [**12-31**]\nDiabetes type II\nProstate cancer- elevated PSA (not treated)\nColon polyps s/p polypectomy\nBilateral Inguinal hernia repair\nremote trauma to leg involving pitchfork\n\n\nSocial History:\nLast Dental Exam: > 1 year\nLives with:alone\nOccupation:retired mechanic shop owner\nTobacco:denies\nETOH:denies\n\n\nFamily History:\nnon contributory\n\n\nPhysical Exam:\nPulse: 78  Resp: 18   O2 sat: 100%\nB/P  Right: 133/59   Left: 156/80\nHeight:  6'   Weight: 160#\n\nGeneral: no acute distress\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [] Full ROM []\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur:  systolic ejection murmur\nbest heart at the left sternal border radiating to both\ncarotids.\n\nAbdomen: Soft [x] non-distended [x] non-tender [x]\nbowel sounds + []\nExtremities: Warm [x], well-perfused [x]\nno Edema; has bilateral varicosities\nNeuro: Grossly intact\nPulses:\nFemoral      Right: 2+   Left:2+\nDP           Right: 1+   Left: 1+\nPT           [**Name (NI) 167**]: 0    Left: 0\nRadial       Right: 2+  Left: +\n\nCarotid Bruit: left/right: referred cardiac murmur\n\n\nPertinent Results:\n[**2161-2-7**] 06:40AM BLOOD WBC-6.2 RBC-4.18* Hgb-13.7* Hct-40.1\nMCV-96 MCH-32.7* MCHC-34.0 RDW-14.6 Plt Ct-134*\n[**2161-2-7**] 06:40AM BLOOD PT-19.1* PTT-38.3* INR(PT)-1.7*\n[**2161-1-29**] 04:13PM BLOOD PT-15.5* PTT-28.9 INR(PT)-1.4*\n[**2161-2-7**] 06:40AM BLOOD Glucose-98 UreaN-31* Creat-1.0 Na-135\nK-4.6 Cl-96 HCO3-31 AnGap-13\n[**2161-1-29**] 04:13PM BLOOD Glucose-294* UreaN-33* Creat-1.1 Na-138\nK-5.0 Cl-104 HCO3-27 AnGap-12\n[**2161-1-29**] 04:13PM BLOOD ALT-17 AST-31 LD(LDH)-224 AlkPhos-112\nAmylase-41 TotBili-1.0\nPulse: 78  Resp: 18   O2 sat: 100%\nB/P  Right: 133/59   Left: 156/80\nHeight:  6'   Weight: 160#\n\nGeneral: no acute distress\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [] Full ROM []\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur:  systolic ejection murmur\nbest heart at the left sternal border radiating to both\ncarotids.\n\nAbdomen: Soft [x] non-distended [x] non-tender [x]\nbowel sounds + []\nExtremities: Warm [x], well-perfused [x]\nno Edema; has bilateral varicosities\nNeuro: Grossly intact\nPulses:\nFemoral      Right: 2+   Left:2+\nDP           Right: 1+   Left: 1+\nPT           [**Name (NI) 167**]: 0    Left: 0\nRadial       Right: 2+  Left: +\n\nCarotid Bruit: left/right: referred cardiac murmur\n\n\n\n[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT\n\n[**Known lastname 89503**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 89504**] (Complete)\nDone [**2161-2-2**] at 1:19:08 PM      FINAL\nReferring Physician     [**Name9 (PRE) **] Information\n[**Name9 (PRE) **], [**First Name3 (LF) **] R.\n[**Hospital1 18**], Division of Cardiothorac\n[**Hospital Unit Name 4081**]\n[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2076-8-2**]\nAge (years): 84 M  Hgt (in):\nBP (mm Hg): /  Wgt (lb):\nHR (bpm):  BSA (m2):\nIndication: Intraoperative TEE for MV Repair vs replacement\nICD-9 Codes: 428.0, 427.31, 424.0, 424.2\nTest Information\nDate/Time: [**2161-2-2**] at 13:19    Interpret MD: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4901**], MD\nTest Type: TEE (Complete) Son[**Name (NI) 930**]: [**Name Initial (MD) **] [**Name8 (MD) 4901**], MD\nDoppler: Full Doppler and color Doppler Test Location:\nAnesthesia West OR cardiac\nContrast: None Tech Quality: Adequate\nTape #: 2011AW4-: Machine: U/S 3\nEchocardiographic Measurements\nResults  Measurements  Normal Range\nLeft Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm\n\nLeft Ventricle - Diastolic Dimension:  *5.8 cm  <= 5.6 cm\nLeft Ventricle - Ejection Fraction:  40% to 45%  >= 55%\nAorta - Annulus:  2.2 cm  <= 3.0 cm\nAorta - Ascending:  3.2 cm  <= 3.4 cm\nAorta - Descending Thoracic:  2.3 cm  <= 2.5 cm\nAortic Valve - LVOT diam:  2.2 cm\n\nFindings\nLEFT ATRIUM: Dilated LA. No spontaneous echo contrast in the\nbody of the LA. No mass/thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA. Mild\nspontaneous echo contrast in the LAA. Depressed LAA emptying\nvelocity (<0.2m/s) All four pulmonary veins identified and enter\nthe left atrium.\n\nRIGHT ATRIUM/INTERATRIAL SEPTUM: Dilated RA. A catheter or\npacing wire is seen in the RA and extending into the RV. No ASD\nby 2D or color Doppler.\n\nLEFT VENTRICLE: Wall thickness and cavity dimensions were\nobtained from 2D images. Normal LV wall thickness. Mildly\ndilated LV cavity. Normal regional LV systolic function. Mildly\ndepressed LVEF. [Intrinsic LV systolic function likely depressed\ngiven the severity of valvular regurgitation.]\n\nRIGHT VENTRICLE: Dilated RV cavity. Moderate global RV free wall\nhypokinesis.\n\nAORTA: Focal calcifications in aortic root. Normal ascending\naorta diameter. Focal calcifications in ascending aorta. Simple\natheroma in aortic arch. Focal calcifications in aortic arch.\nNormal descending aorta diameter. Simple atheroma in descending\naorta.\n\nAORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.\nTrace AR.\n\nMITRAL VALVE: Moderately thickened mitral valve leaflets.\nMyxomatous mitral valve leaflets. Moderate/severe MVP. Partial\nmitral leaflet flail. Moderate mitral annular calcification.\nCalcified tips of papillary muscles. No MS. Eccentric MR jet.\nSevere (4+) MR.\n\nTRICUSPID VALVE: Tricuspid valve not well visualized. Mild to\nmoderate [[**11-23**]+] TR.\n\nPULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.\nPhysiologic (normal) PR.\n\nPERICARDIUM: Trivial/physiologic pericardial effusion.\n\nGENERAL COMMENTS: A TEE was performed in the location listed\nabove. I certify I was present in compliance with HCFA\nregulations. The patient was under general anesthesia throughout\nthe procedure. No TEE related complications. The rhythm appears\nto be atrial fibrillation. Results were personally reviewed with\nthe MD caring for the patient. Bilateral pleural effusions.\nConclusions\nPRE BYPASS The left atrium is dilated. No spontaneous echo\ncontrast is seen in the body of the left atrium. No\nmass/thrombus is seen in the left atrium or left atrial\nappendage. Mild spontaneous echo contrast is present in the left\natrial appendage. The left atrial appendage emptying velocity is\ndepressed (<0.2m/s). The right atrium is dilated. No atrial\nseptal defect is seen by 2D or color Doppler. Left ventricular\nwall thicknesses are normal. The left ventricular cavity is\nmildly dilated. Regional left ventricular wall motion is normal.\nOverall left ventricular systolic function is mildly depressed\n(LVEF= 40-45 %). [Intrinsic left ventricular systolic function\nis likely more depressed given the severity of valvular\nregurgitation.] The right ventricular cavity is dilated with\nmoderate global free wall hypokinesis. There are simple atheroma\nin the aortic arch. There are focal calcifications in the aortic\narch. There are simple atheroma in the descending thoracic\naorta. The aortic valve leaflets (3) are mildly thickened but\naortic stenosis is not present. Trace aortic regurgitation is\nseen. The mitral valve leaflets are moderately thickened. The\nmitral valve leaflets are myxomatous. There is bileaflet\nprolapse with a flail P2 segment and potentislly some A2 partial\nflail. An eccentric, anteriorly directed jet of severe (4+)\nmitral regurgitation is seen. There is a trivial/physiologic\npericardial effusion. Dr. [**Last Name (STitle) **] was notified in person of the\nresults in the operating room at the time of the study.\n\nPOST BYPASS The patient is receiving milrinone and\nnorepinephrine by infusion. The right ventricle displays normal\nsystolic function. The left ventricle displays septal dyskinesis\nversus severe dysynchronous contraction which is new from the\npre-bypass study. The rest of the LV segments are glbally,\nmoderately depressed. Overall left ventricular ejection fraction\nis approximately 35%. There is a bioprosthesis located in the\nmitral position. It appears well seated. The leaflets have\nnormal motion. There is trace valvular mitral regurgitation. The\nmaximum gradient through the valve was 6 mmHg with a mean of 2\nmmHg at a cardiac output of 3.5 liters/minute. The thoracic\naorta is intact after decannulation.\n  I certify that I was present for this procedure in compliance\nwith HCFA regulations.\n\nElectronically signed by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4901**], MD, Interpreting physician\n[**Last Name (NamePattern4) **] [**2161-2-2**] 16:09\n\n\n?????? [**2152**] CareGroup IS. All rights reserved.\n\n\nBrief Hospital Course:\n83 year old with worsening symptoms of heart failure and found\nto have severe\nmitral regurgitation presenting for mitral valve replacement.\nHis preoperative work up consisted of dental consult and OMFS\nfor root extraction. [**2161-2-1**] Mr. [**Known lastname **] was taken to the\noperating room and underwent Mitral valve replacement with a [**Street Address(2) 89505**]. [**Hospital 923**] Medical Biocor Epic tissue valve with Dr.[**Last Name (STitle) **].\nPlease refer to operative note for further surgical details. He\ntolerated the procedure well and was transferred to the CVICU in\ncritical but stable condition. He awoke neurologically intact,\nalthough slow to wake and was extubated on POD#2. He was weaned\noff inotropes and pressors and was started on\nBeta-blocker/Statin/Aspirin and diuresis. All lines and drains\nwere discontinued in a timely fashion. Mr.[**Known lastname **] was confused on\nPOD#2 and narcotics were discontinued. His mental status\nimproved to baseline. He continued to progress and was\ntransferred to the step down unit for further monitoring.\nPhysical Therapy was consulted for evaluation of strength and\nmobility. On POD# 4 an unwitnessed slip vs.fall occurred and Mr.\n[**Known lastname **] was not able to fully weight bare immediately thereafter.\nOrthpeadics was consulted and a CT scan was performed. Per Ortho\nMr.[**Known lastname **] was cleared for discharge with partial weight baring\non his left lower extremity until follow up in [**11-23**] weeks with\nDr.[**First Name (STitle) 4223**] in orthopeadic oncology. On POD# 5 Mr.[**Known lastname **] was\ncleared for discharge to [**Hospital 1514**] Health Care Center in Ma. All\nfollow up appointments were advised.\n\n\nMedications on Admission:\nFUROSEMIDE -  (Prescribed by Other Provider) - 20 mg Tablet - 1\nTablet(s) by mouth once a day\nGLYBURIDE -  (Prescribed by Other Provider) - 2.5 mg Tablet - 1\nTablet(s) by mouth twice a day\nLISINOPRIL -  (Prescribed by Other Provider) - 10 mg Tablet - 1\nTablet(s) by mouth daily\nSIMVASTATIN [ZOCOR] -  (Prescribed by Other Provider) - 20 mg\nTablet - 1 Tablet(s) by mouth daily\nWARFARIN -  (Prescribed by Other Provider) - 1 mg Tablet - 3\nTablet(s) by mouth once a day as directed per coumadin clinic\n\nMedications - OTC\nASPIRIN -  (Prescribed by Other Provider) - 81 mg Tablet,\nChewable - 1 Tablet(s) by mouth daliy\nGLUCOSAMINE SULFATE [GLUCOSAMINE] -  (Prescribed by Other\nProvider) - Dosage uncertain\nMULTIVITAMIN -  (OTC) -   Tablet - 1 Tablet(s) by mouth once a\nday\n\n\nDischarge Medications:\n1. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2\ntimes a day).\n2. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n4. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2\ntimes a day).\n5. warfarin 1 mg Tablet Sig: [**Name8 (MD) **] MD  Tablet PO DAILY (Daily):\nINR goal=>2, indication; Atrial Fibrillation.\n6. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n7. glyburide 2.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n8. furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday).\n9. potassium chloride 10 mEq Tablet Extended Release Sig: Two\n(2) Tablet Extended Release PO Q12H (every 12 hours).\n10. insulin regular human 100 unit/mL Solution Sig: One (1)\nInjection ASDIR (AS DIRECTED).\n11. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H\n(every 4 hours) as needed for pain, fever.\n12. warfarin 3 mg Tablet Sig: One (1) Tablet PO once for 1\ndoses.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\ntba\n\nDischarge Diagnosis:\nMitral valve replacement with a [**Street Address(2) 12523**]. [**Hospital 923**] Medical Biocor\nEpic tissue valve.\n\nSecondary:\nHypertension\nHyperlipidemia\nSevere mitral regurgitation/prolapse\nAtrial fibrillation, on Coumadin; last dose WED [**12-31**]\nDiabetes type II\nProstate cancer- elevated PSA (not treated)\nColon polyps s/p polypectomy\nBilateral Inguinal hernia repair\nremote trauma to leg involving pitchfork\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nGroin pain managed with tylenol\nLeft groin - no erythema or drainage\nRight groin - no erythema or drainage\nBilateral Lower extremity with no/trace edema\n\n\n\nDischarge Instructions:\nPlease shower daily including washing puncture sites in groins\nwith mild soap, no baths or swimming for 1 week until groin\nsites are healed.\nPlease NO lotions, cream, powder, or ointments to puncture sites\nin your groins\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for one month, will be discussed at follow up\nappointment\nNo lifting or pulling more than 10 pounds for 1 week, and then\ncontinue to take it easy for 1 month\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n\n**Please call Integrated Aortic valve clinic in cardiac surgery\noffice with any questions or concerns [**Telephone/Fax (1) 170**]. Answering\nservice will contact on call person during off hours**\n\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon:Dr.[**Last Name (STitle) **] #[**Telephone/Fax (1) 170**] on [**2-26**] at 1:15pm\nCardiologist:Dr [**Last Name (STitle) 7526**] on [**3-4**] at 11am.\n\n\nPlease call to schedule appointments with your\nPrimary Care Dr.[**Last Name (STitle) **],[**First Name3 (LF) **] S. # [**Telephone/Fax (1) 28262**] in [**11-23**] weeks\n\n**Please call Integrated Aortic valve clinic in cardiac surgery\noffice with any questions or concerns [**Telephone/Fax (1) 170**]. Answering\nservice will contact on call person during off hours**\nLabs: PT/INR for Coumadin ?????? indication Atrial Fibrillation\nGoal INR :>2\nFirst draw:[**2161-2-8**]\n\n\n\nCompleted by:[**2161-2-7**]"
+    }
+  ]
+}

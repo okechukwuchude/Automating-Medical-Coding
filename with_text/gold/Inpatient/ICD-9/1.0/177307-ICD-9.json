@@ -1,0 +1,121 @@
+{
+  "hadm_id": 177307,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 1208035,
+      "category": "Radiology",
+      "description": "MR HEAD W & W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 1235,
+          "end": 1240,
+          "code": "348.5",
+          "code_system": "ICD-9-CM",
+          "description": "Cerebral edema",
+          "type": "Human",
+          "covered_text": "edema"
+        }
+      ],
+      "text": "[**2142-10-8**] 7:58 PM\n MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 43163**]\n Reason: please evaluate for intracranial process, diffuse axonal inj\n Admitting Diagnosis: BLUNT TRAUMA\n  Contrast: MAGNEVIST Amt: 17\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  32 year old man with TBI and suspected [**Doctor First Name **]\n REASON FOR THIS EXAMINATION:\n  please evaluate for intracranial process, diffuse axonal injury\n No contraindications for IV contrast\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  A 32-year-old man with traumatic brain injury and suspected [**Doctor First Name **].\n\n COMPARISON:  CT head of [**2142-10-7**].\n\n TECHNIQUE:  Sagittal T1, axial T1, T2, FLAIR, diffusion-weighted, and\n susceptibility sequences were obtained without contrast.  Following\n intravenous administration of Magnevist, sagittal MP-RAGE and axial\n T1-weighted images were obtained.  Axial and coronal reformats were generated\n and reviewed.\n\n FINDINGS:  Again seen are multiple hemorrhagic contusions with surrounding\n edema in the right frontal, left basal ganglia, and left temporal regions.\n Multiple foci of abnormal susceptibility are seen at the [**Doctor Last Name 34**]-white matter\n junction in bilateral frontal lobes which are seen to bloom on the gradient\n echo sequences suggestive of microhemorrhages.  There is no hydrocephalus or\n midline shift.  There is no intraventricular extension of hemorrhage.\n Diffusion-weighted images reveal areas of slow diffusion within the left\n caudate head, distinct from the regions of hemorrhage, representing areas of\n ischemia.  The ischemic changes are likely secondary to injury to the left\n lenticulostriate arteries.  The visualized globes and mastoid air cells are\n unremarkable.  Major intracranial flow voids appear normal.  Abnormal signal\n intensity is seen within the right maxillary sinus, ethmoid and bilateral\n sphenoid sinuses.  Correlating with the CT, multiple facial fractures are\n present with hemosinus.\n\n IMPRESSION:\n 1.  Multiple hemorrhagic contusions in bilateral cerebral hemispheres as\n demonstrated on the previous CT.  In addition, there are multiple tiny foci of\n microhemorrhages, predominantly at the [**Doctor Last Name 34**]-white matter junction in the\n frontal lobes consistent with diagnosis of diffuse axonal injury.\n 2.  Areas of ischemia in the left caudate head likely from injury to the\n lenticulostriate branches.  The A1 and M1 segments of the anterior and middle\n cerebral arteries respectively appear grossly normal.  Please note that\n lenticulostriate arteries are much below the resolution of noninvasive imaging\n and cannot be reliably evaluated on CTA/MRA.\n\n Findings discussed by Dr. [**First Name (STitle) 685**] [**Name (STitle) 686**] with [**Last Name (NamePattern1) 33402**] on [**2142-10-9**]\n at 1:00 p.m.\n                                                             (Over)\n\n [**2142-10-8**] 7:58 PM\n MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 43163**]\n Reason: please evaluate for intracranial process, diffuse axonal inj\n Admitting Diagnosis: BLUNT TRAUMA\n  Contrast: MAGNEVIST Amt: 17\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n\n"
+    },
+    {
+      "note_id": 42001,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 251,
+          "end": 254,
+          "code": "E879.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",
+          "type": "Human",
+          "covered_text": "TBI"
+        },
+        {
+          "begin": 255,
+          "end": 262,
+          "code": "E849.7",
+          "code_system": "ICD-9-CM",
+          "description": "Accidents occurring in residential institution",
+          "type": "Human",
+          "covered_text": "s/p MCC"
+        },
+        {
+          "begin": 255,
+          "end": 262,
+          "code": "E819.2",
+          "code_system": "ICD-9-CM",
+          "description": "Motor vehicle traffic accident of unspecified nature injuring motorcyclist",
+          "type": "Human",
+          "covered_text": "s/p MCC"
+        },
+        {
+          "begin": 3132,
+          "end": 3160,
+          "code": "853.01",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified intracranial hemorrhage following injury, without mention of open intracranial wound, with no loss of consciousness",
+          "type": "MapType.APPROX",
+          "covered_text": "intraparenchymal hemorrhages"
+        },
+        {
+          "begin": 9587,
+          "end": 9609,
+          "code": "807.03",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of three ribs",
+          "type": "Human",
+          "covered_text": "Multiple rib fractures"
+        },
+        {
+          "begin": 9904,
+          "end": 9922,
+          "code": "959.9",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified injury to unspecified site",
+          "type": "MapType.APPROX",
+          "covered_text": "RUL pulm contusion"
+        },
+        {
+          "begin": 9967,
+          "end": 9978,
+          "code": "807.03",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of three ribs",
+          "type": "MapType.MULTI",
+          "covered_text": "b/l rib fxs"
+        },
+        {
+          "begin": 10174,
+          "end": 10177,
+          "code": "813.22",
+          "code_system": "ICD-9-CM",
+          "description": "Fracture of shaft of ulna (alone), closed",
+          "type": "MapType.APPROX",
+          "covered_text": "uln"
+        },
+        {
+          "begin": 10154,
+          "end": 10180,
+          "code": "813.80",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of unspecified part of forearm",
+          "type": "MapType.APPROX",
+          "covered_text": "R non-displaced rad/uln fx"
+        },
+        {
+          "begin": 14085,
+          "end": 14095,
+          "code": "802.8",
+          "code_system": "ICD-9-CM",
+          "description": "Other facial bones closed fracture",
+          "type": "MapType.APPROX",
+          "covered_text": "facial fxs"
+        }
+      ],
+      "text": "Admission Date:  [**2142-10-4**]              Discharge Date:   [**2142-10-17**]\n\nDate of Birth:  [**2110-3-5**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nSulfa (Sulfonamide Antibiotics)\n\nAttending:[**First Name3 (LF) 371**]\nChief Complaint:\nTBI s/p MCC\n\nMajor Surgical or Invasive Procedure:\n[**10-4**] R ICP bolt placement\n[**10-11**] perc trach / PEG\n\nHistory of Present Illness:\n32M s/p MCC. Found unconscious but breathing at scene with blood\ntinged sputum. Brought to [**Hospital1 18**] and was moving extremities x4,\nnon-verbal but not protecting airway. Intubated in the field. CT\nrevealed bilateral IPH.\n\nPast Medical History:\nPMH: none\nPSH: adenoidectomy, tonsillectomy, knee arthroscopy\n\nSocial History:\nNoncontributory\n\nFamily History:\nNoncontributory\n\nPhysical Exam:\nVS: T 100, HR 96, BP 123/61, RR 27, SaO2 96% TM40%\nGen: A/Ox2\nHEENT: trach in place, midline, no surrounding erythema\nCV: RRR, no M/R/G\nP: coarse breath sounds throughout\nGI: PEG in place, soft, no rebound, no guarding, nondistended\nGU: foley in place\nExt: WWP, No edema, abrasions to RLE\n\n\nPertinent Results:\n[**2142-10-16**] 01:58AM BLOOD WBC-13.1* RBC-3.17* Hgb-9.4* Hct-27.5*\nMCV-87 MCH-29.7 MCHC-34.2 RDW-13.9 Plt Ct-854*\n[**2142-10-4**] 01:40PM BLOOD WBC-13.5* RBC-4.43* Hgb-13.5* Hct-40.0\nMCV-90 MCH-30.5 MCHC-33.8 RDW-12.7 Plt Ct-269\n[**2142-10-16**] 01:58AM BLOOD Glucose-121* UreaN-21* Creat-0.6 Na-137\nK-4.5 Cl-102 HCO3-26 AnGap-14\n[**2142-10-5**] 01:55AM BLOOD Glucose-129* UreaN-8 Creat-0.9 Na-136\nK-4.0 Cl-105 HCO3-20* AnGap-15\n[**2142-10-4**] 01:40PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG\nBnzodzp-NEG Barbitr-NEG Tricycl-NEG\n\nCT head [**10-4**]:\nFINDINGS: This study is technically limited due to motion\nartifact. There are multiple foci of intraparenchymal hemorrhage\nseen within the grey-white matter junction of the left frontal\nlobe and right frontal lobe towards the vertex, as well as the\nleft basal ganglia and left internal capsule. A tiny focus of\nextra-axial hemorrhage adjacent to the right frontal\nintraparenchymal\nhemorrhage also is likely present suggestive of subarachnoid\nblood. Thin hyperdensity layering along the left tentorium may\nrepresent a tiny subdural hemorrhage. There is no evidence of\nedema, mass effect or shift of normally midline structures. The\n[**Doctor Last Name 352**]-white matter interface is well preserved with no evidence\nof acute major vascular territorial infarct. The ventricles and\nsulci are normal in size and configuration.\n\nThe extracalvarial soft tissues show right frontal scalp and\nperiorbital hematoma. Multiple facial fractures are identified\nof the right superior lateral orbital wall and inferolateral\norbital wall. There is a fracture of the floor of the right\norbit with a displaced fragment displaced in the right maxillary\nsinus without herniation of extraocular musculature.\nOpacification in the right maxillary sinus and right ethmoid air\ncells suggests hemorrhage from the multiple facial fractures.\nThe skull base is intact without fracture. The bilateral globes\nare intact with lenses in place bilaterally.\nNo retrobulbar hematoma present.\n\nIMPRESSION:\n1. Multiple intraparenchymal hemorrhages compatible with diffuse\naxonal injury.\n2. Tiny extra-axial hemorrhage noted adjacent to the right\nfrontal intraparenchymal hemorrhage, likely subarachnoid blood.\nSmall subdural hemorrhage layering over the left tentorium.\n3. Facial fractures as described above. A dedicated\nmaxillofacial CT would be recommended when possible for further\nevaluation.\n\nCThead [**10-5**]:\nFINDINGS: Right frontal parenchymal hemorrhage with a\nfluid-fluid level seen dependently is redemonstrated, unchanged\nin size. Foci of left frontal and temporal parenchymal\nhemorrhage are also redemonstrated, also appearing unchanged.\nThere is no new intracranial hemorrhage, edema, mass effect, or\nvascular territorial infarction. Ventricles and sulci are\nunchanged in size\nand in configuration. An intracranial bolt is visualized, placed\nvia a right frontal approach.\n\nOsseous structures are notable for a comminuted fracture\ninvolving the superolateral corner of the right orbit anteriorly\nwith adjacent extraconal hematoma slightly impinging on the\nglobe. Additionally, there is a comminuted right orbital floor\nfracture with a fallen osseous fragment, though no evidence of\nentrapment of the inferior rectus extraocular muscle. A\nminimally displaced fracture is also visualized in the right\nanterior maxillary sinus wall. There is expected near total\nopacification of the right maxillary sinus. The pterygoid\nplates, and zygomatic arches are intact. The lamina papyracea\nare intact. The nasal septum is intact, and notable for a\nmoderate-sized rightward nasal septal spur. There is a minimally\ndisplaced right nasal bone fracture. Note is made of partial\nopacification of ethmoidal air cells bilaterally, greater on the\nright than left as well as moderate mucosal thickening in the\nleft maxillary sinus, sphenoid sinus and frontal sinuses. The\nsphenoid sinus contains a single dominant septum which\nterminates near the midline.\n\nIMPRESSION:\n1. Bilateral parenchymal hemorrhage as described above, similar\nto the most recent comparison study.\n2. Right facial fractures as characterized above.\n\nCThead [**10-8**]\nFINDINGS: Again seen are multiple evolving intraparenchymal\nhematomas, without significant interval change in size since the\nprior study of [**2139-10-6**]. There is mild interval increase in the\nedema surrounding these hemorrhagic contusions, especially\nsurrounding the large hematoma in the right frontal vertex. The\nlarge right frontal vertex hematoma now measures 2.8 x 2.3 cm,\nwhich allowing for differences in technique is unchanged since\nthe prior study 3.0 x 2.2 cm. Mild effacement of the right\nfrontal hemispheric sulci, is more prominent since the prior\nstudy. No significant shift of midline structures is seen.\nMultiple parenchymal hematomas in the left frontal lobe, left\ncaudate nucleus, basal ganglia, temporal lobe, are again\nredemonstrated. No new intracranial hematoma is seen. The\nventricles and sulci are unchanged in appearance. There is no\nintraventricular extension of hemorrhage. The basal cisterns are\nnormal. Multiple facial fractures including right superolateral\norbital fracture, right orbital floor fracture are again\nredemonstrated. There is diffuse opacification of the right\nmaxillary, right ethmoid sinuses, with air-fluid levels in both\nsphenoid sinuses.\n\nIMPRESSION:\n1. Evolving intraparenchymal hematomas, without significant\ninterval change in size. Mildly increased surrounding edema and\nmass effect.\n2. No evidence of transtentorial herniation. No new parenchymal\nhematomas.\n\nLUE duplex [**10-7**]\nFINDINGS: Grayscale and Doppler son[**Name (NI) 1417**] of left internal\njugular, subclavian, axillary, brachial veins were performed.\nThere is normal compressibility, flow and augmentation\nthroughout. The left cephalic and basilic veins are normal.\n\nIMPRESSION: No evidence of DVT in the left upper extremity.\n\nMR [**Last Name (Titles) **] [**10-8**]:\nFINDINGS: Cervical vertebrae reveal normal height, signal\nintensity and alignment. Craniocervical junction appears normal.\nCervical spinal cord reveals normal morphology and signal\nintensity. Pre- and paravertebral and posterior paraspinal soft\ntissues appear unremarkable. Fluid signal is seen within the\noropharynx and around the endotracheal tube, likely secondary to\nintubation.\n\nThere is no spinal canal or neural foraminal narrowing seen.\nIntervertebral discs are normal in height and signal\nintensities. There is no evidence of ligamentous injuries.\n\nIMPRESSION: Unremarkable MRI of the cervical spine.\n\nLENI [**10-12**]\nFINDINGS: [**Doctor Last Name **]-scale and Doppler son[**Name (NI) 1417**] of bilateral common\nfemoral, superficial femoral, popliteal, posterior tibial and\nperoneal veins were performed. There is normal compressibility,\nflow and augmentation.\n\nIMPRESSION: No evidence of DVT.\n\nCT torso [**10-14**]\nFINDINGS:\n\nCHEST: The visualized portion of the thyroid is unremarkable.\nThere is no axillary, hilar, or mediastinal lymphadenopathy. A\ntracheostomy tube is in place. The aorta is of a normal caliber\nalong its course without evidence of injury. The pulmonary\nartery shows no large central filling defect. There is no\npericardial effusion.\n\nAssessment of fine detail of the lungs is slightly limited by\nmild motion artifact. Bibasilar consolidations have worsened\ncompared to prior study. Additionally, the previously described\nright lower lobe anterior basal segment contusion demonstrates a\nmore confluent well-rounded appearance, possibly representing\nrounded atelectasis or a focal area of diaphragmatic eventration\n(2:45), measuring 26 x 17 mm. There is no large pleural effusion\nor pneumothorax.\n\nABDOMEN: A gastrostomy tube is in place. Extensive streak\nartifact is seen from the oral contrast administered as well as\nfrom excreted IV contrast in the renal collecting systems. There\nis no evidence of extraluminal contrast or free air. There is no\nperihepatic or perisplenic fluid. The kidneys enhance with and\nexcrete contrast symmetrically. The visualized portion of large\nand small bowel show significant colonic fecal load. The aorta\nshows no evidence of injury.\n\nBONES: Again are seen fractures of the anterior portions of the\nleft second and third ribs as well as the anterior portions of\nthe right second, third, fourth, fifth, and sixth ribs.\n\nIMPRESSION:\n1. Worsening bibasilar consolidations as described above.\n2. Status post PEG tube placement without evidence of free air\nor extraluminal contrast.\n3. Multiple rib fractures as described above.\n\nBrief Hospital Course:\nThe patient was admitted to the Trauma Surgical Intensive Care\nUnit for evaluation and treatment of polytrauma following MCC.\nAttending of record was Dr. [**Last Name (STitle) **] of the Acute Care Surgical\nService.\n\nInjuries at time of admission:\n- RUL pulm contusion\n- multifocal areas of probable aspiration\n- b/l rib fxs(2nd, 3rd L, 5th on R)\n- intraparenchymal hem L frontal lobe\n- focus of SAH at R frontovertex\n- R inf+sup orbit floor [**Last Name (LF) **], [**First Name3 (LF) **] sinus fx\n- R non-displaced rad/uln fx\n\nOn [**10-4**] the patient underwent placement of R bolt for ICP\nmonitoring which went well without complication (reader referred\nto the Operative Notes for details).  Patient arrived to the\nTrauma Surgical Intensive Care Unit NPO, on IV fluids, with a\nfoley catheter,  and fentanyl for pain control.  The patient was\nhemodynamically stable.\n\nNeuro: TBI with subsequent MRI concerning for [**Doctor First Name **]. The patient\nreceived intermittent mannitol with good effect and fentanyl\nwith adequate pain control. ICPs remained stable and bolt was\nsubsequently dc'd.  Subsequent head CT demonstrated stable ICH.\nPt completed course of seizure prophylaxis. Pt's baseline mental\nstatus gradually improved throughout hospitalization with\npatient interactive and following some commands with family\nmembers.\n\nCV: The patient arrived to the ICU hemodynamically stable in\nsinus rhythm without pressor requirement.\n\nPulmonary: The patient arrived to the ICU intubated and was\nsubsequently extubated without complication and  comfortable on\ntrach mask with blow-by throughout the remainder of his\nadmission.  Concern for RUL, RML, RLL, LUL aspiration PNA with\nnegative sputum cultures. VAP protocol initiated with serial CXR\nand completion of antibiotic course.\n\nGI/GU/FEN: The patient was made NPO with IV fluids. Due to\nimpaired mental status and concern for inability to protect\nairway with PO intake and subsequently underwent PEG placement\nfor definitive enteral access through which he received tube\nfeeds at goal.  Patient's intake and output were closely\nmonitored, and IV fluid was adjusted when necessary.\nElectrolytes were routinely followed, and repleted when\nnecessary.\n\nID: The patient's white blood count and fever curves were\nclosely watched for signs of infection.\nWound care:  Incisional wounds were regularly monitored for\nsigns of infection of which there were none.\nAntibiotics:  The patient received vancomycin/cefepime/cipro for\nVAP protocol and completed antibiotic course during this\nadmission with >24 hours aefbrile at time of discharge.\n\nEndocrine: The patient's blood sugar was monitored throughout\nthis admission.  Insulin dosing was adjusted accordingly.\n\nHematology: The patient's complete blood count was examined\nroutinely; no transfusions were required.\n\nProphylaxis: The patient received subcutaneous heparin and\nvenodyne boots during this admission and was encouraged to get\nup and ambulate as early as possible.\n\nDisposition:  Discharge to rehabilitation facility.\n\nDischarge Medications:\n1. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2\ntimes a day).\n2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for Constipation.\n3. heparin (porcine) 5,000 unit/mL Solution Sig: One (1)\nInjection TID (3 times a day).\n4. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal\nHS (at bedtime) as needed for constipation.\n5. ferrous sulfate 300  mg (60 mg iron) Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n6. famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12\nhours).\n7. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO Q6H\n(every 6 hours).\n8. olanzapine 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)\nas needed for agitation.\n9. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n10. lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q4H (every 4\nhours) as needed for agitation.\n11. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n12. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at\nbedtime).\n13. Multi-Vitamins W/Iron     Tablet, Chewable Sig: One (1)\nTablet PO DAILY (Daily).\n14. acetaminophen 650 mg/20.3 mL Solution Sig: One (1)  PO Q6H\n(every 6 hours) as needed for fever/pain.\n15. ChlorproMAZINE 25 mg IV Q4H:PRN hiccups\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 85**] - [**Location (un) 86**]\n\nDischarge Diagnosis:\n30M s/p MCC p/w TBI/[**Doctor First Name **], facial fxs, R rad/ulna fx, mult rib fxs\nreq intubation in ED s/p trach/peg\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\nDischarge Instructions:\nPlease call your doctor or nurse practitioner if you experience\nthe following:\n*You experience new chest pain, pressure, squeezing or\ntightness.\n*New or worsening cough, shortness of breath, or wheeze.\n*If you are vomiting and cannot keep down fluids or your\nmedications.\n*You are getting dehydrated due to continued vomiting, diarrhea,\nor other reasons. Signs of dehydration include dry mouth, rapid\nheartbeat, or feeling dizzy or faint when standing.\n*You see blood or dark/black material when you vomit or have a\nbowel movement.\n*You experience burning when you urinate, have blood in your\nurine, or experience a discharge.\n*Your pain is not improving within 8-12 hours or is not gone\nwithin 24 hours. Call or return immediately if your pain is\ngetting worse or changes location or moving to your chest or\nback.\n*You have shaking chills, or fever greater than 101.5 degrees\nFahrenheit or 38 degrees Celsius.\n*Any change in your symptoms, or any new symptoms that concern\nyou.\n.\nGeneral Discharge Instructions:\nPlease resume all regular home medications , unless specifically\nadvised not to take a particular medication.  Also, please take\nany new medications as prescribed.\nPlease get plenty of rest, continue to ambulate several times\nper day, and drink adequate amounts of fluids.  Avoid lifting\nweights greater than [**5-29**] lbs until you follow-up with your\nsurgeon, who will instruct you further regarding activity\nrestrictions.\nAvoid driving or operating heavy machinery while taking pain\nmedications.\nPlease follow-up with your surgeon and Primary Care Provider\n(PCP) as advised.\nIncision Care:\n*Please call your doctor or nurse practitioner if you have\nincreased pain, swelling, redness, or drainage from the incision\nsite.\n*Avoid swimming and baths until your follow-up appointment.\n*You may shower, and wash surgical incisions with a mild soap\nand warm water.  Gently pat the area dry.\n\nFollowup Instructions:\nPlease follow-up in [**Hospital 2536**] clinic within 1 week of discharge. Call\n([**Telephone/Fax (1) 2537**] with any questions and to schedule an appointment\n\n\nCompleted by:[**2142-10-17**]"
+    }
+  ]
+}

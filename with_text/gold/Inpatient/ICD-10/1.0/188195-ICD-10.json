@@ -1,0 +1,59 @@
+{
+  "hadm_id": 188195,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 15375,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 423,
+          "end": 446,
+          "code": "C83.30",
+          "code_system": "ICD-10-CM",
+          "description": "Diffuse large B-cell lymphoma, unspecified site",
+          "type": "Human",
+          "covered_text": "recurrent bone lymphoma"
+        },
+        {
+          "begin": 2858,
+          "end": 2877,
+          "code": "B18.1",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic viral hepatitis B without delta-agent",
+          "type": "Human",
+          "covered_text": "Chronic hepatitis B"
+        },
+        {
+          "begin": 2964,
+          "end": 2972,
+          "code": "M54.40",
+          "code_system": "ICD-10-CM",
+          "description": "Lumbago with sciatica, unspecified side",
+          "type": "Human",
+          "covered_text": "sciatica"
+        },
+        {
+          "begin": 5426,
+          "end": 5455,
+          "code": "R22.0",
+          "code_system": "ICD-10-CM",
+          "description": "Localized swelling, mass and lump, head",
+          "type": "Human",
+          "covered_text": "Tongue/submandibular swelling"
+        },
+        {
+          "begin": 5510,
+          "end": 5533,
+          "code": "R22.1",
+          "code_system": "ICD-10-CM",
+          "description": "Localized swelling, mass and lump, neck",
+          "type": "Human",
+          "covered_text": "submandibular swelling."
+        }
+      ],
+      "text": "Admission Date:  [**2146-7-22**]              Discharge Date:   [**2146-7-23**]\n\nDate of Birth:  [**2106-4-10**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nNsaids / Percocet / Morphine Sulfate / Ativan / adhesive tape\n\nAttending:[**Last Name (NamePattern4) 290**]\nChief Complaint:\nTongue and mouth swelling\n\nMajor Surgical or Invasive Procedure:\nnone\n\n\nHistory of Present Illness:\n40 year old male with history of recurrent bone lymphoma (DLBCL\non path) s/p 6 cycles of R-[**Hospital1 **], chronic HBV on lamivudine,\nCrohn's disease who underwent excision of left submandibular\nduct stones yesterday by ENT, now with significant submandibular\nswelling L>R and difficulty speaking starting last night.  He\nhas been handling his secretions without difficulty and\ncomplains of some mild tongue swelling as well.  Some difficulty\nwith swallowing as well, but no fevers, chills, or\nnausea/vomiting.  He called his ENT surgeon (Dr. [**First Name (STitle) **] and was\ninstructed to report to the ED for further management.\n\nHe was admitted to the Onco-Hospitalist service earlier this\nmonth with presumed SBO, started on Cefepime and Flagyl,\ndischarged on moxifloxacin through his WBC nadir.\n\nIn the ED, initial vs were: 99 100 120/76 18 97% RA. Patient was\ngiven one dose of zosyn 4.5 gm IV and solumedrol 125mg IV.  ENT\nwas consulted and did not appreciate any swelling in the vocal\ncords, recommended administration of Unasyn and dexamethasone,\nand to admit to the ICU overnight for airway monitoring.  The ED\nphysicians were concerned about Ludwig's angina, based on the\nappearance of the tongue and mucosa in the submandibular area.\nVitals on transfer: 114/72, 72, 14, 95% RA\n\nIn the ICU, he is feeling a bit better, swallowing easier, and\nbreathing without extra effort.\n\n\nPast Medical History:\nONCOLOGIC HISTORY:  Initial diagnosis of primary bone lymphoma\nback in [**2136**].  Pathology was consistent with diffuse large\nB-cell\nlymphoma with some small lymphoid aggregates, initially treated\nwith two cycles of R-CHOP with severe GI toxicity but changed a\ncomplete response, had relapsed disease approximately five years\ntreated with a cycle of RCVP with severe GI toxicity with the\nsmall bowel obstruction requiring resection, did obtain another\nremission for two years.  He relapsed in [**2143**], did have\nradiation\nto some bony sites, does have multiple FDG avid lesions on his\nmost recent PET scan from [**Month (only) 1096**].  Initial right femur biopsy\nwas negative.  Removal of the right rib did not demonstrate any\nlymphoma.  He did have a CT-guided bone biopsy of his right\nfemur\nwhich demonstrated recurrent disease with diffuse large B-cell\nlymphoma.\n\nOther medical history:\n# Crohn's disease - s/p 6MP and small bowel resections x3, no\nclear flares in 10 years though chemotherapy associated bouts of\n\nenteritis only on mesalamine.\n# Chronic hepatitis B - likely due to transfusion, dx [**2-/2146**],\ncurrently on lamivudine.\n# Chronic LBP/sciatica\n# NSVT\n\nRECENT TREATMENT HISTORY:\nCycle 1 of [**Hospital1 **]-[**3-7**], first dose of Rituxan was on [**3-4**]\nCycle 2 R-[**Hospital1 **] [**3-28**]\nCycle 3 R-[**Hospital1 **] [**2146-4-18**]  Rituximab [**4-15**], complicated by\ntachycardia\nCycle 4 R-[**Hospital1 **] [**2146-5-13**]\nCycle 5 R-[**Hospital1 **] [**2146-6-3**]\nCycle 6 R-[**Hospital1 **] [**2146-6-27**]\n\n\nSocial History:\nHe denies alcohol, tobacco, or illicit drugs.  He is quite\nphysically active at baseline with biking.  Works in IT.\nMarried, he lives with his wife and a dog.\n\n\nFamily History:\nAunt with ovarian Ca.  Sister has asthma.  Otherwise family\nhistory unremarkable and markedly negative for inflammatory\nbowel disease.\n\nPhysical Exam:\nOn admission:\nVitals: T 97.1, HR: 66, BP: 115/74(83), RR: 13, SpO2: 95%\nGeneral: Alert, oriented, no acute distress, soft voice\nHEENT: PERRL, sclera anicteric, MMM, oropharynx clear; increased\nerythema and swelling underneath tongue, especially over left\nside with no obvious exudate\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales,\nrhonchi\nCV: Regular rate and rhythm, normal S1/S2, no murmurs, rubs,\ngallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n\nOn discharge:\nHEENT: improved swelling beneath tongue with improved speech and\npain, easier swallowing\nOtherwise, unchanged\n\n\nPertinent Results:\nLABS:\n\n[**2146-7-22**] 10:58AM BLOOD WBC-13.5* RBC-4.16* Hgb-12.4* Hct-36.2*\nMCV-87 MCH-29.9 MCHC-34.4 RDW-18.1* Plt Ct-357\n[**2146-7-22**] 11:50AM BLOOD WBC-11.6* RBC-3.71* Hgb-11.2* Hct-32.7*\nMCV-88 MCH-30.2 MCHC-34.2 RDW-19.2* Plt Ct-311\n[**2146-7-22**] 11:50AM BLOOD Neuts-80* Bands-2 Lymphs-8* Monos-7 Eos-0\nBaso-0 Atyps-0 Metas-2* Myelos-1*\n\n[**2146-7-22**] 11:50AM BLOOD Glucose-89 UreaN-8 Creat-0.9 Na-141 K-3.9\nCl-101 HCO3-29 AnGap-15\n[**2146-7-22**] 11:50AM BLOOD Calcium-8.5 Phos-4.9* Mg-1.8\n[**2146-7-22**] 10:58AM BLOOD ALT-20 AST-28 LD(LDH)-274* AlkPhos-72\nTotBili-0.4\n[**2146-7-22**] 11:59AM BLOOD Lactate-1.2\n\nMICRO:  Blood cultures x2 - pending\n\nIMAGING: none\n\n\nBrief Hospital Course:\n40 year old male with history of NHL/DLBCL s/p [**Hospital1 **] and on\nneupogen, presenting on POD #1 for submandibular duct stone\nremoval with tongue swelling and difficulty speaking, admitted\nto the ICU for airway monitoring.\n\n# Tongue/submandibular swelling: He was POD #1 from his ENT\nprocedure, with resulting submandibular swelling.  Per ENT, they\nwere concerned about his airway and recommended monitoring in\nthe ICU to ensure airway management if necessary.  He has been\nhandling his own secretions and ENT evaluation confirmed that\nthere was no vocal cord edema.  There was some concern for\nLudwig's angina, with his concomitant neck pain and location of\nhis inflammation (submandibular), but his presentation was most\nconsistent with post-operative swelling.  We continued\nantibiotic coverage with Unasyn 3g IV q6hrs and dexamethasone\n10mg IV q8hrs x2 to control the swelling.  A nasal trumpet was\nkept by the bedside in the event of respiratory distress.  He\nwill be discharged on 10 days of augmentin.  His exam improved\nand the patient felt noticeably better on the day of discharge.\n\n\n# Pain control: We tried to control his pain with fentanyl\nboluses, as he felt this was most helpful for him.  We would\nadvise to continue at home with his as-needed regimen of\noxycodone, and to contact ENT for further pain options if this\nis not adequately controlling his pain.\n\n\nMedications on Admission:\n-budesonide 3 mg Capsule, Three (3) Capsule daily\n-sulfamethoxazole-trimethoprim 800-160 mg MWF\n-lamivudine 100 mg daily\n-mesalamine DR 800 mg Tablet, 6 tablets daily\n-cholestyramine-sucrose 4 gram [**Hospital1 **]\n-simethicone 40-80 mg QID PRN\n-ondansetron HCl 4-8 mg q8h PRN\n-prochlorperazine maleate 10 mg q6h PRN\n\n\nDischarge Medications:\n1. budesonide 3 mg Capsule, Ext Release 24 hr Sig: Three (3)\nCapsule, Ext Release 24 hr PO DAILY (Daily).\n2. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1)\nTablet PO MWF (Monday-Wednesday-Friday).\n3. lamivudine 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n4. mesalamine 400 mg Tablet, Delayed Release (E.C.) Sig: Four\n(4) Tablet, Delayed Release (E.C.) PO TID (3 times a day).\n5. cholestyramine-sucrose 4 gram Packet Sig: One (1) Packet PO\nBID (2 times a day).\n6. simethicone 80 mg Tablet, Chewable Sig: 0.5-1 Tablet,\nChewable PO QID (4 times a day) as needed for pain.\n7. ondansetron HCl 4 mg Tablet Sig: 1-2 Tablets PO every eight\n(8) hours as needed for nausea.\n8. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO\nevery six (6) hours as needed for nausea.\n9. Augmentin 875-125 mg Tablet Sig: One (1) Tablet PO twice a\nday for 10 days.\nDisp:*20 Tablet(s)* Refills:*0*\n10. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO every four (4)\nhours as needed for pain.\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPost-operative submandibular duct swelling\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDear Mr. [**Known lastname **],\nIt was a pleasure caring for you at the [**Hospital1 827**].  You were admitted to the ICU for tongue and\nmouth swelling shortly after your ENT procedure.  We monitored\nyou closely to make sure that your breathing was not compromised\nand felt that you were safe to return home since your symptoms\nhave improved and you have not had any respiratory distress.\n\nFollowup Instructions:\nPlease follow-up with your ENT physician as previously\nscheduled.\n\nYou have the following appointments scheduled at [**Hospital1 18**] already:\n\nDepartment: BMT/ONCOLOGY UNIT\nWhen: FRIDAY [**2146-7-29**] at 1:30 PM [**Telephone/Fax (1) 447**]\nBuilding: Fd [**Hospital Ward Name 1826**] Building ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) 3971**]\nCampus: EAST     Best Parking: Main Garage\n\nDepartment: RADIOLOGY\nWhen: FRIDAY [**2146-7-29**] at 3:40 PM\nWith: XMR [**Telephone/Fax (1) 327**]\nBuilding: CC [**Location (un) 591**] [**Hospital 1422**]\nCampus: WEST     Best Parking: [**Street Address(1) 592**] Garage\n\nDepartment: RADIOLOGY\nWhen: FRIDAY [**2146-7-29**] at 4:20 PM\nWith: XMR [**Telephone/Fax (1) 327**]\nBuilding: CC [**Location (un) 591**] [**Hospital 1422**]\nCampus: WEST     Best Parking: [**Street Address(1) 592**] Garage\n\n\n                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]\n\n"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "hadm_id": 125422,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 48918,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 339,
+          "end": 346,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "MapType.EXACT",
+          "covered_text": "hypoxia"
+        },
+        {
+          "begin": 460,
+          "end": 464,
+          "code": "496",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic airway obstruction, not elsewhere classified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 1003,
+          "end": 1023,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "atrial fibrillation."
+        },
+        {
+          "begin": 1311,
+          "end": 1316,
+          "code": "93.90",
+          "code_system": "ICD-9-PCS",
+          "description": "Continuous positive airway pressure [CPAP]",
+          "type": "MapType.APPROX",
+          "covered_text": "Bipap"
+        },
+        {
+          "begin": 1503,
+          "end": 1506,
+          "code": "V49.86",
+          "code_system": "ICD-9-CM",
+          "description": "Do not resuscitate status",
+          "type": "Human",
+          "covered_text": "DNR"
+        },
+        {
+          "begin": 1865,
+          "end": 1869,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Afib"
+        },
+        {
+          "begin": 1894,
+          "end": 1915,
+          "code": "333.94",
+          "code_system": "ICD-9-CM",
+          "description": "Restless legs syndrome (RLS)",
+          "type": "Human",
+          "covered_text": "restless leg syndrome"
+        },
+        {
+          "begin": 1917,
+          "end": 1931,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "hypothyroidism"
+        },
+        {
+          "begin": 1933,
+          "end": 1943,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 1944,
+          "end": 1951,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "Human",
+          "covered_text": "anxiety"
+        },
+        {
+          "begin": 5872,
+          "end": 5890,
+          "code": "428.33",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, acute on chronic",
+          "type": "Human",
+          "covered_text": "dCHF EXACERBATION:"
+        },
+        {
+          "begin": 7602,
+          "end": 7617,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothyroidism:"
+        },
+        {
+          "begin": 7639,
+          "end": 7661,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "# Atrial fibrillation:"
+        },
+        {
+          "begin": 11778,
+          "end": 11804,
+          "code": "428.33",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, acute on chronic",
+          "type": "Human",
+          "covered_text": "Moderate dCHF exacerbation"
+        },
+        {
+          "begin": 11807,
+          "end": 11823,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "description": "Anxiety state, unspecified",
+          "type": "Human",
+          "covered_text": "Anxiety Disorder"
+        }
+      ],
+      "text": "Admission Date:  [**2148-4-5**]              Discharge Date:   [**2148-4-9**]\n\n\nService: MEDICINE\n\nAllergies:\nDicloxacillin / Beta-Blockers (Beta-Adrenergic Blocking Agts) /\nShellfish / Aspirin / Epinephrine / Cefaclor / Neomycin /\nclindamycin / Bacitracin / Clavulanic Acid / Latex\n\nAttending:[**First Name3 (LF) 4309**]\nChief Complaint:\nhypoxia\n\nMajor Surgical or Invasive Procedure:\nNone\n\nHistory of Present Illness:\n[**Age over 90 **] yo F with history of COPD, CHF sent from [**Hospital 102735**] rehab with\nworsening SOB, and hypoxia. Lasix recently decreased because\nurinating too much. Per report at [**Hospital 100**] rehab, patient was\nfound at 1am sleeping on the floor without obvious injury. The\nday of admission she was agitated, uncooperative wtih staff, and\ndelirious. 02 saturation 76% on RA upto 92% on 4L. She has had\nsevere anxiety this week and started lorazepam prn 4 days ago.\nShe received 0.5 mg today at 10:50 AM.\n.\nIn the ED, initial vs were: 99.2 66 153/80 22 96%. She was in\natrial fibrillation. Labs notable for BNP of 7024. ABG pH 7.40\npCO2 57 pO2 137 HCO3 37. CXR was concerning for fluid overload -\ncant r/o PNA. Patient was given Albuterol Neb,Ipratropium\nBromide Neb, Levofloxacin 750mg, Furosemide 40mg,\nMethylPREDNISolone Sodium Succ 125mg, Vancomycin 1g. She was\nstarted on Bipap in the ED. She was given Ativan 2mg IV x2 for\nanxiety/agitation, and 4mg IV morphine x2. Prior to transfer, P\n70 BP155/65 R O2 sat 96 on bipap 10/4 28% FiO2.\n.\nThe patient notably has a DNR order in her records. Her daughter\nwho is the HCP was [**Name (NI) 653**] in the [**Name (NI) **]. She lives in [**State 108**],\nand confirmed that she is okay to intubate, continues to be DNR.\n\n.\n\n.\nOn the floor, the patient is sleepy, with BIPAP mask on. While\nbeing moved, she was more awake and agitated.\n\n\nPast Medical History:\n-COPD\n-gait disturbance\n-Afib\n-h/o subdural s/p fall\n-restless leg syndrome\n-hypothyroidism\n-depression/anxiety\n\n\nSocial History:\nAmbulates with walker with assitance.\n\n\nFamily History:\nNon contributory\n\n\nPhysical Exam:\nVitals: BP: 156/64 P: 71 R: 18 O2: 96%\nGeneral: Arousable to voice, bipap in place, no acute distress\nHEENT: Sclera anicteric. Unable to examine mouth given BIPAP\nmask\nNeck: supple, unable to assess JVP, no LAD\nLungs: Crackles at R base, no wheezes\nCV: Irregularly irregular. No murmurs\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\n\nDISCHARGE PHYSICAL EXAM:\nVS - 96.6(96.9)-142/62-68-18-99/2L\nGeneral: Anxious, A&Ox2 (oriented to person, writer, president,\nbut not exact date -stable).\nHEENT: Sclera anicteric. signs of cataract surgery, with unequal\nbut reactive pupils.\nNeck: supple, unable to assess JVP, no LAD\nLungs: Crackles at bases bilaterally.\nCV: Irregularly irregular. No murmurs, distant.\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly.\nSkin: multiple areas of ecchymoses, no new lesions noted.\nExt: warm, well perfused, 2+ pulses, no clubbing, minimal edema,\nwith chronic skin changes. Ecchymosis on R. arm.  Ankles -FROM,\nwith some tenderness of R ankle on movement\n\nPertinent Results:\nAdmission Labs:\n[**2148-4-5**] 05:00PM BLOOD WBC-5.2 RBC-2.84* Hgb-10.0* Hct-30.0*\nMCV-106* MCH-35.1* MCHC-33.2 RDW-19.2* Plt Ct-289\n[**2148-4-5**] 05:00PM BLOOD Neuts-76.9* Bands-0 Lymphs-15.5*\nMonos-4.5 Eos-1.6 Baso-1.4\n[**2148-4-5**] 05:00PM BLOOD Hypochr-2+ Anisocy-2+ Poiklo-1+\nMacrocy-3+ Microcy-OCCASIONAL Polychr-OCCASIONAL Ovalocy-1+\nSchisto-OCCASIONAL\n[**2148-4-5**] 05:00PM BLOOD PT-12.9 PTT-23.7 INR(PT)-1.1\n[**2148-4-5**] 05:00PM BLOOD Glucose-107* UreaN-29* Creat-0.9 Na-137\nK-5.0 Cl-98 HCO3-32 AnGap-12\n[**2148-4-6**] 02:56AM BLOOD CK(CPK)-39\n[**2148-4-5**] 05:00PM BLOOD proBNP-7024*\n[**2148-4-5**] 05:00PM BLOOD cTropnT-<0.01\n[**2148-4-6**] 02:56AM BLOOD CK-MB-3 cTropnT-<0.01\n[**2148-4-5**] 05:00PM BLOOD Calcium-8.5 Phos-3.7 Mg-2.3\n[**2148-4-6**] 02:56AM BLOOD VitB12-1374* Folate-GREATER TH\n[**2148-4-5**] 10:22PM BLOOD Type-ART pO2-65* pCO2-57* pH-7.40\ncalTCO2-37* Base XS-7\n[**2148-4-5**] 05:14PM BLOOD Lactate-0.8 K-5.0\n[**2148-4-5**] 05:45PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.014\n[**2148-4-5**] 05:45PM URINE Blood-NEG Nitrite-NEG Protein-TR\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-6.0 Leuks-NEG\n[**2148-4-5**] 05:45PM URINE RBC-1 WBC-1 Bacteri-NONE Yeast-NONE Epi-0\nTransE-<1\n[**2148-4-5**] 05:45PM URINE CastHy-3*\n.\nCXR: Limited study with mild pulmonary vascular congestion.\nLimited\nevaluation of the lung bases.\n\nECHO: The left and right atria are moderately dilated. There is\nmoderate symmetric left ventricular hypertrophy with normal\ncavity size and regional/global systolic function (LVEF>55%).\nThe estimated cardiac index is normal (>=2.5L/min/m2). Right\nventricular chamber size and free wall motion are normal. The\ndiameters of aorta at the sinus, ascending and arch levels are\nnormal. The aortic valve leaflets (3) are mildly thickened.\nThere is no aortic valve stenosis. Mild (1+) aortic\nregurgitation is seen. The mitral valve leaflets are\nstructurally normal. Trivial mitral regurgitation is seen. There\nis moderate pulmonary artery systolic hypertension. There is no\npericardial effusion.\n\nIMPRESSION: Symmetric left ventricular hypertrophy with\npreserved global and regional biventricular systolic function.\nPulmonary artery systolic hypertension. Mild aortic\nregurgitation.\n\nVIDEO SWALLOW STUDY: Penetration with thin and nectar\nconsistency. No aspiration. Very slow passage of contrast\nthrough the thoracic esophagus into the stomach with numerous\ntertiary waves seen.\n\n\nBrief Hospital Course:\n[**Age over 90 **] yo F with a history of COPD and CHF who presents with hypoxia\nand SOB, consistent with pulmonary edema.\n\n#dCHF EXACERBATION: Physical exam and CXR consistent with\npulmonary edema. Likely because lasix dose was recently\ndecreased. Patient's new ativan medication could have\npotentially make her hypercarbic, but shouldn't contribute to\nhypoxemia. She was afebrile and without leukocytosis. She\nreceived 1 dose of Levofloxacin in the ED. The patient was\nadmitted to the MICU with respiratory distress and agitation.\nShe was placed on BiPAP intermittently overnight but continued\nto remove the mask. Her SpO2 was at baseline. She continued to\nremain agitated but was somewhat redirectable. Swallow consult\nplaced and lasix 60mg PO daily ordered on day of transfer out of\nMICU. Patient continued to improved and had no shortness of\nbreath while on the floor. Her ECHO demonstrated The left and\nright atria are moderately dilated. There is moderate symmetric\nleft ventricular hypertrophy with normal cavity size and\nregional/global systolic function (LVEF>55%). The estimated\ncardiac index is normal (>=2.5L/min/m2). Right ventricular\nchamber size and free wall motion are normal. The diameters of\naorta at the sinus, ascending and arch levels are normal.\nIn conclusion, we recommend not decreasing the current lasix\ndose in this patient. She will need this dose titrated in the\nfuture to make sure she does not become volume overloaded again.\n\n# Anxiety: Patient had been suffering from this anxiety for\nseveral years. In hospital it was initially controlled with\nalprazolam. However, she was evaluated by inpatient psychiatry\nwho recommended to d/c alprazolam and use 0.25 mg lorazepam TID\n(about equivalent to the 0.125 mg alprazolam TID prn she had\nbeenreceiving at [**Hospital 100**] Rehab before recent increases).\n\nINACTIVE ISSUES:\n# Hypothyroidism: Continued synthroid.\n# Atrial fibrillation: Rate well controlled. Allergic to beta\nblockers. Not anticoagulated, likely because of history of\nfrequent falls.\n#COPD  - stable\n- albuterol neb\n- fluticasone nasal spray\n- Fluticasone/salmeterol discus\n#Code: DNR,DNI. Confirmed with HCP, patient\n#Communication: Patient. Pt's daughter in [**Name (NI) 108**]: [**Name (NI) 102736**]\n[**Name (NI) **] HCP - [**Telephone/Fax (1) 102737**]\n\nTRANSITIONAL ISSUES:\n#Hypothyroidism - per psych, patient will need outpatient workup\nof her hypothyroidism. PCP may need to reevaluate the need for\nthyroid supplementation in this patient. As per psych: The\npatient's daughter reports that she had equivocal TFTs in\nthepast and against the daughter's better judgment, her doctors\ndecided to [**Name5 (PTitle) **] thyroxine.  If in fact the thyroxine is not\nnecessary, tapering the thyroxine may contribute to a reduction\nin her experienced anxiety.\n\n#Anxiety - patient is being discharged to rehab on lorazepam, as\nper psych recommendation. Her sertraline dose may need to be\nadjusted based on how she is doing at the [**Hospital **] rehab in the\nnext few weeks.\n\nMedications on Admission:\n1. Morphine concentrate 5 mg/0.25 mL Oral Oral 1 Solution(s)\nEvery 4-6 hrs PRN\n2. alprazolam 0.25 mg po tid, qhs PRN\n3. fluticasone 110 mcg [**Hospital1 **]\n4. bisacodyl 10 mg PR daily\n5. albuterol sulfate Neb q4-6h PRN\n6. Arthritis Pain Relief (acetaminophen) 650 mg po q4-6h PRN\n7. Ergocalciferol (vitamin D2) 50,000 unit Tab q month\n8. Sodium chloride 0.65 % Nasal Spray qid PRN\n9. Phenylephrine 0.25 % Nasal Spray qid PRN\n10. Polyethylene glycol 3350 17 gram/dose daily PRN\n11. [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **]-Mg tr-alg ac-sod bicarb Chewable Tab q4-6h PRN\n12. Lorazepam 0.5 mg po q6h PRN\n13. Fluticasone 50 mcg Nasal Spray [**Hospital1 **] PRN\n14. Levothyroxine 112 mcg po daily\n15. Albuterol sulfate Inh Neb [**Hospital1 **] PRN\n16. Ipratropium inh [**Hospital1 **] PRN\n17. Guiatuss 100 mg/5 mL Oral Liquid q4-6 hrs PRN\n18. Sertraline 125 mg po daily\n19. Furosemide 40 mg po daily\n20. Mirapex 1 mg po daily\n21. Pramipexole 0.25 mg po daily\n\n\nDischarge Medications:\n1. morphine concentrate 100 mg/5 mL (20 mg/mL) Solution Sig: One\n(1)  PO every four (4) hours as needed for pain.\n2. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for\nconstipation.\n3. fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)\nSpray Nasal DAILY (Daily).\n4. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1)  Inhalation Q2H (every 2 hours) as\nneeded for shortness of breath.\n5. Arthritis Pain Relief (acetam) 650 mg Tablet Sig: One (1)\nTablet PO every 4-6 hours as needed for pain.\n6. ergocalciferol (vitamin D2) 50,000 unit Capsule Sig: One (1)\nCapsule PO once a month.\n7. sodium chloride 0.65 % Aerosol, Spray Sig: [**12-31**] Sprays Nasal\nQID (4 times a day) as needed for dry nose.\n8. phenylephrine HCl 0.5 % Spray, Non-Aerosol Sig: One (1) Spray\nNasal Q4H (every 4 hours) as needed for dry nose.\n9. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)  PO\nDAILY (Daily) as needed for constipation.\n10. alum-mag hydroxide-simeth 200-200-20 mg/5 mL Suspension Sig:\n15-30 MLs PO QID (4 times a day) as needed for upset stomach.\n11. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:\n[**12-31**] Disk with Devices Inhalation [**Hospital1 **] (2 times a day).\n12. levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n13. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation\nQ6H (every 6 hours) as needed for wheezing.\n14. guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6\nhours) as needed for cough.\n15. pramipexole 0.25 mg Tablet Sig: One (1) Tablet PO daily ().\n\n16. pramipexole 0.25 mg Tablet Sig: One (1) Tablet PO once a\nday.\n17. furosemide 20 mg Tablet Sig: Three (3) Tablet PO DAILY\n(Daily).\n18. camphor-menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical\nQID (4 times a day) as needed for itching.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 459**] for the Aged - LTC\n\nDischarge Diagnosis:\n1)Moderate dCHF exacerbation\n2)Anxiety Disorder\n\n\nDischarge Condition:\nMental Status: Confused - sometimes.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nDear Ms. [**Known lastname **],\n\nYou were admitted to our facility for exacerbation of your\nchronic heart failure as well as anxiety. We have given you\nmedicine to help with both, your trouble breathing, which\nimproved, as well as your anxiety.\n\nThe following changes were made to your medication regimen:\nSTART Lasix 60mg Daily\nSTART Sarna Lotion - as needed for itching\nSTART Lorazepam [**12-31**] tablet three times  a day as needed for\nanxiety\nSTOP Alprazolam\n\nFollowup Instructions:\nPlease call your primary care doctor when you leave the rehab\nfacility to schedule an appointment.\n\n\n\nCompleted by:[**2148-4-10**]"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "hadm_id": 128836,
+  "comment": "OP report for AAA repair missing- Unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 4759,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 224,
+          "end": 249,
+          "code": "I71.4",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal aortic aneurysm, without rupture",
+          "type": "Human",
+          "covered_text": "abdominal aortic aneurysm"
+        },
+        {
+          "begin": 461,
+          "end": 481,
+          "code": "E78.00",
+          "code_system": "ICD-10-CM",
+          "description": "Pure hypercholesterolemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hypercholesterolemia"
+        },
+        {
+          "begin": 483,
+          "end": 504,
+          "code": "Z85.828",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of other malignant neoplasm of skin",
+          "type": "Human",
+          "covered_text": "multiple skin cancers"
+        },
+        {
+          "begin": 524,
+          "end": 534,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 893,
+          "end": 942,
+          "code": "F17.200",
+          "code_system": "ICD-10-CM",
+          "description": "Nicotine dependence, unspecified, uncomplicated",
+          "type": "Human",
+          "covered_text": "He continues to smoke a pack of cigarettes daily."
+        },
+        {
+          "begin": 2796,
+          "end": 2801,
+          "code": "30233N1",
+          "code_system": "ICD-10-PCS",
+          "description": "Transfusion of Nonautologous Red Blood Cells into Peripheral Vein, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "prbcs"
+        },
+        {
+          "begin": 2806,
+          "end": 2829,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "acute\nblood loss anemia"
+        },
+        {
+          "begin": 4479,
+          "end": 4505,
+          "code": "I71.4",
+          "code_system": "ICD-10-CM",
+          "description": "Abdominal aortic aneurysm, without rupture",
+          "type": "Human",
+          "covered_text": "Abdominal Aortic Aneurysym"
+        }
+      ],
+      "text": "Admission Date:  [**2174-1-26**]              Discharge Date:   [**2174-2-1**]\n\nDate of Birth:  [**2100-4-4**]             Sex:   M\n\nService: SURGERY\n\nAllergies:\nCipro\n\nAttending:[**First Name3 (LF) 6088**]\nChief Complaint:\nabdominal aortic aneurysm\n\nMajor Surgical or Invasive Procedure:\n[**2174-1-26**]: Open abdominal aortic aneurysm repair\n\n\nHistory of Present Illness:\n73yom with enlarging AAA presents for elective open AAA repair.\n\nPast Medical History:\nHypercholesterolemia, multiple skin cancers, (basal/squamous),\ndepression.\n\nPAST SURGICAL HISTORY: Left knee meniscus repair many years ago.\ncystoscopy with kidney stone removal, multiple Mohs micrographic\nsurgery for skin cancers.\n\n\nSocial History:\nThe patient lives alone.  He cares for his wife who has multiple\nsclerosis.  She does live independently, however.  He has\nseveral children who live locally and in other countries.\n\nHe continues to smoke a pack of cigarettes daily.\nHe uses alcohol occasionally.\n\n\n\nFamily History:\nCAD/MI\nno known aneurysmal disease\n\nPhysical Exam:\ntm 99.1 t 98.1 hr 82  bp 137/88  rr 18  02 96% ra\n\nGen: WDWN male in NAD. Alert and Oriented x 3\nCard: RRR\nLungs: CTA bilat\nAbd: Soft, incision c/d/i, non tender\nExtremities: Warm, well perfused, slightly edematous\nPulses: Dp/Pt palpable bilat\n\nPertinent Results:\n[**2174-2-1**] 09:05AM BLOOD WBC-8.0 RBC-3.44*# Hgb-11.6*# Hct-31.6*\nMCV-92 MCH-33.7* MCHC-36.6* RDW-15.4 Plt Ct-203#\n[**2174-2-1**] 09:05AM BLOOD Glucose-107* UreaN-21* Creat-0.8 Na-142\nK-4.4 Cl-104 HCO3-34* AnGap-8\n[**2174-2-1**] 09:05AM BLOOD Calcium-9.0 Phos-2.9 Mg-2.2\n[**2174-1-26**] 05:10PM BLOOD CK-MB-6 cTropnT-<0.01\n[**2174-1-27**] 02:15AM BLOOD CK-MB-20* MB Indx-0.8 cTropnT-<0.01\n[**2174-1-27**] 09:48AM BLOOD CK-MB-13* MB Indx-0.5 cTropnT-<0.01\n[**2174-1-27**] 06:45AM BLOOD HEPARIN DEPENDENT ANTIBODIES-\n     TEST                           RESULT\n     ----                           ------\nHEPARIN DEPENDENT ANTIBODIES        NEGATIVE\n\nCOMMENT:      NEGATIVE PF4 HEPARIN ANTIBODY BY [**Doctor First Name **]\n\nComplete report on file in the laboratory.\n\n [**2174-1-26**] 5:11 pm MRSA SCREEN      Source: Nasal swab.\n\n                            **FINAL REPORT [**2174-1-29**]**\n\n   MRSA SCREEN (Final [**2174-1-29**]):    No MRSA isolated.\n\n\nBrief Hospital Course:\nMr. [**Known lastname 4894**] was admitted and taken for open AAA repair on [**1-26**].\nHe was transferred to the cvicu postoperatively and was neo gtt.\nHe remained intubated overnight and on POD 1 extubated. His neo\ngtt was weaned off and he remained hemodynamically stable. On\nPOD 2 he was out of bed to chair and began sips. He was\ntransferred to the vicu. He became confused and agitated and was\nstarted on a CIWA scale. Overnight he was a bit more confused\nand had a hct of 21.9. He was transfused 2 units prbcs for acute\nblood loss anemia in the post op setting. Over the next few days\nhis confusion and agitation completely resolved. He was diuresed\nfor volume overload and responded appropriately. He was\ntransfused an additional 2 units prbc with appropriate bump in\nh/h. He continued to do well, voiding when his foley was\nremoved, tolerating a regular diet and ambulating independently.\n His wound was a bit oozy and was kept covered with a dsd. He is\ndischarged on 5 days of lasix. He will be set up with a VNA for\nwound check and lab draws on friday.\n\nMedications on Admission:\nsimvastatin - unknown dose\n\nDischarge Medications:\n1. metoprolol tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2\ntimes a day).\nDisp:*90 Tablet(s)* Refills:*2*\n2. simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day:\nresume home dose.\n3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n4. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day for 5\ndays.\nDisp:*5 Tablet(s)* Refills:*0*\n5. potassium chloride 10 mEq Tablet Extended Release Sig: One\n(1) Tablet Extended Release PO once a day for 5 days.\nDisp:*5 Tablet Extended Release(s)* Refills:*0*\n6. Outpatient Lab Work\nCHEM 7 to be drawn friday [**2-4**]\nresults to:\nName: [**Last Name (LF) **],[**First Name3 (LF) 198**] P.\nLocation: [**Location (un) **] FAMILY PRACTICE\nAddress: [**Street Address(2) 19979**], [**Location (un) **],[**Numeric Identifier 3862**]\nPhone: [**Telephone/Fax (1) 19980**]\nFax: [**Telephone/Fax (1) 19981**]\n\n7. Tylenol 325 mg Tablet Sig: 1-2 Tablets PO every six (6) hours\nas needed for pain.\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Company 1519**]\n\nDischarge Diagnosis:\nAbdominal Aortic Aneurysym\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nDivision of Vascular and Endovascular Surgery\nAbdominal Aortic Aneurysm (AAA) Surgery Discharge Instructions\n\nWhat to expect when you go home:\n1. It is normal to feel weak and tired, this will last for [**6-10**]\nweeks\n??????\tYou should get up out of bed every day and gradually increase\nyour activity each day\n??????\tYou may walk and you may go up and down stairs\n??????\tIncrease your activities as you can tolerate- do not do too\nmuch right away!\n\n2. It is normal to have incisional and leg swelling:\n??????\tWear loose fitting pants/clothing (this will be less\nirritating to incision)\n??????\tElevate your legs above the level of your heart (use [**2-4**]\npillows or a recliner) every 2-3 hours throughout the day and at\nnight\n??????\tAvoid prolonged periods of standing or sitting without your\nlegs elevated\n\n3. It is normal to have a decreased appetite, your appetite will\nreturn with time\n??????\tYou will probably lose your taste for food and lose some\nweight\n??????\tEat small frequent meals\n??????\tIt is important to eat nutritious food options (high fiber,\nlean meats, vegetables/fruits, low fat, low cholesterol) to\nmaintain your strength and assist in wound healing\n??????\tTo avoid constipation: eat a high fiber diet and use stool\nsoftener while taking pain medication\n\nWhat activities you can and cannot do:\n??????\tNo driving until post-op visit and you are no longer taking\npain medications\n??????\tYou should get up every day, get dressed and walk, gradually\nincreasing your activity\n??????\tYou may up and down stairs, go outside and/or ride in a car\n??????\tIncrease your activities as you can tolerate- do not do too\nmuch right away!\n??????\tNo heavy lifting, pushing or pulling (greater than 5 pounds)\nuntil your post op visit\n??????\tYou may shower (let the soapy water run over incision, rinse\nand pat dry)\n??????\tYour incision may be left uncovered, unless you have small\namounts of drainage from the wound, then place a dry dressing\nover the area that is draining, as needed\n??????\tTake all the medications you were taking before surgery,\nunless otherwise directed\n??????\tTake one full strength (325mg) enteric coated aspirin daily,\nunless otherwise directed\n??????\tCall and schedule an appointment to be seen in 2 weeks for\nstaple/suture removal\n\nWhat to report to office:\n??????\tRedness that extends away from your incision\n??????\tA sudden increase in pain that is not controlled with pain\nmedication\n??????\tA sudden change in the ability to move or use your leg or the\nability to feel your leg\n??????\tTemperature greater than 101.5F for 24 hours\n??????\tBleeding from incision\n??????\tNew or increased drainage from incision or white, yellow or\ngreen drainage from incisions\n\n\nFollowup Instructions:\nProvider: [**Name10 (NameIs) 251**] [**Last Name (NamePattern4) 1490**], MD Phone:[**Telephone/Fax (1) 1237**]\nDate/Time:[**2174-2-17**] 10:15\nProvider: [**First Name11 (Name Pattern1) 1037**] [**Last Name (NamePattern1) 13280**], MD Phone:[**Telephone/Fax (1) 3965**]\nDate/Time:[**2174-5-2**] 9:30\n\n\n\nCompleted by:[**2174-2-1**]"
+    }
+  ]
+}

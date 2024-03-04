@@ -1,0 +1,58 @@
+{
+  "hadm_id": 128026,
+  "comment": "OP reports missing- unable to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 35051,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 304,
+          "end": 315,
+          "code": "00NC0ZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Release Cerebellum, Open Approach",
+          "type": "Human",
+          "covered_text": "craniectomy"
+        },
+        {
+          "begin": 1667,
+          "end": 1686,
+          "code": "R11.2",
+          "code_system": "ICD-10-CM",
+          "description": "Nausea with vomiting, unspecified",
+          "type": "Human",
+          "covered_text": "nausea and vomiting"
+        },
+        {
+          "begin": 2783,
+          "end": 2802,
+          "code": "G93.5",
+          "code_system": "ICD-10-CM",
+          "description": "Compression of brain",
+          "type": "Human",
+          "covered_text": "Chiari Malformation"
+        }
+      ],
+      "text": "Admission Date:  [**2120-1-10**]              Discharge Date:   [**2120-1-13**]\n\nDate of Birth:  [**2100-8-2**]             Sex:   F\n\nService: NEUROSURGERY\n\nAllergies:\nMacrodantin\n\nAttending:[**First Name3 (LF) 1835**]\nChief Complaint:\nelective Chiari Malformation\n\nMajor Surgical or Invasive Procedure:\ncraniectomy\n\n\nHistory of Present Illness:\nThe patient came into the hospital for an elective craniectomy\nfor a Chiari malformation.\n\nPast Medical History:\nheadaches\n\nSocial History:\nlives with parents\n\nFamily History:\nnon-contributory\n\nPhysical Exam:\nOriented x 3. The patient is full strength in all 4 extremites.\nHer sensation in her face and extremities is intact. She does\nhave some numbness around the back portion of her head.\n\nPertinent Results:\nCT Head [**2120-1-10**]:\nFINDINGS: Resection changes at the posterior atlas and inferior\noccipital bone at the level of the foramen magnum are noted\nwithout evidence of hemorrhage. There is a large amount of\npneumocephalus which layers along the frontal and temporal lobes\nas well as the near the site of occipital resection and brain\nstem. There is no evidence of hydrocephalus or shift of normally\nmidline structures. There is no evidence of infarction. The\ncerebellar tonsils are  again noted to lie below the level of\nthe foramen magnum.\n\nIMPRESSION: Post-craniectomy changes include a large amount of\npneumocephalus. There is no evidence of hemorrhage or shift of\nnormally\nmidline structures.\n\nBrief Hospital Course:\nThe patient went to the OR for an elective craniectomy and the\nprocedure went well with no complications. She was transferred\nto the ICU overnight. The patient had a significant amount of\nnausea and vomiting for many hours. She also had a significant\namount of pain the first night. After changing her antiemetic\nregimen and increasing her pain medication she improved. By the\nafternoon of post-op day#1 she was able to be transferred to the\nfloor. The patient continued to improve and started taking in\nliquids on post-op day#2. She was voiding on her own and walked\nwith PT. The patient was safe to be discharged and went home\nwith her parents on post-op day#3.\n\nDischarge Medications:\n1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed.\n2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\nDisp:*60 Capsule(s)* Refills:*2*\n3. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours\nas needed for Pain: No driving while on narcotics.\nDisp:*60 Tablet(s)* Refills:*0*\n4. Methocarbamol 500 mg Tablet Sig: One (1) Tablet PO TID (3\ntimes a day).\nDisp:*90 Tablet(s)* Refills:*0*\n5. Zofran 4 mg Tablet Sig: One (1) Tablet PO every 6-8 hours as\nneeded for nausea.\nDisp:*60 Tablet(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nChiari Malformation\n\n\nDischarge Condition:\nneurologically stable\n\n\nDischarge Instructions:\n?????? You must wear your hard collar until you come back to the\noffice for follow up. You may remove it briefly for showering.\nNo baths until your sutures are removed.\n??????\tHave a friend/family member check your incision daily for\nsigns of infection.\n??????\tTake your pain medicine as prescribed.\n??????\tExercise should be limited to walking; no lifting, straining,\nor excessive bending.\n??????\tYou may wash your hair only after sutures have been removed.\n??????\tYou may shower before this time using a shower cap to cover\nyour head.\n??????\tIncrease your intake of fluids and fiber, as narcotic pain\nmedicine can cause constipation. We generally recommend taking\nan over the counter stool softener, such as Docusate (Colace)\nwhile taking narcotic pain medication.\n??????\tUnless directed by your doctor, do not take any\nanti-inflammatory medicines such as Motrin, Aspirin, Advil, and\nIbuprofen etc.\n??????\tClearance to drive and return to work will be addressed at\nyour post-operative office visit.\n??????\tMake sure to continue to use your incentive spirometer while\nat home, unless you have been instructed not to.\n\nCALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE\nFOLLOWING\n\n??????\tNew onset of tremors or seizures.\n??????\tAny confusion or change in mental status.\n??????\tAny numbness, tingling, weakness in your extremities.\n??????\tPain or headache that is continually increasing, or not\nrelieved by pain medication.\n??????\tAny signs of infection at the wound site: redness, swelling,\ntenderness, or drainage.\n??????\tFever greater than or equal to 101?????? F.\n\n\nFollowup Instructions:\nFollow-Up Appointment Instructions\n??????\tPlease return to the office in [**8-10**] days(from your date of\nsurgery) for removal of your sutures and a wound check. This\nappointment can be made with the Nurse Practitioner.  Please\nmake this appointment by calling [**Telephone/Fax (1) 1669**]. If you live quite\na distance from our office, please make arrangements for the\nsame, with your PCP.\n??????\tPlease call ([**Telephone/Fax (1) 88**] to schedule an appointment with Dr.\n[**Last Name (STitle) **], to be seen in 3 months.\n??????\tYou will need a CT scan of the brain without contrast.\n\n\n\nCompleted by:[**2120-1-16**]"
+    },
+    {
+      "note_id": 429273,
+      "category": "Physician",
+      "description": "Physician Surgical Admission Note",
+      "annotations": [
+        {
+          "begin": 3371,
+          "end": 3383,
+          "code": "G95.0",
+          "code_system": "ICD-10-CM",
+          "description": "Syringomyelia and syringobulbia",
+          "type": "Human",
+          "covered_text": "syringomelia"
+        }
+      ],
+      "text": "Chief Complaint: Recurrent episodes of headaches,cranial nerve\n   dysfunction, and dysesthesias\n   HPI:\n    [**Known firstname 549**] 19 yo F with Hx of [**Doctor Last Name 4210**] Chiari I malformation s/p elective\n   decompressive posterior craniectomy. Pt initially evaluated for\n   development of a patch of pain (hyperpathia) and numbness in\n   approximately the left T5 or T6 dermatome region posteriorly, 1 mo ago.\n   Further involvement of V2 and V3 trigeminal branches was present,\n   mainly in the onset of bifrontal and throbbing longstanding headaches.\n   MRI finally confirmed AC 1 malformation, tonsils 8 mm below F magnum\n   and syringomyelia with syrinx cavities at T5, T7 and T8-T11 levels.\n   Based on recurrent episodes of headaches,cranial nerve dysfunction, and\n   dysesthesias, pt underwent elective repair.\n   Post operative day:\n   POD#0 - Decompressive suboccipital craniectomy for A.Chiari\n   malformation Type I\n   Allergies:\n   Macrodantin (Oral) (Nitrofurantoin Macrocrystal)\n   Rash;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Past medical history:\n   Family / Social  history:\n   s/p tonsillectomy, bilateral reimplanted ureters forurinary reflux, hxo\n   tick bites with negative lyme serology ([**2119-10-11**] at [**Hospital1 19**]).\n   Social: College student. Originally from CT.\n   Flowsheet Data as of  [**2120-1-10**] 05:20 PM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 36.7\nC (98.1\n   Tcurrent: 36.7\nC (98.1\n   HR: 80 (80 - 92) bpm\n   BP: 112/67(86) {112/67(86) - 118/71(92)} mmHg\n   RR: 8 (7 - 8) insp/min\n   SpO2: 99%\n   Heart rhythm: SR (Sinus Rhythm)\n           Total In:\n           994 mL\n   PO:\n           TF:\n   IVF:\n   94 mL\n   Blood products:\n   900 mL\n   Total out:\n                                                                      0 mL\n                                                                  1,420 mL\n   Urine:\n   120 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                      0 mL\n                                                                   -426 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 99%\n   ABG: ////\n   Physical Examination\n   General Appearance: Well nourished, No acute distress\n   Eyes / Conjunctiva: PERRL, Non icteric\n   Head, Ears, Nose, Throat: Normocephalic\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:\n   Present), (Right DP pulse: Present), (Left DP pulse: Present)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear)\n   Abdominal: Soft, Non-tender, Bowel sounds present\n   Extremities: Right: Absent, Left: Absent, No(t) Cyanosis, No(t)\n   Clubbing\n   Skin:  Not assessed\n   Neurologic: Attentive, Follows simple commands, Responds to: Verbal\n   stimuli, Oriented (to): time, space and person, Movement: Purposeful,\n   No(t) Sedated, No(t) Paralyzed, Tone: Normal, Strengh [**5-6**]. No\n   dysmetria. Correct diadokokinesia.\n   Labs / Radiology\n        [image002.jpg]\n   Assessment and Plan\n   19 yo F with Hx of [**Doctor Last Name 4210**] Chiari I malformation and thoracic\n   syringomelia, currently s/p elective decompressive suboccipital\n   craniotomy.\n   Assessment And Plan:\n   Neurologic: Alert. Oriented. Refering headache. Will continue w/\n   dilaudid PCA, robaxan. CT tonight. Monitor SBP, goal < 160.\n   Cardiovascular: Hemodynamically stable. Not on pressors.  Hydralazine\n   prn to keep SBP<160.\n   Pulmonary: Sat 100% with 4L NC. Will monitor.\n   Gastrointestinal: NPO for now, will start diet after CT scan results.\n   Renal: Will check chemistry and lytes.\n   Hematology: Stable with HCT 42 / Hgb 14.1 on OR ABG, EBL during case\n   only 150 cc and pt hemodynamically stable\n will check repeat CBC in\n   AM.\n   Infectious Disease: Will continue with Vanc and Gent for prophylaxis.\n   Endocrine:  no issues\n   Fluids: NS w/ K supps @ 85 cc/hr\n   Electrolytes: check chemistries, replete lytes prn\n   Nutrition: Currently NPO. Will advance diet as tolerated.\n   General:\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:  Foley, 2 PIVs\n   Arterial Line - [**2120-1-10**] 04:00 PM\n   18 Gauge - [**2120-1-10**] 04:00 PM\n   Prophylaxis:\n   DVT: Heparin SQ, boots\n   Stress ulcer: PPI for now, d/c when taking po\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: full\n   Disposition:  ICU\n   Total time spent: 32 minutes\n"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "hadm_id": 168985,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 54367,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2902,
+          "end": 2912,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "Depression"
+        },
+        {
+          "begin": 2940,
+          "end": 2952,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 2955,
+          "end": 2969,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 2972,
+          "end": 2974,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 3033,
+          "end": 3046,
+          "code": "K44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Diaphragmatic hernia without obstruction or gangrene",
+          "type": "Human",
+          "covered_text": "Hiatal hernia"
+        },
+        {
+          "begin": 3049,
+          "end": 3068,
+          "code": "K22.70",
+          "code_system": "ICD-10-CM",
+          "description": "Barrett's esophagus without dysplasia",
+          "type": "Human",
+          "covered_text": "Barrett's Esophagus"
+        },
+        {
+          "begin": 3128,
+          "end": 3146,
+          "code": "Z90.89",
+          "code_system": "ICD-10-CM",
+          "description": "Acquired absence of other organs",
+          "type": "Human",
+          "covered_text": "- s/p appendectomy"
+        },
+        {
+          "begin": 8779,
+          "end": 8797,
+          "code": "F10.29",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol dependence with unspecified alcohol-induced disorder",
+          "type": "Human",
+          "covered_text": "ALCOHOL WITHDRAWAL"
+        },
+        {
+          "begin": 8798,
+          "end": 8806,
+          "code": "R56.9",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified convulsions",
+          "type": "Human",
+          "covered_text": "SEIZURES"
+        },
+        {
+          "begin": 10839,
+          "end": 10857,
+          "code": "D69.6",
+          "code_system": "ICD-10-CM",
+          "description": "Thrombocytopenia, unspecified",
+          "type": "Human",
+          "covered_text": "THROMBOCYTOPENIA -"
+        },
+        {
+          "begin": 11834,
+          "end": 11854,
+          "code": "J69.0",
+          "code_system": "ICD-10-CM",
+          "description": "Pneumonitis due to inhalation of food and vomit",
+          "type": "Human",
+          "covered_text": "Aspiration pneumonia"
+        }
+      ],
+      "text": "Admission Date:  [**2183-2-21**]              Discharge Date:   [**2183-2-27**]\n\nDate of Birth:  [**2128-9-30**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPenicillins / Truvada\n\nAttending:[**First Name3 (LF) 2297**]\nChief Complaint:\nseizure\n\nMajor Surgical or Invasive Procedure:\n[**2183-2-21**] - Rapid sequence intubation with mechanical ventilation\n\nHistory of Present Illness:\n60yo M with uncertain past medical history, who was BIBEMS after\nexperiencing a seizure.  Patient called EMS after experiencing a\nreported seizure.  EMS found him standing outside, but became\ncombative and subsequently experienced a seizure while enroute\nto [**Hospital1 18**].  FS at time of seizure was 150.\n.\nOn presentation to [**Hospital1 18**] ED, initial vital signs were 134 130/64\n13 100%.  Exam was notable for cold extremities and wet\nclothing, hematoma and abrasion over R parietal area .  He was\nlethargic and reported to be confused.  Given lethargy, patient\nwas unable to provide any history at that time.  He was\nrecognized as a patient who is frequently seen in the [**Hospital1 18**] ED\nfor intoxication with a history of withdrawal seizures (thought\nto be named [**Name (NI) **] [**Known lastname **], MR [**Numeric Identifier 111312**]).  Labs were notable for WBC\n7.9 (N73), Hct 39.8, Cr 1.0, ALT/AST 50/88, lactate of 10.2,\nunremarkable UA, negative serum and urine tox screens.  At that\ntime patient became combative, and was induced and intubated to\nallow completion of medical workup.  CXR was unremarkable, NCHCT\nwithout acute intracranial process, and CT Cspine without acute\nfracture.  Patient was felt to have had seizure's [**1-23**] EtOH\nwithdrawal and was sedated on fentanyl/midazolam.  Patient was\nbolused with IV normal saline.  Post-intubation ABG 7.33/48/108.\n Repeat lactate returned 0.9 after 3LNS.  ED course otherwise\nnotable for agitation requiring increasing of midazolam drip to\n20mg/hr.  He was given thiamine, folate and was admitted to [**Hospital Unit Name 153**]\nfor further management.  Labs prior to transfer were 100.6 132\n154/77 14 100%AC.  Access was 18gauge x 2.\n.\nOn arrival to the ICU, vital signs were 100.5 128 104/60 18 100%\non PS 8/5 60%FiO2.  Patient was intubated, comfortable appearing\nand very lethargic.  Nursing reported pressence of copious light\nbrown secretions from ET tube.\n.\nUnable to complete review of systems given intubation.\n\nPast Medical History:\nPAST MEDICAL HISTORY\n** none available per patient, have included past medical\nhistory of [**Known firstname **] [**Known lastname **], the supposed identity of this patient **\n- Atypical Chest Pain - cardiac catheterization [**4-24**] w/o\nsignificant lesions, EF >55% ([**2180**]), pMibi [**2176**] negative\n- Polysubstance abuse (EtOH, BZD, cocaine, heroin), w h/o DT and\nwithdrawal seizures, multiple detox admissions including 25-day\n[**Location (un) 1475**] detox/incarceration\n- Depression - prior suicide attempts\n- Hypertension\n- Hyperlipidemia\n- DM - diet controlled\n- DVT in prison treated with coumadin\n- Hiatal hernia\n- Barrett's Esophagus\n- h/o HCV\n- h/o PPD+ s/p isoniazid x9mo\n- h/o Lyme disease\n- s/p appendectomy\n\nSocial History:\n* none available per patient, have included past medical history\nof [**Known firstname **] [**Known lastname **], the supposed identity of this patient * Drinks 2L\nvodka daily for the last 30+ years.  He also has a 30+ pack year\nhistory.  H/o IVDU - last heroin use 1 month ago.  Current\ncocaine/crack and crystal meth use.  Had an ex-boyfriend\nof 9 years, by whom he was abused.  Ex-boyfriend currently in\nprison for abuse, and patient feels safe.\n\nFamily History:\n** none available per patient, have included past medical\nhistory of [**Known firstname **] [**Known lastname **], the supposed identity of this patient **\nSignificant for premature coronary artery disease: father w MI\nat 46 (4 [**Known lastname **] total), twin brother had MI at 43. Father w DM,\nmother w Breast Ca, HTN.\n\nPhysical Exam:\nADMISSION EXAM:\n.\nVitals: 100.5 128 104/60 18 100% on PS 8/5 60%FiO2\nGeneral: Intubated, sedated, very lethargic, spontaneously\nmoving\nHEENT: PERRL 2mm, sclera anicteric, MMM\nNeck: Supple, no JVD, no LAD\nLungs: Coarse breath sounds bilaterally without no wheezes,\nrales, rhonchi\nCV: Tachycardia, normal S1 + S2, no murmurs, rubs, gallops\nAbdomen: Soft, NT/ND, naBS\nGU: + foley\nExt: WWP, 2+ DP/radial equal bilaterally, no cyanosis/edema\nDerm: Scattered papules over extremities, corresponding w hair\nfolicles c/w folliculitis\n.\nDISCHARGE EXAM:\n.\nVitals: Tm 101.5 Tc 99.5, HR 70s, BP 120s/60s, RR 18, O2 95-97%\non RA\nGeneral: alert, oriented, speaking coherently, sitting up in a\nchair and eating breakfast\nHEENT: PERRL 2mm, sclera anicteric, MMM\nNeck: Supple, no JVD, no LAD\nLungs: Coarse breath sounds bilaterally without wheezes, rales,\nrhonchi\nCV: RRR, normal S1 + S2, no murmurs, rubs, gallops\nAbdomen: Soft, NT/ND, naBS\nExt: WWP, 2+ DP/radial equal bilaterally, no cyanosis/edema\nDerm: Scattered papules over extremities, not corresponding with\nhair follicles ?????? some psoriatic appearing plaques and numular\nplaque-like red lesions with scaling noted over groin and\nproximal extremities\n\nPertinent Results:\nADMISSION LABS:\n.\n[**2183-2-21**] 11:00AM BLOOD WBC-7.9 RBC-4.25* Hgb-13.3* Hct-39.8*\nMCV-94 MCH-31.2 MCHC-33.3 RDW-14.2 Plt Ct-212\n[**2183-2-21**] 11:00AM BLOOD PT-10.6 PTT-27.9 INR(PT)-1.0\n[**2183-2-21**] 11:00AM BLOOD Glucose-193* UreaN-10 Creat-1.0 Na-135\nK-3.9 Cl-92* HCO3-18* AnGap-29*\n[**2183-2-21**] 11:00AM BLOOD ALT-50* AST-88* AlkPhos-71 TotBili-0.5\n[**2183-2-21**] 08:55PM BLOOD Calcium-7.6* Phos-2.1* Mg-1.2*\n[**2183-2-21**] 11:00AM BLOOD Albumin-4.9\n[**2183-2-21**] 08:55PM BLOOD Osmolal-277\n[**2183-2-21**] 03:50PM BLOOD Type-ART Temp-37.8 pO2-108* pCO2-48*\npH-7.33* calTCO2-26 Base XS--1 -ASSIST/CON Intubat-INTUBATED\n[**2183-2-21**] 11:25AM BLOOD Lactate-10.2*\n[**2183-2-22**] 04:58AM BLOOD freeCa-1.04*\n.\nDISCHARGE LABS:\n[**2183-2-26**] 03:54AM BLOOD WBC-4.5 RBC-3.76* Hgb-11.4* Hct-34.8*\nMCV-93 MCH-30.4 MCHC-32.9 RDW-13.9 Plt Ct-160\n[**2183-2-26**] 03:54AM BLOOD Glucose-107* UreaN-13 Creat-0.9 Na-142\nK-3.5 Cl-105 HCO3-27 AnGap-14\n[**2183-2-26**] 03:54AM BLOOD ALT-49* AST-51* LD(LDH)-239 CK(CPK)-585*\nAlkPhos-63 TotBili-0.7\n.\nIMAGING STUDIES:\n.\n[**2183-2-21**] CT C-SPINE W/O CONTRAST - No acute fracture or\nmalalignment is present. There is exaggeration of normal\ncervical lordosis. NG tube and ET tube are partially imaged. The\nthyroid gland is unremarkable. The partially imaged lung apices\nshow mild paraseptal emphysema. The partially imaged mastoid air\ncells are well aerated.\n.\n[**2183-2-21**] CT HEAD W/O CONTRAST - Evaluation is limited due to\npatient motion. Within these limitations, no acute intracranial\nhemorrhage, large vascular territory infarct, shift of midline\nstructures or mass effect is present. The ventricles and sulci\nare normal in size and configuration. The visible paranasal\nsinuses and mastoid air cells show minimal mucosal thickening in\nthe posterior ethmoidal air cells and the sphenoidal sinus.\n.\n[**2183-2-25**] CXR: The ET tube tip is 5 cm above the carina. The NG\ntube tip is in the stomach. Heart size and mediastinum appear\nunchanged. There is interval progression of widespread\nmultifocal opacities, highly concerning for multifocal\npneumonia, potential aspiration in origin. Small amount of\nbilateral pleural effusion, left more than right, cannot be\nexcluded. There is no pneumothorax.\n.\n[**2183-2-25**] EKG: Sinus rhythm. Low limb lead voltage. Since the\nprevious tracing of [**2183-2-21**] atrial premature beats are no longer\nseen and the rate is slower. ST-T waves have improved.\n.\nMICROBIOLOGIC DATA:\n.\n[**2183-2-21**] Urine culture ?????? negative\n[**2183-2-21**] Blood culture (x 2) ?????? negative\n[**2183-2-21**] MRSA screen ?????? negative\n[**2183-2-21**] Sputum ?????? 2+ GPC, 1+ GNRs, commensal growth\n[**2183-2-25**] Sputum ?????? contaminated, culture cancelled\n[**2183-2-25**] UCx ?????? negative\n[**2183-2-25**] BCx pending\n[**2183-2-26**] urine legionella antigen ?????? negative\n[**2183-2-26**] UCx pending\n[**2183-2-26**] BCx pending\n\nBrief Hospital Course:\nIMPRESSION: 60M with uncertain PMH history who presented with\nlethargy and evidence of alcohol withdrawal seizures who was\nintubated for airway protection and behavioral concerns. Patient\nwas successfully extubated and treated with pneumonia. Patient\neloped on [**2183-2-27**].\n.\n# DELIRIUM - During and after extubation, patient intermittently\nvery agitated, trying to get out of bed and punching staff\nmembers - occasionally becoming physical. He was treated with\nPRN IV Haldol for agitation and had an infectious and metabolic\nwork-up for causes of delirium which was unrevealing. Once\nPrecedex was weaned (see below), his mental status improved.\n.\n# ALCOHOL WITHDRAWAL SEIZURES - Patient with witness generalized\ntonic-clonic seizure activity in the ED. Neurologic exam was\nwithout deficits on admission and head CT imaging was\nreassuring. Toxic ingestion, overdose and alcohol withdrawal\nwere all considered, with laboratory and physical evidence of\nalcohol withdrawal seizure. No clear evidence of toxidrome on\nlaboratory and physical exam work-up. He remained intubated and\nrequired intensive sedation with Midazolam and Propofol\ninfusions, as well as Fentanyl for comfort. Diazepam was started\nvia his OGT as well. We switched him to Precedex to promote\ndown-titration of his narcotics and benzodiazepines, and we were\nable to transition him to PO Diazepam for withdrawal concerns.\nHis electrolytes were optimized, although he had some\nintermittent episodes of non-sustained ventricular tachycardia\nwhich were short-lived and asymptomatic. Multivitamin, folate\nand thiamine were all started on admission.\n.\n# ACUTE RESPIRATORY CONCERNS - Intubation for behavioral issues,\nventilating well, with copious brown liquid being suctioned from\nET tube initially; given these findings, there was some concern\nfor aspiration in the setting of seizure or peri-intubation. He\nhad low grade temperatures without leukocytosis on admission\nattributed to his withdrawal physiology. Given his increased\nsedation requirements, he required mechanical ventilatory\nsupport. His CXR did demonstrated some evidence of pulmonary\ncongestion and possible consolidation concerning for aspiration\npneumonitis vs. pneumonia. He was antibiosed with Vancomycin and\nCefepime for pneumonia coverage given his sputum culture gram\nstain demonstrating gram positive cocci and gram negative rods;\nspeciating commensal organisms only.\n.\n# SINUS TACHYCARDIA - Likely multifactorial and secondary to\nhypovolemia and presumed alcohol withdrawal with sympathetic\noverdrive; no obvious sources of infection and afebrile. EKG on\nadmission reassuring, with improvement in his rate following\nsedation. His electrolytes were aggressively repleted.\n.\n# THROMBOCYTOPENIA - Patient presented with worsening\nthrombocytopenia that stabilized following admission. He\ndemonstrated no evidence of active bleeding. He was maintained\non heparin prophylaxis without issue. He had no evidence of\ninfection.\n.\n# IDENTIFICATION - Identification was confirmed as [**Known firstname **] [**Known lastname **]\nafter 3-days of his hospital stay. Once identification was\nconfirmed, his medication reconcilitation was performed. His\nbrother arrived to confirm his identification.\n.\n\nMedications on Admission:\n** none available per patient, have included past medical\nhistory of [**Known firstname **] [**Known lastname **], the supposed identity of this patient **\n- Thiamine 100mg daily\n- Aspirin 81mg daily\n- Diltiazem 120mg QID\n- Atorvastatin 10mg daily\n- Isosorbide Mononitrate SR 30mg daily\n- Omeprazole 20mg daily\n- Folic Acid 1mg daily\n- MVI\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPrimary Diagnosis: Alcohol withdrawal seizure\nSecondary Diagnosis: Aspiration pneumonia\n\n\nDischarge Condition:\nMental Status: Confused - sometimes.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\npatient eloped.\n\nFollowup Instructions:\npatient eloped.\n\n\n\n"
+    }
+  ]
+}

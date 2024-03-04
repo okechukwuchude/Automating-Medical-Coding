@@ -1,0 +1,113 @@
+{
+  "hadm_id": 108086,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 38499,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1582,
+          "end": 1609,
+          "code": "511.81",
+          "code_system": "ICD-9-CM",
+          "description": "NO_DEF",
+          "type": "Human",
+          "covered_text": "bilateral pleural effusions"
+        },
+        {
+          "begin": 2258,
+          "end": 2296,
+          "code": "V45.73",
+          "code_system": "ICD-9-CM",
+          "description": "Acquired absence of kidney",
+          "type": "Human",
+          "covered_text": "s/p R laparoscopic radical nephrectomy"
+        },
+        {
+          "begin": 2731,
+          "end": 2751,
+          "code": "272.0",
+          "code_system": "ICD-9-CM",
+          "description": "Pure hypercholesterolemia",
+          "type": "Human",
+          "covered_text": "Hypercholesterolemia"
+        },
+        {
+          "begin": 2878,
+          "end": 2904,
+          "code": "V15.82",
+          "code_system": "ICD-9-CM",
+          "description": "History of tobacco use",
+          "type": "Human",
+          "covered_text": "He quit smoking at age 51,"
+        },
+        {
+          "begin": 5584,
+          "end": 5591,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "description": "Hypoxemia",
+          "type": "Human",
+          "covered_text": "Hypoxia"
+        },
+        {
+          "begin": 7229,
+          "end": 7232,
+          "code": "V49.86",
+          "code_system": "ICD-9-CM",
+          "description": "Do not resuscitate status",
+          "type": "Human",
+          "covered_text": "DNR"
+        },
+        {
+          "begin": 7239,
+          "end": 7249,
+          "code": "V66.7",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for palliative care",
+          "type": "Human",
+          "covered_text": "Palliative"
+        },
+        {
+          "begin": 7488,
+          "end": 7501,
+          "code": "275.42",
+          "code_system": "ICD-9-CM",
+          "description": "Hypercalcemia",
+          "type": "Human",
+          "covered_text": "Hypercalcemia"
+        },
+        {
+          "begin": 7690,
+          "end": 7702,
+          "code": "276.7",
+          "code_system": "ICD-9-CM",
+          "description": "Hyperpotassemia",
+          "type": "Human",
+          "covered_text": "Hyperkalemia"
+        },
+        {
+          "begin": 10162,
+          "end": 10182,
+          "code": "189.0",
+          "code_system": "ICD-9-CM",
+          "description": "Malignant neoplasm of kidney, except pelvis",
+          "type": "Human",
+          "covered_text": "Renal cell carcinoma"
+        },
+        {
+          "begin": 10183,
+          "end": 10201,
+          "code": "197.0",
+          "code_system": "ICD-9-CM",
+          "description": "Secondary malignant neoplasm of lung",
+          "type": "Human",
+          "covered_text": "metastatic to lung"
+        }
+      ],
+      "text": "Admission Date:  [**2180-12-2**]              Discharge Date:   [**2180-12-7**]\n\nDate of Birth:  [**2129-5-5**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 2297**]\nChief Complaint:\nShortness of breath\n\nMajor Surgical or Invasive Procedure:\nattempted thoracentesis [**12-3**]\n\n\nHistory of Present Illness:\nMr. [**Known lastname 4711**] is a 51yo male with stage IV clear cell renal\ncarcinoma s/p R laparoscopic nephrostomy on [**2180-9-5**], who\npresented with shortness of breath worsening over the last 48\nhours. The patient was recently admission for hypercalcemia,\nacute renal failure and a large left pleural effusion. A Pleurex\ncatheter was placed during that admission but was removed prior\nto discharge. The patient stated that he was home from rehab for\napproximately one week and felt as if he was getting his\nstrength back. Two days prior to admission the patient stated\nthat he began to feel short of breath when working with his\nphysical therapist. He remained home until the next evening when\na friend took him to [**Hospital2 **] [**Hospital3 **] because he felt he could no\nlonger catch his breath. He was immediately transferred here. He\ndenied any recent fevers or chills, chest pain or dizziness. He\nfurther denied any nausea, vomiting, constipation or diarrhea.\n.\nIn the ER, VS were T 98.5, BP 125/70, HR 120, but his HR came\ndown to 90, RR 20 and saturations to 95% after the patient was\nplaced on 3L of O2 by nasal canula. A CXR was performed that was\nconcerning for bilateral pleural effusions.\n\nPast Medical History:\nPAST ONCOLOGIC HISTORY:\n- began to have fatigue, dizziness and flu symptoms in [**Month (only) 404**]\n[**2180**]\n- on routine visit in [**Month (only) 116**], found to have RUQ mass\n- CT abd/pelvis on [**2180-6-24**] showed a large exophytic mass in R\nkidney, 9.6 x 9.3 cm, with associated abdominal lymphadenopathy\nand pulmonary metastasis\n- CT chest showed diffuse pulmonary metastases\n- CT guided needle biopsy of the kidney on [**2180-7-17**] showed high\ngrade carcinoma, favoring renal cell cancer, with necrosis\n- enrolled in protocol 04-117: Tumor/DC fusion in patients with\nRenal Cell Carcinoma on [**2180-8-16**]\n- s/p R laparoscopic radical nephrectomy on [**2180-9-5**]\n- path showed clear cell renal cell carcinoma with sarcomatoid\nfeatures (60%), [**Last Name (un) 19076**] grade [**5-14**], with extension into\nperinephric fat (T3a, N0, M1); margins clear, LVI indeterminate\n\n- post-surgical CT showed rapid disease progression and he was\ntaken off study on [**2180-10-9**]\n- Completed recent two week course of Sutent and is currently\ntaking two weeks off\n.\nPAST MEDICAL HISTORY:\n# Hypercholesterolemia\n# Bilateral shoulder and hand surgery\n\nSocial History:\nHe is divorced, lives and works on [**Hospital3 **] as an electrician.\nHe quit smoking at age 51, one pack per week x15 years.\nPreviously drank 1-2 drinks several times per week, but none in\nlast 1-2 weeks due to feeling ill. No recreational drug use.\n\nFamily History:\nNegative for kidney, prostate or bladder cancer. Father has CAD,\nbut is alive and well.\n\n\nPhysical Exam:\nAt admission:\nVS: T 96.4, BP 130/72, HR 104, R 18, sats 95% on 2L\nGEN: uncomfortable appearing, laboring to breath but NAD\nHEENT: sclera anicteric, dry mucus membranes, no nasal flaring\nNECK: no cervical LAD, no JVD\nCV: tachycardic, regular rhythm, normal S1, S2, no m/r/g\nLUNGS: decreased breath sounds at the bases bilaterally, left\nworse than right, dullness to percussion\nABD: S/NT/ND, BS+\nEXT: warm, well-perfused, no palpable cords, no TTP\nNEURO: CN II-XII grossly intact, moving all extremities,\nsensation to light touch in tact\n\nPertinent Results:\nAt admission:\n[**2180-12-2**] 01:20AM BLOOD WBC-5.5 RBC-4.05* Hgb-12.6* Hct-36.5*\nMCV-90 MCH-31.2 MCHC-34.6 RDW-19.6* Plt Ct-248#\n[**2180-12-2**] 01:20AM BLOOD Neuts-80* Bands-4 Lymphs-12* Monos-3\nEos-1 Baso-0 Atyps-0 Metas-0 Myelos-0\n[**2180-12-2**] 01:20AM BLOOD PT-12.1 PTT-25.2 INR(PT)-1.0\n[**2180-12-2**] 01:20AM BLOOD Glucose-103* UreaN-17 Creat-0.9 Na-136\nK-4.8 Cl-103 HCO3-24 AnGap-14\n[**2180-12-2**] 01:20AM BLOOD Albumin-3.2* Calcium-10.9* Phos-2.6*\nMg-1.8\n[**2180-12-3**] 02:06PM BLOOD Type-ART pO2-84* pCO2-46* pH-7.43\ncalTCO2-32* Base XS-4\n[**2180-12-2**] 01:34AM BLOOD Lactate-2.5*\n[**2180-12-2**] 01:36AM URINE Blood-NEG Nitrite-NEG Protein-NEG\nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG\n\nOn Discharge:\n[**2180-12-7**] 05:46AM BLOOD WBC-4.8 RBC-3.26* Hgb-10.2* Hct-29.3*\nMCV-90 MCH-31.4 MCHC-34.9 RDW-18.8* Plt Ct-326\n[**2180-12-7**] 05:46AM BLOOD Glucose-90 UreaN-23* Creat-0.9 Na-131*\nK-5.2* Cl-96 HCO3-27 AnGap-13\n[**2180-12-7**] 05:46AM BLOOD Calcium-9.9 Phos-2.1* Mg-2.0\n\n\nBlood cultures 10/23, no growth as of [**12-7**]\n\nCTA chest [**12-2**]\nIMPRESSION:\n1. Progression of multiple bilateral pulmonary metastatic\nlesions.\n2. No evidence of pulmonary embolism.\n3. Progression of right adrenal, likely metastatic lesion.\n\n[**12-5**] AP CXR - FINDINGS: In comparison with the study of [**12-4**],\nthere is little overall change in the diffuse bilateral\npulmonary opacifications consistent with multiple pulmonary\nmetastases apparently complicated by a pulmonary edema or\nhemorrhage. Enlargement of the cardiac silhouette persists and\nthere is mediastinal widening reflecting diffuse adenopathy.\n\n\nBrief Hospital Course:\nMr. [**Known lastname 4711**] is a 51 year old male with stage IV clear cell\nrenal carcinoma with known lung mets who presented with\nworsening shortness of breath and hypoxia.\n\n# Dyspnea, Hypoxia - Patient initially required 2L O2 to\nmaintain O2 sats 94%.  CTA chest on admission was negative for\nPE.  By hospital day two he required 4L by nasal canula.  A\nthoracentesis was attempted, but there was insufficient fluid to\ntap.  On hospital day 3 he triggered for O2 sat of 86% on 4L\nnasal canula and was increased to 6L nasal canula and then\ntransferred to the ICU for closer monitoring and placed on a\nface tent.  Chest x-ray demonstrated worsening bilateral patchy\nopacities.  He was treated with broad spectrum antibiotics for\n48 hours (vancomycin, levofloxacin, cefepime, and bactrim),\nhowever, his respiratory status failed to improve and cultures\nremained negative so antibiotics were stopped.  He did not\ntolerate oral bactrim due to nausea.  His hypoxia and dyspnea\nare most likely secondary to his widespread pulmonary metastatic\ndisease.  He was given morphine and nebs to treat his dyspnea\nand guiafenesin with codeine and benzonatate for cough.\n\n#. Metastatic Renal Cell Carcinoma:  He recently completed a\ncycle of Sutent.  The patient was continued on dexamethasone per\nhis outpatient regimen which was initiated at the time of his\nwhole brain radiation.  It is unclear if he is continuing to\nderive benefit from this medication so consideration to stopping\nthis medication can be given.  As he has been on this medication\nfor almost a month, it will need to be tapered before stopping\ncompletely.  He has stage 4 disease with poor prognosis.  There\nare no further treatment options per the patient's oncologist.\nAfter discussion with his oncologist following transfer to the\nICU the patient changed his code status to DNR/DNI.  Palliative\ncare was consulted and made [**Known lastname 7219**] for symptom\nmanagement including dyspnea, nausea, and insomnia.  He is being\ndischarged to inpatient hospice for further symptom management\nand due to his high oxygen requirement.\n\n#. Hypercalcemia:  Patient was noted to have elevated calcium on\npresentation.  He was given IVF and lasix and calcium remained\nelevated.  He was also treated with a dose of pamidronate and\ncalcitonin.\n\n# Hyperkalemia: The patient had intermittently elevated serum\npotassiums that peaked at 5.2.  Etiology is unclear but may be\nsecondary to dexamethasone or tumor burden causing increased\nlactate due to increased metabolic demand.  There was no\nevidence of renal failure or acidemia.\n\n#. Contact: friend and HCP [**Name (NI) **] [**Name (NI) 85654**] [**Telephone/Fax (1) 85655**] or\n[**Telephone/Fax (1) 85656**]\n\nMedications on Admission:\nMEDICATIONS (per patient):\nDexamethasone 2 mg PO BID\nPantoprazole 40 mg PO daily\nSunitinib 12.5 mg PO daily for two weeks, then two weeks off\nLorazepam 0.5 mg PO daily Q8H\nSenna 8.6 mg, 1-2 tabs PO daily as needed\n.\nALLERGIES: NKDA\n\n\nDischarge Medications:\n\n1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2\ntimes a day).\n2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a\nday) as needed for constipation.\n3. lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4\nhours) as needed for nausea or anxiety.\nDisp:*60 Tablet(s)* Refills:*0*\n4. dextromethorphan-guaifenesin 10-100 mg/5 mL Syrup Sig: Five\n(5) ML PO Q6H (every 6 hours) as needed for cough.\n5. morphine 15 mg Tablet Sustained Release Sig: One (1) Tablet\nSustained Release PO HS (at bedtime) as needed for shortness of\nbreath.\nDisp:*30 Tablet Sustained Release(s)* Refills:*0*\n6. trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as\nneeded for insomnia.\n7. benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3\ntimes a day) as needed for cough.\n8. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as\nneeded for shortness of breath.\n9. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation\nQ6H (every 6 hours) as needed for shortness of breath.\n10. Zofran 2 mg/mL Solution Sig: Four (4) mg Intravenous every\neight (8) hours as needed for nausea.\n11. morphine in 0.9 % NaCl 2 mg/mL (1 mL) Syringe Sig: 1-4 mg\nIntravenous Q2H as needed for shortness of breath or pain.\nDisp:*50 mL* Refills:*0*\n12. Prochlorperazine 10 mg IV Q6H:PRN nausea\n13. dexamethasone 2 mg Tablet Sig: One (1) Tablet PO Q12H (every\n12 hours): If stopped, this medication will need to be tapered\noff.\n14. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Hospice\n\nDischarge Diagnosis:\nPrimary:\nDyspnea and hypoxia\nRenal cell carcinoma metastatic to lung\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Out of Bed with assistance to chair or\nwheelchair.\nRequires 50% face tent to maintain O2 sats > 93%\n\n\nDischarge Instructions:\nYou were admitted to [**Hospital1 69**]\nbecause of shortness of breath. While you were here, you had\nimaging which showed that the cancer in your lungs has\nprogressed and is likely what is causing your symptoms.  There\nis no further treatment available for your cancer at this time.\nYou were seen by the palliative care doctors who made\n[**Name5 (PTitle) 7219**] for helping to manage your symptoms.\n\nWhile you were here some of your medications were changed.\n-You were started on morphine and nebulized albuterol and\nipratroprium to help alleviate your shortness of breath.\n-You were also given zofran and compazine as needed to treat\nyour nausea.\n-You were given benzonatate and guiafenesin with codeine for\nyour cough.\n-You were given lorazepam as needed for anxiety.\n-You were given trazodone as needed for insomnia.\n\nFollowup Instructions:\nPlease follow-up with your primary care doctor,\n[**Last Name (LF) **],[**First Name3 (LF) 85657**], as needed ([**Telephone/Fax (1) 85658**])\n\n\n"
+    }
+  ]
+}

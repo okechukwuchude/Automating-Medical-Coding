@@ -1,0 +1,77 @@
+{
+  "hadm_id": 155797,
+  "comment": "CABG- Need OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 46251,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1204,
+          "end": 1227,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "Coronary artery disease"
+        },
+        {
+          "begin": 1228,
+          "end": 1236,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "Diabetes"
+        },
+        {
+          "begin": 1237,
+          "end": 1249,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Dyslipidemia"
+        },
+        {
+          "begin": 1250,
+          "end": 1262,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 1263,
+          "end": 1274,
+          "code": "G47.33",
+          "code_system": "ICD-10-CM",
+          "description": "Obstructive sleep apnea (adult) (pediatric)",
+          "type": "Human",
+          "covered_text": "Sleep apnea"
+        },
+        {
+          "begin": 1293,
+          "end": 1310,
+          "code": "G89.29",
+          "code_system": "ICD-10-CM",
+          "description": "Other chronic pain",
+          "type": "Human",
+          "covered_text": "Chronic back pain"
+        },
+        {
+          "begin": 1371,
+          "end": 1389,
+          "code": "Z98.1",
+          "code_system": "ICD-10-CM",
+          "description": "Arthrodesis status",
+          "type": "Human",
+          "covered_text": "s/p c-spine fusion"
+        }
+      ],
+      "text": "Admission Date:  [**2152-3-13**]              Discharge Date:   [**2152-3-23**]\n\nDate of Birth:  [**2085-10-17**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 1406**]\nChief Complaint:\nShortness of breath\n\nMajor Surgical or Invasive Procedure:\n[**2152-3-13**] left heart catheterization, coronary angiogram\n\n[**2152-3-17**] Coronary artery bypass graft\nx4(LIMA-LAD,SVG-PDA,SVG-DG,SVG-OM)\n\n\nHistory of Present Illness:\nThis 66 year old white male with known coronary disease, had\nrotator cuff surgery a week prior to admission. He was told to\nhold ASA prior to surgery but not when to restart it.  He didn't\nrestart it and on Saturday morning (5days post operatively,)upon\ngetting out of bed  became SOB.  He was unable to catch his\nbreath but had no chest pain or pressure.  He went to [**Hospital1 3325**] and his troponins were elevated (4.58 highest).  ASA,\nPlavix and a Heparin infusion were started and he became symptom\nfree.  His troponins drifted down also.   Catheterization\nshowed the following 3 vessel disease: total occulsion RCA, 90%\nOM and LCx stenosis, 60-70% mid LAD stenosis.\n\nPast Medical History:\nCoronary artery disease Diabetes\nDyslipidemia\nHypertension\nSleep apnea - uses nasal CPAP\nChronic back pain\ns/p [**Hospital1 **];lateral rotator cuff surgery, 2nd on L\ns/p c-spine fusion\ns/p transurethral reection of prostate\ns/p Appendectomy\n\nSocial History:\nRetired electrician. Lives with fiancee. Has three dtrs.\n-[**Name2 (NI) 1139**] history: currently 1ppd, 50 pack year hx\n-ETOH: denies\n-Illicit drugs: denies\n\nFamily History:\nMother died of heart disease in her 80s. Brother with DM and\nemphysema. Father died with ulcerative colitis in his 40s.\n\nPhysical Exam:\nVS: 98.3 125/62 55 16 94%RA\n\nGeneral: NAD\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur [] grade ______\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]\nExtremities: Warm [x], well-perfused [x]  Edema [] ___0__\nVaricosities: None [x]\nNeuro: Grossly intact [x]\nPulses:\nFemoral      Right: 2  Left:2\nDP           Right: 1  Left:1\nPT           [**Name (NI) 167**]: 1  Left:1\nRadial       Right: 2  Left:2\n\nCarotid Bruit        Right:  0  Left:0\n\nPertinent Results:\nCardiac Cath [**3-13**]:\n1) Selective coronary angiography of this right-dominant system\ndemonstrated significant 3-vessel coronary artery disease.  The\nLMCA had\n20% distal stenosis.  The LAD had long 60% proximal stenosis and\n70%\nmid-vessel stenosis.  The LCx had a 90% stenosis at its origin\nand 90%\nproximal stenosis.  The RCA was completely occluded proximally,\nwith the\ndistal vessel territory being filled with left-to-right\ncollaterals.\n2) Limited resting hemodynamics revealed systemic arterial\nnormotension,\nwith a central aortic pressure of 121/56 mmHg.\n3) The right femoral arteriotomy site was successfully closed\nwith a\nPerclose device.\n.\nCarotid U/S [**3-14**]: 1. 40-59% stenosis in the bilateral internal\ncarotid arteries with moderate heterogenous plaques in the\nproximal internal carotid arteries, right more than left.\n2. Bidirectional parvus tardus flow in the right vertebral\nartery, which may indicate proximal stenosis.\n.\nPFTs [**3-15**]:\nSPIROMETRY\t1:42 PM\tPre drug\tPost drug\n \t \tActual\tPred\t%Pred\tActual\t%Pred\t%chg\nFVC\t \t2.93\t4.47\t65\t \t \t\nFEV1\t \t2.08\t3.06\t68\t \t \t\nMMF\t \t1.24\t2.83\t44\t \t \t\nFEV1/FVC\t \t71\t68\t104\t \t \t\nLUNG VOLUMES\t1:42 PM\tPre drug\tPost drug\n \t \tActual\tPred\t%Pred\tActual\t%Pred\nTLC\t \t6.04\t6.95\t87\t \t \t\nFRC\t \t3.71\t3.94\t94\t \t \t\nRV\t \t2.66\t2.48\t107\t \t \t\nVC\t \t3.42\t4.47\t76\t \t \t\nIC\t \t2.33\t3.01\t78\t \t \t\nERV\t \t1.04\t1.47\t71\t \t \t\nRV/TLC\t \t44\t36\t124\t \t \t\nHe Mix Time\t \t1.75\t \t \t \t \t\nDLCO\t1:42 PM\t\n \t \tActual\tPred\t%Pred\nDSB\t \t14.68\t25.74\t57\t \t \t\nVA(sb)\t \t5.48\t6.95\t79\t \t \t\nHB\t \t13.50\t \t \t \t \t\nDSB(HB)\t \t15.17\t25.74\t59\t \t \t\nDL/VA\t \t2.77\t3.70\t75\t\n.\nTTE [**3-15**]\nThe left atrium is mildly dilated. Left ventricular wall\nthicknesses and cavity size are normal. There is mild regional\nleft ventricular systolic dysfunction with focal hypokinesis of\nthe basal inferior wall. The remaining segments contract\nnormally (LVEF = 55-60 %). The right ventricular cavity size and\nsystolic function are normal. The aortic valve leaflets (3) are\nmildly thickened but aortic stenosis is not present. No aortic\nregurgitation is seen. The mitral valve leaflets are\nstructurally normal. There is no mitral valve prolapse. Mild\n(1+) mitral regurgitation is seen. The pulmonary artery systolic\npressure could not be determined. There is no pericardial\neffusion.\nIMPRESSION: Mild regional left ventricular systolic dysfunction\nc/w CAD. Preserved ejection fraction. Mild mitral regurgitation.\n\n.\n[**2152-3-22**] 04:56AM BLOOD WBC-5.9 RBC-3.10* Hgb-9.3* Hct-26.9*\nMCV-87 MCH-30.0 MCHC-34.6 RDW-13.8 Plt Ct-276\n[**2152-3-21**] 04:45AM BLOOD WBC-6.9 RBC-3.20* Hgb-9.6* Hct-28.0*\nMCV-87 MCH-30.1 MCHC-34.4 RDW-14.2 Plt Ct-215\n[**2152-3-22**] 04:56AM BLOOD Glucose-65* UreaN-19 Creat-0.9 Na-144\nK-4.6 Cl-106 HCO3-30 AnGap-13\n[**2152-3-21**] 04:45AM BLOOD Glucose-93 UreaN-18 Creat-0.9 Na-141\nK-4.5 Cl-106 HCO3-30 AnGap-10\n[**2152-3-13**] 04:43PM BLOOD %HbA1c-7.1* eAG-157*\n\nBrief Hospital Course:\nHe underwent the usual preoperative work up and Plavix washout\nwas allowed. On [**3-17**] he was taken to the Operating Room where\nsurgery was performed.  See operative note for details.  He did\nwell and was extubated easily.  He was diuresed towards his\npreoperative weight and beta blockade was begun. He was\nsensitive to lopressor and was bradycardic to the 40s and 50s,\nalthough remained assymptomatic.  Losartan was resumed for\nhypertension.\n\nHe was placed on Lantus and sliding scale human regular insulin\nin place of the Levemir he generally takes, with good effect.\nMobilizationn was somewhat problem[**Name (NI) 115**] as he had both sternal\nprecautions and limitations due to his shoulder repair recently.\n Physical Therapy worked with him and a regimen for mobilization\nwas worked out (he uses a cane for balance at home).\n\nFollow up appointments with all providers were arranged and\nrestrictions and precautions discussed with the patient.  He was\ndischarged to [**Hospital 98323**] Rehab on POD 6.\n\nMedications on Admission:\nSertraline 100mg QD\nPantoprazole 40mg [**Hospital1 **]\nRemeron 45mg QHS\nMetoprolol tartate 25mg [**Hospital1 **]\nMetformin 1000mg [**Hospital1 **]\nLosartan 100mg [**Hospital1 **]\nLevemir insluin 70units [**Hospital1 **]\nNovolog insulin sliding scale\n\nDischarge Medications:\n1. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID\n(2 times a day).\n2. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO once a day.\n3. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO twice a day.\n4. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)\nas needed for pain for 4 weeks.\nDisp:*50 Tablet(s)* Refills:*0*\n5. metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a day.\n\n6. Levemir 100 unit/mL Solution Sig: Seventy (70) units\nSubcutaneous twice a day.\n7. Novolog 100 unit/mL Solution Sig: sliding scale  Subcutaneous\nfour times a day.\n8. Lipitor 80 mg Tablet Sig: One (1) Tablet PO once a day.\n9. mirtazapine 45 mg Tablet Sig: One (1) Tablet PO once a day.\n10. tramadol 50 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4\nhours) as needed for pain for 4 weeks.\nDisp:*50 Tablet(s)* Refills:*0*\n11. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H\n(every 4 hours) as needed for pain, fever.\n12. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO DAILY (Daily).\n13. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)\nTablet, Delayed Release (E.C.) PO twice a day.\n14. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) ml\nInjection TID (3 times a day): until mobile, then stop.\n15. sertraline 100 mg Tablet Sig: One (1) Tablet PO once a day.\n\n16. losartan 100 mg Tablet Sig: One (1) Tablet PO once a day.\n17. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)\nML PO HS (at bedtime) as needed for constipation.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital 98323**] health center\n\nDischarge Diagnosis:\nCoronary artery disease\ns/p Coronary artery bypass graft x 4\ns/p myocardial infarction\ninsulin dependent diabetes mellitus\nDyslipidemia\nHypertension\nSleep apnea - uses nasal CPAP\nChronic back pain\ns/p bilateral rotator cuff surgery, 2nd on L [**3-5**]\ns/p c-spine fusion\ns/p transurethral resection of prostate\ns/p Appendectomy\n\n\nDischarge Condition:\nAlert and oriented x3 nonfocal\nAmbulating with steady gait\nIncisional pain managed with oral analgesics\nIncisions:\nSternal - healing well, no erythema or drainage\nLeg Left - healing well, no erythema or drainage.\nEdema:trace\n\n\nDischarge Instructions:\nPlease shower daily including washing incisions gently with mild\nsoap, no baths or swimming until cleared by surgeon. Look at\nyour incisions daily for redness or drainage\nPlease NO lotions, cream, powder, or ointments to incisions\nEach morning you should weigh yourself and then in the evening\ntake your temperature, these should be written down on the chart\n\nNo driving for approximately one month and while taking\nnarcotics, will be discussed at follow up appointment with\nsurgeon when you will be able to drive\nNo lifting more than 10 pounds for 10 weeks\nPlease call with any questions or concerns [**Telephone/Fax (1) 170**]\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\nFollowup Instructions:\nYou are scheduled for the following appointments\nSurgeon: Dr. [**Last Name (STitle) **]([**Telephone/Fax (1) 170**]) on [**2152-4-20**] at 1:30pm\nCardiologist: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3321**]([**Telephone/Fax (1) 5315**]) on [**2152-4-10**] at 2pm\n\nPlease call to schedule appointments with:\nPrimary Care: Dr. [**Last Name (STitle) 98324**] [**Name (STitle) 5311**]([**Telephone/Fax (1) 5317**]) in [**4-13**] weeks\northopedics:Dr. [**Last Name (STitle) 98325**] as instructed\n\n**Please call cardiac surgery office with any questions or\nconcerns [**Telephone/Fax (1) 170**]. Answering service will contact on call\nperson during off hours**\n\n\nCompleted by:[**2152-3-23**]"
+    }
+  ]
+}

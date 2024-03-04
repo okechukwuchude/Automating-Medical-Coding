@@ -1,0 +1,185 @@
+{
+  "hadm_id": 155738,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 42184,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 515,
+          "end": 518,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "CKD"
+        },
+        {
+          "begin": 520,
+          "end": 523,
+          "code": "404.91",
+          "code_system": "ICD-9-CM",
+          "description": "Hypertensive heart and renal disease, unspecified, with heart failure",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 525,
+          "end": 527,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HL"
+        },
+        {
+          "begin": 529,
+          "end": 543,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "hypothyroidism"
+        },
+        {
+          "begin": 545,
+          "end": 547,
+          "code": "274.9",
+          "code_system": "ICD-9-CM",
+          "description": "Gout, unspecified",
+          "type": "Human",
+          "covered_text": "RA"
+        },
+        {
+          "begin": 630,
+          "end": 641,
+          "code": "427.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified cardiac dysrhythmias",
+          "type": "Human",
+          "covered_text": "bradycardia"
+        },
+        {
+          "begin": 3530,
+          "end": 3536,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "ANEMIA"
+        },
+        {
+          "begin": 3537,
+          "end": 3541,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "description": "Esophageal reflux",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 3542,
+          "end": 3552,
+          "code": "274.9",
+          "code_system": "ICD-9-CM",
+          "description": "Gout, unspecified",
+          "type": "Human",
+          "covered_text": "Rheumatoid"
+        },
+        {
+          "begin": 7112,
+          "end": 7134,
+          "code": "426.0",
+          "code_system": "ICD-9-CM",
+          "description": "Atrioventricular block, complete",
+          "type": "Human",
+          "covered_text": "3rd degree\nheart block"
+        },
+        {
+          "begin": 7135,
+          "end": 7143,
+          "code": "427.32",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial flutter",
+          "type": "MapType.APPROX",
+          "covered_text": "Aflutter"
+        },
+        {
+          "begin": 7169,
+          "end": 7174,
+          "code": "410.51",
+          "code_system": "ICD-9-CM",
+          "description": "Acute myocardial infarction, of other lateral wall, initial episode of care",
+          "type": "Human",
+          "covered_text": "STEMI"
+        },
+        {
+          "begin": 7987,
+          "end": 8005,
+          "code": "923.03",
+          "code_system": "ICD-9-CM",
+          "description": "Contusion of upper arm",
+          "type": "MapType.APPROX",
+          "covered_text": "Right arm hematoma"
+        },
+        {
+          "begin": 8593,
+          "end": 8600,
+          "code": "780.4",
+          "code_system": "ICD-9-CM",
+          "description": "Dizziness and giddiness",
+          "type": "Human",
+          "covered_text": "Vertigo"
+        },
+        {
+          "begin": 9173,
+          "end": 9187,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified hypothyroidism",
+          "type": "Human",
+          "covered_text": "Hypothryoidism"
+        },
+        {
+          "begin": 9232,
+          "end": 9236,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "description": "Other and unspecified hyperlipidemia",
+          "type": "Human",
+          "covered_text": "HLD:"
+        },
+        {
+          "begin": 11048,
+          "end": 11085,
+          "code": "428.33",
+          "code_system": "ICD-9-CM",
+          "description": "Diastolic heart failure, acute on chronic",
+          "type": "Human",
+          "covered_text": "Acute on chronic diastolic congestive"
+        },
+        {
+          "begin": 11100,
+          "end": 11105,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "description": "Acute renal failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute"
+        },
+        {
+          "begin": 11133,
+          "end": 11152,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial Fibrillation"
+        }
+      ],
+      "text": "Admission Date:  [**2179-8-16**]              Discharge Date:   [**2179-8-20**]\n\n\nService: MEDICINE\n\nAllergies:\nmorphine\n\nAttending:[**First Name3 (LF) 2356**]\nChief Complaint:\ndizziness and vomitting\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\nOUTPATIENT CARDIOLOGIST:  [**Last Name (LF) 1270**], [**Name8 (MD) **] MD\n.\nPCP:\n.\nCHIEF COMPLAINT:  Dizziness and vomiting\n.\n.\nHISTORY OF PRESENTING ILLNESS:\n\nPt is a [**Age over 90 **] y/o female with history of ?bradycardia, LE swelling,\nCKD, HTN, HL, hypothyroidism, RA who was transferred to [**Hospital1 18**]\nfor pacemaker placement s/p symptomatic bradycardia.  Per OSH\n(Good Sumaritan) records, she was in usual state of health until\nthis evenning when she developed acute onset dizziness while\nwashing her dishes when she fell and EMS was caled.  No LOS or\nheadache.  On route developed chest pain radiating to her back\nand got aaspirin 325 and nitro once.  In the ambulance she was\nnoted to be diaphoretic, pale, nausea with vomiting and\ndizzzines.  The initial EKG showed junctional bradycardia in\n40s.  A subsequent 12 lead EKG demonstrated aflutter with 5:1\nconduction with rates between 49 and 52.  In the ED Code STEMI\nwas activated given STE in I and aVL and patient determined to\nbe medically managed and NOT taken to cath lab.  She was sent\nfor CT chest to r/o aortic dissection and after put on heparin\ndrip, asa, nitro drip, morphine, and continued on her home dose\nof lasix, hydrochlorothiazide, and home benazepril was changed\nto lisinopril (unknown dose).\n\nHer exam at OSH was notable for BP systolic 160s both upper\nextremities, bradycardia, crackles in left base, 2+ pitting\nedema in LE bilaterally, and skin tear on left elbow with\nbrusing and echhymoses.  Labs WBC 11.3, hct 38.5, plt 225,000,\nINR 0.9 PTT 30.  Na 137 K3.7, Cl94, bicarb 29, AG 14.  BUN/Cr\n71/2.2.  glu 250 and Ca 9.6.  Cl 73, peak MB 14, peak TropI\n1.55.\n\nEKG with Aflutter 5:1 conduction block.  1mm STE in I, 2mmSTE in\naVL with reciprocal ST depressions in II, II, avF, V5 and V6.\nAlso \"new LBBB\".  CXR with enlarged cardiac silhouette.  CT\nChest showed cardiac enlargement with small pericardial\neffusion, large hiatal hernia, small right pleural effusion.\nECHO showed EF 60-65%, normal systolic function, right atrium\nmildly dilated, trace AR, no AS, Pulmonary HTN present with RVSP\n67\n\nOn arrival to CCU the patient appeared well and was conversant,\nalert and oriented x3.  She did describe some chest pain on her\nlower right sternum which only was present during moving.  The\npain was felt to be internal and non-radiating.  She denied\nnausea, dizziness, shortness of breath, but did endorse a cough\nwhich is new.\n\nREVIEW OF SYSTEMS\nOn review of systems, s/he denies any prior history of stroke,\nTIA, deep venous thrombosis, pulmonary embolism, bleeding at the\ntime of surgery, myalgias, joint pains, cough, hemoptysis, black\nstools or red stools. S/he denies recent fevers, chills or\nrigors. S/he denies exertional buttock or calf pain. All of the\nother review of systems were negative.\n\nCardiac review of systems is notable for absence of dyspnea on\nexertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema,\npalpitations, syncope or presyncope.\n\n\nPast Medical History:\nPAST MEDICAL HISTORY:\n1. CARDIAC RISK FACTORS: -Diabetes, +Dyslipidemia, +Hypertension\n\n2. CARDIAC HISTORY:\n?CHF\nBradycardia- had been evaluated by cardiologist who recommended\nno intervention as patient was asymptomatic.  Unclear if history\n\n3. OTHER PAST MEDICAL HISTORY:\nCKD\nANEMIA\nGERD\nRheumatoid arthritis\n\nMEDICATIONS:\nhydrochlorothiazide - in OMR, not on OSH records\n25 mg tablet\n0.5 (One half) Tablet(s) by mouth once a day  [**2179-4-9**]\n\nisosorbide mononitrate [Imdur]\n60 mg tablet extended release 24 hr\n1 Tablet(s) by mouth once a day\n\nlevothyroxine [Synthroid]\n25 mcg tablet\n1 Tablet(s) by mouth once a day  [**2179-2-12**]\n\nnitroglycerin [Nitrostat]\n0.3 mg tablet, sublingual\n1 Tablet(s) sublingually 5 minutes  [**2178-12-11**]\n\npantoprazole [Protonix]\n40 mg tablet,delayed release (DR/EC)\n\nsimvastatin [Zocor]\n20 mg tablet\n1 Tablet(s) by mouth once a day\n\nBenzapril 40 mg daily\nLasix 20 mg daily\nPrednisone 5 mg daily\n\nALLERGIES: Morphine years ago, does not remember her reaction\n\n\nSocial History:\nSOCIAL HISTORY\nLives in [**Hospital3 **] home, lately increased dependence on\nambulatory aid.  1 son [**Name (NI) **] [**Name (NI) **] involved in her care\n-Former smoker, [**3-28**] ppd 45 years, quit in [**2144**]\n-No etoh or illicits\n\n\nFamily History:\nFAMILY HISTORY:\nMother and father died in 80s, father from CAD, sister cancer,\nmother unknown\n\nPhysical Exam:\nPHYSICAL EXAMINATION:\nVS: T=97.6 BP=143/61 HR= 45 3rd degree AV block RR=20 O2 sat=99%\n\nGENERAL: NAD. Oriented x3.\nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were\npink, no pallor or cyanosis of the oral mucosa. No xanthalesma.\n\nNECK: Supple with JVP of 9 cm.\nCARDIAC: PMI located in 5th intercostal space, midclavicular\nline. Slow rate, normal S1, S2. No m/r/g. No thrills, lifts. No\nS3 or S4.\nLUNGS: Crackles auscultated in left lower lobe\nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not\nenlarged by palpation. No abdominial bruits.\nEXTREMITIES: [**1-25**]+ edema bilateral lower extremities, R>L.\nEcchymosis on L elbow\nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.\nPULSES:\nRight: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+\nLeft: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+\n.\n\n\nPertinent Results:\n11:16p\n140  98  56  144   AGap=15\n\n3.9  31  1.6\nComments: Glucose: If Fasting, 70-100 Normal, >125 Provisional\nDiabetes\n\nestGFR: 30/36 (click for details)\nCK: 165  MB: 10  MBI: 6.1  Trop-T: 0.52\nComments: CK(CPK): New Reference Interval As Of [**2177-1-27**];Upper\nLimit (97.5th %Ile) Varies With Ancestry And Gender\n(Male/Female);Whites 322/201 Blacks 801/414 Asians 641/313\ncTropnT: Reported To And Read Back By\ncTropnT: J.Brady @ 0054 [**2179-8-17**]\ncTropnT: Ctropnt > 0.10 Ng/Ml Suggests Acute Mi\nCa: 9.1 Mg: 2.1 P: 3.0\n\n 94\n12.6  12.3  201\n\n 34.5\n\nPT: 10.8  PTT: 42.4  INR: 1.0\n EKG:\n-In house: Rate 40, 3rd degree AV block, Axis 80, No ST changes\nseen on this EKG.\n-OSH- STE in Leads aVL and I with reciprocal changes in v5 and\nv6.  Ventricular escape takes over in 09:56:36 PM EKG.\n.\n2D-ECHOCARDIOGRAM:\nEF 60-65%, normal systolic function, right atrium mildly\ndilated, trace AR, no AS, Pulmonary HTN present with RVSP 67\n\n[**2179-8-16**] 11:16PM   GLUCOSE-144* UREA N-56* CREAT-1.6* SODIUM-140\nPOTASSIUM-3.9 CHLORIDE-98 TOTAL CO2-31 ANION GAP-15\n[**2179-8-16**] 11:16PM   estGFR-Using this\n[**2179-8-16**] 11:16PM   CK(CPK)-165\n[**2179-8-16**] 11:16PM   CALCIUM-9.1 PHOSPHATE-3.0 MAGNESIUM-2.1\n[**2179-8-16**] 11:16PM   WBC-12.6* RBC-3.69* HGB-12.3 HCT-34.5* MCV-94\nMCH-33.3* MCHC-35.6* RDW-13.4\n[**2179-8-16**] 11:16PM   PLT COUNT-201\n[**2179-8-16**] 11:16PM   PT-10.8 PTT-42.4* INR(PT)-1.0\n\nBrief Hospital Course:\nASSESSMENT AND PLAN\nThis is a [**Age over 90 **] y/o female with PMHx of HTN, HL, questionable\nhistory of bradycardia and CHF, also with CKD who presented to\n[**Hospital3 **] hospital with near syncope found to be in 3rd degree\nheart block/Aflutter with evidence of lateral STEMI .\nShe was transferred here for consideration of pacemaker\nplacement.\n\nACUTE ISSUES\n# Afib with Junctional escape/complete heart block: Per son and\nattending, this had happened in the past and pt had not been\nsymptomatic. ECG changes indicated likely completed STEMI that\ncould be contributing to bradycardia vs acute on chronic\nprocess. Patient felt dizzy when walking with physical therapy.\nAt this point in time it was decided to not place a pacemaker.\n\n# Completed STEMI: Trop peak was 1.5 at the outside hospital.\nShe was treated with heparin for 2 days as ACS treatment. She\nwas also given aspirin and plavix. Her beta blocker wa held\nbecause of slow heart rate. She was not brought to cath lab\nbecause it was believed this was a completed MI. On [**8-18**] her\nCKMB was down to 4  and trop down to .32.\n\n# Right arm hematoma: Patientn came home with a right arm\nhematoma. She did not recall how she got this though it is\npossible it was related to when she fell before coming in.\nDuring hospital stay the hematoma got larger and we consulted\nvascular and hand surgery for their input. They could obtain an\nulnar pulse on doppler and recommended the patient be monitored\nand there was no need to do any surgery at this time. We did\nfurther imaging which showed a brachial artery dissection with\nno fractures in any of the bones in her arm. We gave her\ntramadol and tylenol for pain while she was uncomfortable.\n\n#Vertigo: On [**8-20**] patient started feeling vertigo. She described\na dizziness like the room is spinning sensation. She said it was\nworse when turning her head. We felt this was either Meuniere's\nvs benign position veritgo vs a small stroke involving the\nbrainstem. We started her on meclizine on day of discharge and\nordered a soft collar to prevent neck movements.\n\n# HTN: Her SBPs were in the 160s-170s. We stopped her home hctz\nand started amlodipine. She was also on captopril which was\nchanged to her home benazepril at discharge. Her goal SBP Is\n140.\n\nCHRONIC ISSUES.\n# Hypothryoidism: TSH nl. We continued home levothyroxine\n\n# HLD: stable We continued home simvastatin\n\n# GERD/Hiatal hernia\n-Pantoprazole 40 mg daily\n\n#HL\n-Simvastatin 20 mg daily\n\nTRANSITIONAL ISSUES\n#veritgo: patietn should follow up with PCP\n#[**Name10 (NameIs) **] hematoma showed be followed up with vascular surgery if\ndoes not resolve.\n#hypertension: we started amlodipine during hosptial stay and\ndiscontinued her home thiazide. Her SBPs were in the 140's.\n#Bradycardia with heart block: should be followed up with\noutpatient cardiologist in terms of if patient will need a\npacemaker in the future.\n\nMedications on Admission:\nPreadmission medications listed are correct and complete.\nInformation was obtained from Patient.\n1. Furosemide 20 mg PO ONCE Duration: 1 Doses\n2. Hydrochlorothiazide 25 mg PO DAILY\n3. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY\n4. PredniSONE 5 mg PO DAILY\n5. Simvastatin 20 mg PO DAILY\n6. Pantoprazole 40 mg PO Q24H\n7. Levothyroxine Sodium 25 mcg PO DAILY\n8. Nitroglycerin SL 0.3 mg SL PRN angina\n9. benazepril *NF* 40 mg Oral daily\n\n\nDischarge Medications:\n1. Levothyroxine Sodium 25 mcg PO DAILY\n2. Nitroglycerin SL 0.3 mg SL PRN angina\n3. Pantoprazole 40 mg PO Q24H\n4. PredniSONE 5 mg PO DAILY\n5. Simvastatin 20 mg PO DAILY\n6. Acetaminophen 650 mg PO TID\n7. Amlodipine 5 mg PO DAILY\nHold for SBP < 100\n8. Aspirin 325 mg PO DAILY\n9. Clopidogrel 75 mg PO DAILY\n10. Docusate Sodium 100 mg PO BID:PRN constipation\nhold for loose stools\n11. Heparin 5000 UNIT SC TID\nD/C once pt is mobile\n12. Meclizine 12.5 mg PO TID\n13. Senna 1 TAB PO BID:PRN constipation\n14. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain\n15. benazepril *NF* 40 mg ORAL DAILY\nHold SBP < 100\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\nCommons Residence At Orchard - [**Location (un) 2624**] (a.k.a. [**Location (un) 5481**])\n\nDischarge Diagnosis:\nCompleted STEMI\nAcute on chronic diastolic congestive Heart failure\nAcute on chronic kidney function\nAtrial Fibrillation with complete heart block\nVertigo\nHypertension\nRight arm hematoma\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\n\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\nYou had a fall before you arrived here and your heart rate was\nfound to be very slow. You had a heart attack before you came\nand you have been started on medicines to help your heart\nrecover. Your heart rate has been slow for a long time so a\npacemaker was not placed. You had some fluid overload and was\ngiven diuretics to remove the fluid. A large bruise developed\nover your upper and lower right arm and you were seen by a\nvascular surgeon, a rheumatologist and a plastic surgeon. They\nhave all agreed that it is resolving on it's own. Please be sure\nto keep it elevated. You have new dizziness that may have been\ncaused by a very small stroke. You are now on aspirin and plavix\nfor your heart that may also help to prevent further strokes.\nYour vertigo should go away as you recover.\n\nFollowup Instructions:\nDepartment: BIDHC [**Location (un) **]\nWhen: FRIDAY [**2179-9-24**] at 11:00 AM\nWith: [**First Name4 (NamePattern1) 1730**] [**Last Name (NamePattern1) **], MD [**0-0-**]\nBuilding: [**Street Address(2) 1126**] ([**Location (un) **], MA) [**Location (un) 861**]\nCampus: OFF CAMPUS     Best Parking: On Street Parking\n\n\n                             [**First Name4 (NamePattern1) 1730**] [**Last Name (NamePattern1) **] MD [**MD Number(1) 2362**]\n\n"
+    }
+  ]
+}

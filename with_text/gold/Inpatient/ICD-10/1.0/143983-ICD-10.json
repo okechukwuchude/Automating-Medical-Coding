@@ -1,0 +1,167 @@
+{
+  "hadm_id": 143983,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 42073,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1594,
+          "end": 1607,
+          "code": "Z86.711",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of pulmonary embolism",
+          "type": "Human",
+          "covered_text": "Bilateral PEs"
+        },
+        {
+          "begin": 1611,
+          "end": 1619,
+          "code": "Z79.01",
+          "code_system": "ICD-10-CM",
+          "description": "Long term (current) use of anticoagulants",
+          "type": "Human",
+          "covered_text": "coumadin"
+        },
+        {
+          "begin": 1754,
+          "end": 1767,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hyptertension"
+        },
+        {
+          "begin": 1769,
+          "end": 1783,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "Hyperlipidemia"
+        },
+        {
+          "begin": 1785,
+          "end": 1788,
+          "code": "Z86.73",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "TIA"
+        },
+        {
+          "begin": 2008,
+          "end": 2031,
+          "code": "Z93.0",
+          "code_system": "ICD-10-CM",
+          "description": "Tracheostomy status",
+          "type": "Human",
+          "covered_text": "General: trach in place"
+        },
+        {
+          "begin": 6506,
+          "end": 6537,
+          "code": "J69.0",
+          "code_system": "ICD-10-CM",
+          "description": "Pneumonitis due to inhalation of food and vomit",
+          "type": "Human",
+          "covered_text": "Healthcare Associated Pneumonia"
+        },
+        {
+          "begin": 7280,
+          "end": 7306,
+          "code": "Z86.711",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of pulmonary embolism",
+          "type": "Human",
+          "covered_text": "Multiple Pulmonary Emboli:"
+        },
+        {
+          "begin": 7817,
+          "end": 7827,
+          "code": "A04.72",
+          "code_system": "ICD-10-CM",
+          "description": "Enterocolitis due to Clostridium difficile, not specified as recurrent",
+          "type": "Human",
+          "covered_text": "# C. diff:"
+        },
+        {
+          "begin": 8126,
+          "end": 8129,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "ARF"
+        },
+        {
+          "begin": 8407,
+          "end": 8410,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "UTI"
+        },
+        {
+          "begin": 8534,
+          "end": 8547,
+          "code": "L89.159",
+          "code_system": "ICD-10-CM",
+          "description": "Pressure ulcer of sacral region, unspecified stage",
+          "type": "Human",
+          "covered_text": "sacral\nulcers"
+        },
+        {
+          "begin": 8927,
+          "end": 8939,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 9721,
+          "end": 9724,
+          "code": "Z66",
+          "code_system": "ICD-10-CM",
+          "description": "Do not resuscitate",
+          "type": "Human",
+          "covered_text": "DNR"
+        },
+        {
+          "begin": 11806,
+          "end": 11833,
+          "code": "J69.0",
+          "code_system": "ICD-10-CM",
+          "description": "Pneumonitis due to inhalation of food and vomit",
+          "type": "Human",
+          "covered_text": "Hospital-acquired pneumonia"
+        },
+        {
+          "begin": 11834,
+          "end": 11857,
+          "code": "N39.0",
+          "code_system": "ICD-10-CM",
+          "description": "Urinary tract infection, site not specified",
+          "type": "Human",
+          "covered_text": "Urinary tract infection"
+        },
+        {
+          "begin": 11858,
+          "end": 11889,
+          "code": "A04.72",
+          "code_system": "ICD-10-CM",
+          "description": "Enterocolitis due to Clostridium difficile, not specified as recurrent",
+          "type": "Human",
+          "covered_text": "Clostridium difficile infection"
+        }
+      ],
+      "text": "Admission Date:  [**2176-12-8**]              Discharge Date:   [**2176-12-12**]\n\nDate of Birth:  [**2092-6-5**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\naspirin\n\nAttending:[**First Name3 (LF) 1185**]\nChief Complaint:\nTachypnea\n\nMajor Surgical or Invasive Procedure:\nNone\n\n\nHistory of Present Illness:\nPatient is 84 male w/PMHx recent SAH + aneurysm clipping, VP\nshunt placement, trach and PEG ([**Date range (1) 91301**]), multiple\nsubsegmental PE (admitted from 12/12-15/11), who presents from\nrehab w/ progressively worsening tachypnea and respiratory\ndistress. His RR was elevated to the 40s-60s. He was given an\nalbuterol neb without improvement. Patient is non-verbal at\nbaseline, but per facility report he has been less responsive\nthan usual. A blood gas done at rehab showed pH 7.52, CO2, 30,\nO2 76. INR was 3.8 on coumadin which was held today.\n\nIn the ED, initial VS were: 98.8 94 116/78 20 96%, RR ranging\nfrom 30s to 50s. Physical exam was notable for mental status\nthat was not responsive to voice but withdrawing to pain, 2+\nreflexes, EOMI, PERRL. Lungs were distant but diffuslely CTAB in\nsetting of tachypnea. Labs were signifcant for leukocytosis to\n14, lactate 2.2, INR 5.5. CT head showed no new ICH. CTA chest\nshowed decreased clot burden, new patchy infiltrates on left,\nstable opacities on the right. He was given on ceftriaxone, levo\n(vanco ordered but not received in ED). He was given tylenol for\nfever. VS prior to transfer were T: 101.4, 91, RR 50, BP:\n114/60, 98% on trach mask.\n.\nOn arrival to the MICU, patient was tachypneic.\n\nPast Medical History:\n- Bilateral PEs on coumadin (diagnosed [**2176-11-25**])\n-Subarchnoid hemorrhage [**1-17**] aneurysm and s/p VP shunt placement,\n\ntracheostomy and PEG placement\n-Hyptertension\n-Hyperlipidemia\n-TIA\n-? Prior thalamic bleed\n\n\nSocial History:\nwidowed, lives in rehab, has 2 adult daughters\n\n\nFamily History:\nnon-contributory\n\n\nPhysical Exam:\nAdmission:\nVitals: T: 97 BP: 118/44 P: 91 R: 31 18 O2: 97% onm 50% trach\nmask\nGeneral: trach in place, opens eyes occasionally, not following\ncommands\nHEENT: whitish plaque over tongue, EOMI, PERRL\nNeck: supple, JVP not elevated, no LAD\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,\ngallops\nLungs: tachypneic, clear to auscultation bilaterally, no\nwheezes, rales, ronchi, sl. diminished at bilateral bases\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno organomegaly\nGU: foley in place\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or\nedema\nNeuro: not following commands, withdrawing to pain\n\n\nPertinent Results:\nAdmission labs:\n[**2176-12-8**] 09:00PM BLOOD WBC-14.0*# RBC-4.03*# Hgb-12.5*#\nHct-37.8*# MCV-94# MCH-31.0 MCHC-33.1 RDW-14.0 Plt Ct-457*#\n[**2176-12-8**] 09:00PM BLOOD Neuts-85.2* Lymphs-9.0* Monos-5.3 Eos-0.3\nBaso-0.2\n[**2176-12-8**] 09:00PM BLOOD PT-54.9* PTT-51.8* INR(PT)-5.5*\n[**2176-12-8**] 09:00PM BLOOD Glucose-159* UreaN-55* Creat-1.1 Na-138\nK-4.4 Cl-105 HCO3-24 AnGap-13\n[**2176-12-8**] 09:00PM BLOOD Calcium-9.0 Phos-3.5 Mg-2.2\n[**2176-12-8**] 09:16PM BLOOD pO2-86 pCO2-31* pH-7.50* calTCO2-25 Base\nXS-1 Comment-GREEN TOP\n[**2176-12-8**] 09:16PM BLOOD Lactate-2.2*\n\nCT Head [**2176-12-8**]\n\nFINDINGS: The patient is status post ACOM aneurysm coiling. A\nright frontal approach ventriculostomy catheter terminates\nwithin the anterior [**Doctor Last Name 534**] of the right lateral ventricle,\nunchanged in position in comparison to [**2176-11-27**]\nexamination. The ventricles are enlarged though stable in size.\n\n\nThere has been interval decrease in blood products seen layering\nposteriorly within the occipital horns of lateral ventricles\n(2:16). Previously seen subarachnoid hemorhage no longer\nvisualized. No acute hemorrhage or large vascular territorial\ninfarction is seen.\n\nFocal hypodensities along the periventricular white matter\n(2:20, 21) and\nwithin a large area along the ACA territory bilaterally (2:10)\nare unchanged, compatible with encephalomalacia and chronic\nmicrovascular\nischemic disease.\n\nThere is no acute fracture. A large scalp lipoma overlying the\nleft calvarium (2:19) is again seen. There is mild mucosal\nthickening within the right ethmoid air cells.\n\nIMPRESSION:\n1. Decreased intraventricular hemorrhage.\n2. Resolved subarachnoid hemorrhage. No new hemorrhage.\n3. Unchanged ventriculomegaly with a right frontal approach\nventriculostomy\ncatheter.\n4. Bifrontal ACA distribution infarcts superimposed on chronic\nmicrovascular\nischemic changes within the periventricular white matter.\n\nCT Chest [**2176-12-8**]\nTECHNIQUE: MDCT-acquired 5-mm axial images of the chest were\nobtained prior to and following the uneventful administration of\n100 cc of intravenous contrast. Coronal and sagittal\nreformations were performed at 2-mm slice thickness. Additional\nright and left oblique reconstructions were performed for\nfurther evaluation of the pulmonary vasculature.\n\nFINDINGS: The thyroid is normal. The patient is status post\ntracheostomy\n(2:28). A ventriculoperitoneal shunt transverses along the right\nchest wall (2:31).\n\nThe heart is mildly enlarged. There is no pericardial effusion.\nModerate\natherosclerotic calcifications are seen throughout the thoracic\naorta which is normal in caliber. No intramural or intramural\nhematoma is detected. There is no dissection.\n\nPreviously seen bilateral pulmonary emboli are no longer\nvisualized to the\nsubsegmental levels, although evaluation of the lower segmental\nand\nsubsegmental branches is limited due to patient motion.\n\nThere is persistent moderate right basilar atelectasis with air\nbronchograms (3:56, 58); an early consolidation in this region\ncannot be excluded. A trace right pleural effusion is decreased\nin size.\n\nScattered opacity is new in the left lower lobe\nposteriorly(3:52), concerning for aspiration and/or early\npneumonia. The left upper lobe remains clear. There is no\npneumothorax.\n\nOSSEOUS STRUCTURES: There is no acute fracture. No concerning\nblastic or\nlytic lesions are identified.\n\nIMPRESSION:\n1. Interval resolutino of pulmonary emboli.\n2. New left lower lobe opacity concerning for pneumonia or\naspiration.\n3. Interval decrease in trace right pleural effusion.\n\n\nBrief Hospital Course:\nPrimary Reason for Hospitalization:\n84M with recent admission for SAH secondary to aneursym s/p\ncoiling, intraventricular shunt, trach and PEG ([**Date range (1) 91301**]),\nand bilateral PEs (12/12-15/11) presenting from rehab with\ntachypnea and found to have pneumonia, likely secondary to\naspiration.\n\nActive Issues:\n# Healthcare Associated Pneumonia:\nLikely secondary to aspiration event from tube feeds. He was\ninitially started on vanco, cefepime and levofloxacin (day\n1=[**12-9**]). Levofloxacin was stopped [**12-10**], and he will be\ncontinued on vancomycin and cefepime through PICC line for total\n8 day course, through [**2176-12-17**].  Vanc trough on [**12-11**] was 16.\nPICC line can be d/c'd once IV antibiotics are completed.  (Of\nnote, only received 1 dose of levofloxacin due to low suspicion\nfor resistant GNR infection.  If pt worsens after discharge\nwould recommend restarting levofloxacin for double coverage.)\nHe was evaluated by speech & [**Last Name (LF) **], [**First Name3 (LF) **] family request, who\nconfirms that patient should remain NPO, everything per G-tube.\n\n# Multiple Pulmonary Emboli:\nPatient had RUL,RLL, LUL and left lingula lobar and segmental\npulmonary emboli at last hospitalization 12/12-19/11 and was\nstarted on coumadin with lovenox bridge. INR supratherapeutic on\nadmission. He was given 5 mg vitamin K to lower INR when it\npeaked at 7. Elevated INR likely related to metronidazole and\nlevofloxacin use.  He was restarted on warfarin dose 2.5mg on\n[**2176-12-11**], and his INR on discharge was 2.3.  His INR should be\nmonitored frequently while on metronidazole (see attached\nsheet).\n\n# C. diff:\nDiagnosed [**12-2**] at rehab and started on oral metronidazole which\nwas continued during this admission.  No further diarrhea by\ntime of admission here on [**12-8**].  He should continue\nmetronidazole 500mg Q8 hours until 2 weeks after completion of\nIV antibiotics for HCAP (until [**1-1**]).\n\n# ARF:\nPresented with acute renal failure (creatinine elevated to 1.1\nfrom baseline 0.5), likely prerenal [**1-17**] infection, which\nresolved with hydration.  On discharge his creatinine was 0.4.\nHis losartan was held during hospitalization and should be\nrestarted on discharge.\n\n# UTI: UA consistent with UTI. Foley was placed during admission\n[**10/2176**], and family understands the benefit in setting of sacral\nulcers. He was treated with vancomycin and cefepime as above for\npneumonia.\n\nChronic Issues:\n# Hx SAH: Patient was admitted on [**10-28**] w SAH and IVH now s/p\nACOM coiling, VP shunt placement, tracheostomy and PEG\nplacement. Had repeat MRI/MRA per neurosurg recs, will be\ncontact[**Name (NI) **] by Dr. [**First Name (STitle) **] (neurosurg) as outpatient regarding\nthese results.\n\n# Hypertension: Pt's home losartan held during hospitalization\nfor ARF, should be restarted on discharge.\n\nTransitional issues:\n- INR should be monitored closely while on metronidazole (was\nsupratherapeutic on admission and warfarin held, restarted\n[**12-11**])\n- Would recheck WBC if respiratory status worsens, if increasing\nconsider restarting levofloxacin\n- Should continue IV vanc/cefepime until [**12-18**], can d/c PICC once\nantibiotic course complete\n- Should continue PO metronidazole until 2 weeks after\ncompleting IV antibiotics for c diff infection\n- Dr. [**First Name (STitle) **] (neurosurgery) will contact patient as outpatient\nwith results of MRI.  If he is not contact[**Name (NI) **] within a few days,\nplease contact his office at ([**Telephone/Fax (1) 88**].\n- Pt maintained DNR/DNI status throughout hospitalization\n\nMedications on Admission:\nVitamin D3 800 units PO DAILY (Daily).\nCalcium carbonate 200 mg calcium (500 mg) PO TID (3 times a\nday).\nAlbuterol nebs Q6H prn tachypnea\nChlorhexidine gluconate 0.12 % Mouthwash [**Hospital1 **]\nEsomeprazole 40 mg po daily\nAcetaminophen 650 mg PO Q6H as needed for pain or fever.\nMultivitamin\nWarfarin\nLosartan 50 mg po once a day\nMetronidazole 500 mg po q8h (started [**12-2**])\n\nDischarge Medications:\n1. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for\nNebulization [**Month/Year (2) **]: One (1) neb Inhalation every six (6) hours as\nneeded for shortness of breath or wheezing.\n2. acetaminophen 325 mg Tablet [**Month/Year (2) **]: Two (2) Tablet PO Q6H (every\n6 hours) as needed for pain, fever.\n3. metronidazole 500 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO Q8H (every\n8 hours) for 19 days: Take until 2 weeks after completion of IV\nantibiotics (until [**1-1**]).\n4. warfarin 2.5 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO Once Daily at 4\nPM.\n5. vancomycin in D5W 1 gram/200 mL Piggyback [**Month/Year (2) **]: 1000 (1000) mg\nIntravenous Q 12H (Every 12 Hours) for 5 days: Continue until\n[**2176-12-17**].\n6. cefepime 2 gram Recon Soln [**Month/Day/Year **]: Two (2) gram Injection Q12H\n(every 12 hours) for 5 days: Continue until [**2176-12-17**].\n7. Vitamin D-3 400 unit Capsule [**Month/Day/Year **]: Two (2) Capsule PO once a\nday.\n8. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable\n[**Month/Day/Year **]: One (1) Tablet, Chewable PO three times a day.\n9. chlorhexidine gluconate 0.12 % Mouthwash [**Month/Day/Year **]: Fifteen (15) mL\nMucous membrane twice a day.\n10. esomeprazole magnesium 40 mg Capsule, Delayed Release(E.C.)\n[**Month/Day/Year **]: One (1) Capsule, Delayed Release(E.C.) PO once a day.\n11. multivitamin     Tablet [**Month/Day/Year **]: One (1) Tablet PO once a day.\n12. losartan 50 mg Tablet [**Month/Day/Year **]: One (1) Tablet PO once a day.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 **] [**Hospital1 8**]\n\nDischarge Diagnosis:\nHospital-acquired pneumonia\nUrinary tract infection\nClostridium difficile infection\nSubarachnoid hemorrhage\n\n\nDischarge Condition:\nMental Status: Confused - always.\nLevel of Consciousness: Lethargic but arousable.\nActivity Status: Bedbound.\n\n\nDischarge Instructions:\nYou were admitted to [**Hospital1 18**] because of pneumonia.  You were\nstarted on IV antibiotics, which you should continue at your\nrehab facility until [**12-18**].  You were also started on an\noral antibiotic (metronidazole) for an intestinal infection\ncalled C diff. You should continue to take metronidazole until 2\nweeks after you complete your IV antibiotics for pneumonia.\n\nWhile you were here, your INR was elevated so your coumadin was\nheld.  You were restarted on your coumadin at 2.5 mg by mouth\ndaily.  You should continue to have your INR level monitored\nregularly at your rehab facility.\n\nYou were also seen by the neurosurgery service while you were\nhere because of your history of a brain hemorrhage.  You had an\nMRI of your brain, and you will hear from Dr. [**First Name (STitle) **] within the\nnext few days regarding these results.  If you do not hear from\nDr. [**First Name (STitle) **] or his staff, please contact his office at ([**Telephone/Fax (1) 18865**].  It was a pleasure taking care of you at [**Hospital1 18**] and we\nwish you a speedy recovery.\n\nFollowup Instructions:\nYou will be contact[**Name (NI) **] by Dr. [**First Name (STitle) **] (neurosurgery) regarding the\nresults of your brain MRI.  At this time you do not need to\nfollow up in his clinic.  If you do not hear from Dr. [**First Name (STitle) **] or\nhis staff, please contact his office at ([**Telephone/Fax (1) 88**].\n\n\n                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**Doctor Last Name 1189**]\n\n"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "hadm_id": 141463,
+  "comment": "EGD report not present- unable to validate the PCS codes",
+  "notes": [
+    {
+      "note_id": 39430,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 430,
+          "end": 438,
+          "code": "V45.81",
+          "code_system": "ICD-9-CM",
+          "description": "Postsurgical aortocoronary bypass status",
+          "type": "MapType.EXACT",
+          "covered_text": "s/p CABG"
+        },
+        {
+          "begin": 440,
+          "end": 456,
+          "code": "V58.61",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of anticoagulants",
+          "type": "MapType.EXACT",
+          "covered_text": "Afib on coumadin"
+        },
+        {
+          "begin": 458,
+          "end": 465,
+          "code": "V12.54",
+          "code_system": "ICD-9-CM",
+          "description": "Transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "MapType.EXACT",
+          "covered_text": "s/p CVA"
+        },
+        {
+          "begin": 482,
+          "end": 485,
+          "code": "V45.01",
+          "code_system": "ICD-9-CM",
+          "description": "Cardiac pacemaker in situ",
+          "type": "Human",
+          "covered_text": "PPM"
+        },
+        {
+          "begin": 491,
+          "end": 494,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "DM2"
+        },
+        {
+          "begin": 1318,
+          "end": 1321,
+          "code": "99.07",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of other serum",
+          "type": "MapType.APPROX",
+          "covered_text": "FFP"
+        },
+        {
+          "begin": 1334,
+          "end": 1338,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "description": "Transfusion of packed cells",
+          "type": "MapType.APPROX",
+          "covered_text": "pRBC"
+        },
+        {
+          "begin": 2930,
+          "end": 2955,
+          "code": "214.0",
+          "code_system": "ICD-9-CM",
+          "description": "Lipoma of skin and subcutaneous tissue of face",
+          "type": "MapType.APPROX",
+          "covered_text": "lipoma on posterior neck,"
+        },
+        {
+          "begin": 2988,
+          "end": 3009,
+          "code": "459.89",
+          "code_system": "ICD-9-CM",
+          "description": "Other specified circulatory system disorders",
+          "type": "MapType.APPROX",
+          "covered_text": "chronic venous stasis"
+        },
+        {
+          "begin": 4061,
+          "end": 4115,
+          "code": "44.43",
+          "code_system": "ICD-9-PCS",
+          "description": "Endoscopic control of gastric or duodenal bleeding",
+          "type": "Human",
+          "covered_text": "Three endoclips were successfully applied to the ulcer"
+        },
+        {
+          "begin": 4727,
+          "end": 4750,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "acute blood loss anemia"
+        },
+        {
+          "begin": 4752,
+          "end": 4786,
+          "code": "531.40",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",
+          "type": "Human",
+          "covered_text": "Secondary to bleeding antral\nulcer"
+        },
+        {
+          "begin": 4801,
+          "end": 4820,
+          "code": "790.92",
+          "code_system": "ICD-9-CM",
+          "description": "Abnormal coagulation profile",
+          "type": "MapType.EXACT",
+          "covered_text": "supratherapetic INR"
+        },
+        {
+          "begin": 5080,
+          "end": 5123,
+          "code": "45.16",
+          "code_system": "ICD-9-PCS",
+          "description": "Esophagogastroduodenoscopy [EGD] with closed biopsy",
+          "type": "MapType.APPROX",
+          "covered_text": "Biopsies\nsent and H. pylori serologies sent"
+        },
+        {
+          "begin": 5643,
+          "end": 5662,
+          "code": "041.86",
+          "code_system": "ICD-9-CM",
+          "description": "Helicobacter pylori (H. pylori) infection in conditions classified elsewhere and of unspecified site",
+          "type": "MapType.EXACT",
+          "covered_text": "H.pylori infection."
+        },
+        {
+          "begin": 5832,
+          "end": 5851,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial fibrillation"
+        },
+        {
+          "begin": 6562,
+          "end": 6575,
+          "code": "V58.66",
+          "code_system": "ICD-9-CM",
+          "description": "Encounter for long-term (current) use of aspirin",
+          "type": "MapType.EXACT",
+          "covered_text": "Aspirin 81 mg"
+        },
+        {
+          "begin": 7554,
+          "end": 7592,
+          "code": "531.40",
+          "code_system": "ICD-9-CM",
+          "description": "Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",
+          "type": "Human",
+          "covered_text": "Upper GI bleed: bleeding stomach ulcer"
+        },
+        {
+          "begin": 7593,
+          "end": 7612,
+          "code": "041.86",
+          "code_system": "ICD-9-CM",
+          "description": "Helicobacter pylori (H. pylori) infection in conditions classified elsewhere and of unspecified site",
+          "type": "MapType.EXACT",
+          "covered_text": "H. pylori infection"
+        },
+        {
+          "begin": 7635,
+          "end": 7638,
+          "code": "414.00",
+          "code_system": "ICD-9-CM",
+          "description": "Coronary atherosclerosis of unspecified type of vessel, native or graft",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 7639,
+          "end": 7658,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "description": "Atrial fibrillation",
+          "type": "Human",
+          "covered_text": "Atrial Fibrillation"
+        },
+        {
+          "begin": 7659,
+          "end": 7671,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified essential hypertension",
+          "type": "MapType.MULTI_DESC",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 7672,
+          "end": 7680,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "description": "type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",
+          "type": "Human",
+          "covered_text": "Diabetes"
+        }
+      ],
+      "text": "Admission Date:  [**2172-9-20**]              Discharge Date:   [**2172-9-23**]\n\nDate of Birth:  [**2090-11-10**]             Sex:   M\n\nService: MEDICINE\n\nAllergies:\nPenicillins\n\nAttending:[**Doctor First Name 2080**]\nChief Complaint:\nGI Bleed\n\nMajor Surgical or Invasive Procedure:\nEGD [**2172-9-21**]\n\nHistory of Present Illness:\nMr. [**Known firstname **] [**Known lastname 87132**] is an 81 year old man with a history of CAD\ns/p CABG, Afib on coumadin, s/p CVA [**2171**], s/p PPM, and DM2 who\npresents with anginal chest pain with exertion in the setting of\nmultiple melanotic stools. Patient lives in [**State 760**] and was\nvisiting his daughter in [**Name (NI) 86**] the week.  During the last few\ndays he had several black stools.  He also started becoming more\nfatigued with exertion and developed right sided chest pressure\nwith activity that resolved at rest.  He presented to urgent\ncare today who recommended ED evaluation.\n.\nIn ED VS were T 98.4 HR 78 BP 131/62 RR 18 SpO2 99%. Patient\ndenied any symptoms on arrival. EKG showed diffuse TWI in II,\nIII, aVF, V1-6, and ST depressions II, V4-6. Labs were notable\nfor Hct 19.5, WBC 12, Trop 0.05. Melanotic guaiac positive\nstools on rectal exam. NG lavage showed a few coffee grounds\nconcerning for UGIB.  GI team was consulted. He was transfused 2\nunits FFP and 2 units pRBC prior to transfer to the MICU.\n.\nOn arrival to the MICU, he again denies any active chest pain.\nHe reports some right sided chest pressure and fatigue with\nexertion which resolves with rest.  He denies any recent\nlightheadedness, shortness of breath, palpitations, abdominal\npain, diarrhea, vomiting, nausea, fever, chills.  He denies use\nof any etoh, NSAIDS, steroids. He reports his last colonoscopy\nwas over 10 years ago and was negative.  He denies any history\nof upper endoscopy or known GI ulcers.  He later admits to\nhaving a GI bleed during an admission in the [**2152**] for cardiac\nangioplasty in the setting of anticoagulation or high dose\naspirin.\n.\nReview of systems:\n(+) Per HPI, nocturia, constipation\n(-) Denies fever, chills, night sweats, recent weight loss or\ngain. Denies headache, sinus tenderness, rhinorrhea or\ncongestion. Denied cough, shortness of breath. Denied nausea,\nvomiting, diarrhea, or abdominal pain. No recent change in\nbladder habits. No dysuria.\n\nSocial History:\nSocial History: He lives in [**State 760**] and is currently visiting\na daughter in [**Name (NI) 86**] (who is the director of Atrius). He denies\ntobacco, EtOH, drugs.\n\nFamily History:\nnon-contributory\n\nPhysical Exam:\nPhysical Exam:  at time of discharge\nVS: BP 145/64, HR 85, RR 20, O2 95% RA\nGeneral: Sleeping but arousable, appears well, no distress\nHEENT: moist mucosa, oropharynx clear\nCards: irregularly irregular, no murmur, 2+ pitting LE symmetric\nperipheral edema, no carotid bruit appreciated\nPulm: clear bilaterally, no w/r/c\nAbd: soft, nontender, nondistended\nExtremities: warm, lipoma on posterior neck, LE skin changes\nconsistent with chronic venous stasis, 2 healed ulcers on left\nshin\nNeuro/Psych: hard of hearing. CN II-XII intact. Strength 5/5\nupper and lower extremites b/l. Gait stable.\n\nPertinent Results:\nOn admission:\n[**2172-9-20**] 01:40PM   WBC-12.3* RBC-2.53* HGB-6.3* HCT-19.8*\nMCV-78* MCH-24.7* MCHC-31.6 RDW-20.4*\n[**2172-9-20**] 01:40PM   PT-35.5* PTT-30.6 INR(PT)-3.6*\n[**2172-9-20**] 01:40PM   GLUCOSE-330* UREA N-55* CREAT-1.2 SODIUM-142\nPOTASSIUM-3.6 CHLORIDE-102 TOTAL CO2-28 ANION GAP-16\n\nAt discharge ([**9-23**])\n    WBC  RBC   Hgb   Hct  MCV  MCH   MCHC RDW  Plt Ct\n    8.5  4.08* 10.6* 33.2* 81* 26.0* 32.0 17.7* 186\n\n  Glucose UreaN Creat Na   K     Cl  HCO3  AnGap\n   164     22*   1.0  140 3.2*  103   29   11\n\nEKG (no baseline comparision) EKG showed diffuse TWI in II, III,\naVF, V1-6, and ST depressions II, V4-6.\n\n\nENDOSCOPY ([**9-21**])\nFindings:\nEsophagus: Normal esophagus.\nStomach:\n Mucosa: Small erosions of the mucosa were noted in the antrum.\n\n Excavated Lesions A single 5 mm ulcer with visible vessel was\nfound in the antrum. There were stigmata of recent bleeding.\nThree endoclips were successfully applied to the ulcer with\nvisible vessel at stomach antrum for the purpose of hemostasis.\n\nDuodenum: Normal duodenum.\nImpression: Ulcer in the antrum (endoclip)\nSmall erosions in the antrum\nOtherwise normal EGD to third part of the duodenum\nRecommendations: Please f/u hct closely and transfusion with\ntarget hct>30, pt at high risk for rebleed\n\nH.pylori serology: positive\n\n\n\n\n\nBrief Hospital Course:\nAn 81 year-old man with HTN, CAD, DM and atrial fibrillation on\ncoumadin h/o pontine CVA s/p PPM in [**2171**] presented fatigue,\nchest tightness, in setting of several dark, melanotic stools\nand supratherapeutic INR.\n\n# GI Bleed/acute blood loss anemia: Secondary to bleeding antral\nulcer in setting of supratherapetic INR (3.6), + H.pylori\nserology. On presention HCT: 19.6. During hospitalization\nreceived total of 7units pRBC, 6units FFP, 5mg of vit K PO. Both\ncoumadin and ASA held. PPI gtt started, transition to IV.\nEndoscopy performed on [**9-21**] and antral ulcer clipped. Biopsies\nsent and H. pylori serologies sent. After clipping, serial HCTs\nobtain, Hct stabilized with no further transfusion requirement.\nExtensive discussion regarding patients ongoing management of\nhis CAD/afib while weighing GU bleeding risk. His outpatient PCP\nwas [**Name (NI) 653**] and agreed to manage issue with plan to hold\ncoumdin until follow-up. Prior to discharge, GI recommended\nrepeat endoscopy in 8weeks, oral PPI treatment [**Hospital1 **] until repeat\nendoscopy, and re-initiation of ASA 81mg,  Patient to obtain GI\ndoctor on return to NJ.\n.\n#) H.pylori infection. H.pylori sent post endoscopy which\nreturned postive. Patient already on a [**Hospital1 **] PPI. Patient started\non Amoxicillin and Clarithromycin for 14day course.\n.\n#) Atrial fibrillation (CHADS: 5), h/o pontine stroke s/p PPM in\n[**2162**]. Rate controlled on metoprolol and amlodipine. Coumadin\nheld.  Patient informed of importance to follow-up with PCP next\nweek as his risk of CVA is high and anticoagulation is necessary\nin future.\n.\n# CAD s/p CABG. Troponin bump to 0.08 likely represented demand\nischemia in the setting of poor oxygen delivery from anemia.\nTroponin downtrended with repeat 0.05.  Patient without anginal\nsymptoms while hospitalized. Repeat EKGs without appreciable\nchanges.\n.\n# DM2, controlled with complications: Home byetta and metformin\ninitially held and patient maintained on an insulin sliding\nscale with good effect.\n\n\nMedications on Admission:\nMedications at home:\nAspirin 81 mg\nglucovance 500/500mg [**Hospital1 **]\nActose 30 mg\nByetta 10 mcg [**Hospital1 **]\nAmlodipine 10 mg\nMetoprolol 75 mg [**Hospital1 **]\nLipitor 10 mg\nKlorcon 20 meq\nBenicar/HCTZ 40mg/25mg\n\nDischarge Medications:\n1. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n\n2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n3. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID\n(3 times a day).\n4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One\n(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours) for\n2 months.\nDisp:*120 Tablet, Delayed Release (E.C.)(s)* Refills:*0*\n5. Clarithromycin 250 mg Tablet Sig: Two (2) Tablet PO Q12H\n(every 12 hours) as needed for H.pylori for 14 days.\nDisp:*56 Tablet(s)* Refills:*0*\n\n6. Amoxicillin 250 mg Capsule Sig: Four (4) Capsule PO Q12H\n(every 12 hours) as needed for H.pylori for 14 days.\nDisp:*112 Capsule(s)* Refills:*0*\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\nPRIMARY DIAGNOSIS:\nUpper GI bleed: bleeding stomach ulcer\nH. pylori infection\n\nSECONDARY DIAGNOSIS:\nCAD\nAtrial Fibrillation\nHypertension\nDiabetes\n\n\nDischarge Condition:\nMental status: clear and coherent\nAmbulates without assistance\n\n\nDischarge Instructions:\nYou presented to [**Hospital1 18**] with symptoms of fatigue, chest tightness\nin setting of several dark, melanotic stools. On arrival your\nblood counts were found to be low. Gastroenterologists were\nconsulted and they performed an endoscopy to look for a source\nof bleed. During the procedure a gastric ulcer was found an\nclipped. Biopsies were taken and testing was sent to look for an\ninfection known as H.pylori. Testing for H.pylori returned\npositive and you were started on Antibiotics and a PPI to treat\ninfection. Infection should resolve with 2 weeks of treatment.\nDuring the course of your stay you received several units of\nblood and your counts improved and at the time of discharge\ncounts were stable.\nDue to the bleed, your anticoagulation was held. At time of\ndischarge aspirin 81mg was restarted. However, warfarin was not\nrestarted at time of discharge due to risk of bleeding. However\ndue to your high risk for stroke you will need additional\nanticoagulation in the future.\nOf note, you will need to follow up with GI for repeat endoscopy\nin 8weeks\n\nChanges to your medications:\n\nStart:\nPantoprazole 40mg PO, take one pill by mouth twice daily until\nyour endoscopy in 8weeks\nAmoxicillin, take four 250mg pills by mouth twice daily for\n14days\nClarithromycin take two 250mg tablets by mouth twice daily for\n14days\n\nStop:\nCoumadin\n\nFollowup Instructions:\nWill follow-up with internist office on Tuesday [**9-28**]\nWill need GI follow-up in 8weeks.\n\n\n\nCompleted by:[**2172-9-24**]"
+    }
+  ]
+}

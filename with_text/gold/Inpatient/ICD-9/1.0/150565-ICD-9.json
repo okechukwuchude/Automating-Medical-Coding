@@ -1,0 +1,95 @@
+{
+  "hadm_id": 150565,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 54877,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 360,
+          "end": 394,
+          "code": "E882",
+          "code_system": "ICD-9-CM",
+          "description": "Accidental fall from or out of building or other structure",
+          "type": "Human",
+          "covered_text": " fall from second story window and"
+        },
+        {
+          "begin": 696,
+          "end": 706,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "description": "Depressive disorder, not elsewhere classified",
+          "type": "MapType.NO_ENTRY",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 2345,
+          "end": 2373,
+          "code": "865.03",
+          "code_system": "ICD-9-CM",
+          "description": "Laceration of spleen extending into parenchyma without mention of open wound into cavity",
+          "type": "Human",
+          "covered_text": "Low-grade splenic laceration"
+        },
+        {
+          "begin": 2464,
+          "end": 2513,
+          "code": "807.09",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of multiple ribs, unspecified",
+          "type": "MapType.MULTI",
+          "covered_text": "Multiple minimally displaced right rib fractures."
+        },
+        {
+          "begin": 2528,
+          "end": 2560,
+          "code": "807.2",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of sternum",
+          "type": "Human",
+          "covered_text": "displaced lower sternal fracture"
+        },
+        {
+          "begin": 6307,
+          "end": 6332,
+          "code": "864.05",
+          "code_system": "ICD-9-CM",
+          "description": "Unspecified laceration of liver without mention of open wound into cavity",
+          "type": "Human",
+          "covered_text": "Grade IV liver laceration"
+        },
+        {
+          "begin": 6390,
+          "end": 6420,
+          "code": "807.01",
+          "code_system": "ICD-9-CM",
+          "description": "Closed fracture of one rib",
+          "type": "MapType.APPROX",
+          "covered_text": "rib fractures, right posterior"
+        },
+        {
+          "begin": 6446,
+          "end": 6483,
+          "code": "860.4",
+          "code_system": "ICD-9-CM",
+          "description": "Traumatic pneumohemothorax without mention of open wound into thorax",
+          "type": "Human",
+          "covered_text": "Small apical bilateral pneumothoraces"
+        },
+        {
+          "begin": 6485,
+          "end": 6523,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Acute [**Month/Day (3) **] loss anemia"
+        }
+      ],
+      "text": "Admission Date:  [**2183-7-14**]              Discharge Date:   [**2183-7-18**]\n\nDate of Birth:  [**2135-7-18**]             Sex:   F\n\nService: SURGERY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 4691**]\nChief Complaint:\ns/p fall\n\nMajor Surgical or Invasive Procedure:\nnone\n\nHistory of Present Illness:\n47F who is s/p fall from second story window and hit scaffolding\non the way down. There was +EtOH. She was transferred from an\nOSH, where her hct was initially 33. CT showed liver laceration\nwith active extravasation, small spleen laceration, bilateral\nrib fractures, and small pneumothorax. She received 2L LR, 1u\npRBC.\n\n\nPast Medical History:\nPMH: depression\nPSH: wisdom teeth extraction, lap sterilization\n\n\nSocial History:\nLives with husband and 17 year old daughter.\n+ETOH abuse\n\nFamily History:\nNon-contributory\n\nPhysical Exam:\nOn admission:\n\nHR: 138 BP: 112/73 Resp: 24 O(2)Sat: 100% RA Normal\n\nConstitutional: Somnolent\nHEENT: Normocephalic, atraumatic, Pupils equal, round and\nreactive to light\nNo septal hematoma. TMs clear bilaterally. No hemotympanum.\nTrachea midline.\nChest: Airway intact, breath sounds equal but diminished\nbilaterally. Chest wall stable, no crepitus.\nCardiovascular: DPs palpable but weak bilaterally. Regular\nRate and Rhythm. FAST negative.\nAbdominal: Abdomen mildly distended and tense.\nRectal: Normal rectal tone, no gross [**First Name3 (LF) **].\nExtr/Back: Pelvis stable\nSkin: Diaphoretic. Abrasions over entire abdomen and left\nflank.\nNeuro: Follows commands, GCS 13. MAE=\nPsych: Somnolent\n\nOn Discharge\nT 98.2 HR: 79 BP: 128/69 Resp: 18 O(2)Sat: 94% RA\nConstitutional: AAOx3\nHEENT: Normocephalic, atraumatic, Pupils equal, round and\nreactive to light\nChest: Airway intact, breath sounds equal but diminished\nbilaterally. Chest wall stable, no crepitus.\nCardiovascular: DPs 2+ Regular Rate and Rhythm.\nAbdominal: NBS,soft,nondistendded,nontender\nNeuro: grossly intact\n\n\nPertinent Results:\nCT ABD W&W/O C Study Date of [**2183-7-15**] 8:22 PM\nIMPRESSION:\n1. High-grade liver laceration.  A focus of arterial enhancement\nalong the lateral aspect of segment II is equivocal for\npseudoaneurysm versus active bleed.  No definite active\nextravasation is detected.\n2.  Moderate hemoperitoneum surrounding the liver appears\nminimally changed since [**2183-7-13**].\n3.  Low-grade splenic laceration with slightly increased\nneighboring [**Name2 (NI) **] products since [**2183-7-13**].\n4.  Multiple minimally displaced right rib fractures.\n5.  Minimally displaced lower sternal fracture. Trace epicardial\ngas has\ndecreased since the prior CT examination.\n5.  Small left hemothorax and moderate bibasilar atelectasis is\nnew since [**2183-7-13**].\n\n[**2183-7-4**] Chest X-ray\nIMPRESSION:\nNo acute intrathoracic process although the CT of the torso\nperformed the same day at an outside hospital shows right-sided\nrib fractures and small bilateral pneumothoraces.\n\n[**2183-7-14**] 12:57AM   WBC-23.2* RBC-3.90* HGB-12.0 HCT-37.0 MCV-95\nMCH-30.7 MCHC-32.3 RDW-12.9\n[**2183-7-14**] 12:57AM   PLT COUNT-340\n[**2183-7-14**] 12:57AM   PT-11.0 PTT-25.9 INR(PT)-1.0\n[**2183-7-14**] 12:57AM   FIBRINOGE-228\n[**2183-7-14**] 12:57AM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 155**]-1.030\n[**2183-7-14**] 12:57AM URINE  [**Month/Day/Year 3143**]-LG NITRITE-NEG PROTEIN-100\nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5\nLEUK-NEG\n[**2183-7-14**] 12:57AM URINE  RBC-4* WBC-2 BACTERIA-NONE YEAST-OCC\nEPI-1\n[**2183-7-14**] 12:57AM URINE  MUCOUS-RARE\n[**2183-7-14**] 12:57AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-POS\ncocaine-NEG amphetmn-NEG mthdone-NEG\n[**2183-7-14**] 12:57AM   ASA-NEG ETHANOL-156* ACETMNPHN-NEG\nbnzodzpn-NEG barbitrt-NEG tricyclic-NEG\n[**2183-7-14**] 12:57AM   LIPASE-92*\n[**2183-7-14**] 12:57AM   UREA N-14 CREAT-0.9\n[**2183-7-14**] 12:58AM   GLUCOSE-164* NA+-145 K+-4.1 CL--111* TCO2-20*\n[**2183-7-14**] 03:38AM   PT-11.9 PTT-26.0 INR(PT)-1.1\n[**2183-7-18**] 02:28PM [**Month/Day/Year 3143**] Hct-34.5*\n\nBrief Hospital Course:\nMs. [**Known lastname 112114**] was admitted to the TSICU on [**2183-7-14**] under the\nAcute Care Surgery service for close monitoring. She was\ntachycardic and mildly hypotensive upon arrival and she was\ntransfused another unit of pRBC. She eventually stabilized and\nher hematocrit was serially monitored. It remained stable at 38\nfor the day. Her pain was controlled with fentanyl and IV\ndilaudid. She was alert and responsive. Her cardiovascular and\npulmonary status were closely monitored and she remained stable.\nShe was initially NPO while we monitored for active bleed. A CTA\nshowed increased hematoma around the liver and spleen although\nno areas of active extravasation. However, her hematocrit was\nslowly trending down to 28 and then stabilized. She did not\ncomplain of any belly pain and she was not tachycardic. She was\nready for transfer out of the ICU on HD 3.\n\nOn the floor she remained hemodynamically stable with no\nevidence of active bleeding. Her hematocrits were trended and\nremained stable. On HD4 her diet was advanced as tolerated and\nher activity status was changed from bedrest to activity as\ntolerated. Her pain medications were changed to oral, and her\npain continued to be well controlled and she was able to perform\nincentive spirometry. She did not have increased pain with\neating or ambulating relating to her liver laceration.\n\nOccupational therapy evaluated the patient for loss of\nconsciouness who determined her safe for discharge home but\nrecommended outpatient follow up with cognitive neurology, which\nwas set up prior to discharge.\n\nOn [**2183-7-18**] Ms. [**Known lastname 112114**] is afebrile with stable vital signs. Her\nhematocrit is stable at 34.5. She is tolerating a regular diet\nand her pain is well controlled on an oral regimen. She is being\ndischarged home with follow up scheduled in [**Hospital 2536**] clinic.\n\nMedications on Admission:\nLexapro 20 mg daily\n\nDischarge Medications:\n1. Acetaminophen 650 mg PO TID\n2. Docusate Sodium 100 mg PO BID\n3. Escitalopram Oxalate 20 mg PO DAILY\n4. HYDROmorphone (Dilaudid) 2-4 mg PO Q3H:PRN pain\nwatch for RR less than 12\nRX *hydromorphone 2 mg [**12-30**] tablet(s) by mouth every four (4)\nhours Disp #*40 Tablet Refills:*0\n\n\nDischarge Disposition:\nHome\n\nDischarge Diagnosis:\ns/p fall\n*Grade IV liver laceration\n*Grade I spleen laceration\n*Bilateral anterior [**7-6**] rib fractures, right posterior [**8-7**] rib\nfractures\n*Small apical bilateral pneumothoraces\n*Acute [**Month/Day (3) **] loss anemia\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n\nDischarge Instructions:\nYou were admitted to hospital after fall out of a window. You\nsustained multiple injuries including an injury to your liver, a\nsmall injury to your spleen, and broken ribs on both sides.\n\nYou sustained an injury to your liver/spleen. You should go to\nthe nearest Emergency department if you suddenly feel dizzy or\nlightheaded, as if you are going to pass out. These are signs\nthat you may be having internal bleeding from your liver/spleen\ninjury.\n\nYour liver/spleen injury will heal in time. It is important that\nyou do not participate in any contact sports or any other\nactivity for the next 6 weeks that may cause injury to your\nabdominal region.\n\nAvoid aspirin products, NSAID's such as Advil, Motrin,\nIbuprofen, Naprosyn, or Coumadin for at least 1-2 weeks unless\notherwise directed as these can cause bleeding internally.\n\nYou sustained rib fractures which can cause severe pain and\nsubsequently cause you to take shallow breaths because of the\npain.\nYou should take your pain medicine as directed to stay ahead of\nthe pain otherwise you won't be able to take deep breaths.  If\nthe pain medication is too sedating, take half the dose and\nnotify your physician.\n[**Name10 (NameIs) **] is a complication of rib fractures. In order to\ndecrease your risk you must use your incentive spirometer 4\ntimes every hour while awake. This will help expand the small\nairways in your lungs and assist in coughing up secretions that\npool in the lungs.\nYou will be more comfortable if you use a cough pillow to hold\nagainst your chest and guard your rib cage while coughing and\ndeep breathing.\nSymptomatic relief with ice packs or heating pads for short\nperiods may ease the pain.\nDo NOT smoke.\nReturn to the ED right away for any acute shortness of breath,\nincreased pain or crackling sensation around your rips\n(crepitus).\nNarcotic pain medication can cause constipation. Thefore you\nshould take a stool softener twice daily and increase your fluid\nand fiber intake if possible.\n\n\nFollowup Instructions:\nDepartment: GENERAL SURGERY/[**Hospital Unit Name 2193**]\nWhen: THURSDAY [**2183-7-31**] at 3:45 PM\nWith: ACUTE CARE CLINIC [**Telephone/Fax (1) 600**]\nBuilding: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **]\nCampus: WEST     Best Parking: [**Hospital Ward Name **] Garage\nYou will need a chest x-ray prior to this appointment. Please go\nto [**Hospital1 7768**], [**Hospital Ward Name 517**] Clinical Center, [**Location (un) **]\nRadiology 30 minutes prior to your appointment.\n\nDepartment: COGNITIVE NEUROLOGY UNIT\nWhen: MONDAY [**2183-8-11**] at 3:00 PM\nWith: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6403**], MD [**Telephone/Fax (1) 1690**]\nBuilding: Ks [**Hospital Ward Name 860**] Building ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) **]\nCampus: EAST     Best Parking: Main Garage\n\n\n\n"
+    }
+  ]
+}

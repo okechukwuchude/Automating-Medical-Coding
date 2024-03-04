@@ -1,0 +1,203 @@
+{
+  "hadm_id": 152951,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 47887,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 214,
+          "end": 220,
+          "code": "A41.9",
+          "code_system": "ICD-10-CM",
+          "description": "Sepsis, unspecified organism",
+          "type": "Human",
+          "covered_text": "Sepsis"
+        },
+        {
+          "begin": 405,
+          "end": 409,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "afib"
+        },
+        {
+          "begin": 413,
+          "end": 421,
+          "code": "Z79.01",
+          "code_system": "ICD-10-CM",
+          "description": "Long term (current) use of anticoagulants",
+          "type": "Human",
+          "covered_text": "coumadin"
+        },
+        {
+          "begin": 2424,
+          "end": 2437,
+          "code": "Z85.3",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of malignant neoplasm of breast",
+          "type": "Human",
+          "covered_text": "Breast cancer"
+        },
+        {
+          "begin": 2524,
+          "end": 2546,
+          "code": "G89.29",
+          "code_system": "ICD-10-CM",
+          "description": "Other chronic pain",
+          "type": "Human",
+          "covered_text": "Chronic low back pain "
+        },
+        {
+          "begin": 2532,
+          "end": 2545,
+          "code": "M54.50",
+          "code_system": "ICD-10-CM",
+          "description": "Low back pain, unspecified",
+          "type": "Human",
+          "covered_text": "low back pain"
+        },
+        {
+          "begin": 2588,
+          "end": 2594,
+          "code": "J45.909",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified asthma, uncomplicated",
+          "type": "Human",
+          "covered_text": "asthma"
+        },
+        {
+          "begin": 2944,
+          "end": 2963,
+          "code": "I49.5",
+          "code_system": "ICD-10-CM",
+          "description": "Sick sinus syndrome",
+          "type": "Human",
+          "covered_text": "Sick sinus syndrome"
+        },
+        {
+          "begin": 3059,
+          "end": 3067,
+          "code": "F03.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified dementia without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "dementia"
+        },
+        {
+          "begin": 3219,
+          "end": 3234,
+          "code": "Z87.891",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of nicotine dependence",
+          "type": "Human",
+          "covered_text": "Quit smoking 10"
+        },
+        {
+          "begin": 9261,
+          "end": 9273,
+          "code": "R65.21",
+          "code_system": "ICD-10-CM",
+          "description": "Severe sepsis with septic shock",
+          "type": "Human",
+          "covered_text": "Septic Shock"
+        },
+        {
+          "begin": 10505,
+          "end": 10509,
+          "code": "J44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic obstructive pulmonary disease, unspecified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 12169,
+          "end": 12188,
+          "code": "N17.0",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure with tubular necrosis",
+          "type": "Human",
+          "covered_text": "Acute renal failure"
+        },
+        {
+          "begin": 13125,
+          "end": 13133,
+          "code": "M40.204",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified kyphosis, thoracic region",
+          "type": "Human",
+          "covered_text": "kyphosis"
+        },
+        {
+          "begin": 14264,
+          "end": 14273,
+          "code": "R31.0",
+          "code_system": "ICD-10-CM",
+          "description": "Gross hematuria",
+          "type": "Human",
+          "covered_text": "Hematuria"
+        },
+        {
+          "begin": 14514,
+          "end": 14527,
+          "code": "R74.01",
+          "code_system": "ICD-10-CM",
+          "description": "Elevation of levels of liver transaminase levels",
+          "type": "Human",
+          "covered_text": "Transaminitis"
+        },
+        {
+          "begin": 14832,
+          "end": 14838,
+          "code": "D64.9",
+          "code_system": "ICD-10-CM",
+          "description": "Anemia, unspecified",
+          "type": "Human",
+          "covered_text": "Anemia"
+        },
+        {
+          "begin": 15162,
+          "end": 15170,
+          "code": "F03.90",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified dementia without behavioral disturbance",
+          "type": "Human",
+          "covered_text": "Dementia"
+        },
+        {
+          "begin": 15226,
+          "end": 15230,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 17272,
+          "end": 17312,
+          "code": "I50.33",
+          "code_system": "ICD-10-CM",
+          "description": "Acute on chronic diastolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "ACUTE ON CHRONIC DIASTOLIC HEART FAILURE"
+        },
+        {
+          "begin": 17313,
+          "end": 17325,
+          "code": "I11.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive heart disease with heart failure",
+          "type": "Human",
+          "covered_text": "HYPERTENSION"
+        }
+      ],
+      "text": "Admission Date:  [**2177-2-28**]              Discharge Date:   [**2177-3-18**]\n\n\nService: MEDICINE\n\nAllergies:\nAmiodarone / Lopressor / Aspirin / dofetilide\n\nAttending:[**First Name3 (LF) 2880**]\nChief Complaint:\nSepsis\n\nMajor Surgical or Invasive Procedure:\nDC-CARDIOVERSION X 2\n\n\nHistory of Present Illness:\nMrs [**Known lastname 4643**] is a pleasant 87F with hx of intermittent vertigo on\nMeclizine, afib on coumadin, recent UTI tx'd with bactrim, now\npresenting to the ED for vertigo.  Pt states that 4 days ago she\nnoticed hematuria, which prompted her to go to her PCP, [**Name10 (NameIs) **] which\npoint she was given bactrim for a UTI.  She never had dysuria or\nfrequency.  Today she felt vertiginous and lightheaded and\ntherefore presented to the ED.  Pt states that he vertigo comes\non out of the blue, is not positional or worse with changing\npositions.  She states that she feels thirsty but has had normal\nPO intake over the last several days.  Of note, her UA from 4 d\nPTA showed leuks, blood, few bacteria, creatinine was 0.87.\nUrine cx showed mixed gram positive flora.\n\nIn the ED inital vitals were 98.7 60 92/68 (b/l 120/80) 18 100%\n10L Non-Rebreather, which was rapidly weaned.  Venous gas showed\n7.26/48/51.  Triggered for hypotension (reportedly 50/30),\ncentral line placed, pt given 500 ccs NS, bedside echo showed\nadequate pump funx, no effusion.  CVP reportedly 22.  Labs were\nnotable for lactate of 5.3, creatinine 1.9, gap of 16.  She was\ngiven zofran, levofloxacin for possible PNA, and started on a\nnorepi gtt for hypotension.  CXR showed central venous catheter\nterminating at the cavoatrial junction, mild pulmonary vascular\ncongestion, l-sided pleural effusion.  Line was pulled back.\nBPs improved to 100s, no O2 requirement.  VItals on transfer\nwere 98.7 64 17 97/67 100% on 2L NC.\n\nOn arrival to the ICU, pt is comfortable.  She states that her\nbreathing is slightly labored however she denies SOB, cough, CP.\n She does feel slightly nauseous and weak all over.  She does\nnot currently feel vertiginous, however states that it comes on\nsuddenly and she was recently feeling nauseous.\n\nPast Medical History:\n- Paroxysmal atrial fibrillation on Coumadin.\n- Echo in [**2176-8-2**]: LVEF of 60-65%.\n- R septic knee: hospitalized from [**2175-2-5**] to [**2175-2-10**] during which\n\nshe underwent arthrocentesis then I&D and washout on [**2175-2-5**]\nfollowed by 14 day-course of ceftriaxone\n- Breast cancer status post lumpectomy in [**2162-7-4**], also\nwith six weeks of radiation therapy.\n- Chronic low back pain followed at the Pain Clinic.\n- History of asthma: Spirometry: Mixed obstructive and\nrestrictive ventilatory defect. Since [**2171-5-7**], there is no\nsignificant change in spirometry. Since [**2166-12-18**] TLC has\ndecreased 1.33L (28%).\n- Exercise treadmill test echocardiogram in [**2162-8-3**] without\n\nevidence of angina or ischemia after four minutes,\nmild-to-moderate mitral regurgitation.\n- Sick sinus syndrome with a DDI pacemaker placed.\n- Herpes zoster in [**2168-3-5**].\n- Hypertension\n- ? Alzheimer's dementia\n- recent rib fractures\n\nSocial History:\nPt lives at home with sister who was recently placed in rehab,\nhas home health aids.  Ambulates with a walker. Quit smoking 10\nyears ago after almost a decade of smoking, no ETOH, no\nillicits.  She has 6 children, she previously worked for the\nphone company and at [**Last Name (un) 59330**]. One of her daughters is a nurse.\n\nFamily History:\nFather died of heart disease.\nMother died of CVA.\nSister: Died of emphysema at age 59.\n\nPhysical Exam:\nAdmission Exam:\nVitals: T:94.4 BP:152/57 P:65 R:20 O2: 98% on 2 L NC\nGeneral: Aaox3, no acute distress\nHEENT: Sclera anicteric, MM dry, oropharynx clear\nNeck: RIJ in place, fresh blood under dressing\nLungs: tachypnic, clear to auscultation bilaterally, mild\ncrackles in L base\nCV: Distant heart sounds, irregular rate, unable to appreciate\nany murmurs.\nAbdomen: soft, non-tender, non-distended, bowel sounds present,\nno rebound tenderness or guarding, no organomegaly\nGU: foley in place\nExt: cool ext, thready pulses, no clubbing, cyanosis or edema\nSkin: no rashes, L nipple scarred\nNeuro: CNs [**3-16**] intact, moves all ext freely\n\nDischarge Examination:\nVS: Tc 98.0 BP 107-128/49-57 HR 69-79 RR 18 O2 96% on RA.\nWt: 66.4<--69.4<--69.6<--70.4<--70.1<--69.1<--70.3 kg.\nGEN: pleasant elderly woman, NAD, AOX3. Looks a bit tired and\ndescribed some dizziness\nCV: nl s1 + s2. Systolic mumur, most loudly auscultated in LUSB.\n\nRESP: pt has poor air entry; otherwise ctab. Some crackles in\nleft base.\nEXTREMITIES: 2+ pulses in all 4 extremities. No peripheral\nedema. Pt has a grade 1 stress ulcer on her left ankle.\nComplaining of pain in ankle.\nNEURO: AOX3, but does get confused intermittently. No neuro\ndeficits.\n\nPertinent Results:\nAdmission Labs:\n[**2177-2-28**] 07:15PM BLOOD WBC-11.1* RBC-3.89* Hgb-11.6* Hct-35.9*\nMCV-92 MCH-29.8 MCHC-32.3 RDW-13.8 Plt Ct-320\n[**2177-2-28**] 07:15PM BLOOD Neuts-84.9* Lymphs-9.8* Monos-3.9 Eos-0.8\nBaso-0.5\n[**2177-2-28**] 07:15PM BLOOD PT-36.3* PTT-37.6* INR(PT)-3.5*\n[**2177-2-28**] 07:10PM BLOOD Glucose-156* UreaN-31* Creat-1.9*#\nNa-131* K-5.9* Cl-96 HCO3-17* AnGap-24*\n[**2177-2-28**] 07:15PM BLOOD CK(CPK)-116\n[**2177-2-28**] 07:15PM BLOOD CK-MB-2 proBNP-4420*\n[**2177-2-28**] 07:20PM BLOOD cTropnT-<0.01\n[**2177-3-1**] 03:57AM BLOOD CK-MB-2 cTropnT-<0.01\n[**2177-3-1**] 03:57AM BLOOD Calcium-8.0* Phos-7.1*# Mg-2.1 Iron-44\n[**2177-2-28**] 08:21PM BLOOD pO2-51* pCO2-48* pH-7.26* calTCO2-23 Base\nXS--5 Comment-GREEN TOP\n[**2177-2-28**] 07:26PM BLOOD Lactate-5.3*\n\nDischarge Labs:\n\n[**2177-3-18**] 06:35AM BLOOD WBC-8.4 RBC-2.96* Hgb-8.5* Hct-26.7*\nMCV-90 MCH-28.6 MCHC-31.6 RDW-14.5 Plt Ct-589*\n[**2177-3-18**] 06:35AM BLOOD PT-36.3* INR(PT)-3.5*\n[**2177-3-18**] 06:35AM BLOOD Glucose-83 UreaN-13 Creat-1.5* Na-138\nK-3.6 Cl-94* HCO3-36* AnGap-12\n[**2177-3-18**] 06:35AM BLOOD CK-MB-3 cTropnT-<0.01\n[**2177-3-17**] 02:06PM BLOOD CK-MB-3 cTropnT-<0.01\n[**2177-3-18**] 06:35AM BLOOD Calcium-8.1* Phos-4.6* Mg-1.6\n[**2177-3-16**] 10:00PM BLOOD Ret Aut-2.6\n[**2177-3-16**] 10:00PM BLOOD PEP-NO SPECIFI\n\nMicro:\nBlood cultures: NGTD\nUrine culture: NGTD\nStool: -ve\n\nImaging:\n[**2177-3-1**] CXR: Persistent low lung volume. Pulmonary edema has\nresolved. Pacer leads are in standard position. Right IJ\ncatheter tip is in the upper right atrium. There is no evident\npneumothorax. Bilateral pleural effusions are small. Bibasilar\natelectases have improved on the left.\n\n[**2177-3-1**] TTE (Focused views): IMPRESSION: Limited transthoracic\nechocardiography. Unable to assess regional wall motion\nabnormalities due to limited study, but overall systolic\nfunction of the left ventricle is probably normal. Severe\ntricuspid regurgitation with failure of tricuspid leaflet\ncoaptation. Mild mitral regurgitation. Unable to fully assess\naortic valve.\n\nCompared with the findings of the prior report (images\nunavailable for review) of [**2173-4-12**], the tricuspid regurgitation\nis now severe. If clinically indicated, a complete transthoracic\nexamination with Doppler is recommended.\n\n[**2177-3-4**] Portable TTE: Compared with the prior study (images\nreviewed) of [**2177-3-1**], estimated pulmonary artery systolic\npressure is now higher.\n\n[**2177-3-2**] LIVER OR GALLBLADDER US (SINGLE ORGAN) :\n1. Cholelithiasis without evidence of cholecystitis.\n2. Patent portal vein. Prominent hepatic veins likely due to\nvascular\ncongestion.\n3. Possible right renal fullness seen on partial views of right\nkidney. If\nindicated, this could be evaluated with renal ultrasound.\n\nRenal U/s [**2177-3-12**]: Somewhat limited study however both kidneys\nare within normal limits with good cortical thickness, no\nhydronephrosis or mass lesions identified.  The bladder is fully\ndecompressed around the Foley catheter.\n\n[**2177-3-17**] CXR: Central venous catheter and permanent pacemaker\nremain unchanged in position allowing for positional differences\nof the patient. Cardiac silhouette is enlarged, accompanied by\npulmonary vascular engorgement. Previously reported multifocal\npulmonary opacities have partially cleared with residual\nopacities mostly in the perihilar regions. This likely reflects\nimproving pulmonary edema. More confluent opacity in left\nretrocardiac region has only slightly improved and is likely due\nto a combination of atelectasis and effusion. Small right\npleural effusion has decreased in size.\n\n[**2177-3-17**] EKG: Atrial fibrillation with controlled ventricular\nresponse. Intermittent pacer spikes which do not capture\nnon-specific anterior and inferior ST-T wave changes. Modest Q-T\ninterval prolongation. Compared to tracing #1 ventricular paced\nbeats are absent. Anterior ST-T wave changes are more\npronounced. Clinical correlation is suggested.\n\n\nBrief Hospital Course:\nHOSPITAL COURSE: Pleasant 87 yo female presenting with\ndizziness, hypotension concerning for sepsis initially requiring\npressors in the ICU, who was then called out to the cardiology\nservice with volume overload, AFIB  and severe TR w/ RV\ndilation. Underwent DCCV but continued to be in afib and had to\nbe transferred to the CCU for respiratory distress where she was\ndiuresed and then transferred back to the cardiology floor. She\nwas discharged to [**Hospital1 **] (LTAC).\n\nACTIVE ISSUES:\n\n# Septic Shock: The pt was hypotensive on admission requiring\npressors with signs of end organ damage including acute renal\nfailure and shock liver.  Lactate was 5.3 on admission and rose\nrapidly throughout her first day in the ICU peaking at 9.  The\npt had a recent hx of UTI and there was a concern for urosepsis,\nso she was started on broad antibiotics with vancomycin and\nzosyn and receieved a 7 day course. On exam, however, she was\ncold and clamped down peripherally, more concerning for a\ncardiogenic process.  Additionally, ECG was showing only\nintermittent capture of pacemaker. Cardiology/EP was consulted,\nand her pacemaker was interrogated and adjusted to improve\ncardiac output in setting of shock and acidosis (see Atrial\nFibrillation below). Echo was then obtained, which showed severe\ntricuspid regurgitation with complete lack of coaptation of\ntricuspid leaflets.  It was thought that this was likely the\ncause of her shock, in addition to the infectious component that\nhad instigated her acute presentation (although no infectious\nsource was isolated during her hospital course). Therefore she\nwas gently diruresed with IV lasix back to her dry weight. She\ncontinued to have intermittent respiratory difficulty likely [**3-6**]\nCOPD and fluid overload, which was alleviated with nebs and IV\nlasix.\n\n# Atrial fibrillation:  On coumadin, supratherapeutic INR on\nadmission (see below). EKG initially showed intermittent pacing\nwith evidence of pacer spikes on t-waves.  Cardiology/EP consult\nwas obtained, and on pacemaker interrogation was noted to have\nelevated thresholds above programmed output of leads leading to\nintermittent capture. PPM was reprogrammed with higher output\nand higher HR to 80s with appropriate capture. HR was increased\nto improve cardiac output to more closely match physiologic\ndemand in setting of shock. She was started on dofetilide, but\nthis was discontinued due to QT prolongation.  She was then\nstarted on amiodarone and metoprolol.  In the ICU, verapamil was\nincreased to 60mg TID and metoprolol was maintained at 50mg [**Hospital1 **].\n In this setting, home lisinopril was held to give blood\npressure room. However, the pt has a hx of not tolerating Amio\nwhich was dc/ed and the pt underwent DCCV after transfer to the\nfloor. However, pt reverted back to AFIB and had to go to the\nCCU for resp distress. QT prolongation prevented dofelitide from\nbeing continued, and metoprolol was dc/ed as it was thought to\nbe worsening bronchospasm. At the time of discharge she was put\non a higher dose of verapamil (280 [**Hospital1 **]). DCCV was performed\nagain and she continued to be in afib. Flecainide was dc/ed due\nto likely underlying CAD and was switched to digoxin 0.125 every\nother day. However, dig was also dc/ed and the pt was dc/ed on\nverapamil alone with HR in 70s and 80s. The pacemaker was\nchanged from DDIR to VVI w/ a lower HR threshold of 50 bpm.\n\n# Acute renal failure:  Creatinine elevated to 1.9 on\npresentation, up from previous baseline of 0.7-0.8 one year\nprior.  Etiology thought to be ATN vs hypotension/shock. Her\ninitial course was complicated by hyperkalemia with associated\nwidening of QRS and [**Last Name (LF) 5937**], [**First Name3 (LF) **] she was given kayexalate, insulin +\nD50, and calcium gluconate.  Creatinine peaked at 2.9 with\nminimal urine output, however renal function improved with\ncontinued fluid resuscitation and support with pressors. Towards\nthe end of her stay she had another Cr spike (1.8 from 1.1)\nwhich improved with gentle fluid resusciation. Her Cr at dc was\n1.5.\n\n# Dyspnea: Patient became acutely dyspneic after cardioversion\nfrom Afib.  She was transferred to the CCU for closer\nmonitoring.  In the CCU, she was placed on a nitro gtt and\ndiuresed with lasix boluses. Her SOB was however multifactorial\nbut primarily d/t fluid overload vs COPD vs severe thoracic\nkyphosis as she responded to both lasix and nebs. She was also\nstarted on Fluticasone-Salmeterol Diskus (500/50). Torsemide was\nstarted for po diuresis as she failed po lasix diuresis.\nLisinopril was restarted at 5mg. Her 02 requirement went up to\n3L but she was comfortable on RA on dc. At discharge she was\nstable on RA but patient prone to having acute episodes of\ndyspnea that were alleviated with duonebs and IV lasix 40mg (if\nthe pt appeared overloaded on exam).\n\n# Fluctuating INR: Pt presented on coumadin for Afib (INR goal\n[**3-7**]); INR 3.5 on presentation in the ED but rapidly rose to 6.2\nupon arrival in the ICU.  Peaked at 9.7.  No signs of bleeding,\nso she was not given any reveral agents.  Etiology of acute rise\npresumed to be liver dysfunction in the setting of\nhypotension/shock. However, pt has a hx of labile INR. Recieved\nVitamin K in the CCU and had hematuria which persisted a few\ndays after resolution of supratherpeutic INR. She was bridged\nback to therapeutic range with lovenox. INR managment remained\nchallenging throughout her stay. At the time of dc her INR was\n3.5 so her coumadin of 0.5 mg was held.\n\n# Hematuria: pt continued to have gross hematuria. Unrelated to\nINR levels. Was worked up in the past w/ cystoscopy showing\nbilateral diverticuli. She has been set up for follow up appt\nwith urologist for cystoscopy. Renal u/s done here was normal.\n\n# Transaminitis:  AST/ALT in the 400s on presentation, likely\ndue to acute injury from hypoperfusion (shock liver) vs.\ncongestive hepatopathy.  Alkaline phosphatase and bili remained\nwithin normal limits, supports this hypothesis.  Transaminases\nrose to the thousands prior to coming down after resolution of\nsepsis.\n\n# Anemia: Normocytic, near recent baseline of 34.3 on\npresentation.  Despite high INR, no signs of acute bleedn other\nthan known prior hematuria that continued intermittently\nthrougout her stay.  Likely [**3-6**] chronic hematuria vs low marrow\nproduction. Her retic count was normal, and SPEP was also\nnormal.\n\nINACTIVE ISSUES:\n\n# Dementia: stable; contined home meds mirtazepine and aricept\n\n# GERD: continue home ranitidine\n\nTRANSITIONAL ISSUES: Patient has a variety of specialist appts\nthat need to be followed up with. In case that she develops\ndyspnea and does not respond to duonebs, IV lasix 40mg should be\ngiven. Verapamil dose can be increased to 240 [**Hospital1 **] if rate\ncontrol or blood pressure managment becomes problem[**Name (NI) 115**]. Pt's\nINR on the day of DC was 3.5 so her warfarin dose of 0.5 mg was\nheld. Please restart warfarin at 1 mg after the INR is in\ntherapuetic range.\n\nMedications on Admission:\n-Sulfamethoxazole-Trimethoprim 800-160 mg Oral Tablet TAKE 1\nTABLET TWICE A DAY FOR 10 DAYS\n-Lorazepam 0.5 mg Oral Tablet TAKE 1 TABLET AT BEDTIME\n-Mirtazapine 15 mg Oral Tablet TAKE 1 TABLET AT BEDTIME\n-Verapamil SR 12 HR 240 mg Oral Tablet Extended Release [**2-3**] po\nQAM, and 1 po Qpm\n-Albuterol Sulfate (VENTOLIN HFA) 90 mcg/Actuation Inhalation\nHFA Aerosol Inhaler Take 1 to 2 inhalations every 4 to 6 hours\nas needed; rinse mouthpiece at least once a week\n-Donepezil (ARICEPT) 10 mg Oral Tablet Take 1 tablet daily at\nbedtime\n-Lisinopril 40 mg Oral Tablet Take 1 tablet daily\n-Flecainide 100 mg Oral Tablet [**Hospital1 **]\n-Metoprolol Tartrate 50 mg Oral Tablet QD WITH ONE 25 MG TABLET\n[**Hospital1 **]\n-Metoprolol Tartrate 25 mg Oral Tablet 1 TABLET WITH 50 MG\nTABLET [**Hospital1 **]\n-Fluticasone (FLOVENT HFA) 110 mcg/Actuation Inhalation Aerosol\nUse 1 inhalation by mouth twice daily and rinse your mouth\nthoroughly afterward\n-Furosemide 20 mg Oral Tablet TAKE ONE TABLET DAILY\n-Ranitidine HCl 75 mg Oral Tablet Take 1 tablet twice daily;\navailable over the counter\n-Warfarin 1 mg Oral Tablet Take 1.5 tablets daily or as directed\n\n-Tramadol 50 mg Oral Tablet [**2-3**] tab po qhs\n-Loperamide (IMODIUM A-D) 2 mg Oral Tablet Take 1 tablet now,\nthen 1 tablet each 4 hrsfter each unformed stool as needed;\navailable over the counter\n-? meclizine, dosage unknown\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital1 700**] - [**Location (un) 701**]\n\nDischarge Diagnosis:\nATRIAL FIBRILLATION\nACUTE ON CHRONIC DIASTOLIC HEART FAILURE\nHYPERTENSION\n\n\nDischarge Condition:\nMental Status: Confused - sometimes.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\n                             [**First Name11 (Name Pattern1) 900**] [**Last Name (NamePattern1) 2882**] MD, [**MD Number(3) 2883**]\n\n"
+    }
+  ]
+}

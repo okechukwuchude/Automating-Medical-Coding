@@ -1,0 +1,158 @@
+{
+  "hadm_id": 163484,
+  "comment": "Hip Arthroplasty Revision-Need OP note to validate PCS",
+  "notes": [
+    {
+      "note_id": 362,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 558,
+          "end": 562,
+          "code": "J44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic obstructive pulmonary disease, unspecified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 564,
+          "end": 567,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 569,
+          "end": 581,
+          "code": "D61.818",
+          "code_system": "ICD-10-CM",
+          "description": "Other pancytopenia",
+          "type": "Human",
+          "covered_text": "pancytopenia"
+        },
+        {
+          "begin": 583,
+          "end": 587,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 589,
+          "end": 599,
+          "code": "F32.A",
+          "code_system": "ICD-10-CM",
+          "description": "Depression, unspecified",
+          "type": "Human",
+          "covered_text": "depression"
+        },
+        {
+          "begin": 601,
+          "end": 619,
+          "code": "M87.9",
+          "code_system": "ICD-10-CM",
+          "description": "Osteonecrosis, unspecified",
+          "type": "Human",
+          "covered_text": "avascular necrosis"
+        },
+        {
+          "begin": 1462,
+          "end": 1474,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "dyslipidemia"
+        },
+        {
+          "begin": 1477,
+          "end": 1503,
+          "code": "I71.2",
+          "code_system": "ICD-10-CM",
+          "description": "Thoracic aortic aneurysm, without rupture",
+          "type": "Human",
+          "covered_text": "ascending aortic aneurysm,"
+        },
+        {
+          "begin": 1565,
+          "end": 1579,
+          "code": "K70.30",
+          "code_system": "ICD-10-CM",
+          "description": "Alcoholic cirrhosis of liver without ascites",
+          "type": "Human",
+          "covered_text": "EtOH cirrhosis"
+        },
+        {
+          "begin": 1584,
+          "end": 1606,
+          "code": "I85.11",
+          "code_system": "ICD-10-CM",
+          "description": "Secondary esophageal varices with bleeding",
+          "type": "Human",
+          "covered_text": "esophageal varices and"
+        },
+        {
+          "begin": 1738,
+          "end": 1754,
+          "code": "D69.6",
+          "code_system": "ICD-10-CM",
+          "description": "Thrombocytopenia, unspecified",
+          "type": "Human",
+          "covered_text": "thrombocytopenia"
+        },
+        {
+          "begin": 1789,
+          "end": 1804,
+          "code": "Z85.46",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of malignant neoplasm of prostate",
+          "type": "Human",
+          "covered_text": "prostate cancer"
+        },
+        {
+          "begin": 1807,
+          "end": 1815,
+          "code": "M40.209",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified kyphosis, site unspecified",
+          "type": "Human",
+          "covered_text": "kyphosis"
+        },
+        {
+          "begin": 1832,
+          "end": 1858,
+          "code": "Z85.828",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of other malignant neoplasm of skin",
+          "type": "Human",
+          "covered_text": "squamous cell carcinoma s/"
+        },
+        {
+          "begin": 8430,
+          "end": 8464,
+          "code": "D62",
+          "code_system": "ICD-10-CM",
+          "description": "Acute posthemorrhagic anemia",
+          "type": "Human",
+          "covered_text": "Asymptomatic post-operative anemia"
+        },
+        {
+          "begin": 13765,
+          "end": 13798,
+          "code": "T84.091A",
+          "code_system": "ICD-10-CM",
+          "description": "Other mechanical complication of internal left hip prosthesis, initial encounter",
+          "type": "Human",
+          "covered_text": "Failed left total hip replacement"
+        }
+      ],
+      "text": "Admission Date:  [**2201-6-23**]              Discharge Date:   [**2201-6-29**]\n\nDate of Birth:  [**2138-12-24**]             Sex:   M\n\nService: ORTHOPAEDICS\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**First Name3 (LF) 64**]\nChief Complaint:\nR hip pain\n\nMajor Surgical or Invasive Procedure:\n[**2201-6-23**]: s/p left total hip revision\n\n\nHistory of Present Illness:\n62 year old man with [**First Name9 (NamePattern2) 3262**] [**Last Name (un) 3263**] cirrhosis c/b Grade 1 esophageal\nvarices and past GIB's, Crohn's s/p ileostomy, COPD, HTN,\npancytopenia, GERD, depression, avascular necrosis [**1-7**] chronic\nprednisone use s/p L hip replacement with massive osteolysis of\npelvis/acetabulum and proximal femur, extended femoral osteotomy\n(clamshell) with multiple open reduction and internal fixations\nwho is admitted to the ICU for monitoring after 3rd attempt of\ntotal hip replacement.\n.\nThe patient was previously discharged on [**2201-4-20**] s/p total\nresection arthroplasty on [**2201-4-2**]. Post-operatively, the patient\nwas noted to be confused coming out of the OR and overnight.  He\nwas initially  transferred to ICU post surgery because of\nhypotension and was on pressors with subsequent normalization of\nblood pressures.  Post-op course was also complicated by\nhepatic/toxic-metabolic encephalopathy, cleared with rifaximin\nand lactulose, and by acute kidney injury.\n\nPast Medical History:\nPast Medical History:\n- HTN\n- dyslipidemia\n- ascending aortic aneurysm, not involving the coronary vessels\n- bicuspid aortic valve\n- EtOH cirrhosis c/b esophageal varices and bleeding: baseline\nliver enzymes ALT 21, AST 30, ALK 190, TBili 1.2\n- pancytopenia: baseline WBC 1.7, Hgb 12.3, Hct 35.8, Plt 54\n- thrombocytopenia\n- Crohn's disease s/p ileostomy\n- prostate cancer\n- kyphosis\n- COPD\n- GERD\n- squamous cell carcinoma s/p resection\n- avascular necrosis of left hip secondary to prednisone\n- depression\n- baseline BUN 15, Cr 1.0\n.\nPast Surgical History:\n- squamous cell carcinoma excisions x 3 forehead ([**10/2199**])\n- L distal radius ORIF ([**2196**])\n- partial colectomy with transverse colostomy and mucous fistula\n\n- mucous fistula takedown\n- left wrist surgery\n- left hip replacement (20 years ago)\n- avascular necrosis of left hip secondary to\nCrohn's/prednisone,\n- Complex complete resection arthroplasty of failed left total\nhip replacement; extended femoral osteotomy (clamshell) with\nmultiple open reduction and internal fixation cerclage wires\n\nSocial History:\nHe is retired from the Department of Social Services, former\nwidower, has a girlfriend.\n- Tobacco: Previous use\n- Alcohol: Prior history of alcohol abuse, no longer drinking in\n22 months per pt, family and PCP.\n[**Name Initial (NameIs) **] [**Name11 (NameIs) 3264**]: denies\n\n\nFamily History:\nPositive for hemophilia but not affecting this patient, although\nhe does have thrombocytopenia.\n\n\nPhysical Exam:\nWell appearing in no acute distress\nAfebrile with stable vital signs\nPain well-controlled\nRespiratory: CTAB\nCardiovascular: RRR\nGastrointestinal: NT/ND, ostomy RLQ, hernia LLQ\nGenitourinary: Voiding independently\nNeurologic: Intact with no focal deficits\nPsychiatric: Pleasant, A&O x3\nMusculoskeletal Lower Extremity:\n* Incision healing well with staples\n* Scant serosanguinous drainage\n* Thigh full but soft\n* No calf tenderness\n* 5/5 strength\n* SILT, NVI distally\n* Toes warm\n\n\nPertinent Results:\n[**2201-6-23**] 11:30AM BLOOD Hgb-12.5* Hct-34.4* Plt Ct-53*\n[**2201-6-23**] 06:00PM BLOOD Hgb-9.7* Hct-27.6* Plt Ct-85*#\n[**2201-6-23**] 08:43PM BLOOD WBC-1.9* RBC-3.36* Hgb-11.5* Hct-33.2*\nMCV-99* MCH-34.2* MCHC-34.6 RDW-18.3* Plt Ct-62*\n[**2201-6-24**] 03:39AM BLOOD WBC-3.4*# RBC-3.01* Hgb-10.6* Hct-29.3*\nMCV-97 MCH-35.2* MCHC-36.2* RDW-19.2* Plt Ct-84*\n[**2201-6-24**] 04:07PM BLOOD WBC-3.7* RBC-2.66* Hgb-9.2* Hct-25.5*\nMCV-96 MCH-34.8* MCHC-36.2* RDW-18.9* Plt Ct-83*\n[**2201-6-25**] 06:20AM BLOOD WBC-1.5*# RBC-2.15* Hgb-7.5* Hct-21.1*\nMCV-98 MCH-35.0* MCHC-35.6* RDW-19.3* Plt Ct-51*\n[**2201-6-26**] 12:30AM BLOOD WBC-1.8* RBC-2.68* Hgb-9.0* Hct-25.4*\nMCV-95 MCH-33.7* MCHC-35.5* RDW-18.6* Plt Ct-43*\n[**2201-6-26**] 06:25AM BLOOD WBC-1.2* RBC-2.71* Hgb-9.2* Hct-26.1*\nMCV-97 MCH-33.9* MCHC-35.1* RDW-18.6* Plt Ct-42*\n[**2201-6-27**] 07:20AM BLOOD WBC-1.3* RBC-2.79* Hgb-9.6* Hct-26.8*\nMCV-96 MCH-34.3* MCHC-35.7* RDW-18.3* Plt Ct-43*\n[**2201-6-27**] 07:20AM BLOOD WBC-1.3* RBC-2.79* Hgb-9.6* Hct-26.8*\nMCV-96 MCH-34.3* MCHC-35.7* RDW-18.3* Plt Ct-43*\n[**2201-6-28**] 06:05AM BLOOD WBC-1.3* RBC-2.79* Hgb-9.7* Hct-27.5*\nMCV-99* MCH-34.9* MCHC-35.4* RDW-18.8* Plt Ct-42*\n[**2201-6-23**] 08:43PM BLOOD Neuts-88.5* Bands-0 Lymphs-3.9* Monos-7.0\nEos-0.5 Baso-0.1\n[**2201-6-24**] 03:39AM BLOOD Neuts-89.0* Bands-0 Lymphs-4.2* Monos-6.2\nEos-0.1 Baso-0.5\n[**2201-6-27**] 07:20AM BLOOD Neuts-80.2* Lymphs-9.1* Monos-7.6 Eos-2.5\nBaso-0.5\n[**2201-6-23**] 08:43PM BLOOD Glucose-140* UreaN-14 Creat-0.7 Na-138\nK-4.6 Cl-113* HCO3-19* AnGap-11\n[**2201-6-24**] 03:39AM BLOOD Glucose-119* UreaN-16 Creat-0.8 Na-138\nK-4.4 Cl-112* HCO3-19* AnGap-11\n[**2201-6-25**] 06:20AM BLOOD Glucose-135* UreaN-17 Creat-0.9 Na-140\nK-3.6 Cl-109* HCO3-24 AnGap-11\n[**2201-6-26**] 06:25AM BLOOD Glucose-94 UreaN-13 Creat-0.7 Na-141\nK-3.3 Cl-109* HCO3-25 AnGap-10\n[**2201-6-27**] 07:20AM BLOOD Glucose-98 UreaN-11 Creat-0.7 Na-142\nK-3.4 Cl-108 HCO3-24 AnGap-13\n[**2201-6-28**] 06:05AM BLOOD Glucose-134* UreaN-12 Creat-0.9 Na-140\nK-3.6 Cl-108 HCO3-24 AnGap-12\n\nBrief Hospital Course:\nThe patient was admitted to the orthopaedic surgery service and\nwas taken to the operating room for above described procedure.\nPlease see separately dictated operative report for details. The\nsurgery was uncomplicated and the patient tolerated the\nprocedure well. Patient received perioperative IV antibiotics.\n\nPostoperative course was remarkable for the following:\n\n1. ICU Course:\n# s/p left hip replacement:  Patient tolerated the procedure\nwell per Ortho although he did have significant blood loss and\nfluid shifts. He had a RIJ placed in the OR the postition of\nwhich was confirmed on presentation to the [**Hospital Unit Name 153**]. Post-op Hct\nstable at 33.2. He received ancef for 24 hours after the\nprocedure. Was intubated on admission to unit. He was cautiously\nweaned from the vent and from Propofol given his prior history\nof difficulty with extubation and altered mental status. Opiods\nwere avoided in management of the patient's pain. He was given\nsmall fentanyl boluses for pain through the night. He was\nextubated in the morning without difficulty. The JP drains\ncontained serosanginous fluid, and on POD1 the patient was\nstarted on enoxaparin 40mg Sc daily. Pain management was an\nissue given the patient's underlying hepatic dysfunction. The\nacute pain and the chronic pain services were consulted\nregarding a lumbosacral block. It was decided that in place of a\nlumbosacral block, the patient's Dilaudid PCA would be increased\nto dose to .24/6m and his long-acting oxycontin PO 10 mg Q6H.\nThe patient was successfully extubated upon leaving the [**Hospital Unit Name 153**].\n.\n# EtOH Cirrhosis - Blood transfusions and insult of surgery\nwould contribute to higher likelihood of post-op hepatic\nencephalopathy.  Patient does have history of grade 1 varices as\nwell. Mental status was monitored through [**Hospital Unit Name 153**] course and the\npatient did not have hepatic encephalopathy on exam. Lactulose\nwas started after the patient was extubated. His home nadolol\nwas initially held [**1-7**] low BP, but this was restarted after\nextubation.\n.\n# Pancytopenia - History of thrombocytopenia [**1-7**] cirrhosis as\nwell as pancytopenia, (which on previous workup by Heme/Onc was\nfelt to medication, portal sequestration).  Macrocytic anemia\nconsistent with history of alcohol and cirrhosis. CBC was\nmonitored with a goal of keeping platelets > 10 or 50 if acute\nbleeding. Through his course in the [**Hospital Unit Name 153**], the patient had an\nactive type and screen. No transfusions were required\npost-operatively in the [**Hospital Unit Name 153**].\n.\n# Crohn's disease - Stable, not having diarrhea. Continued with\nazathioprine when taking POs.\n.\n# HTN - Initially held lisinopril for now pending fluid shifts\nand post op hypotension.\n.\n# COPD - Documented h/o COPD in OMR but on no home medications.\n\n# Ascending aortic aneurysm: Stable on recent Echo. VS were\nmonitored.\n.\n# Depression: Home duloxitine was continued.\n\n2. Asymptomatic post-operative anemia - POD 2 Hct 21.1 ->\nTransfused 2 units PRBCs\n\n3. Medicine consult for co-management\n\nOtherwise, pain was initially controlled with a PCA followed by\na transition to oral pain medications on POD#2.  The patient\nreceived lovenox for DVT prophylaxis starting on the morning of\nPOD#1.  The foley was removed on POD#2 and the patient was\nvoiding independently thereafter. The surgical dressing was\nchanged on POD#2 and the surgical incision was found to be clean\nand intact without erythema or abnormal drainage. The patient\nwas seen daily by physical therapy. Labs were checked throughout\nthe hospital course and repleted accordingly. At the time of\ndischarge the patient was tolerating a regular diet and feeling\nwell.  The patient was afebrile with stable vital signs.  The\npatient's hematocrit was acceptable and pain was adequately\ncontrolled on an oral regimen. The operative extremity was\nneurovascularly intact and the wound was benign.\n\nThe patient's weight-bearing status is TOUCHDOWN weight bearing\non the operative extremity with POSTERIOR and TROCHANTER OFF\nprecautions.\n\nMr. [**Known lastname 3265**] is discharged to rehab in stable condition.\n\n\nMedications on Admission:\nMEDICATIONS AT HOME:\nAZATHIOPRINE -  (Prescribed by Other Provider) - 50 mg Tablet -\n2-1/2 Tablet(s) by mouth once daily\nDULOXETINE [CYMBALTA] -  (Prescribed by Other Provider) - 60 mg\nCapsule, Delayed Release(E.C.) - one Capsule(s) by mouth daily\nFOLIC ACID -  (Prescribed by Other Provider) - 1 mg Tablet - 1\nTablet(s) by mouth once daily\nLISINOPRIL -  (Prescribed by Other Provider) - 10 mg Tablet -\none\nTablet(s) by mouth daily\nNADOLOL -  (Prescribed by Other Provider) - 40 mg Tablet - one\nTablet(s) by mouth daily\nOXYCODONE [OXYCONTIN] -  (Prescribed by Other Provider) - 20 mg\nTablet Extended Release 12 hr - 1 Tablet(s) by mouth twice daily\nOXYCODONE-ACETAMINOPHEN [ROXICET] -  (Prescribed by Other\nProvider) - 5 mg-325 mg Tablet - 1 Tablet(s) by mouth every 4-6\nhours as needed for pain\nSODIUM CHLORIDE -  (Prescribed by Other Provider) -   - 4 mg\ndaily\nTRAZODONE -  (Prescribed by Other Provider) - 50 mg Tablet - 1\nTablet(s) by mouth once a day\n.\nMedications - OTC\nCALCIUM -  (Prescribed by Other Provider) - Dosage uncertain\nCYANOCOBALAMIN (VITAMIN B-12) [VITAMIN B-12] -  (Prescribed by\nOther Provider) - Dosage uncertain\nMAGNESIUM OXIDE -  (Prescribed by Other Provider) - 400 mg\nTablet\n- 6 Tablet(s) by mouth three times a day\nMULTIVITAMIN -  (Prescribed by Other Provider) - Dosage\nuncertain\nOMEPRAZOLE MAGNESIUM [PRILOSEC OTC] -  (Prescribed by Other\nProvider) - 20 mg Tablet, Delayed Release (E.C.) - two Tablet(s)\nby mouth daily\n.\nMedications on transfer to ICU:\n-Lisinopril 10 mg PO/NG DAILY\n-Acetaminophen 650 mg PO Q6H\n-Milk of Magnesia 30 ml PO BID:PRN Constipation\n-Bisacodyl 10 mg PO/PR DAILY:PRN Constipation\n-Multivitamins 1 CAP PO DAILY\n-CefazoLIN 2 g IV Q8H (2 hrs post-op)\n-Nadolol 40 mg PO DAILY\n-Calcium Carbonate 500 mg PO TID\n-OxycoDONE (Immediate Release) 5-10 mg PO Q4H:PRN Pain Start: In\nam\nBegin after PCA has been d/c [**6-24**]\n-Docusate Sodium 100 mg PO BID\n-Ondansetron 4 mg IV Q8H:PRN nausea/vomiting\n-Duloxetine 60 mg PO DAILY\n-Omeprazole 20 mg PO DAILY\n-Enoxaparin Sodium 40 mg SC DAILY Start: In am\nBegin on [**6-24**] wednesday\n-Senna 1 TAB PO BID\n-FoLIC Acid 1 mg PO/NG DAILY\n-Vitamin D 400 UNIT PO DAILY  Order date: [**6-23**] @ 1103\n-HYDROmorphone (Dilaudid) 0.12 mg IVPCA Lockout Interval: 6\nminutes Basal Rate: 0 mg(s)/hour 1-hr Max Limit: 1.2 mg(s)\n\n\nDischarge Medications:\n1. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n2. multivitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).\n3. duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n4. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable\nSig: One (1) Tablet, Chewable PO TID (3 times a day).\n5. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n6. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n7. nadolol 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).\n8. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n9. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q8H (every\n8 hours).\n10. azathioprine 50 mg Tablet Sig: 2.5 Tablets PO DAILY (Daily).\n\n11. enoxaparin 40 mg/0.4 mL Syringe Sig: One (1) syringe\nSubcutaneous DAILY (Daily) for 3 weeks.\nDisp:*21 syringe* Refills:*0*\n12. aspirin, buffered 325 mg Tablet Sig: One (1) Tablet PO twice\na day for 3 weeks: AFTER completing Lovenox, take as directed\nwith food.\nDisp:*42 Tablet(s)* Refills:*0*\n13. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3\ntimes a day): Take while on strong pain medication.\nDisp:*2700 ML(s)* Refills:*2*\n14. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6\nhours) as needed for pain: Hold for confusion.\nDisp:*50 Tablet(s)* Refills:*0*\n15. Outpatient Lab Work\ndaily CBC with diff at rehab until his WBC counts increase. If\nhe were to become neutropenic or show signs of infection, would\nrecommend stopping Azathioprine. Would transfuse PRN for goal\nplt >10 and Hct > 21.\n\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital 2971**] Rehabilitation and Nursing Center - [**Hospital1 1474**]\n\nDischarge Diagnosis:\nFailed left total hip replacement\nPost-operative anemia due to blood loss\nChronic pancytopenia\n\n*Anticipated length of stay < 30 days*\n\n\nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - requires assistance or aid (walker\nor cane).\n\n\nDischarge Instructions:\n1. Please return to the emergency department or notify your\nphysician if you experience any of the following: severe pain\nnot relieved by medication, increased swelling, decreased\nsensation, difficulty with movement, fevers greater than 101.5,\nshaking chills, increasing redness or drainage from the incision\nsite, chest pain, shortness of breath or any other concerns.\n\n2. Please follow up with your primary physician regarding this\nadmission and any new medications and refills.\n\n3. Resume your home medications unless otherwise instructed.\n\n4. You have been given medications for pain control. Please do\nnot drive, operate heavy machinery, or drink alcohol while\ntaking these medications. As your pain decreases, take fewer\ntablets and increase the time between doses. This medication can\ncause constipation, so you should drink plenty of water daily to\nprevent this side effect.  Call your surgeons office 3 days\nbefore you are out of medication so that it can be refilled.\nThese medications cannot be called into your pharmacy and must\nbe picked up in the clinic or mailed to your house.  Please\nallow an extra 2 days if you would like your medication mailed\nto your home.\n\n5. You may not drive a car until cleared to do so by your\nsurgeon.\n\n6. Please keep your wounds clean. You may shower starting five\n(5) days after surgery, but no tub baths or swimming for at\nleast four (4) weeks. No dressing is needed if wound continues\nto be non-draining. Any stitches or staples that need to be\nremoved will be taken out by the visiting nurse (VNA) or rehab\nfacility two\nweeks after your surgery.\n\n7. Please call your surgeon's office to schedule or confirm your\nfollow-up appointment in four (4) weeks.\n\n\n8. Please DO NOT take any non-steroidal anti-inflammatory\nmedications (NSAIDs such as celebrex, ibuprofen, advil, aleve,\nmotrin, etc).\n\n9. ANTICOAGULATION: Please continue your lovenox for three (3)\nweeks to help prevent deep vein thrombosis (blood clots).  After\ncompleting the lovenox, please take Aspirin 325mg  TWICE  daily\nfor three weeks.  [**Male First Name (un) **] STOCKINGS x 6 WEEKS.\n\n10. WOUND CARE: Please keep your incision clean and dry. It is\nokay to shower five days after surgery but no tub baths,\nswimming, or submerging your incision until after your four (4)\nweek checkup. Please place a dry sterile dressing on the wound\neach day if there is drainage, otherwise leave it open to air.\nCheck wound regularly for signs of infection such as redness or\nthick yellow drainage. Staples will be removed by the visiting\nnurse or rehab facility in two (2) weeks.\n\n11. VNA (once at home): Home PT/OT, dressing changes as\ninstructed, wound checks, and staple removal at two weeks after\nsurgery.\n\n12. ACTIVITY: TOUCHDOWN weight bearing on the operative\nextremity. POSTERIOR and TROCHANTER OFF precautions. No\nstrenuous exercise or heavy lifting until follow up appointment.\nPhysical Therapy:\nLLE TOUCHDOWN weight bearing\nPosterior AND trochanter off precautions\nMobilize\nTreatments Frequency:\nDry sterile dressing daily as needed for drainage\nWound checks\nIce as tolerated\nStaple removal POD 17 - replace with steristrips\nTEDs\n\nFollowup Instructions:\nProvider: [**First Name11 (Name Pattern1) 177**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3260**], [**MD Number(3) 3261**]:[**Telephone/Fax (1) 1228**]\nDate/Time:[**2201-7-24**] 11:00\n\n\n\nCompleted by:[**2201-6-28**]"
+    }
+  ]
+}

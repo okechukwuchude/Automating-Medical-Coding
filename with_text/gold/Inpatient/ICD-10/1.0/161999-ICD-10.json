@@ -1,0 +1,166 @@
+{
+  "hadm_id": 161999,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 40604,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 273,
+          "end": 280,
+          "code": "R47.01",
+          "code_system": "ICD-10-CM",
+          "description": "Aphasia",
+          "type": "Human",
+          "covered_text": "aphasia"
+        },
+        {
+          "begin": 291,
+          "end": 302,
+          "code": "G81.91",
+          "code_system": "ICD-10-CM",
+          "description": "Hemiplegia, unspecified affecting right dominant side",
+          "type": "Human",
+          "covered_text": "hemiparesis"
+        },
+        {
+          "begin": 571,
+          "end": 574,
+          "code": "I11.0",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive heart disease with heart failure",
+          "type": "Human",
+          "covered_text": "HTN"
+        },
+        {
+          "begin": 576,
+          "end": 579,
+          "code": "E78.5",
+          "code_system": "ICD-10-CM",
+          "description": "Hyperlipidemia, unspecified",
+          "type": "Human",
+          "covered_text": "HLD"
+        },
+        {
+          "begin": 581,
+          "end": 583,
+          "code": "E11.9",
+          "code_system": "ICD-10-CM",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "Human",
+          "covered_text": "DM"
+        },
+        {
+          "begin": 589,
+          "end": 596,
+          "code": "Z79.4",
+          "code_system": "ICD-10-CM",
+          "description": "Long term (current) use of insulin",
+          "type": "Human",
+          "covered_text": "insulin"
+        },
+        {
+          "begin": 604,
+          "end": 611,
+          "code": "F17.200",
+          "code_system": "ICD-10-CM",
+          "description": "Nicotine dependence, unspecified, uncomplicated",
+          "type": "Human",
+          "covered_text": "smoking"
+        },
+        {
+          "begin": 1459,
+          "end": 1465,
+          "code": "I63.512",
+          "code_system": "ICD-10-CM",
+          "description": "Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery",
+          "type": "Human",
+          "covered_text": "stroke"
+        },
+        {
+          "begin": 1610,
+          "end": 1614,
+          "code": "I48.91",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified atrial fibrillation",
+          "type": "Human",
+          "covered_text": "afib"
+        },
+        {
+          "begin": 1674,
+          "end": 1677,
+          "code": "I50.9",
+          "code_system": "ICD-10-CM",
+          "description": "Heart failure, unspecified",
+          "type": "Human",
+          "covered_text": "CHF"
+        },
+        {
+          "begin": 1875,
+          "end": 1879,
+          "code": "F10.20",
+          "code_system": "ICD-10-CM",
+          "description": "Alcohol dependence, uncomplicated",
+          "type": "Human",
+          "covered_text": "etoh"
+        },
+        {
+          "begin": 4919,
+          "end": 4925,
+          "code": "I63.512",
+          "code_system": "ICD-10-CM",
+          "description": "Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery",
+          "type": "Human",
+          "covered_text": "stroke"
+        },
+        {
+          "begin": 9313,
+          "end": 9322,
+          "code": "I63.312",
+          "code_system": "ICD-10-CM",
+          "description": "Cerebral infarction due to thrombosis of left middle cerebral artery",
+          "type": "Human",
+          "covered_text": "Diagnosis"
+        },
+        {
+          "begin": 9339,
+          "end": 9345,
+          "code": "I63.312",
+          "code_system": "ICD-10-CM",
+          "description": "Cerebral infarction due to thrombosis of left middle cerebral artery",
+          "type": "Human",
+          "covered_text": "stroke"
+        }
+      ],
+      "text": "Admission Date:  [**2128-8-27**]              Discharge Date:   [**2128-9-4**]\n\nDate of Birth:  [**2061-7-1**]             Sex:   M\n\nService: NEUROLOGY\n\nAllergies:\nNo Known Allergies / Adverse Drug Reactions\n\nAttending:[**Last Name (NamePattern1) 11784**]\nChief Complaint:\naphasia and right hemiparesis\n\nMajor Surgical or Invasive Procedure:\nIV tPA and MERCI device\n\n\nHistory of Present Illness:\nThe patient is a 67 year old right handed man with a past\nmedical\nhistory significant for a.fib (not on Coumadin - for unclear\nperiod of time, possible not since [**2122**]), HTN, HLD, DM - on\ninsulin, heavy smoking history who presents with a sudden onset\nof right sided weakness, determined to have a LMCA syndrome at\nan\nOSH, given tPA and sent to [**Hospital1 18**] for further evaluation.\n\nThe story is not clear (he was unable to provide details and the\nfamily was not present for the event). He was apparently in his\nusual state of health and went out for a drive.  Per report (not\nclear how this was obtained) he felt ill and pulled over to the\nside of the road.  He was found by the fire service at ~11:30-40\nto have right sided weakness and unable to speak and was taken\nto\n[**Hospital1 **]-[**Location (un) 620**].  He was in the window and was given tPA after\nconsultation with tele-service.  He got 81mg of tPA at ~1:50pm\nand transferred here.  There NIH scale was reported to be 21.\n\nHere on examination he continued to have severe deficits, given\na\nstroke scale of 23.  He had a CTA which showed a persistent L\nMCA\nclot and he was taken to the angio suite for intervention.\n\n\nPast Medical History:\n- afib w RVR, only on ASA not on Coumadin (unclear if ever was)\n- CHF\n- HTN\n- DM on insulin\n- peri-rectal abscess treated a few months ago\n\n\nSocial History:\nLives by himself in [**Location (un) **].  He is not employed.  He has a long\n40 year x 3ppd smoking history, etoh use and uses pain pills\nthat are not his according to his daughter. [**First Name4 (NamePattern1) **] [**Known lastname 17811**] (ex\nwife) c:[**Telephone/Fax (1) 88858**] h:[**Telephone/Fax (1) 88859**]. [**First Name4 (NamePattern1) 1457**] [**Known lastname 17811**] ([**Last Name (un) **])\n[**Telephone/Fax (1) 88860**]. [**First Name4 (NamePattern1) 50269**] [**Last Name (NamePattern1) 284**] ([**Last Name (un) **]) c: [**Telephone/Fax (1) 88861**]\n\n\nFamily History:\nMother with CA, father who fell and had cerebral hemorrhage\nsecondary to etoh in his 40s.\n\n\nPhysical Exam:\nADMISSION PHYSICAL EXAM:\n\nPhysical Exam:\nVitals: T: 98 P:95  R: 16  BP:119/76  SaO2: 95\nGeneral: Awake, moaning, no following commands, obese\nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in\noropharynx\nNeck: Supple, no carotid bruits appreciated. No nuchal rigidity\nPulmonary: Lungs clear anteriorly\nCardiac: [**Last Name (un) 3526**] [**Last Name (un) 3526**]\nAbdomen: soft, NT/ND, obese\nExtremities: mild erythema on both calves, likely venous stasis\n.\nNeurologic:\n-Mental Status: Alert, aphasic, occasionally would curse, not\nfollowing commands although did squeeze hands and open eyes on\ncommand one time.\n.\n-Cranial Nerves:\nI: Olfaction not tested.\nII: Left eye fixed, appears surgical, right eye 2mm reactive,\nR field cut\nIII, IV, VI:Left visual pref, cannot get him to cross midline to\nright\nVII: right facial droop, lower half of face\nIX, X: Palate elevates symmetrically.\nXII: Tongue protrudes in midline.\n.\n-Motor: Normal bulk, tone throughout.\nRight arm - minimal effort against gravity, slight withdrawal to\npain (flexor), no movement in hand, leg slight withdrawal to\npain\nno effort against gravity.  Left arm/leg moving spontaneously\nappear full\n.\n-Sensory: Decreased on right side to painful stim, o/w appears\ngrossly intact\n.\n-DTRs:\n  [**Name2 (NI) **] Tri [**Last Name (un) 1035**] Pat Ach\nL  1  1    1    0   0\nR  1  1    1    0   0\nPlantar response was mute  bilaterally.\n.\n-Coordination and gait: not tested\n.\n.\nPHYSICAL EXAMINATION UPON PRONOUNCIATION OF DEATH:\nGen: Elderly male lying in bed. Unresponsive.\nHEENT: Pupils unreactive bilaterally.\nLungs: no breath sounds.\nHeart: no heartbeat.\nExtremities: cool extremities.\nSkin: pale.\n\n\nPertinent Results:\nADMISSION LABS:\n[**2128-8-27**] 01:30PM   WBC-11.5* RBC-4.71 HGB-12.4* HCT-36.7*\nMCV-78* MCH-26.4* MCHC-33.8 RDW-15.4\n[**2128-8-27**] 01:37PM   GLUCOSE-348* NA+-134 K+-3.2* CL--95* TCO2-26\n[**2128-8-27**] 05:07PM   CALCIUM-7.5* PHOSPHATE-3.9 MAGNESIUM-1.6\n[**2128-8-27**] 05:07PM   CK-MB-2 cTropnT-<0.01\n.\nADMISSION IMAGING:\nECG [**2128-8-27**]: Atrial fibrillation with a rapid ventricular\nresponse. Non-specific ST-T wave changes. No previous tracing\navailable for comparison.\n.\nCT BRAIN PERFUSION [**2128-8-27**]: IMPRESSION: 1. Left M1 cutoff with\nincreased MTT thoughout the left M1 territory. The perfusion\nstudies are limited and evaluation for mismatch and territory at\nrisk is not possible. This was discussed with Dr. [**Last Name (STitle) 88862**] of\nthe stroke service and Dr. [**Last Name (STitle) **] of Interventional\nNeuroradiology, and the patient was brought for an\ninterventional procedure. 2. Ground glass opacities throughout\nthe visualized lung apices are non-specific and if clinically\nindicated might be better evaluated with chest CT. 3.\nMediastinal lymphadenopathy.\n.\n59 DISTINCT PROCEDURAL SERVICE [**2128-8-27**]: FINDINGS:\n.\nRIGHT INTERNAL CAROTID ARTERY INJECTION, PREPROCEDURE: There is\ncomplete proximal M1 occlusion with distal collateral flow\nprovided by ACA branches and scant leptomeningeal collaterals.\n.\nLEFT INTERNAL CAROTID ARTERY INJECTION, POST-PROCEDURE: The left\ninternal carotid artery and its distal branches are patent with\nthe exception of a proximal M2 branch, which demonstrates\nsluggish flow indicating more distal occlusion. Lenticulostriate\nluxury perfusion is noted. The anterior cerebral artery is\nwidely patent and provides collateral flow to the left cerebral\nhemisphere.\n.\nIMPRESSION: Successful left MCA M1 division thrombectomy using a\ncombination of 10 mg of IV TPA and a Merci retrieval device.\nThere is residual sluggish flow and distal occlusion within a\nproximal M2 branch.\n.\nPORTABLE CXR [**2128-8-27**]: FINDINGS: The tip of the endotracheal\ntube projects 3.8 cm above the carina. The tip of the\nnasogastric tube is projecting over the stomach. Mild bilateral\nareas of atelectasis. No overt pulmonary edema. Low lung\nvolumes. The presence of minimal pleural effusions cannot be\nexcluded. The size of the cardiac silhouette is at the upper\nrange of normal.\n\nPORTABLE CXR [**2128-9-4**]: FINDINGS: The position of the various\nlines and tubes is unchanged. Cardiac size is within normal\nlimits. The lung fields are clear. There is no evidence of\nfailure.\n.\nLABS ON DAY OF EXPIRATION:\n[**2128-9-4**] 02:17AM BLOOD WBC-11.7* RBC-3.93* Hgb-10.0* Hct-32.3*\nMCV-82 MCH-25.4* MCHC-30.9* RDW-15.7* Plt Ct-415\n[**2128-9-4**] 02:17AM BLOOD PT-16.3* PTT-29.4 INR(PT)-1.4*\n[**2128-9-4**] 02:17AM BLOOD Glucose-172* UreaN-26* Creat-1.0 Na-152*\nK-3.6 Cl-124* HCO3-21* AnGap-11\n[**2128-9-4**] 02:17AM BLOOD Calcium-7.9* Phos-1.3* Mg-2.0\n[**2128-9-4**] 02:17AM BLOOD Osmolal-321*\n[**2128-9-3**] 03:32AM BLOOD Type-ART pO2-170* pCO2-34* pH-7.42\ncalTCO2-23 Base XS--1\n.\n\n\nBrief Hospital Course:\n*)NEURO: Patient was admitted [**2128-8-27**] s/p large left MCA stroke\nwith resultant aphasia and right sided weakness. He received TPA\nat an OSH and was transferred to the [**Hospital1 18**] for interventional\nangiography which was able to partially recanalize his posterior\nvessels. He was intubated for protection of his airway and cared\nfor in the NICU. The rest of his care proceeded according to the\nstroke protocol including continued anticoagulation with ASA and\nheparin and appropriate imaging. Over the course of his\nhospitalization, the patient exhibited anisocoria (left 3nn,\nright 2mm, only reactive on left), eyes that were closed at\nbaseline and he did not open them spontaneously,  with symmetric\ngrimace to pain in upper extremities. He exhibited no\nspontaneous movements. At the decision of his family, he was\nterminally extubated the afternoon of [**9-4**] and died peacefully\nwithin 40 minutes of his extubation with his family at the\nbedside.  They denied autopsy.\n.\n*)PULM: Following admission for acute left MCA stroke, patient\nwas intubated for protection of his airway. He was never able to\nbe successfully extubated during the course of his\nhospitalization. At the decision of his family, he was\nterminally extubated the afternoon of [**9-4**].\n.\n*)CARDIO: During this hospitalization, the patient exhibited\natrial fibrilation which was controlled with Amiodarone 200 mg\nand hypertension which was controlled with labetolol 10 mg IV.\nThe patient also was placed on statin therapy for control of his\nLDL levels.\n.\n*)INFECTIOUS DISEASE: Patient had pneumonia and E. coli positive\nUTI which were controlled with broad spectrum antibiotics\nincluding Vancomycin 100mg, Tobramycin 740 mg, and Cefepime 2 g\nIV.\n.\n*)ENDOCRINE: Patient was placed on an insulin sliding scale\nduring this hospitilzation due to history of DM2 and per stroke\nprotocol.\n\nTime of Death: 3:30pm on [**9-4**].\n\nMedications on Admission:\n- ASA 81\n- Omeprazole 20mg qd\n- Toprol 100mg\n- Zocor 40mg qd\n- Lisinopril 40mg\n- Insulin\n\n\nDischarge Medications:\nN/A, pt expired on [**9-4**].\n\nDischarge Disposition:\nExpired\n\nDischarge Diagnosis:\nPrimary: L MCA stroke\nSecondary: Atrial Fibrillation\n\n\nDischarge Condition:\nN/A pt expired.\n\n\nDischarge Instructions:\nN/A Pt expired peacefull with family at bedside at 3:30pm on\n[**9-4**].  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] was called to perform the death\nprounouncement.  Please see physical exam section for further\ndetails.\n\nFollowup Instructions:\nN/A pt expired\n\n\n\n"
+    },
+    {
+      "note_id": 1206476,
+      "category": "Radiology",
+      "description": "PRIMARY MECH THROMBECTOMY ART/BPG; INITIAL VESSEL",
+      "annotations": [
+        {
+          "begin": 2949,
+          "end": 2965,
+          "code": "03CG3ZZ",
+          "code_system": "ICD-10-PCS",
+          "description": "Extirpation of Matter from Intracranial Artery, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "thrombectomy was"
+        },
+        {
+          "begin": 4795,
+          "end": 4798,
+          "code": "3E03317",
+          "code_system": "ICD-10-PCS",
+          "description": "Introduction of Other Thrombolytic into Peripheral Vein, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "TPA"
+        }
+      ],
+      "text": "[**2128-8-27**] 2:17 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 12512**]\n Reason: inetervention for stroke\n  Contrast: OPTIRAY Amt: 160\n ********************************* CPT Codes ********************************\n * [**Numeric Identifier 1155**] PRIMARY MECH THROMBECTOMY ART/  [**Numeric Identifier 285**] SEL CATH 3RD ORDER [**Last Name (un) 286**]          *\n * -51 MULTI-PROCEDURE SAME DAY          [**Numeric Identifier 287**] SEL CATH 2ND ORDER               *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 288**] CAROTID/CEREBRAL BILAT           *\n * -59 DISTINCT PROCEDURAL SERVICE       [**Numeric Identifier 4205**] CAROTID/CERVICAL UNILAT          *\n * -59 DISTINCT PROCEDURAL SERVICE                                              *\n ****************************************************************************\n ______________________________________________________________________________\n [**Hospital 2**] MEDICAL CONDITION:\n  67 year old man with left MCA stroke needs interventions\n REASON FOR THIS EXAMINATION:\n  inetervention for stroke\n ______________________________________________________________________________\n                                 FINAL REPORT\n CLINICAL INFORMATION:  67-year-old male with a left MCA occlusion.\n\n COMPARISON:  CTA head [**2128-8-27**].\n\n OPERATORS:\n Dr. [**First Name8 (NamePattern2) 1617**] [**Name (STitle) 291**], attending.\n Dr. [**First Name4 (NamePattern1) 106**] [**Last Name (NamePattern1) 785**], resident.\n [**First Name4 (NamePattern1) 823**] [**Last Name (NamePattern1) 824**], NP.\n\n ANESTHESIA:  General anesthesia was provided by the staff anesthesiologist.\n\n TECHNIQUE:  The procedure was explained to the patients daughter and written\n informed consent was obtained.  A preprocedure timeout confirmed the patient\n identity and the procedure to be performed.  The patient was brought to the\n neuro interventional suite, and the bilateral groins were prepped and draped\n in the usual sterile fashion.  Using a 19-gauge single wall needle, the right\n common femoral artery was accessed, and an 8 French sheath was placed over a\n [**Last Name (un) 52**] wire.  Using the [**Last Name (un) 52**] wire and a 4 French Berenstein 2 catheter,\n the left common carotid artery was selected and an angiogram was performed.\n This demonstrated complete occlusion of the M1 segment of the left middle\n cerebral artery.  The 4 French Berenstein catheter was therefore exchanged for\n an 8 French Merci balloon catheter which was parked in the cervical left\n internal carotid artery.  Then, using a gold tip Glidewire and a Merci\n emergency microcatheter, the thrombus in the left M1 division was reached, and\n crossed.  At this point, approximately 5 mg of TPA was infused into the\n thrombus.  A 2.0 soft Merci retriever was then placed, and over a period of\n five minutes, gentle traction was applied and thrombectomy was attempted.  A\n 3.0 firm Merci retriever was then placed across the occluded portion of the\n left M1 segment, and two further attempts were performed with the application\n of gentle traction over a period of 5 minutes.  Angiogram following these\n attempts demonstrated a patent M1 segment of the left internal carotid artery,\n distal M2 branches remained patent, however, a more proximal M2 branch\n demonstrated slow flow, signifying more distal occlusion.  Approximately 5 mg\n of TPA was infused into this M2 branch. The catheter was then removed,\n followed by removal of the sheath over a wire. Hemostasis was achieved using\n                                                             (Over)\n\n [**2128-8-27**] 2:17 PM\n CAROT/CEREB [**Hospital1 **]                                                  Clip # [**Clip Number (Radiology) 12512**]\n Reason: inetervention for stroke\n  Contrast: OPTIRAY Amt: 160\n ______________________________________________________________________________\n                                 FINAL REPORT\n (Cont)\n an angioseal device and manual compression. The patient was brought to the ICU\n intubated.\n\n FINDINGS:\n\n RIGHT INTERNAL CAROTID ARTERY INJECTION,  PREPROCEDURE:  There is complete\n proximal M1 occlusion with distal collateral flow provided by ACA branches and\n scant leptomeningeal collaterals.\n\n LEFT INTERNAL CAROTID ARTERY INJECTION,  POST-PROCEDURE:  The left internal\n carotid artery and its distal branches are patent with the exception of a\n proximal M2 branch, which demonstrates sluggish flow indicating more distal\n occlusion.  Lenticulostriate luxury perfusion is noted.  The anterior cerebral\n artery is widely patent and provides collateral flow to the left cerebral\n hemisphere.\n\n IMPRESSION:  Successful left MCA M1 division thrombectomy using a combination\n of 10 mg of IV TPA and a Merci retrieval device.  There is residual sluggish\n flow and distal occlusion within a proximal M2 branch.\n\n"
+    }
+  ]
+}

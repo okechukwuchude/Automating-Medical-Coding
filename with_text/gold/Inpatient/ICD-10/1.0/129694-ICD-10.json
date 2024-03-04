@@ -1,0 +1,191 @@
+{
+  "hadm_id": 129694,
+  "comment": "",
+  "notes": [
+    {
+      "note_id": 454521,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 5921,
+          "end": 5929,
+          "code": "I50.23",
+          "code_system": "ICD-10-CM",
+          "description": "Acute on chronic systolic (congestive) heart failure",
+          "type": "Human",
+          "covered_text": "systolic"
+        }
+      ],
+      "text": "Chief Complaint:\n   24 Hour Events:\n   - Had low SBP in the 70's, mostly when sleeping. Responsive to 250cc\n   fluid bolus.\n   - No episodes of vtach.\n   Allergies:\n   Penicillins\n   Unknown;\n   Last dose of Antibiotics:\n   Vancomycin - [**2117-3-7**] 11:56 AM\n   Infusions:\n   Other ICU medications:\n   Heparin Sodium (Prophylaxis) - [**2117-3-7**] 10:15 PM\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2117-3-8**] 06:54 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.1\nC (98.7\n   Tcurrent: 36.7\nC (98.1\n   HR: 82 (75 - 88) bpm\n   BP: 82/56(62) {75/53(59) - 102/79(84)} mmHg\n   RR: 28 (19 - 29) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                  1,842 mL\n                                                                     69 mL\n   PO:\n                                                                    820 mL\n             TF:\n   IVF:\n                                                                  1,022 mL\n                                                                     69 mL\n   Blood products:\n   Total out:\n                                                                    731 mL\n                                                                    330 mL\n   Urine:\n                                                                    731 mL\n                                                                    330 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                  1,111 mL\n                                                                   -261 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 100%\n   ABG: ///24/\n   Physical Examination\n   GEN: Alert elderly male, no respiratory distress.\n   HEENT: PERRL, EOMI, oral mucosa dry with thick secretions\n   NECK: Prominent carotid pulsations, JVD appears to be at ~ 8 cm, no\n   adenopathy.  Bilat carotid bruits.\n   PULM: Diminished throughout with further decrease at bases, rare wheeze\n   and basilar crackles.\n   CARD: diminished heart sounds, no murmurs appreciated.\n   ABD: + BS, soft, NT, mildly distended and tympanitic throughout.\n   Extrem/Skin: Warm.  2+ pitting edema of dependent extremities, multiple\n   dry gangrene lesions with dark eschar. Most concerning is left lateral\n   lower extremity, which has area of erythema surrounding; however, no\n   exudates\n   NEURO: Oriented to hospital, year and month, but not to specific date\n   Labs / Radiology\n   379 K/uL\n   10.3 g/dL\n   113 mg/dL\n   1.2 mg/dL\n   24 mEq/L\n   3.7 mEq/L\n   16 mg/dL\n   106 mEq/L\n   137 mEq/L\n   30.9 %\n   17.8 K/uL\n        [image002.jpg]\n                             [**2117-3-6**]  03:42 PM\n                             [**2117-3-6**]  07:37 PM\n                             [**2117-3-7**]  03:32 AM\n                             [**2117-3-8**]  04:04 AM\n   WBC\n   19.1\n   17.8\n   Hct\n   31.3\n   30.9\n   Plt\n   347\n   379\n   Cr\n   1.3\n   1.2\n   TropT\n   0.09\n   0.10\n   TCO2\n   27\n   Glucose\n   89\n   113\n   Other labs: PT / PTT / INR:15.2/35.9/1.3, CK / CKMB /\n   Troponin-T:75/3/0.10, Differential-Neuts:73.0 %, Band:2.0 %, Lymph:3.0\n   %, Mono:18.0 %, Eos:1.0 %, Lactic Acid:0.8 mmol/L, Ca++:7.9 mg/dL,\n   Mg++:2.1 mg/dL, PO4:3.0 mg/dL\n   Assessment and Plan\n   A/P: 84M with history of PVD s/p recent axillobifemoral grafting with\n   course c/b wide complex tachycardia; now admit to MICU after getting\n   multiple nodal agents for ?SVT at rehab; however, rhythm appears to be\n   ventricular tachycardia.\n   # Hypotension:\n   Possible causes include sepsis / vasodilatory (given leukocytosis and\n   questionable appearance of gangrenous ulcers), cardiogenic (ACS or poor\n   forward flow from CHF; less likely pericardial effusion), most likely\n   med related (multiple nodal/negative inotropic agents for tachycardia).\n   Lactate not elevated.\n   - Hypotension responded to 250 cc fluid bolus x 1 overnight\n   - Continue to monitor in ICU with possible call-out to cardiology\n   service later today if blood pressures stabilize\n   - Continue vanco for ?cellulitis until 48 hours negative culture data;\n   no evidence for gram negative infections currently\n   - Cardiac enzymes\n trop 0.09-0.10 stable\n   - Hold ACEI and alpha block, continue low dose beta block given\n   arrhythmia.\n   - Attempt diuresis later today if BP stabilizes.\n   # Ventricular tachycardia:\n   Wide complex tachycardia but ECG appearance is Vtach.  Discussed with\n   cards at arrival to MICU. Reason for recurrence of VT unclear - new\n   ischemia, stretch from volume overload, and further disruption of pacer\n   leads leading to more irritation of ventricle. Patient with episode of\n   asymptomatic ventricular tachycardia on night of admission that\n   spontaneously aborted. Patient also received amiodarone 150 mg IV at\n   time of ventricular tachycardic episode. No repeat episodes of v tach\n   since admission.\n   - Replete mag and potassium aggressively.\n   - Appreciate cardiology input- per cards, additional 150 mg IV\n   amiodarone as well as maintenance oral amiodarone dose increase to 400\n   mg twice daily\n   - Needs eventual pacer/ICD lead replacement if appropriate candidate.\n   - Will recheck TTE to eval for any change in the pacer/ICD leads or\n   significant change in function to explain recurrent VT.\n   # Hypoxia:\n   On NRB in ED but easily transitioned to NC in ICU.  Likely volume\n   overload related.  Also with history of COPD though not particularly\n   wheezy on exam. Sating 99-100% RA\n   - Diuresis when able.\n   - Wean O2 as tolerated.\n   .\n   # Congestive heart failure, systolic dysfunction, acute on chronic:\n   Elevated BNP and pulmonary edema on CXR.\n   - Continue beta blocker, hold ACEI for now with hypotension.\n   - hold PO lasix, will attempt to diurese once hemodynamic issues\n   resolve.\n   .\n   # Leukocytosis.\n   Patient has no normal recorded WBC count in recent history. Infection\n   vs. hematopatholgy.\n   - Cover with vancomycin for now.\n   - Consider outpatient hematology workup for ?myelodysplasia.\n   # PVD with recent revascularization.\n   - Vascular following.\n   - Will continue vanco with concern of ?cellulitis surrounding proximal\n   ulcer.\n   # Sacral decubitus.\n   - Wound care consult; may need plastics intervention as well.\n   # CAD\n   - ASA, statin, BB\n   # CKD.  Consistent with recent baseline.  Will follow.\n   ICU Care\n   Nutrition: Regular; Low sodium / Heart healthy Consistency: Pureed\n   (dysphagia); Thin liquids Supplement: Ensure breakfast, lunch, dinner\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2117-3-6**] 06:01 PM\n   22 Gauge - [**2117-3-6**] 07:39 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition:\n"
+    },
+    {
+      "note_id": 454385,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 2998,
+          "end": 3008,
+          "code": "L89.629",
+          "code_system": "ICD-10-CM",
+          "description": "Pressure ulcer of left heel, unspecified stage",
+          "type": "Human",
+          "covered_text": "Bilat heel"
+        },
+        {
+          "begin": 3024,
+          "end": 3032,
+          "code": "L89.619",
+          "code_system": "ICD-10-CM",
+          "description": "Pressure ulcer of right heel, unspecified stage",
+          "type": "Human",
+          "covered_text": "pressure"
+        }
+      ],
+      "text": "Chief Complaint: Hypotension, tachycardia\n   24 Hour Events:\n   - Cardiology consult stopped by and felt that tachycardia at rehab was\n   a different presentation of ventricular tachycardia as the axis of the\n   tachycardia was different from at last admission\n   - Had multiple episodes of ventricular tachycardia around 0300 this\n   morning. Patient was complaining of dyspnea, but mentating during\n   episodes. spontaneously aborted. Received 150 mg of amiodarone then had\n   no further VT overnight\n   Allergies:\n   Penicillins\n   Unknown;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Changes to medical and family history:\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2117-3-7**] 07:43 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.4\nC (99.3\n   Tcurrent: 36.2\nC (97.2\n   HR: 81 (70 - 131) bpm\n   BP: 88/61(67) {76/51(57) - 98/68(71)} mmHg\n   RR: 19 (16 - 30) insp/min\n   SpO2: 97%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                  1,725 mL\n                                                                    300 mL\n   PO:\n                                                                     25 mL\n   TF:\n   IVF:\n                                                                    700 mL\n                                                                    300 mL\n   Blood products:\n   Total out:\n                                                                    800 mL\n                                                                    256 mL\n   Urine:\n                                                                    800 mL\n                                                                    256 mL\n   Balance:\n                                                                    925 mL\n                                                                     44 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 97%\n   ABG: 7.48/35/156/26/3\n   Physical Examination\n   GEN: Alert elderly male, no respiratory distress.\n   HEENT: PERRL, EOMI, MMM.\n   NECK: Prominent carotid pulsations, JVD appears to be at ~ 8 cm, no\n   adenopathy.  Bilat carotid bruits.\n   PULM: Diminished throughout with further decrease at bases, rare wheeze\n   and basilar crackles.\n   CARD: very diminished heart sounds, no murmurs appreciated.\n   ABD: + BS, soft, NT, mildly distended but tympanic throughout.\n   Extrem/Skin: Warm.  2+ pitting edema of bilat UEs, LEs, and sacrum.\n   LLE severely affected by vascular ulcerations/eschars (particularly L\n   lateral leg with minimal surrounding erythema except most proximal\n   portion of ulceration with increased erythema concerning for\n   ?cellulitis.  No drainage.  Bilat heel ulcers (likely pressure\n   ulcers).  R axillary and bilateral groin incisions C/D/I with intact\n   staples.  Dopplerable DP/PT.\n   BACK: ~5x5cm sacral decub with central eschar.\n   NEURO: Oriented to ---------\n   Labs / Radiology\n   347 K/uL\n   10.4 g/dL\n   89 mg/dL\n   1.3 mg/dL\n   26 mEq/L\n   3.6 mEq/L\n   18 mg/dL\n   106 mEq/L\n   139 mEq/L\n   31.3 %\n   19.1 K/uL\n        [image002.jpg]\n                             [**2117-3-6**]  03:42 PM\n                             [**2117-3-6**]  07:37 PM\n                             [**2117-3-7**]  03:32 AM\n   WBC\n   19.1\n   Hct\n   31.3\n   Plt\n   347\n   Cr\n   1.3\n   TropT\n   0.09\n   TCO2\n   27\n   Glucose\n   89\n   Other labs: PT / PTT / INR:15.7/31.1/1.4, CK / CKMB /\n   Troponin-T:80//0.09, Differential-Neuts:66.0 %, Band:7.0 %, Lymph:2.0\n   %, Mono:11.0 %, Eos:2.0 %, Lactic Acid:0.8 mmol/L, Ca++:8.0 mg/dL,\n   Mg++:2.2 mg/dL, PO4:3.4 mg/dL\n   Assessment and Plan\n PERIPHERAL VASCULAR DISEASE (PVD) WITH CRITICAL LIMB ISCHEMIA\n DECUBITUS ULCER (PRESENT AT ADMISSION)\n .H/O SUPRAVENTRICULAR TACHYCARDIA (SVT)\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2117-3-6**] 06:01 PM\n   22 Gauge - [**2117-3-6**] 07:39 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status:\n   Disposition:\n"
+    },
+    {
+      "note_id": 454393,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 4111,
+          "end": 4134,
+          "code": "I47.2",
+          "code_system": "ICD-10-CM",
+          "description": "Ventricular tachycardia",
+          "type": "Human",
+          "covered_text": "Ventricular tachycardia"
+        }
+      ],
+      "text": "TITLE:\n   Chief Complaint: Ventricular tachycardia , leukocytosis &  hypotension\n   I saw and examined the patient, and was physically present with the ICU\n   Resident for key portions of the services provided.  I agree with his /\n   her note above, including assessment and plan.\n   HPI:\n   24 Hour Events:\n   - 3am several minutes run PVCs, ~20 beat  run VT\n      - mentating throughout\n      - amio pushed\n   History obtained from [**Hospital 15**] Medical records\n   Allergies:\n   Penicillins\n   Unknown;\n   Last dose of Antibiotics:\n   Infusions:\n   Other ICU medications:\n   Other medications:\n   Changes to medical and family history:\n   PMH, SH, FH and ROS are unchanged from Admission except where noted\n   above and below\n   Review of systems is unchanged from admission except as noted below\n   Review of systems:\n   Flowsheet Data as of  [**2117-3-7**] 10:04 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                               Since 12 AM\n   Tmax: 37.4\nC (99.3\n   Tcurrent: 36.5\nC (97.7\n   HR: 83 (70 - 131) bpm\n   BP: 95/64(72) {76/51(57) - 98/68(72)} mmHg\n   RR: 22 (16 - 30) insp/min\n   SpO2: 100%\n   Heart rhythm: SR (Sinus Rhythm)\n             Total In:\n                                                                  1,726 mL\n                                                                  1,182 mL\n   PO:\n                                                                     25 mL\n                                                                    240 mL\n   TF:\n   IVF:\n                                                                    701 mL\n                                                                    942 mL\n   Blood products:\n   Total out:\n                                                                    800 mL\n                                                                    301 mL\n   Urine:\n                                                                    800 mL\n                                                                    301 mL\n   NG:\n   Stool:\n   Drains:\n   Balance:\n                                                                    926 mL\n                                                                    881 mL\n   Respiratory support\n   O2 Delivery Device: Nasal cannula\n   SpO2: 100%\n   ABG: 7.48/35/156/26/3\n   Physical Examination\n   General Appearance: No(t) Well nourished, No acute distress, Thin\n   Head, Ears, Nose, Throat: Normocephalic\n   Cardiovascular: (S1: Normal), (S2: Normal)\n   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial\n   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:\n   Not assessed)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )\n   Abdominal: Soft, Non-tender, Bowel sounds present\n   Extremities: Right: 2+, Left: 2+\n   Skin:  Not assessed\n   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:\n   Not assessed\n   Labs / Radiology\n   10.4 g/dL\n   347 K/uL\n   89 mg/dL\n   1.3 mg/dL\n   26 mEq/L\n   3.6 mEq/L\n   18 mg/dL\n   106 mEq/L\n   139 mEq/L\n   31.3 %\n   19.1 K/uL\n        [image002.jpg]\n                             [**2117-3-6**]  03:42 PM\n                             [**2117-3-6**]  07:37 PM\n                             [**2117-3-7**]  03:32 AM\n   WBC\n   19.1\n   Hct\n   31.3\n   Plt\n   347\n   Cr\n   1.3\n   TropT\n   0.09\n   TCO2\n   27\n   Glucose\n   89\n   Other labs: PT / PTT / INR:15.7/31.1/1.4, CK / CKMB /\n   Troponin-T:80//0.09, Differential-Neuts:66.0 %, Band:7.0 %, Lymph:2.0\n   %, Mono:11.0 %, Eos:2.0 %, Lactic Acid:0.8 mmol/L, Ca++:8.0 mg/dL,\n   Mg++:2.2 mg/dL, PO4:3.4 mg/dL\n   Assessment and Plan\n    Hypotension\n   -sepsis vs. cardiogenic vs. med related vs. baseline (lactate nl)\n   -IVF boluses carefully given h/o CHF Hasn't required pressors\n   -empiric coverage with abx.  Broaden if worsening of hemodyn status\n   -elevated wbc/bandemia has been present since prior admission\n   Heart failure\n   - Cycle enzymes.\n   - Hold ACEI, lyte\n   - cont b- block given arrhythmia.\n   Ventricular tachycardia\n   -hemodyn stable (relative to current pressures) during event\n   -cards consulted following\n   -amio\n   - Replete lytes\n   -not seeing clear overdrive/AICD activity - lead fracture per report.\n   d/w cards\n   Hypoxia\n   -improved since admission - currently on NC\n   -wean supp O2 as tol\n   Leukocytosis\n   -at baseline from prior admission.  no normal wbc since [**12/2116**]\n   -infection possible but no clear source, nontoxic\n   -pan cx, empiric abx for now.  if cx negative would dc abx\n   -? myelodysplasia\n   PVD with recent revascularization.\n   - Vascular following.\n   - Cont vanco given concern of ?cellulitis surrounding proximal ulcer.\n   Sacral decubitus.\n   - Wound care consult\\\n   .\n   CKD\n   -at baseline\n   Remainder of plan per resident note.\n   ICU Care\n   Nutrition:\n   Glycemic Control:\n   Lines:\n   20 Gauge - [**2117-3-6**] 06:01 PM\n   22 Gauge - [**2117-3-6**] 07:39 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer:\n   VAP:\n   Comments:\n   Communication:  Comments:\n   Code status:\n   Disposition :\n   Total time spent: 40 minutes\n   Patient is critically ill\n"
+    },
+    {
+      "note_id": 12490,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 220,
+          "end": 231,
+          "code": "I95.9",
+          "code_system": "ICD-10-CM",
+          "description": "Hypotension, unspecified",
+          "type": "Human",
+          "covered_text": "hypotension"
+        },
+        {
+          "begin": 341,
+          "end": 344,
+          "code": "I73.9",
+          "code_system": "ICD-10-CM",
+          "description": "Peripheral vascular disease, unspecified",
+          "type": "Human",
+          "covered_text": "PVD"
+        },
+        {
+          "begin": 445,
+          "end": 463,
+          "code": "I13.2",
+          "code_system": "ICD-10-CM",
+          "description": "Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",
+          "type": "Human",
+          "covered_text": "systolic CHF, COPD"
+        },
+        {
+          "begin": 2226,
+          "end": 2229,
+          "code": "I25.10",
+          "code_system": "ICD-10-CM",
+          "description": "Atherosclerotic heart disease of native coronary artery without angina pectoris",
+          "type": "Human",
+          "covered_text": "CAD"
+        },
+        {
+          "begin": 2261,
+          "end": 2263,
+          "code": "I25.2",
+          "code_system": "ICD-10-CM",
+          "description": "Old myocardial infarction",
+          "type": "Human",
+          "covered_text": "MI"
+        },
+        {
+          "begin": 2426,
+          "end": 2430,
+          "code": "J44.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic obstructive pulmonary disease, unspecified",
+          "type": "Human",
+          "covered_text": "COPD"
+        },
+        {
+          "begin": 2433,
+          "end": 2453,
+          "code": "H35.30",
+          "code_system": "ICD-10-CM",
+          "description": "Unspecified macular degeneration",
+          "type": "Human",
+          "covered_text": "macular degeneration"
+        },
+        {
+          "begin": 2456,
+          "end": 2460,
+          "code": "K21.9",
+          "code_system": "ICD-10-CM",
+          "description": "Gastro-esophageal reflux disease without esophagitis",
+          "type": "Human",
+          "covered_text": "GERD"
+        },
+        {
+          "begin": 9915,
+          "end": 9931,
+          "code": "L89.159",
+          "code_system": "ICD-10-CM",
+          "description": "Pressure ulcer of sacral region, unspecified stage",
+          "type": "Human",
+          "covered_text": "Sacral decubitus"
+        },
+        {
+          "begin": 12215,
+          "end": 12245,
+          "code": "N17.9",
+          "code_system": "ICD-10-CM",
+          "description": "Acute kidney failure, unspecified",
+          "type": "Human",
+          "covered_text": "Acute on chronic renal failure"
+        },
+        {
+          "begin": 12224,
+          "end": 12245,
+          "code": "N18.9",
+          "code_system": "ICD-10-CM",
+          "description": "Chronic kidney disease, unspecified",
+          "type": "Human",
+          "covered_text": "chronic renal failure"
+        },
+        {
+          "begin": 12309,
+          "end": 12317,
+          "code": "L89.139",
+          "code_system": "ICD-10-CM",
+          "description": "Pressure ulcer of right lower back, unspecified stage",
+          "type": "Human",
+          "covered_text": "buttocks"
+        },
+        {
+          "begin": 12322,
+          "end": 12336,
+          "code": "L89.149",
+          "code_system": "ICD-10-CM",
+          "description": "Pressure ulcer of left lower back, unspecified stage",
+          "type": "Human",
+          "covered_text": "both hip areas"
+        }
+      ],
+      "text": "Admission Date:  [**2117-3-6**]              Discharge Date:   [**2117-3-12**]\n\n\nService: MEDICINE\n\nAllergies:\nPenicillins\n\nAttending:[**First Name3 (LF) 14820**]\nChief Complaint:\nTachycardia at rehabilitation facility, hypotension.\n\n\nMajor Surgical or Invasive Procedure:\nNone.\n\nHistory of Present Illness:\nThis is an 84 year old male with PVD and recent admission for\nright axillobifemoral artery bypass grafting c/b wide complex\ntachycardia, systolic CHF, COPD, nonfunctional ICD; admit with\nhypotension following treatment for \"SVT\" and concern of sepsis.\nPatient was recently admitted [**2117-2-12**] - [**2117-3-5**] for gangrenous\nlower extremities; workup included angiography with eventual\nrevascularization (axillobifemoral grafting). Course complicated\nby wide complex tachycardia (SVT with aberrancy vs. Vtach)\nfollowing central line change requiring amio drip, eventually\ndischarged on PO amiodarone.\n\nPatient noted at rehab to have \"SVT\" with HR 140s at 7:30 AM.\nECG performed and thought to be SVT by rehab (review actually\nconcerning for VT). Given 10 mg IV lopressor and 25 mg IV\ndiltiazem total. SBP 83 with HR 138 at rehab. Maintained SBPs in\n80s-90s with HRs in 120s-130s throughout [**Hospital1 **] course; per\npage one at least 90 minutes in this rhythm. Does note mild\ndyspnea during this time, but otherwise reports being\nasymptomatic (though poor historian). Denies CP, palps, cough,\nabdominal pain, diarrhea, fever, bleeding, HA, dizziness,\nlightheadedness, lower extremity pain, change in baseline edema\n(denies edema).\n\nIn the [**Hospital1 18**] ED, vitals T 97.9, HR 80, 91/55, R18, 94% 3L. SBP\nrange 81-92. Started NRB for sats in high 80s on 5L. Labs\nnotable for WBCs 22K with abnormal diff (though has this at\nbaseline), BNP 33K, troponin 0.09, lactate 2-> 0.8, ABG\n7.48/35/156 on NRB. UA negative. CXR with pulm edema and\nworsened effusions, otherwise unremarkable. Guaiac negative. Got\nvanc/?levoflox (per verbal report only) for concern for sepsis.\n1 L NS given. Vascular consulted, felt surgical wounds healing\nwell without evidence of infection.\n\nPast Medical History:\n- chronic systolic heart failure with EF 20%; s/p ICD placement\nbut currently nonfunctional [**12-21**] wire fracture\n- CAD with history of large anterior MI in past\n- History of Vtach and Vfib in past, managed by ICD\n- Left hip fx s/p repair\n- PVD, s/p recent axillobifemoral bypass\n- carotid stenosis s/p bilat CEAs\n- COPD\n- macular degeneration\n- GERD\n- PUD s/p surgical repair in past\n- anemia\n\nSocial History:\nPreviously lived with son, widower of 2 years, now in rehab.\nSmoked [**11-20**] ppd up through recent hospital admission. Non-alcohol\nbeer in the day and whiskey x 3 at night prior to rehab stay.\n\nFamily History:\nNo family history of early CAD or early sudden cardiac death.\n\nPhysical Exam:\nOn admission:\nGeneral: Alert elderly male, no respiratory distress.\nHEENT: PERRL, EOMI, MMM.\nNeck: Prominent carotid pulsations, JVD appears to be only ~3\nASA, no adenopathy. Bilat carotid bruits.\nHeart: very diminished heart sounds, no murmurs appreciated.\nLungs: Diminished throughout with further decrease at bases,\nrare wheeze and basilar crackles.\nAbdomen: + BS, soft, NT, mildly distended but tympanic\nthroughout.\nExtrem/Skin: Warm. 2+ pitting edema of bilat UEs, LEs, and\nsacrum. LLE severely affected by vascular ulcerations/eschars\n(particularly L lateral leg with minimal surrounding erythema\nexcept most proximal portion of ulceration with increased\nerythema concerning for ?cellulitis. No drainage. Bilat heel\nulcers (likely pressure ulcers). R axillary and bilateral groin\nincisions C/D/I with intact staples. Dopplerable DP/PT.\nBack: ~5x5cm sacral decub with central eschar.\nNeuro: II-XII intact. Strength 5/5 bilateral UE and RLE; LLE\nwith weak (3 to 4-/5) dorsiflexion. Oriented to place and [**Month (only) 547**]\n[**2115**].\n\nPertinent Results:\nLabs on admission:\n[**2117-3-5**] 06:40AM BLOOD WBC-18.0* RBC-3.34* Hgb-10.6* Hct-31.6*\nMCV-95 MCH-31.6 MCHC-33.4 RDW-18.8* Plt Ct-287\n[**2117-3-5**] 06:40AM BLOOD Neuts-60 Bands-3 Lymphs-8* Monos-15*\nEos-6* Baso-0 Atyps-0 Metas-1* Myelos-5* Promyel-2*\n[**2117-3-6**] 11:55AM BLOOD PT-14.7* PTT-28.9 INR(PT)-1.3*\n[**2117-3-5**] 06:40AM BLOOD Glucose-87 UreaN-24* Creat-1.4* Na-139\nK-3.9 Cl-105 HCO3-26 AnGap-12\n[**2117-3-6**] 11:55AM BLOOD ALT-14 AST-34 LD(LDH)-553* CK(CPK)-98\nAlkPhos-86 TotBili-0.6\n[**2117-3-6**] 11:55AM BLOOD CK-MB-NotDone proBNP-[**Numeric Identifier 38760**]*\n[**2117-3-5**] 06:40AM BLOOD Calcium-7.7* Phos-2.4* Mg-2.3\n[**2117-3-6**] 11:55AM BLOOD Digoxin-1.2\n.\nCXR [**3-6**]\nAP UPRIGHT CHEST: A left pacer/AICD with leads overlying the\nright atrium and ventricle is stable. Mild cardiomegaly\npersists. Moderate left and small right pleural effusions are\nnoted. There is diffuse hazy bilateral reticular opacity with\n[**Last Name (un) 16765**] A and B lines. There is no focal consolidation or\npneumothorax.\nIMPRESSION: Moderate CHF.\n.\nCXR [**3-9**]\nIn comparison with the study of [**3-7**], there is increasing\nprominence of the cardiac silhouette with evidence of pulmonary\nedema and bilateral pleural effusions. The change in heart size\nraises the possibility of underlying pericardial effusion.\nPacemaker leads remain in place. Retrocardiac opacification most\nlikely is consistent with atelectasis, though supervening\npneumonia cannot be\nunequivocally excluded.\n\n\nBrief Hospital Course:\nThis is an 84 year old male with history of PVD status-post\nrecent axillobifemoral grafting with course complicated by wide\ncomplex tachycardia; now admitted to MICU after getting multiple\nnodal agents for VT at rehab.\n\n# Ventricular tachycardia:\nThe patient has had previous Ventricular Tachycardia (VT). On\nthis admission, he presented with a wide complex VT which is\ndifferent from his previous VT. Cardiology followed the patient\nat arrival to MICU. The reason for recurrence of VT is unclear:\nnew ischemia, stretch from volume overload, or possibly further\ndisruption of pacer leads leading to more irritation of\nventricle. The patient did have an episode of asymptomatic\nventricular tachycardia on night of admission that spontaneously\naborted. He also received amiodarone 150 mg IV at time of that\nventricular tachycardic episode. He had a repeat episode of VT\non [**3-9**] in the morning. He was given amiodarone 150 mg IV x 1,\nLidocaine 75 mg IV x 2. EP converted to sinus rhythm via\npatient??????s AICD. He was started on Mexiletine 150 mg [**Hospital1 **] with\nplans to titrate this medication per Cardiology. He had another\nepisode of VT on the morning of [**3-10**] which converted with\nanother bolus of amiodarone 150 mg IV. He did not have any\nfurther episodes of VT since then.\nHe was continued on oral amiodarone 400 mg twice daily, his\nelectrolytes (magnesium and potassium) were repleted\naggressively.\nAccording to Cardiology, he is not a candidate for lead\nreplacement, and should be medically managed. This is also in\nline with the patient and his family's wishes to avoid\naggressive care. (The patient is DNR/DNI, and moving towards\ncomfort care, although not at officially comfort care only). TTE\non [**3-9**] showed slightly increased EF (25-30%), slightly\ndecreased left ventricular cavity size and slightly worse mitral\nregurg. Amiodarone dosing should be adjusted as follows:\nAmiodarone 400 mg twice a day for one more week (through [**3-18**]), then 200 mg twice a day for two weeks ([**3-19**] through\n[**4-1**]), then 200 mg once a day indefinitely.\n.\n# Hypotension:\nPossible causes include sepsis / vasodilatory (given\nleukocytosis and questionable appearance of gangrenous ulcers),\ncardiogenic (ACS or poor forward flow from CHF; less likely\npericardial effusion), most likely med related (multiple\nnodal/negative inotropic agents for tachycardia). Lactate was\nnot elevated. Vancomycin was discontinued after 48 hours with\ncontinued negative culture data; he remained afebrile. His ACEI\nand alpha blockers were held; he was continued on low dose beta\nblock given arrhythmia as BPs tolerate. Pt remained 110s-130s\nsystolic since transfer out of MICU on [**3-10**].\n.\n# Hypoxia:\nHe was on a non-rebreather (NRB) in the ED but easily\ntransitioned to nasal cannula (NC) in ICU.  This was likely\nvolume overload related. He also has a history of COPD. He was\nsatting 99-100% on RA, although he did have increased wheezing\nand dyspnea over the night of admission without relief with\nnebs. He was given solumedrol 125 mg IV with improvement.\nSteroids and nebulizers were discontinued and goal even to\nnegative fluid balance was maintained with PRN IV Lasix. Lasix\nwas held since [**3-10**] due to mild elevation of creatinine. Pt\nmaintained O2 sats in mid-upper 90s on RA-2L via NC.\n.\n# Congestive heart failure, systolic dysfunction, acute on\nchronic:\nThe patient had elevated BNP and pulmonary edema on chest x-ray.\nHis beta-blocker dose was increased over the night of admission\nand continued as pressures tolerated. His ACEI was held for\nhypotension. His I/Os were also targeted for a net diuresis with\nPRN Lasix. Again, lasix was held since [**3-10**] and remained net\neven since then. Pt remained stable from respiratory\nperspective. Consider restarting lasix (was on 20 mg PO Qday) in\n[**12-22**] weeks.\n.\n# Lung Nodules/Spiculated Mass: on CT [**2117-3-2**] from prior\nadmission. At that time it was felt to be infectious process but\nit needs to be followed for resolution.\n- Repeat CT in 3 months vs pulmonary consult as outpatient\n.\n# Leukocytosis:\nVancomycin was discontinued on [**3-9**]. The patient has no normal\nrecorded WBC count in recent history. Thoughts are Infection vs.\nhematopatholgy, and it is felt the patient should consider\noutpatient hematology workup for possible myelodysplasia. No LAD\non exam.\n.\n# PVD with recent revascularization:\nVascular surgery followed patient. No acute events. Qday\ndressing changes on left leg (cover with dry guaze, then wrap\nwith kerlix)\n.\n# Sacral decubitus:\nWound care was consulted and directed care. Pt was turned every\n2-3 hours.\n.\n\n\nMedications on Admission:\nAspirin 81 mg DAILY\nDigoxin 125 mcg MONDAY, WEDNESDAY, FRIDAY\nFerrous Sulfate 325 mg DAILY\nCamphor-Menthol TID as needed.\nSimvastatin 20 mg DAILY\nOmeprazole 20 mg DAILY\nLisinopril 2.5 mg DAILY\nTamsulosin 0.4 mg HS\nAmiodarone 200 mg DAILY\nMetoprolol 12.5 mg [**Hospital1 **]\nThiamine HCl 100 mg DAILY\nMultivitamin DAILY\nIpratropium neb Q6H\nAlbuterol Sulfate Nebulization Q6H and Q2H as needed for\nwheezing.\nOxycodone-Acetaminophen 5-325 mg [**11-20**] Q4H as needed\nLasix 20 mg once a day.\nCollagenase 250 unit/g Ointment DAILY\nMiconazole Nitrate 2 % TID as needed.\nHeparin SC 5000 units [**Hospital1 **]\ncolace 100 mg [**Hospital1 **] prn\n\nDischarge Medications:\n1. Docusate Sodium 50 mg/5 mL Liquid Sig: Two (2)  PO BID (2\ntimes a day) as needed for constipation.\n2. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)\nInjection TID (3 times a day).\n3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable\nPO DAILY (Daily).\n4. Collagenase 250 unit/g Ointment Sig: One (1) Appl Topical\nDAILY (Daily).\n5. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)\nTablet PO DAILY (Daily).\n6. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).\n\n7. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)\nCapsule, Delayed Release(E.C.) PO DAILY (Daily).\n8. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY\n(Daily).\n9. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY\n(Daily).\n10. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical\nDAILY (Daily).\n11. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation\nQ4-Q6 ().\n12. Mexiletine 150 mg Capsule Sig: One (1) Capsule PO Q12H\n(every 12 hours).\n13. Menthol-Cetylpyridinium 3 mg Lozenge Sig: One (1) Lozenge\nMucous membrane PRN (as needed).\n14. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID\n(3 times a day).\n15. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times\na day) for 7 days: through [**3-18**], then 200mg [**Hospital1 **] for two\nweeks, then 200 mg Qday indefinitely.\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital6 25759**] & Rehab Center - [**Location (un) **]\n\nDischarge Diagnosis:\nWide complex tachycardia\nChronic systolic heart failure\nAcute on chronic renal failure\nPVD w/ cellulitis/dry gangrene LLE\nDecubiti (scaral area, both buttocks and both hip areas)\n\n\nDischarge Condition:\nStable.\n\n\nDischarge Instructions:\nYou were brought to the hospital for evaluation of a fast heart\nrhythm that was noticed at the rehab. We were able to control it\nwith medications. You expressed the wish to shift the overall\ngoal of care away from aggressive measures. Our\nelectrophysiologists (cardiologists that specialize in heart\nrhythm) agreed with the plan, and again recommended against\nfixing the fractured defibrillator leads.\n.\nChanges were made to your medication regimen. Most notably, you\nwill take amiodarone 400 mg twice a day for one more week\n(through [**3-18**], then 200 mg twice a day for two weeks ([**3-19**] through [**4-1**]), then 200 mg once a day indefinitely.\n.\nPlease call your doctor if you experience any symptoms\nconcerning to you. They will be able to triage and will tell you\nwhether you need an evaluation in the emergency room.\n\nFollowup Instructions:\nProvider: [**Name10 (NameIs) **] XRAY (SCC 2) Phone:[**Telephone/Fax (1) 1228**]\nDate/Time:[**2117-4-27**] 8:40\nProvider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 2235**], MD Phone:[**Telephone/Fax (1) 1228**]\nDate/Time:[**2117-4-27**] 9:00\nVascular surgery: Dr. [**Last Name (STitle) 38759**]  Wednesday, [**3-17**] at 10:15 am.\n([**Telephone/Fax (1) 4852**] (Please call to confirm appointment. You will\nalso get staples removed then)\n\n\n\nCompleted by:[**2117-3-12**]"
+    }
+  ]
+}
