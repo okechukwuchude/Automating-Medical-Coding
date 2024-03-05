@@ -45,20 +45,20 @@ def extract_info_from_json(json_file_path):
             print("-" * 50)
 
 def main(folder_path):
-    # Iterate through each file in the folder
-    for filename in os.listdir(folder_path):
-        # Check if the file is a JSON file
-        if filename.endswith('.json'):
-            # Construct the full path to the JSON file
-            json_file_path = os.path.join(folder_path, filename)
-            print("Processing:", json_file_path)
-            
-            # Call extract_info_from_json function to extract information from the JSON file
-            extract_info_from_json(json_file_path)
-            
-            # Print a separator after processing each file
-            print("=" * 50)
+    # Recursively search for JSON files in the folder and its subfolders
+    for root, dirs, files in os.walk(folder_path):
+        for filename in files:
+            if filename.endswith('.json'):
+                # Construct the full path to the JSON file
+                json_file_path = os.path.join(root, filename)
+                print("Processing:", json_file_path)
+                # Call extract_info_from_json function to extract information from the JSON file
+                extract_info_from_json(json_file_path)
+                # Print a separator after processing each file
+                print("=" * 50)
 
 if __name__ == "__main__":
-    folder_path = r"C:\Users\okechukwu chude\Documents\NLP\text extraction\Automating-Medical-Coding\with_text\gold\Inpatient\ICD-9\1.0"
+    # Specify the path to the folder containing JSON files
+    folder_path = r"C:\Users\okechukwu chude\Documents\NLP\text extraction\Automating-Medical-Coding\with_text\gold"
+    # Call the main function to start processing JSON files in the folder
     main(folder_path)
