@@ -1,2 +1,5 @@
 
 NOTEEVENTS.csv
+outputs/model.safetensors
+outputs/checkpoint-3-epoch-1/model.safetensors
+outputs/checkpoint-3-epoch-1/optimizer.pt
