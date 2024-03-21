@@ -1,4 +1,4 @@
-eval_loss = 0.14300517737865448
+eval_loss = 0.24045485258102417
 f1_score = 0.0
 precision = 0.0
 recall = 0.0
