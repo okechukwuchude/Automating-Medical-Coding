@@ -1,0 +1,85 @@
+{
+  "hadm_id": 104034,
+  "comment": "Need OP report to validate PCS codes",
+  "notes": [
+    {
+      "note_id": 709614,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 555,
+          "end": 574,
+          "code": "K22.70",
+          "code_system": "ICD-10-CM",
+          "description": "Barrett's esophagus without dysplasia",
+          "type": "Human",
+          "covered_text": "Barrett's esophagus"
+        },
+        {
+          "begin": 1066,
+          "end": 1079,
+          "code": "3E0G36Z",
+          "code_system": "ICD-10-PCS",
+          "description": "Introduction of Nutritional Substance into Upper GI, Percutaneous Approach",
+          "type": "Human",
+          "covered_text": "started on TF"
+        }
+      ],
+      "text": "SICU\n   HPI:\n   65 yo M ON [**2135-9-26**] had an episode of syncope. He was noted to have an\n   8-point drop in his hematocrit and underwent an endoscopy for further\n   evaluation.  The upper endoscopy performed on [**2135-9-27**] revealed severe\n   esophagitis at the gastroesophageal junction with some mild bleeding\n   and a small hiatal hernia.  In addition, a 3-mm prepyloric ulcer was\n   also noted.  Biopsy of the inflamed area at the GE junction revealed\n   invasive moderate to poorly differentiated adenocarcinoma arising in a\n   background of Barrett's esophagus. Now s/p esophagoscopy, laparoscopic\n   esophagogastrectomy\n   Chief complaint:\n   esophogeal adenocarcinoma\n   PMHx:\n   HTN, CVA/TIA, carotid stenosis\n   Current medications:\n   20 mEq Potassium Chloride / 1000 mL D5 1/2 NS 2. 250 mL NS 3. Calcium\n   Gluconate 4. Chlorhexidine Gluconate 0.12% Oral Rinse\n   5. Dextrose 50% 6. DiphenhydrAMINE 7. Glucagon 8. Heparin 9. 2 10.\n   Insulin 11. Magnesium Sulfate\n   12. Metoprolol Tartrate 13. Pneumococcal Vac Polyvalent\n   24 Hour Events:\n   -started on TF\n   -continued epidural for pain managment\n   -OOB\n   Allergies:\n   No Known Drug Allergies\n   Last dose of Antibiotics:\n   Cefazolin - [**2135-12-22**] 05:30 AM\n   Metronidazole - [**2135-12-22**] 06:00 AM\n   Infusions:\n   Other ICU medications:\n   Famotidine (Pepcid) - [**2135-12-22**] 08:36 AM\n   Heparin Sodium (Prophylaxis) - [**2135-12-23**] 12:13 AM\n   Other medications:\n   Flowsheet Data as of  [**2135-12-23**] 04:49 AM\n   Vital signs\n   Hemodynamic monitoring\n   Fluid balance\n                                                                  24 hours\n                                                             Since [**38**] a.m.\n   Tmax: 37.9\nC (100.2\n   T current: 37.9\nC (100.2\n   HR: 87 (63 - 89) bpm\n   BP: 160/66(101) {98/43(64) - 160/66(101)} mmHg\n   RR: 23 (14 - 23) insp/min\n   SPO2: 98%\n   Heart rhythm: SR (Sinus Rhythm)\n   Height: 66 Inch\n             Total In:\n                                                                  3,255 mL\n                                                                    485 mL\n   PO:\n             Tube feeding:\n                                                                    180 mL\n                                                                     94 mL\n   IV Fluid:\n                                                                  3,045 mL\n                                                                    391 mL\n   Blood products:\n   Total out:\n                                                                  2,190 mL\n                                                                    490 mL\n   Urine:\n                                                                  1,275 mL\n                                                                    200 mL\n   NG:\n                                                                    100 mL\n   Stool:\n   Drains:\n                                                                    145 mL\n                                                                     70 mL\n   Balance:\n                                                                  1,065 mL\n                                                                     -5 mL\n   Respiratory support\n   O2 Delivery Device: Aerosol-cool, Face tent\n   SPO2: 98%\n   ABG: 7.40/47/124/33/3\n   PaO2 / FiO2: 177\n   Physical Examination\n   General Appearance: No acute distress, pleasant\n   HEENT: PERRL\n   Cardiovascular: (Rhythm: Regular)\n   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA\n   bilateral : )\n   Abdominal: Soft, Non-distended, Bowel sounds present, Tender: mild\n   diffuse\n   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present)\n   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -\n   Dorsalis pedis: Present)\n   Skin: (Incision: Clean / Dry / Intact)\n   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,\n   (Responds to: Verbal stimuli), Moves all extremities\n   Labs / Radiology\n   117 K/uL\n   11.1 g/dL\n   126 mg/dL\n   0.8 mg/dL\n   33 mEq/L\n   3.9 mEq/L\n   9 mg/dL\n   103 mEq/L\n   139 mEq/L\n   32.9 %\n   8.4 K/uL\n        [image002.jpg]\n                            [**2135-12-21**]  07:04 PM\n                            [**2135-12-22**]  02:55 AM\n                            [**2135-12-22**]  03:21 AM\n                            [**2135-12-22**]  05:07 AM\n                            [**2135-12-22**]  03:57 PM\n                            [**2135-12-23**]  03:22 AM\n   WBC\n   15.1\n   9.5\n   8.4\n   Hct\n   38.7\n   31.8\n   33.8\n   34.8\n   32.9\n   Plt\n   154\n   134\n   117\n   Creatinine\n   1.1\n   0.8\n   0.8\n   0.8\n   TCO2\n   30\n   Glucose\n   159\n   97\n   114\n   126\n   Other labs: PT / PTT / INR:13.7/25.6/1.2, Ca:7.7 mg/dL, Mg:2.0 mg/dL,\n   PO4:1.9 mg/dL\n   Assessment and Plan\n   [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS\n   Esophagogastrectomy\n   Assessment and Plan:\n   Neurologic: Pain controlled, A & o X3 Pain well controlled with\n   Epidural Dilaudid & Bupivacaine\n   Cardiovascular: Hx of HTN  HD stable, goal to Keep Map>65. bolus with\n   IVF or decrease on Epidural rate, no  pressors\n   Pulmonary: IS, continue OOB to chair, requiring face tent to maintain\n   o2 sats, Chest tube to suction\n   Gastrointestinal / Abdomen: ngt in place, JP to bulb suction close to\n   the  top of the anastamosis\n   Nutrition: Tube feeding, nutriton consult for full tube feed recs\n   Renal: Foley, Adequate UO, required x 1 bolus to maintain UO >30cc/hr\n   Hematology: Serial Hct, hct stable\n   Endocrine: RISS, goal bs <150\n   Infectious Disease:\n   Lines / Tubes / Drains: Foley, NGT, Surgical drains (hemovac, JP),\n   Chest tube - pleural\n   Wounds: Dry dressings\n   Imaging: CXR today\n   Fluids: D5 1/2 NS, will KVO when tolerating tf\n   Consults: CT surgery\n   Billing Diagnosis:\n   ICU Care\n   Nutrition:\n   Replete (Full) - [**2135-12-22**] 03:00 PM 20 mL/hour\n   Glycemic Control:\n   Lines:\n   Arterial Line - [**2135-12-21**] 07:00 PM\n   16 Gauge - [**2135-12-21**] 07:36 PM\n   Prophylaxis:\n   DVT:\n   Stress ulcer: H2 blocker\n   VAP bundle:\n   Comments:\n   Communication:  Comments:\n   Code status: Full code\n   Disposition: Transfer to floor\n   Total time spent: 30 minutes\n"
+    },
+    {
+      "note_id": 37661,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 283,
+          "end": 308,
+          "code": "C16.0",
+          "code_system": "ICD-10-CM",
+          "description": "Malignant neoplasm of cardia",
+          "type": "Human",
+          "covered_text": "Esophageal Adenocarcinoma"
+        },
+        {
+          "begin": 756,
+          "end": 768,
+          "code": "I10",
+          "code_system": "ICD-10-CM",
+          "description": "Essential (primary) hypertension",
+          "type": "Human",
+          "covered_text": "Hypertension"
+        },
+        {
+          "begin": 769,
+          "end": 789,
+          "code": "Z86.73",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",
+          "type": "Human",
+          "covered_text": "CVA without residual"
+        },
+        {
+          "begin": 808,
+          "end": 836,
+          "code": "Z87.891",
+          "code_system": "ICD-10-CM",
+          "description": "Personal history of nicotine dependence",
+          "type": "Human",
+          "covered_text": "He quit smoking 15 years ago"
+        },
+        {
+          "begin": 3057,
+          "end": 3068,
+          "code": "E86.1",
+          "code_system": "ICD-10-CM",
+          "description": "Hypovolemia",
+          "type": "Human",
+          "covered_text": "hypovolemia"
+        }
+      ],
+      "text": "Admission Date:  [**2135-12-21**]              Discharge Date:   [**2135-12-28**]\n\nDate of Birth:  [**2070-5-2**]             Sex:   M\n\nService: CARDIOTHORACIC\n\nAllergies:\nPatient recorded as having No Known Allergies to Drugs\n\nAttending:[**First Name3 (LF) 4679**]\nChief Complaint:\nEsophageal Adenocarcinoma\n\nMajor Surgical or Invasive Procedure:\n[**2135-12-21**] 1. [**First Name9 (NamePattern2) 12351**] [**Doctor Last Name **] esophagectomy.\n2. Laparoscopic jejunostomy.\n3. Buttressing of intrathoracic anastomosis with thymic\n   fat.\n4. EGD\n5. Bronchoscopy\n\n\nHistory of Present Illness:\nThe patient is a 65-year-old gentleman with a T2, N0 cancer of\nthe gastroesophageal junction. He is being admitted for\nesophageal\nresection.\n\nPast Medical History:\nHypertension\nCVA without residual\n\n\nSocial History:\nHe quit smoking 15 years ago.  He was also a heavy alcohol user,\nbut quit 25 years ago.  He lives at home with his wife.  [**Name (NI) **]\nstates that he does some yard work, but is not that physically\nactive.\n\n\nFamily History:\nSignificant for mother with heart problems, father with a\nstroke.  Brother with cancer, which she believes is a melanoma.\n\n\nPhysical Exam:\nVS: T 98.0  HR: 72 SR  BP: 112/66  Sats: 97% RA\nGeneral: 65 year-old male in no apparent distress\nHEENT: normocephalic, mucus membranes moist\nNeck: supple no lymphadenopathy\nCard: RRR normal S1,S2 no murmur/gallop or rub\nResp: crackles right 1/3 up, left crackles LLL\nGI: benign.  J-tube site clean\nIncision: Right minimal invasive site clean well approximation\nNeuro: non-focal\n\n\nPertinent Results:\n[**2135-12-26**] WBC-9.4 RBC-3.85* Hgb-12.0* Hct-34.8 Plt Ct-182\n[**2135-12-24**] WBC-9.4 RBC-3.69* Hgb-11.3* Hct-33.3 Plt Ct-132\n[**2135-12-21**] WBC-15.1 RBC-4.23* Hgb-13.1* Hct-38.7 Plt Ct-154\n[**2135-12-27**] Glucose-132* UreaN-19 Creat-0.8 Na-142 K-4.1 Cl-105\nHCO3-30\n[**2135-12-26**] Glucose-136* UreaN-17 Creat-0.8 Na-142 K-4.5 Cl-104\nHCO3-32\n[**2135-12-21**] Glucose-159* UreaN-18 Creat-1.1 Na-140 K-4.2 Cl-103\nHCO3-28\n[**2135-12-27**] Calcium-8.5 Phos-2.8 Mg-2.1\n\n[**2135-12-27**] Esophagus Study:\n1. No evidence of leak.\n2. Free flow of barium through to the third part of duodenum.\n\n[**2135-12-27**]: CXR: sm right basilar hydropneumothorax, small\nbilateral effusions.\n\n\n\nBrief Hospital Course:\nMr. [**Known lastname 3321**] was underwent successful, [**Known lastname 12351**] [**Doctor Last Name **]\nesophagectomy, Laparoscopic jejunostomy, Buttressing of\nintrathoracic anastomosis with thymic fat, EGD\nBronchoscopy. He transferred to the SICU intubated and\nsubsequently extubated.\n\nRespiratory: Aggressive pulmonary toilet, nebs and IS were\ncontinued.  Over the course of his hospitalization the nasal\ncannula O2 was titrated off.  His room oxygen saturations were\nin the high 90's.\n\nChest-tube: the right chest tube was removed on [**2135-12-27**]\nfollowing the esophagus study.  The chest tube site required\nsuturing.\n\nCardiac: he remained in sinus rhythm 70's. Prophylactic\nbeta-blocker were continued.  Immediately postoperative he\nrequired a fluid challenged for hypovolemia.  Once stabilized\nhis blood pressure remained stable in the 112-130's.\n\nGI: The NGT continued intermittent irrigation to maintain\npatency.  He had a moderate amount of bilious output.  It\nremained in place until [**2135-12-27**].  J-tube in place. Esophagus\nstudy was done on [**2135-12-27**] which showed passage of contrast into\nthe small bowel without anastomotic leak.\n\nNutrition: He was seen by nutrition.  The J-tube feeds were\nstarted on [**2135-12-23**] Replete titrated to Goal 110 mL x 18 hrs was\nwell tolerated.\n\nPain: well controlled by Bupivacaine/Dilaudid Epidural was\nmanaged by the acute pain service.  He was converted to PO\nRoxicet once the Chest tube was removed.\n\nIncision: Right minimal invasive incisions were clean margins\nwell approximated.  The anastomotic JP drain was removed on\n[**2135-12-27**].\n\nNeuro: he had no neurological events during this\nhospitalization.\n\nDisposition: He was followed by physical therapy who deemed him\nsafe for home.  He continue to make steady progress and was\ndischarged home with VNA and tube feeds on [**2135-12-28**]\n\n\nMedications on Admission:\nLipitor 80 mg daily, ASA 325 mg daily, HCTZ 25 mg daily,\nlisinopril 5 mg daily, Ascorbic Acid 500 mg daily, MVI daily,\nOmega-3 1,000mg daily, Vitamin E 400 unit daily\n\nDischarge Medications:\n1. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution [**Date Range **]: 5-10 MLs\nPO Q4H (every 4 hours) as needed for pain.\nDisp:*400 ML(s)* Refills:*0*\n2. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)\nTablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).\nDisp:*30 Tablet,Rapid Dissolve, DR(s)* Refills:*2*\n3. Docusate Sodium 50 mg/5 mL Liquid [**Last Name (STitle) **]: Ten (10) mL PO BID (2\ntimes a day): while taking narcotics.\n4. Osmolite\nOsmolite Full strength; Goal rate:110 ml/hr\nCycle: start:3pm Cycle end:9am\n\n5. Aspirin 325 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO once a day.\n6. Plavix 75 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO once a day.\n7. Lipitor 80 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO once a day: crush\nand take with apple sauce.\n8. Metoprolol Tartrate 25 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO BID\n(2 times a day).\nDisp:*60 Tablet(s)* Refills:*2*\n9. Lisinopril 5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO once a day.\n10. Hydrochlorothiazide 25 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO once\na day.\n\n\nDischarge Disposition:\nHome With Service\n\nFacility:\n[**Hospital **] Home Health Care\n\nDischarge Diagnosis:\nEsophageal adenocarcinoma\n\n\nDischarge Condition:\nMental Status:Clear and coherent\nLevel of Consciousness:Alert and interactive\nActivity Status:Ambulatory - Independent\n\n\nDischarge Instructions:\nCall Dr.[**Name (NI) 5067**] office [**Telephone/Fax (1) 2348**]\nIf your feeding tube sutures become loose or break: please tape\ntube securely.\nIf your feeding tube falls out, save the tube, call the office\nimmediately.\nThe tube needs to be replaced in a timely manner because the\ntract will close within a few hours.\nDo not put any medication down the tube unless they are in\nliquid form.\nDaily weights: keep a log and bring it to your appointment with\nDr. [**First Name (STitle) **]\n\nFollowup Instructions:\nFollow-up with Dr. [**First Name4 (NamePattern1) **] [**1-10**] 9:30am on the [**Hospital Ward Name 516**] [**Hospital Ward Name 23**]\nClinical Center [**Location (un) 24**]. Chest tube suture remvoval at time of\nvisit\nReport to the [**Location (un) 861**] Radiology Department for a Chest X-Ray\n45 minutes before your appointment\n\n\n\nCompleted by:[**2135-12-28**]"
+    }
+  ]
+}
