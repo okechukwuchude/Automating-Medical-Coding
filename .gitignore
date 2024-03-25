@@ -156,3 +156,11 @@ outputs/checkpoint-3-epoch-1/vocab.txt
 keras-contrib/
 runs/Mar23_10-57-11_NOAK-I5-2022005/events.out.tfevents.1711191431.NOAK-I5-2022005.12688.7
 h
+runs/Mar25_19-49-02_NOAK-I5-2022005/events.out.tfevents.1711396142.NOAK-I5-2022005.16996.2
+runs/Mar25_18-20-33_NOAK-I5-2022005/events.out.tfevents.1711390833.NOAK-I5-2022005.16996.1
+runs/Mar25_17-26-47_NOAK-I5-2022005/events.out.tfevents.1711387607.NOAK-I5-2022005.16996.0
+outputs/vocab.txt
+outputs/tokenizer_config.json
+outputs/special_tokens_map.json
+cache_dir/cached_train_bert_128_3_512
+cache_dir/cached_dev_bert_128_3_503
